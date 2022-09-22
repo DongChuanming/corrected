@@ -1,0 +1,8213 @@
+
+#59.0095
+#Site ayant été occupé par les houillères du bassin NPC, ayant des activités de réparation de locomotives et de wagons jusque mai 91.
+1	Site	NOUN	O	_
+2	ayant	AUX	O	_
+3	été	AUX	O	_
+4	occupé	VERB	O	_
+5	par	ADP	O	_
+6	les	DET	O	_
+7	houillères	NOUN	O	_
+8	du	DET	O	_
+9	bassin	NOUN	BI	_
+10	NPC	PROPN	EI	_
+11	,	PUNCT	O	_
+12	ayant	VERB	O	_
+13	des	DET	O	_
+14	activités	NOUN	O	_
+15	de	ADP	O	_
+16	réparation	NOUN	O	_
+17	de	ADP	O	_
+18	locomotives	NOUN	O	_
+19	et	CCONJ	O	_
+20	de	ADP	O	_
+21	wagons	NOUN	O	_
+22	jusque	ADJ	O	_
+23	mai	NOUN	O	_
+24	91	NUM	O	_
+25	.	PUNCT	O	_
+
+
+#La société Coenmans a acheté les terrains et s'est installée pour développer la récupération et le commerce de métaux ferreux et non ferreux, sur 1 surface de 1,5 ha.
+1	La	DET	BI	_
+2	société	NOUN	II	_
+3	Coenmans	PROPN	EI	_
+4	a	AUX	O	_
+5	acheté	VERB	O	_
+6	les	DET	O	_
+7	terrains	NOUN	O	_
+8	et	CCONJ	O	_
+9	s'	PRON	O	_
+10	est	AUX	O	_
+11	installée	VERB	O	_
+12	pour	ADP	O	_
+13	développer	VERB	O	_
+14	la	DET	O	_
+15	récupération	NOUN	O	_
+16	et	CCONJ	O	_
+17	le	DET	O	_
+18	commerce	NOUN	O	_
+19	de	ADP	O	_
+20	métaux	NOUN	O	_
+21	ferreux	ADJ	O	_
+22	et	CCONJ	O	_
+23	non	ADV	O	_
+24	ferreux	ADJ	O	_
+25	,	PUNCT	O	_
+26	sur	ADP	O	_
+27	1	NUM	O	_
+28	surface	NOUN	O	_
+29	de	ADP	O	_
+30	1,5	NUM	O	_
+31	ha	NOUN	O	_
+32	.	PUNCT	O	_
+
+
+#La société a cessé ses activités en septembre 94 sans avoir jamais obtenu d'autorisation auparavant.
+1	La	DET	O	_
+2	société	NOUN	O	_
+3	a	AUX	O	_
+4	cessé	VERB	O	_
+5	ses	DET	O	_
+6	activités	NOUN	O	_
+7	en	ADP	O	_
+8	septembre	NOUN	O	_
+9	94	NUM	O	_
+10	sans	ADP	O	_
+11	avoir	AUX	O	_
+12	jamais	ADV	O	_
+13	obtenu	VERB	O	_
+14	d'	DET	O	_
+15	autorisation	NOUN	O	_
+16	auparavant	ADV	O	_
+17	.	PUNCT	O	_
+
+
+#Ses activités principales ont été: location de grues, chantier de démolition industriel, récupération de métaux.
+1	Ses	DET	O	_
+2	activités	NOUN	O	_
+3	principales	ADJ	O	_
+4	ont	AUX	O	_
+5	été	AUX	O	_
+6	:	PUNCT	O	_
+7	location	NOUN	O	_
+8	de	ADP	O	_
+9	grues	NOUN	O	_
+10	,	PUNCT	O	_
+11	chantier	NOUN	O	_
+12	de	ADP	O	_
+13	démolition	NOUN	O	_
+14	industriel	ADJ	O	_
+15	,	PUNCT	O	_
+16	récupération	NOUN	O	_
+17	de	ADP	O	_
+18	métaux	NOUN	O	_
+19	.	PUNCT	O	_
+
+
+#Le site est délimité par des entreprises au Nord et à l'Ouest, habitations à l'Est et par mes rues des frères Faches et Louis Delforge au Sud.
+1	Le	DET	O	_
+2	site	NOUN	O	_
+3	est	AUX	O	_
+4	délimité	VERB	O	_
+5	par	ADP	O	_
+6	des	DET	O	_
+7	entreprises	NOUN	O	_
+8	au	PROPN	O	_
+9	Nord	ADJ	O	_
+10	et	CCONJ	O	_
+11	à	ADP	O	_
+12	l'	DET	O	_
+13	Ouest	PROPN	O	_
+14	,	PUNCT	O	_
+15	habitations	NOUN	O	_
+16	à	ADP	O	_
+17	l'	DET	O	_
+18	Est	NOUN	O	_
+19	et	CCONJ	O	_
+20	par	ADP	O	_
+21	mes	DET	O	_
+22	rues	NOUN	O	_
+23	des	DET	O	_
+24	frères	NOUN	O	_
+25	Faches	PROPN	O	_
+26	et	CCONJ	O	_
+27	Louis	PROPN	O	_
+28	Delforge	PROPN	O	_
+29	au	PROPN	O	_
+30	Sud	PROPN	O	_
+31	.	PUNCT	O	_
+
+
+#Sols pollués par les métaux et les hydrocarbures.
+1	Sols	NOUN	O	_
+2	pollués	VERB	O	_
+3	par	ADP	O	_
+4	les	DET	O	_
+5	métaux	NOUN	BS	_
+6	et	CCONJ	O	_
+7	les	DET	O	_
+8	hydrocarbures	NOUN	BS	_
+9	.	PUNCT	O	_
+
+
+#- Suspension d'activités prononcée en 1994.
+1	-	PUNCT	O	_
+2	Suspension	NOUN	O	_
+3	d'	ADP	O	_
+4	activités	NOUN	O	_
+5	prononcée	VERB	O	_
+6	en	ADP	O	_
+7	1994	NUM	O	_
+8	.	PUNCT	O	_
+
+
+#- Déchets enlevés à la cessation d'activité (rapport IIC de sept 94).
+1	-	PUNCT	O	_
+2	Déchets	NOUN	O	_
+3	enlevés	VERB	O	_
+4	à	ADP	O	_
+5	la	DET	O	_
+6	cessation	NOUN	O	_
+7	d'	ADP	O	_
+8	activité	NOUN	O	_
+9	(	PUNCT	O	_
+10	rapport	NOUN	O	_
+11	IIC	PROPN	BI	_
+12	de	ADP	O	_
+13	sept	NUM	O	_
+14	94	NUM	O	_
+15	)	PUNCT	O	_
+16	.	PUNCT	O	_
+
+
+#- Arrêté préfectoral du 2 décembre 1994 imposant des prescriptions spéciales pour la remise en état du site de la société COENMANS.
+1	-	PUNCT	O	_
+2	Arrêté	VERB	O	_
+3	préfectoral	ADJ	O	_
+4	du	DET	O	_
+5	2	NUM	O	_
+6	décembre	NOUN	O	_
+7	1994	NUM	O	_
+8	imposant	VERB	O	_
+9	des	DET	O	_
+10	prescriptions	NOUN	O	_
+11	spéciales	ADJ	O	_
+12	pour	ADP	O	_
+13	la	DET	O	_
+14	remise	NOUN	O	_
+15	en	ADP	O	_
+16	état	NOUN	O	_
+17	du	DET	O	_
+18	site	NOUN	O	_
+19	de	ADP	O	_
+20	la	DET	BI	_
+21	société	NOUN	II	_
+22	COENMANS	ADJ	EI	_
+23	.	PUNCT	O	_
+
+
+#- Étude des sols réalisée (1995): présence de pb, hydrocarbures, cd, cr, cu, nk, arsenic.
+1	-	PUNCT	O	_
+2	Étude	NOUN	O	_
+3	des	DET	O	_
+4	sols	NOUN	O	_
+5	réalisée	VERB	O	_
+6	(	PUNCT	O	_
+7	1995	NUM	O	_
+8	)	PUNCT	O	_
+9	:	PUNCT	O	_
+10	présence	NOUN	O	_
+11	de	ADP	O	_
+12	pb	NOUN	BS	_
+13	,	PUNCT	O	_
+14	hydrocarbures	NOUN	BS	_
+15	,	PUNCT	O	_
+16	cd	AUX	BS	_
+17	,	PUNCT	O	_
+18	cr	NOUN	BS	_
+19	,	PUNCT	O	_
+20	cu	SCONJ	BS	_
+21	,	PUNCT	O	_
+22	nk	ADV	O	_
+23	,	PUNCT	O	_
+24	arsenic	NOUN	BS	_
+25	.	PUNCT	O	_
+
+
+#La remise en état du site doit être réalisée par  le décapage superficiel des zones polluées, par élimination des terres en CET de classe 1 ou 2.
+1	La	DET	O	_
+2	remise	NOUN	O	_
+3	en	ADP	O	_
+4	état	NOUN	O	_
+5	du	DET	O	_
+6	site	NOUN	O	_
+7	doit	VERB	O	_
+8	être	AUX	O	_
+9	réalisée	VERB	O	_
+10	par	ADP	O	_
+11	 	SPACE	O	_
+12	le	DET	O	_
+13	décapage	NOUN	O	_
+14	superficiel	ADJ	O	_
+15	des	DET	O	_
+16	zones	NOUN	O	_
+17	polluées	VERB	O	_
+18	,	PUNCT	O	_
+19	par	ADP	O	_
+20	élimination	NOUN	O	_
+21	des	DET	O	_
+22	terres	NOUN	O	_
+23	en	ADP	BS	_
+24	CET	NOUN	BS	_
+25	de	ADP	O	_
+26	classe	NOUN	O	_
+27	1	NUM	O	_
+28	ou	CCONJ	O	_
+29	2	NUM	O	_
+30	.	PUNCT	O	_
+
+
+#- Diagnostic approfondi imposé par l'AP du 22/01/1996.
+1	-	PUNCT	O	_
+2	Diagnostic	NOUN	O	_
+3	approfondi	VERB	O	_
+4	imposé	VERB	O	_
+5	par	ADP	O	_
+6	l'	DET	O	_
+7	AP	PROPN	O	_
+8	du	DET	O	_
+9	22/01/1996	ADJ	O	_
+10	.	PUNCT	O	_
+
+
+#- mai 2005: travaux de réhabilitation: excavation des terres polluées, évacuation vers des centres agrées des déchets et de ces terres, remblaiement avec des matériaux inertes.
+1	-	PUNCT	O	_
+2	mai	NOUN	O	_
+3	2005	NUM	O	_
+4	:	PUNCT	O	_
+5	travaux	NOUN	O	_
+6	de	ADP	O	_
+7	réhabilitation	NOUN	O	_
+8	:	PUNCT	O	_
+9	excavation	NOUN	O	_
+10	des	DET	O	_
+11	terres	NOUN	O	_
+12	polluées	VERB	O	_
+13	,	PUNCT	O	_
+14	évacuation	NOUN	O	_
+15	vers	ADP	O	_
+16	des	DET	O	_
+17	centres	NOUN	O	_
+18	agrées	VERB	O	_
+19	des	DET	O	_
+20	déchets	NOUN	O	_
+21	et	CCONJ	O	_
+22	de	ADP	O	_
+23	ces	DET	O	_
+24	terres	NOUN	O	_
+25	,	PUNCT	O	_
+26	remblaiement	VERB	O	_
+27	avec	ADP	O	_
+28	des	DET	O	_
+29	matériaux	NOUN	O	_
+30	inertes	ADJ	O	_
+31	.	PUNCT	O	_
+
+
+#- Rapport final des travaux de dépollution des sols: 21/11/2005
+1	-	PUNCT	O	_
+2	Rapport	NOUN	O	_
+3	final	ADJ	O	_
+4	des	DET	O	_
+5	travaux	NOUN	O	_
+6	de	ADP	O	_
+7	dépollution	NOUN	O	_
+8	des	DET	O	_
+9	sols	NOUN	O	_
+10	:	PUNCT	O	_
+11	21/11/2005	NOUN	O	_
+
+
+#- Des restrictions d'usage conventionnelles seront mises en place dans le cadre de la vente de ces bâtiments afin de garder la mémoire de leur état environnemental et de s'assurer de leur compatibilité avec les usages futurs pouvant être envisagés au cours de la prochaine transaction.
+1	-	PUNCT	O	_
+2	Des	DET	O	_
+3	restrictions	NOUN	O	_
+4	d'	ADP	O	_
+5	usage	NOUN	O	_
+6	conventionnelles	ADJ	O	_
+7	seront	AUX	O	_
+8	mises	VERB	O	_
+9	en	ADP	O	_
+10	place	NOUN	O	_
+11	dans	ADP	O	_
+12	le	DET	O	_
+13	cadre	NOUN	O	_
+14	de	ADP	O	_
+15	la	DET	O	_
+16	vente	NOUN	O	_
+17	de	ADP	O	_
+18	ces	DET	O	_
+19	bâtiments	NOUN	O	_
+20	afin	ADP	O	_
+21	de	ADP	O	_
+22	garder	VERB	O	_
+23	la	DET	O	_
+24	mémoire	NOUN	O	_
+25	de	ADP	O	_
+26	leur	DET	O	_
+27	état	NOUN	O	_
+28	environnemental	ADJ	O	_
+29	et	CCONJ	O	_
+30	de	ADP	O	_
+31	s'	PRON	O	_
+32	assurer	VERB	O	_
+33	de	ADP	O	_
+34	leur	DET	O	_
+35	compatibilité	NOUN	O	_
+36	avec	ADP	O	_
+37	les	DET	O	_
+38	usages	NOUN	O	_
+39	futurs	NOUN	O	_
+40	pouvant	VERB	O	_
+41	être	AUX	O	_
+42	envisagés	VERB	O	_
+43	au	ADP	O	_
+44	cours	NOUN	O	_
+45	de	ADP	O	_
+46	la	DET	O	_
+47	prochaine	ADJ	O	_
+48	transaction	NOUN	O	_
+49	.	PUNCT	O	_
+
+
+#Le cas échéant, des servitudes d'utilité publiques devront être prises.
+1	Le	DET	O	_
+2	cas	NOUN	O	_
+3	échéant	ADJ	O	_
+4	,	PUNCT	O	_
+5	des	DET	O	_
+6	servitudes	NOUN	O	_
+7	d'	ADP	O	_
+8	utilité	NOUN	O	_
+9	publiques	ADJ	O	_
+10	devront	VERB	O	_
+11	être	AUX	O	_
+12	prises	VERB	O	_
+13	.	PUNCT	O	_
+
+
+#- Compte tenu des conditions géologique et hydrogéologique du site, d'éventuels contaminants de types hydrocarbures ou métaux n'ont que peu migré en profondeur ou latéralement et ne nécessite donc pas de surveillance des eaux souterraines.
+1	-	PUNCT	O	_
+2	Compte	NOUN	O	_
+3	tenu	VERB	O	_
+4	des	DET	O	_
+5	conditions	NOUN	O	_
+6	géologique	ADJ	O	_
+7	et	CCONJ	O	_
+8	hydrogéologique	SCONJ	O	_
+9	du	DET	O	_
+10	site	NOUN	O	_
+11	,	PUNCT	O	_
+12	d'	DET	O	_
+13	éventuels	ADJ	O	_
+14	contaminants	NOUN	O	_
+15	de	ADP	O	_
+16	types	NOUN	O	_
+17	hydrocarbures	ADJ	BS	_
+18	ou	CCONJ	O	_
+19	métaux	NOUN	BS	_
+20	n'	ADV	O	_
+21	ont	VERB	O	_
+22	que	SCONJ	O	_
+23	peu	ADV	O	_
+24	migré	VERB	O	_
+25	en	ADP	O	_
+26	profondeur	NOUN	O	_
+27	ou	CCONJ	O	_
+28	latéralement	NOUN	O	_
+29	et	CCONJ	O	_
+30	ne	ADV	O	_
+31	nécessite	VERB	O	_
+32	donc	ADV	O	_
+33	pas	ADV	O	_
+34	de	ADP	O	_
+35	surveillance	NOUN	O	_
+36	des	DET	O	_
+37	eaux	NOUN	O	_
+38	souterraines	ADJ	O	_
+39	.	PUNCT	O	_
+
+
+#- Site mis en sécurité vis à vis des tiers
+1	-	PUNCT	O	_
+2	Site	NOUN	O	_
+3	mis	VERB	O	_
+4	en	ADP	O	_
+5	sécurité	NOUN	O	_
+6	vis	NOUN	O	_
+7	à	ADP	O	_
+8	vis	NOUN	O	_
+9	des	DET	O	_
+10	tiers	NOUN	O	_
+
+
+#- Action de l'administration toujours en cours sur le site.
+1	-	PUNCT	O	_
+2	Action	NOUN	O	_
+3	de	ADP	O	_
+4	l'	DET	O	_
+5	administration	NOUN	O	_
+6	toujours	ADV	O	_
+7	en	ADP	O	_
+8	cours	NOUN	O	_
+9	sur	ADP	O	_
+10	le	DET	O	_
+11	site	NOUN	O	_
+12	.	PUNCT	O	_
+
+
+#62.0050
+#- Superficie du site : 10 ha
+1	-	PUNCT	O	_
+2	Superficie	NOUN	O	_
+3	du	DET	O	_
+4	site	NOUN	O	_
+5	:	PUNCT	O	_
+6	10	NUM	O	_
+7	ha	PROPN	O	_
+
+
+#- Dépôt de cendres de l'ancienne centrale thermique au charbon des Houillères.
+1	-	PUNCT	O	_
+2	Dépôt	NOUN	O	_
+3	de	ADP	O	_
+4	cendres	NOUN	O	_
+5	de	ADP	O	_
+6	l'	DET	O	_
+7	ancienne	ADJ	O	_
+8	centrale	ADJ	O	_
+9	thermique	ADJ	O	_
+10	au	PROPN	O	_
+11	charbon	ADJ	BU	_
+12	des	DET	O	_
+13	Houillères	NOUN	O	_
+14	.	PUNCT	O	_
+
+
+#- L’inspection a considéré que le bénéfice de l’antériorité pouvait être accordé à l’exploitant, l’exploitation du terril ayant débuté avant la création de la rubrique 167 et étant connue de l’administration en tant que dépendance des centrales de Courrières et Harnes.
+1	-	PUNCT	O	_
+2	L’	NOUN	O	_
+3	inspection	NOUN	O	_
+4	a	AUX	O	_
+5	considéré	VERB	O	_
+6	que	SCONJ	O	_
+7	le	DET	O	_
+8	bénéfice	NOUN	O	_
+9	de	ADP	O	_
+10	l’	NUM	O	_
+11	antériorité	NOUN	O	_
+12	pouvait	VERB	O	_
+13	être	AUX	O	_
+14	accordé	VERB	O	_
+15	à	ADP	O	_
+16	l’	PROPN	O	_
+17	exploitant	VERB	O	_
+18	,	PUNCT	O	_
+19	l’	PROPN	O	_
+20	exploitation	VERB	O	_
+21	du	DET	O	_
+22	terril	NOUN	O	_
+23	ayant	AUX	O	_
+24	débuté	VERB	O	_
+25	avant	ADP	O	_
+26	la	DET	O	_
+27	création	NOUN	O	_
+28	de	ADP	O	_
+29	la	DET	O	_
+30	rubrique	NOUN	O	_
+31	167	NUM	O	_
+32	et	CCONJ	O	_
+33	étant	AUX	O	_
+34	connue	VERB	O	_
+35	de	ADP	O	_
+36	l’	PROPN	O	_
+37	administration	NOUN	O	_
+38	en	ADP	O	_
+39	tant	ADV	O	_
+40	que	SCONJ	O	_
+41	dépendance	PRON	O	_
+42	des	DET	O	_
+43	centrales	NOUN	O	_
+44	de	ADP	O	_
+45	Courrières	NOUN	O	_
+46	et	CCONJ	O	_
+47	Harnes	NOUN	O	_
+48	.	PUNCT	O	_
+
+
+#Dans son arrêté n° 262 897 du 30 septembre 2005, le Conseil d’Etat, statuant sur une demande de SURSCHISTE d’être déchargée de la redevance d’exploitation correspondant précisément au terril de COURRIERES, a considéré par contre que cette exploitation n’est pas autorisée
+1	Dans	ADP	O	_
+2	son	DET	O	_
+3	arrêté	NOUN	O	_
+4	n°	NOUN	O	_
+5	262	NUM	O	_
+6	897	NUM	O	_
+7	du	DET	O	_
+8	30	NUM	O	_
+9	septembre	NOUN	O	_
+10	2005	NUM	O	_
+11	,	PUNCT	O	_
+12	le	DET	BI	_
+13	Conseil	PROPN	EI	_
+14	d’	NUM	EI	_
+15	Etat	NOUN	EI	_
+16	,	PUNCT	O	_
+17	statuant	VERB	O	_
+18	sur	ADP	O	_
+19	une	DET	O	_
+20	demande	NOUN	O	_
+21	de	ADP	O	_
+22	SURSCHISTE	PROPN	EI	_
+23	d’	VERB	O	_
+24	être	AUX	O	_
+25	déchargée	VERB	O	_
+26	de	ADP	O	_
+27	la	DET	O	_
+28	redevance	NOUN	O	_
+29	d’	NUM	O	_
+30	exploitation	NOUN	O	_
+31	correspondant	VERB	O	_
+32	précisément	ADV	O	_
+33	au	X	O	_
+34	terril	NOUN	O	_
+35	de	ADP	O	_
+36	COURRIERES	NOUN	O	_
+37	,	PUNCT	O	_
+38	a	AUX	O	_
+39	considéré	VERB	O	_
+40	par	ADP	O	_
+41	contre	ADP	O	_
+42	que	SCONJ	O	_
+43	cette	DET	O	_
+44	exploitation	NOUN	O	_
+45	n’	ADV	O	_
+46	est	AUX	O	_
+47	pas	ADV	O	_
+48	autorisée	VERB	O	_
+
+
+#Par conséquent, l'exploitant a été mis en demeure de régulariser sa situation.
+1	Par	ADP	O	_
+2	conséquent	NOUN	O	_
+3	,	PUNCT	O	_
+4	l'	DET	O	_
+5	exploitant	VERB	O	_
+6	a	AUX	O	_
+7	été	AUX	O	_
+8	mis	VERB	O	_
+9	en	ADP	O	_
+10	demeure	NOUN	O	_
+11	de	ADP	O	_
+12	régulariser	VERB	O	_
+13	sa	DET	O	_
+14	situation	NOUN	O	_
+15	.	PUNCT	O	_
+
+
+#Dans le cadre de la constitution de son dossier de demande d'autorisation, l'exploitant met en place un réseau de piézomètres pour évaluer l'impact du site sur les eaux souterraines.
+1	Dans	ADP	O	_
+2	le	DET	O	_
+3	cadre	NOUN	O	_
+4	de	ADP	O	_
+5	la	DET	O	_
+6	constitution	NOUN	O	_
+7	de	ADP	O	_
+8	son	DET	O	_
+9	dossier	NOUN	O	_
+10	de	ADP	O	_
+11	demande	NOUN	O	_
+12	d'	ADP	O	_
+13	autorisation	NOUN	O	_
+14	,	PUNCT	O	_
+15	l'	DET	O	_
+16	exploitant	VERB	O	_
+17	met	VERB	O	_
+18	en	ADP	O	_
+19	place	NOUN	O	_
+20	un	DET	O	_
+21	réseau	NOUN	O	_
+22	de	ADP	O	_
+23	piézomètres	NOUN	O	_
+24	pour	ADP	O	_
+25	évaluer	VERB	O	_
+26	l'	DET	O	_
+27	impact	NOUN	O	_
+28	du	DET	O	_
+29	site	NOUN	O	_
+30	sur	ADP	O	_
+31	les	DET	O	_
+32	eaux	NOUN	O	_
+33	souterraines	ADJ	O	_
+34	.	PUNCT	O	_
+
+
+#Site exploité par la société BEUGNET (dans les années 96) puis par SURSCHISTE: réutilisation en BTP et cimenterie.
+1	Site	NOUN	O	_
+2	exploité	NOUN	O	_
+3	par	ADP	O	_
+4	la	DET	BI	_
+5	société	NOUN	II	_
+6	BEUGNET	ADJ	EI	_
+7	(	PUNCT	O	_
+8	dans	ADP	O	_
+9	les	DET	O	_
+10	années	NOUN	O	_
+11	96	NUM	O	_
+12	)	PUNCT	O	_
+13	puis	CCONJ	O	_
+14	par	ADP	O	_
+15	SURSCHISTE	PROPN	BI	_
+16	:	PUNCT	O	_
+17	réutilisation	NOUN	O	_
+18	en	ADP	O	_
+19	BTP	PROPN	O	_
+20	et	CCONJ	O	_
+21	cimenterie	NOUN	O	_
+22	.	PUNCT	O	_
+
+
+#Les eaux souterraines sont utilisées dans le secteur pour un usage d'eau potable, industrielle et agricole.
+1	Les	DET	O	_
+2	eaux	NOUN	O	_
+3	souterraines	NOUN	O	_
+4	sont	AUX	O	_
+5	utilisées	VERB	O	_
+6	dans	ADP	O	_
+7	le	DET	O	_
+8	secteur	NOUN	O	_
+9	pour	ADP	O	_
+10	un	DET	O	_
+11	usage	NOUN	O	_
+12	d'	ADP	O	_
+13	eau	NOUN	O	_
+14	potable	ADJ	O	_
+15	,	PUNCT	O	_
+16	industrielle	ADJ	O	_
+17	et	CCONJ	O	_
+18	agricole	ADJ	O	_
+19	.	PUNCT	O	_
+
+
+#Néanmoins, le captage AEP le plus proche se trouve à 2.5 km du site, ce qui minore le risque pour les populations utilisatrices.
+1	Néanmoins	ADV	O	_
+2	,	PUNCT	O	_
+3	le	DET	O	_
+4	captage	NOUN	O	_
+5	AEP	PROPN	O	_
+6	le	DET	O	_
+7	plus	ADV	O	_
+8	proche	ADJ	O	_
+9	se	PRON	O	_
+10	trouve	VERB	O	_
+11	à	ADP	O	_
+12	2.5	NUM	O	_
+13	km	NOUN	O	_
+14	du	DET	O	_
+15	site	NOUN	O	_
+16	,	PUNCT	O	_
+17	ce	PRON	O	_
+18	qui	PRON	O	_
+19	minore	VERB	O	_
+20	le	DET	O	_
+21	risque	NOUN	O	_
+22	pour	ADP	O	_
+23	les	DET	O	_
+24	populations	NOUN	O	_
+25	utilisatrices	ADJ	O	_
+26	.	PUNCT	O	_
+
+
+#Action de l'administration toujours en cours.
+1	Action	NOUN	O	_
+2	de	ADP	O	_
+3	l'	DET	O	_
+4	administration	NOUN	O	_
+5	toujours	ADV	O	_
+6	en	ADP	O	_
+7	cours	NOUN	O	_
+8	.	PUNCT	O	_
+
+
+#59.0195
+#- Site de l'industrie mécanique en activité, fabrication de cabines de tracteurs agricoles et usine de composants pour celles-ci.
+1	-	PUNCT	O	_
+2	Site	NOUN	O	_
+3	de	ADP	O	_
+4	l'	DET	O	_
+5	industrie	NOUN	O	_
+6	mécanique	ADJ	O	_
+7	en	ADP	O	_
+8	activité	NOUN	O	_
+9	,	PUNCT	O	_
+10	fabrication	NOUN	O	_
+11	de	ADP	O	_
+12	cabines	NOUN	O	_
+13	de	ADP	O	_
+14	tracteurs	NOUN	O	_
+15	agricoles	ADJ	O	_
+16	et	CCONJ	O	_
+17	usine	NOUN	O	_
+18	de	ADP	O	_
+19	composants	NOUN	O	_
+20	pour	ADP	O	_
+21	celles	PRON	O	_
+22	-	PUNCT	O	_
+23	ci	PROPN	O	_
+24	.	PUNCT	O	_
+
+
+#- site en activité visé par la circulaire du 3 avril 1996 qui impose une étude des sols sur les sites en activité.
+1	-	PUNCT	O	_
+2	site	NOUN	O	_
+3	en	ADP	O	_
+4	activité	NOUN	O	_
+5	visé	VERB	O	_
+6	par	ADP	O	_
+7	la	DET	O	_
+8	circulaire	NOUN	O	_
+9	du	DET	O	_
+10	3	NUM	O	_
+11	avril	NOUN	O	_
+12	1996	NUM	O	_
+13	qui	PRON	O	_
+14	impose	VERB	O	_
+15	une	DET	O	_
+16	étude	NOUN	O	_
+17	des	DET	O	_
+18	sols	NOUN	O	_
+19	sur	ADP	O	_
+20	les	DET	O	_
+21	sites	NOUN	O	_
+22	en	ADP	O	_
+23	activité	NOUN	O	_
+24	.	PUNCT	O	_
+
+
+#Les études de sols ont mis en évidence un spot de pollution dans les sols qui sera retiré.
+1	Les	DET	O	_
+2	études	NOUN	O	_
+3	de	ADP	O	_
+4	sols	NOUN	O	_
+5	ont	AUX	O	_
+6	mis	VERB	O	_
+7	en	ADP	O	_
+8	évidence	NOUN	O	_
+9	un	DET	O	_
+10	spot	NOUN	O	_
+11	de	ADP	O	_
+12	pollution	NOUN	O	_
+13	dans	ADP	O	_
+14	les	DET	O	_
+15	sols	NOUN	O	_
+16	qui	PRON	O	_
+17	sera	AUX	O	_
+18	retiré	VERB	O	_
+19	.	PUNCT	O	_
+
+
+#Une surveillance des eaux souterraines est en place.
+1	Une	DET	O	_
+2	surveillance	NOUN	O	_
+3	des	DET	O	_
+4	eaux	NOUN	O	_
+5	souterraines	ADJ	O	_
+6	est	AUX	O	_
+7	en	ADP	O	_
+8	place	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#Les résultats ne montrent pas de propagation de la pollution.
+1	Les	DET	O	_
+2	résultats	NOUN	O	_
+3	ne	ADV	O	_
+4	montrent	VERB	O	_
+5	pas	ADV	O	_
+6	de	DET	O	_
+7	propagation	NOUN	O	_
+8	de	ADP	O	_
+9	la	DET	O	_
+10	pollution	NOUN	O	_
+11	.	PUNCT	O	_
+
+
+#62.0028
+#- Mis en service dans les années 60, le site comprenait à l'origine, outre un puit d'extraction minière et deux laminoirs (un à fine, l'autre à grain), une usine àboulets, dont l'exploitation est aujourd'hui réalisé par la société Agglonord.
+1	-	PUNCT	O	_
+2	Mis	VERB	O	_
+3	en	ADP	O	_
+4	service	NOUN	O	_
+5	dans	ADP	O	_
+6	les	DET	O	_
+7	années	NOUN	O	_
+8	60	NUM	O	_
+9	,	PUNCT	O	_
+10	le	DET	O	_
+11	site	NOUN	O	_
+12	comprenait	VERB	O	_
+13	à	ADP	O	_
+14	l'	DET	O	_
+15	origine	NOUN	O	_
+16	,	PUNCT	O	_
+17	outre	ADP	O	_
+18	un	DET	O	_
+19	puit	NOUN	O	_
+20	d'	ADP	O	_
+21	extraction	NOUN	O	_
+22	minière	ADJ	O	_
+23	et	CCONJ	O	_
+24	deux	NUM	O	_
+25	laminoirs	NOUN	O	_
+26	(	PUNCT	O	_
+27	un	DET	O	_
+28	à	ADP	O	_
+29	fine	NOUN	O	_
+30	,	PUNCT	O	_
+31	l'	DET	O	_
+32	autre	PRON	O	_
+33	à	ADP	O	_
+34	grain	PROPN	O	_
+35	)	PUNCT	O	_
+36	,	PUNCT	O	_
+37	une	DET	O	_
+38	usine	NOUN	O	_
+39	àboulets	NOUN	O	_
+40	,	PUNCT	O	_
+41	dont	PRON	O	_
+42	l'	DET	O	_
+43	exploitation	NOUN	O	_
+44	est	AUX	O	_
+45	aujourd'hui	ADP	O	_
+46	réalisé	VERB	O	_
+47	par	ADP	O	_
+48	la	DET	BI	_
+49	société	NOUN	II	_
+50	Agglonord	NOUN	EI	_
+51	.	PUNCT	O	_
+
+
+#- Implantés sur un carreau de fosse (fosse 10 d'Oignies), fin d'activité en fin 2000.
+1	-	PUNCT	O	_
+2	Implantés	VERB	O	_
+3	sur	ADP	O	_
+4	un	DET	O	_
+5	carreau	NOUN	O	_
+6	de	ADP	O	_
+7	fosse	NOUN	O	_
+8	(	PUNCT	O	_
+9	fosse	NOUN	O	_
+10	10	NUM	O	_
+11	d'	ADP	O	_
+12	Oignies	PROPN	O	_
+13	)	PUNCT	O	_
+14	,	PUNCT	O	_
+15	fin	NOUN	O	_
+16	d'	ADP	O	_
+17	activité	NOUN	O	_
+18	en	ADP	O	_
+19	fin	NOUN	O	_
+20	2000	NUM	O	_
+21	.	PUNCT	O	_
+
+
+#- Superficie du site : 179 ha.
+1	-	PUNCT	O	_
+2	Superficie	NOUN	O	_
+3	du	DET	O	_
+4	site	NOUN	O	_
+5	:	PUNCT	O	_
+6	179	NUM	O	_
+7	ha	NOUN	O	_
+8	.	PUNCT	O	_
+
+
+#- Déversement de matières goudronneuses dans le marais «Chaix» (pollution HAP).
+1	-	PUNCT	O	_
+2	Déversement	NOUN	O	_
+3	de	ADP	O	_
+4	matières	NOUN	O	_
+5	goudronneuses	VERB	BU	_
+6	dans	ADP	O	_
+7	le	DET	O	_
+8	marais	NOUN	O	_
+9	«	PUNCT	O	_
+10	Chaix	PROPN	O	_
+11	»	PROPN	O	_
+12	(	PUNCT	O	_
+13	pollution	NOUN	O	_
+14	HAP	NOUN	BS	_
+15	)	PUNCT	O	_
+16	.	PUNCT	O	_
+
+
+#- Cordons de schlamms sur les terrils 116/117 et dans le bois dit "M.
+1	-	PUNCT	O	_
+2	Cordons	PROPN	O	_
+3	de	ADP	O	_
+4	schlamms	NOUN	O	_
+5	sur	ADP	O	_
+6	les	DET	O	_
+7	terrils	NOUN	O	_
+8	116/117	NOUN	O	_
+9	et	CCONJ	O	_
+10	dans	ADP	O	_
+11	le	DET	O	_
+12	bois	NOUN	O	_
+13	dit	VERB	O	_
+14	"	PUNCT	O	_
+15	M.	NOUN	O	_
+
+
+#GOSSE".
+1	GOSSE	NOUN	BI	_
+2	"	PUNCT	II	_
+3	.	PUNCT	II	_
+
+
+#- Pollution diffuse sur l'ensemble du site.
+1	-	PUNCT	O	_
+2	Pollution	NOUN	O	_
+3	diffuse	ADJ	O	_
+4	sur	ADP	O	_
+5	l'	DET	O	_
+6	ensemble	NOUN	O	_
+7	du	DET	O	_
+8	site	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#- Site très vulnérable (nappe contaminée).
+1	-	PUNCT	O	_
+2	Site	NOUN	O	_
+3	très	ADV	O	_
+4	vulnérable	ADJ	O	_
+5	(	PUNCT	O	_
+6	nappe	PROPN	O	_
+7	contaminée	NOUN	O	_
+8	)	PUNCT	O	_
+9	.	PUNCT	O	_
+
+
+#- Arrete prefectoral du 03/04/1990 imposant la réalisation d'une étude du site, les travaux de résorption des dépots de déchets polluants, la surveillance de la qualité des eaux souterraines et la mise en place de servitudes au profit de l'état après travaux si une pollution résiduelle subsiste.
+1	-	PUNCT	O	_
+2	Arrete	NOUN	O	_
+3	prefectoral	ADJ	O	_
+4	du	DET	O	_
+5	03/04/1990	NOUN	O	_
+6	imposant	VERB	O	_
+7	la	DET	O	_
+8	réalisation	NOUN	O	_
+9	d'	ADP	O	_
+10	une	DET	O	_
+11	étude	NOUN	O	_
+12	du	DET	O	_
+13	site	NOUN	O	_
+14	,	PUNCT	O	_
+15	les	DET	O	_
+16	travaux	NOUN	O	_
+17	de	ADP	O	_
+18	résorption	NOUN	O	_
+19	des	DET	BU	_
+20	dépots	NOUN	IU	_
+21	de	ADP	IU	_
+22	déchets	NOUN	IU	_
+23	polluants	NOUN	EU	_
+24	,	PUNCT	O	_
+25	la	DET	O	_
+26	surveillance	NOUN	O	_
+27	de	ADP	O	_
+28	la	DET	O	_
+29	qualité	NOUN	O	_
+30	des	DET	O	_
+31	eaux	NOUN	O	_
+32	souterraines	ADJ	O	_
+33	et	CCONJ	O	_
+34	la	DET	O	_
+35	mise	NOUN	O	_
+36	en	ADP	O	_
+37	place	NOUN	O	_
+38	de	ADP	O	_
+39	servitudes	NOUN	O	_
+40	au	PROPN	O	_
+41	profit	NOUN	O	_
+42	de	ADP	O	_
+43	l'	DET	O	_
+44	état	NOUN	O	_
+45	après	ADP	O	_
+46	travaux	NOUN	O	_
+47	si	SCONJ	O	_
+48	une	DET	O	_
+49	pollution	NOUN	O	_
+50	résiduelle	ADJ	O	_
+51	subsiste	ADJ	O	_
+52	.	PUNCT	O	_
+
+
+#- 3
+1	-	PUNCT	O	_
+2	3	NUM	O	_
+
+
+#- 4
+1	-	PUNCT	O	_
+2	4	NUM	O	_
+
+
+#- Résorption et élimination de la totalité des dépôts de goudrons achevées (6 000 m3, coût : 550 kF).
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Résorption	NOUN	O	_
+4	et	CCONJ	O	_
+5	élimination	NOUN	O	_
+6	de	ADP	O	_
+7	la	DET	O	_
+8	totalité	NOUN	O	_
+9	des	DET	O	_
+10	dépôts	NOUN	O	_
+11	de	ADP	BU	_
+12	goudrons	NOUN	BU	_
+13	achevées	ADJ	O	_
+14	(	PUNCT	O	_
+15	6	NUM	O	_
+16	000	NUM	O	_
+17	m3	NOUN	O	_
+18	,	PUNCT	O	_
+19	coût	NOUN	O	_
+20	:	PUNCT	O	_
+21	550	NUM	O	_
+22	kF	NOUN	O	_
+23	)	PUNCT	O	_
+24	.	PUNCT	O	_
+
+
+#- Surveillance de la nappe exercée complétée à la lumière du diagnostic approfondi réalisé en 1999 (projet d'APC soumis au CDH°.
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Surveillance	NOUN	O	_
+4	de	ADP	O	_
+5	la	DET	O	_
+6	nappe	ADJ	O	_
+7	exercée	NOUN	O	_
+8	complétée	VERB	O	_
+9	à	ADP	O	_
+10	la	DET	O	_
+11	lumière	NOUN	O	_
+12	du	DET	O	_
+13	diagnostic	NOUN	O	_
+14	approfondi	VERB	O	_
+15	réalisé	VERB	O	_
+16	en	ADP	O	_
+17	1999	NUM	O	_
+18	(	PUNCT	O	_
+19	projet	NOUN	O	_
+20	d'	ADP	O	_
+21	APC	NOUN	O	_
+22	soumis	VERB	O	_
+23	au	PROPN	O	_
+24	CDH	PROPN	O	_
+25	°	NOUN	O	_
+26	.	PUNCT	O	_
+
+
+#- Projet d'implantation d'une plateforme multimodale de transport.
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Projet	NOUN	O	_
+4	d'	ADP	O	_
+5	implantation	NOUN	O	_
+6	d'	ADP	O	_
+7	une	DET	O	_
+8	plateforme	NOUN	O	_
+9	multimodale	ADJ	O	_
+10	de	ADP	O	_
+11	transport	NOUN	O	_
+12	.	PUNCT	O	_
+
+
+#- Etude des sols réalisée sur l'ensemble du site du lavoir et de l'usine d'agglomération
+1	-	PUNCT	O	_
+2	Etude	NOUN	O	_
+3	des	DET	O	_
+4	sols	NOUN	O	_
+5	réalisée	VERB	O	_
+6	sur	ADP	O	_
+7	l'	DET	O	_
+8	ensemble	NOUN	O	_
+9	du	DET	O	_
+10	site	NOUN	O	_
+11	du	DET	O	_
+12	lavoir	NOUN	O	_
+13	et	CCONJ	O	_
+14	de	ADP	O	_
+15	l'	DET	O	_
+16	usine	NOUN	O	_
+17	d'	ADP	O	_
+18	agglomération	NOUN	O	_
+
+
+#- Evaluation Simplifiée des Risques réalisée : site en classe 1
+1	-	PUNCT	O	_
+2	Evaluation	NOUN	O	_
+3	Simplifiée	VERB	O	_
+4	des	DET	O	_
+5	Risques	NOUN	O	_
+6	réalisée	VERB	O	_
+7	:	PUNCT	O	_
+8	site	NOUN	O	_
+9	en	ADP	O	_
+10	classe	NOUN	O	_
+11	1	NUM	O	_
+
+
+#- Diagnostic approfondi et Evaluation Détaillée des Risques réalisés.
+1	-	PUNCT	O	_
+2	Diagnostic	NOUN	O	_
+3	approfondi	PROPN	O	_
+4	et	CCONJ	O	_
+5	Evaluation	NOUN	O	_
+6	Détaillée	VERB	O	_
+7	des	DET	O	_
+8	Risques	NOUN	O	_
+9	réalisés	VERB	O	_
+10	.	PUNCT	O	_
+
+
+#- Traitement effectué.
+1	-	PUNCT	O	_
+2	Traitement	NOUN	O	_
+3	effectué	VERB	O	_
+4	.	PUNCT	O	_
+
+
+#- 5
+1	-	PUNCT	O	_
+2	5	NUM	O	_
+
+
+#- 6
+1	-	PUNCT	O	_
+2	6	NUM	O	_
+
+
+#- 7
+1	-	PUNCT	O	_
+2	7	NUM	O	_
+
+
+#- 8
+1	-	PUNCT	O	_
+2	8	NUM	O	_
+
+
+#- 9
+1	-	PUNCT	O	_
+2	9	NUM	BI	_
+
+
+#59.0155
+#- Pollution de la nappe de la craie par des hydrocarbures sous le site de stockage de fioul domestique.
+1	-	PUNCT	O	_
+2	Pollution	NOUN	O	_
+3	de	ADP	O	_
+4	la	DET	O	_
+5	nappe	NOUN	O	_
+6	de	ADP	O	_
+7	la	DET	O	_
+8	craie	NOUN	O	_
+9	par	ADP	O	_
+10	des	DET	O	_
+11	hydrocarbures	NOUN	BS	_
+12	sous	ADP	O	_
+13	le	DET	O	_
+14	site	NOUN	O	_
+15	de	ADP	O	_
+16	stockage	NOUN	O	_
+17	de	ADP	O	_
+18	fioul	VERB	BU	_
+19	domestique	ADJ	EU	_
+20	.	PUNCT	O	_
+
+
+#- Pollution également retrouvée sous l'ancien site Arbel Fauvet Rail situé de l'autre côté de la rue (voir autre fiche).
+1	-	PUNCT	O	_
+2	Pollution	NOUN	O	_
+3	également	ADV	O	_
+4	retrouvée	VERB	O	_
+5	sous	ADP	O	_
+6	l'	DET	O	_
+7	ancien	ADJ	O	_
+8	site	NOUN	II	_
+9	Arbel	DET	EI	_
+10	Fauvet	PROPN	EI	_
+11	Rail	NOUN	O	_
+12	situé	VERB	O	_
+13	de	ADP	O	_
+14	l'	DET	O	_
+15	autre	ADJ	O	_
+16	côté	NOUN	O	_
+17	de	ADP	O	_
+18	la	DET	O	_
+19	rue	NOUN	O	_
+20	(	PUNCT	O	_
+21	voir	VERB	O	_
+22	autre	ADJ	O	_
+23	fiche	NOUN	O	_
+24	)	PUNCT	O	_
+25	.	PUNCT	O	_
+
+
+#- Présence d'un "flottant" d'hydrocarbures non dilués, d'épaisseur variable et mobile entre les deux sites.
+1	-	PUNCT	O	_
+2	Présence	NOUN	O	_
+3	d'	ADP	O	_
+4	un	DET	O	_
+5	"	PUNCT	O	_
+6	flottant	VERB	O	_
+7	"	PUNCT	O	_
+8	d'	ADP	O	_
+9	hydrocarbures	NOUN	BS	_
+10	non	ADV	O	_
+11	dilués	ADJ	O	_
+12	,	PUNCT	O	_
+13	d'	ADP	O	_
+14	épaisseur	NOUN	O	_
+15	variable	ADJ	O	_
+16	et	CCONJ	O	_
+17	mobile	ADJ	O	_
+18	entre	ADP	O	_
+19	les	DET	O	_
+20	deux	NUM	O	_
+21	sites	NOUN	O	_
+22	.	PUNCT	O	_
+
+
+#- A priori pas de source ponctuelle identifiée (pollution historique ?).
+1	-	PUNCT	O	_
+2	A	NOUN	O	_
+3	priori	X	O	_
+4	pas	ADV	O	_
+5	de	ADP	O	_
+6	source	NOUN	O	_
+7	ponctuelle	ADJ	O	_
+8	identifiée	VERB	O	_
+9	(	PUNCT	O	_
+10	pollution	NOUN	O	_
+11	historique	ADJ	O	_
+12	?	PUNCT	O	_
+13	)	PUNCT	O	_
+14	.	PUNCT	O	_
+
+
+#L'impossibilité d'identifier formellement une source est confirmée par un rapport d'expert judiciaire.
+1	L'	DET	O	_
+2	impossibilité	NOUN	O	_
+3	d'	ADP	O	_
+4	identifier	NOUN	O	_
+5	formellement	ADV	O	_
+6	une	DET	O	_
+7	source	NOUN	O	_
+8	est	AUX	O	_
+9	confirmée	VERB	O	_
+10	par	ADP	O	_
+11	un	DET	O	_
+12	rapport	NOUN	O	_
+13	d'	ADP	O	_
+14	expert	PROPN	O	_
+15	judiciaire	ADJ	O	_
+16	.	PUNCT	O	_
+
+
+#- Diagnostic initial du site réalisé : existence d'une lentille de pollution sur la nappe sous et à l'extérieur du site contigu à Arbel Fauvet Rail.
+1	-	PUNCT	O	_
+2	Diagnostic	NOUN	O	_
+3	initial	VERB	O	_
+4	du	DET	O	_
+5	site	NOUN	O	_
+6	réalisé	VERB	O	_
+7	:	PUNCT	O	_
+8	existence	NOUN	O	_
+9	d'	ADP	O	_
+10	une	DET	O	_
+11	lentille	NOUN	O	_
+12	de	ADP	O	_
+13	pollution	NOUN	O	_
+14	sur	ADP	O	_
+15	la	DET	O	_
+16	nappe	NOUN	O	_
+17	sous	ADP	O	_
+18	et	CCONJ	O	_
+19	à	ADP	O	_
+20	l'	DET	O	_
+21	extérieur	NOUN	O	_
+22	du	DET	O	_
+23	site	NOUN	O	_
+24	contigu	ADJ	O	_
+25	à	ADP	O	_
+26	Arbel	PROPN	BI	_
+27	Fauvet	PROPN	EI	_
+28	Rail	PROPN	EI	_
+29	.	PUNCT	O	_
+
+
+#- Arrêté préfectoral du 06/12/2007 imposant la dépollution de la lentille d’hydrocarbures
+1	-	PUNCT	O	_
+2	Arrêté	VERB	O	_
+3	préfectoral	ADJ	O	_
+4	du	DET	O	_
+5	06/12/2007	NOUN	O	_
+6	imposant	VERB	O	_
+7	la	DET	O	_
+8	dépollution	NOUN	O	_
+9	de	ADP	O	_
+10	la	DET	BU	_
+11	lentille	ADJ	IU	_
+12	d’	NUM	EU	_
+13	hydrocarbures	NOUN	EU	_
+
+
+#- Rapport de l’inspection du 26/10/2009 valant PV de récolement des travaux de dépollution de la nappe
+1	-	PUNCT	O	_
+2	Rapport	NOUN	O	_
+3	de	ADP	O	_
+4	l’	PROPN	O	_
+5	inspection	NOUN	O	_
+6	du	DET	O	_
+7	26/10/2009	NOUN	O	_
+8	valant	VERB	O	_
+9	PV	ADP	O	_
+10	de	ADP	O	_
+11	récolement	NOUN	O	_
+12	des	DET	O	_
+13	travaux	NOUN	O	_
+14	de	ADP	O	_
+15	dépollution	NOUN	O	_
+16	de	ADP	O	_
+17	la	DET	O	_
+18	nappe	PROPN	O	_
+
+
+#- Diagnostic approfondi et Evaluation Détaillée des Risques réalisées (conclut à un niveau de risque acceptable pour la santé humaine)
+1	-	PUNCT	O	_
+2	Diagnostic	NOUN	O	_
+3	approfondi	PROPN	O	_
+4	et	CCONJ	O	_
+5	Evaluation	NOUN	O	_
+6	Détaillée	VERB	O	_
+7	des	DET	O	_
+8	Risques	NOUN	O	_
+9	réalisées	VERB	O	_
+10	(	PUNCT	O	_
+11	conclut	VERB	O	_
+12	à	ADP	O	_
+13	un	DET	O	_
+14	niveau	NOUN	O	_
+15	de	ADP	O	_
+16	risque	NOUN	O	_
+17	acceptable	ADJ	O	_
+18	pour	ADP	O	_
+19	la	DET	O	_
+20	santé	NOUN	O	_
+21	humaine	ADJ	O	_
+22	)	PUNCT	O	_
+
+
+#- Projet de construction de logements individuels au droit du site Arbel.
+1	-	PUNCT	O	_
+2	Projet	NOUN	O	_
+3	de	ADP	O	_
+4	construction	NOUN	O	_
+5	de	ADP	O	_
+6	logements	NOUN	O	_
+7	individuels	ADJ	O	_
+8	au	PROPN	O	_
+9	droit	VERB	O	_
+10	du	DET	O	_
+11	site	NOUN	O	_
+12	Arbel	NOUN	O	_
+13	.	PUNCT	O	_
+
+
+#59.0517
+#La société SOCATEX a été créée en 1947 et a exploité dès 1948 une unité de fabrication de caoutchouc cellulaire sur le site de FOREST sur MARQUE.
+1	La	DET	BI	_
+2	société	NOUN	II	_
+3	SOCATEX	ADJ	EI	_
+4	a	AUX	O	_
+5	été	AUX	O	_
+6	créée	VERB	O	_
+7	en	ADP	O	_
+8	1947	NUM	O	_
+9	et	CCONJ	O	_
+10	a	AUX	O	_
+11	exploité	NOUN	O	_
+12	dès	ADP	O	_
+13	1948	NUM	O	_
+14	une	DET	O	_
+15	unité	NOUN	O	_
+16	de	ADP	O	_
+17	fabrication	NOUN	O	_
+18	de	ADP	O	_
+19	caoutchouc	NOUN	BU	_
+20	cellulaire	ADJ	EU	_
+21	sur	ADP	O	_
+22	le	DET	O	_
+23	site	NOUN	O	_
+24	de	ADP	O	_
+25	FOREST	NOUN	EI	_
+26	sur	ADP	EI	_
+27	MARQUE	NOUN	EI	_
+28	.	PUNCT	O	_
+
+
+#Le site relevait de la législation relative aux Installations Classées pour la Protection de l’Environnement sous le régime de l’autorisation au titre des rubriques 2562 (chauffage et traitement industriel par l’intermédiaire de bains de sels fondus), 2660 (fabrication de polymères) et 2661 (transformation de polymères).
+1	Le	DET	O	_
+2	site	NOUN	O	_
+3	relevait	VERB	O	_
+4	de	ADP	O	_
+5	la	DET	O	_
+6	législation	NOUN	O	_
+7	relative	ADJ	O	_
+8	aux	ADJ	O	_
+9	Installations	NOUN	O	_
+10	Classées	VERB	O	_
+11	pour	ADP	O	_
+12	la	DET	O	_
+13	Protection	NOUN	O	_
+14	de	ADP	O	_
+15	l’	PROPN	O	_
+16	Environnement	NOUN	O	_
+17	sous	ADP	O	_
+18	le	DET	O	_
+19	régime	NOUN	O	_
+20	de	ADP	O	_
+21	l’	NUM	O	_
+22	autorisation	NOUN	O	_
+23	au	PROPN	O	_
+24	titre	VERB	O	_
+25	des	DET	O	_
+26	rubriques	NOUN	O	_
+27	2562	NUM	O	_
+28	(	PUNCT	O	_
+29	chauffage	NOUN	O	_
+30	et	CCONJ	O	_
+31	traitement	NOUN	O	_
+32	industriel	ADJ	O	_
+33	par	ADP	O	_
+34	l’	NUM	O	_
+35	intermédiaire	NOUN	O	_
+36	de	ADP	O	_
+37	bains	NOUN	O	_
+38	de	ADP	O	_
+39	sels	ADJ	O	_
+40	fondus	NOUN	O	_
+41	)	PUNCT	O	_
+42	,	PUNCT	O	_
+43	2660	NUM	O	_
+44	(	PUNCT	O	_
+45	fabrication	NOUN	O	_
+46	de	ADP	O	_
+47	polymères	NOUN	O	_
+48	)	PUNCT	O	_
+49	et	CCONJ	O	_
+50	2661	NUM	O	_
+51	(	PUNCT	O	_
+52	transformation	NOUN	O	_
+53	de	ADP	O	_
+54	polymères	NOUN	O	_
+55	)	PUNCT	O	_
+56	.	PUNCT	O	_
+
+
+#Une régularisation administrative était en cours lorsqu’en 2004, la société a déménagé ses activités sur un nouveau site sur la zone industrielle de ROUBAIX EST.
+1	Une	DET	O	_
+2	régularisation	NOUN	O	_
+3	administrative	ADJ	O	_
+4	était	AUX	O	_
+5	en	ADP	O	_
+6	cours	NOUN	O	_
+7	lorsqu’	NOUN	O	_
+8	en	ADP	O	_
+9	2004	NUM	O	_
+10	,	PUNCT	O	_
+11	la	DET	O	_
+12	société	NOUN	O	_
+13	a	AUX	O	_
+14	déménagé	VERB	O	_
+15	ses	DET	O	_
+16	activités	NOUN	O	_
+17	sur	ADP	O	_
+18	un	DET	O	_
+19	nouveau	ADJ	O	_
+20	site	NOUN	O	_
+21	sur	ADP	O	_
+22	la	DET	O	_
+23	zone	NOUN	O	_
+24	industrielle	ADJ	O	_
+25	de	ADP	O	_
+26	ROUBAIX	PROPN	EI	_
+27	EST	AUX	O	_
+28	.	PUNCT	O	_
+
+
+#Par ailleurs, un récépissé du 14 novembre 1986 prenait acte de la déclaration de SOCATEX de détention de deux transformateurs au PCB en date du 28 juillet 1986.
+1	Par	ADP	O	_
+2	ailleurs	ADV	O	_
+3	,	PUNCT	O	_
+4	un	DET	O	_
+5	récépissé	VERB	O	_
+6	du	DET	O	_
+7	14	NUM	O	_
+8	novembre	NOUN	O	_
+9	1986	NUM	O	_
+10	prenait	VERB	O	_
+11	acte	NOUN	O	_
+12	de	ADP	O	_
+13	la	DET	O	_
+14	déclaration	NOUN	O	_
+15	de	ADP	O	_
+16	SOCATEX	NOUN	BI	_
+17	de	ADP	O	_
+18	détention	NOUN	O	_
+19	de	ADP	O	_
+20	deux	NUM	O	_
+21	transformateurs	NOUN	O	_
+22	au	PROPN	O	_
+23	PCB	PROPN	BS	_
+24	en	ADP	O	_
+25	date	NOUN	O	_
+26	du	DET	O	_
+27	28	NUM	O	_
+28	juillet	NOUN	O	_
+29	1986	NUM	O	_
+30	.	PUNCT	O	_
+
+
+#Toute activité a cessé au droit du site de FOREST-SUR-MARQUE.
+1	Toute	DET	O	_
+2	activité	NOUN	O	_
+3	a	AUX	O	_
+4	cessé	VERB	O	_
+5	au	PROPN	O	_
+6	droit	VERB	O	_
+7	du	DET	O	_
+8	site	NOUN	O	_
+9	de	ADP	O	_
+10	FOREST	NOUN	EI	_
+11	-	PUNCT	EI	_
+12	SUR	NOUN	EI	_
+13	-	PUNCT	EI	_
+14	MARQUE	NOUN	EI	_
+15	.	PUNCT	O	_
+
+
+#Cette cessation d’activité a été notifiée auprès de M. le préfet le 19 Décembre 2008.
+1	Cette	DET	O	_
+2	cessation	NOUN	O	_
+3	d’	DET	O	_
+4	activité	NOUN	O	_
+5	a	AUX	O	_
+6	été	AUX	O	_
+7	notifiée	VERB	O	_
+8	auprès	ADP	O	_
+9	de	ADP	O	_
+10	M.	NOUN	O	_
+11	le	DET	BI	_
+12	préfet	NOUN	EI	_
+13	le	DET	O	_
+14	19	NUM	O	_
+15	Décembre	NOUN	O	_
+16	2008	NUM	O	_
+17	.	PUNCT	O	_
+
+
+#Au 1er Juillet 2013, les deux sociétés INTEREP et SOCATEX ont fusionné et ont conservé la raison sociale INTEREP.
+1	Au	NOUN	O	_
+2	1er	ADJ	O	_
+3	Juillet	NOUN	O	_
+4	2013	NUM	O	_
+5	,	PUNCT	O	_
+6	les	DET	BI	_
+7	deux	NUM	II	_
+8	sociétés	NOUN	II	_
+9	INTEREP	PROPN	EI	_
+10	et	CCONJ	O	_
+11	SOCATEX	NOUN	BI	_
+12	ont	AUX	O	_
+13	fusionné	VERB	O	_
+14	et	CCONJ	O	_
+15	ont	AUX	O	_
+16	conservé	VERB	O	_
+17	la	DET	O	_
+18	raison	NOUN	O	_
+19	sociale	ADJ	II	_
+20	INTEREP	PROPN	EI	_
+21	.	PUNCT	O	_
+
+
+#La fiche BASOL est établie principalement à partir des documents suivants:
+1	La	DET	O	_
+2	fiche	NOUN	O	_
+3	BASOL	NOUN	O	_
+4	est	AUX	O	_
+5	établie	VERB	O	_
+6	principalement	ADV	O	_
+7	à	ADP	O	_
+8	partir	VERB	O	_
+9	des	DET	O	_
+10	documents	NOUN	O	_
+11	suivants	ADJ	O	_
+12	:	PUNCT	O	_
+
+
+#- Diagnostic complémentaire des sols potentiellement pollués (dossier S245344, version 1 du 15/04/2008 réalisé par SOCOTEC INDUSTRIES)
+1	-	PUNCT	O	_
+2	Diagnostic	NOUN	O	_
+3	complémentaire	ADJ	O	_
+4	des	DET	O	_
+5	sols	NOUN	O	_
+6	potentiellement	ADV	O	_
+7	pollués	VERB	O	_
+8	(	PUNCT	O	_
+9	dossier	NOUN	O	_
+10	S245344	ADV	O	_
+11	,	PUNCT	O	_
+12	version	NOUN	O	_
+13	1	NUM	O	_
+14	du	DET	O	_
+15	15/04/2008	NOUN	O	_
+16	réalisé	VERB	O	_
+17	par	ADP	O	_
+18	SOCOTEC	NOUN	EI	_
+19	INDUSTRIES	ADJ	EI	_
+20	)	PUNCT	O	_
+
+
+#Déclaration de cessation d'activité de SOCATEX par courrier du 19 décembre 2008.
+1	Déclaration	NOUN	O	_
+2	de	ADP	O	_
+3	cessation	NOUN	O	_
+4	d'	ADP	O	_
+5	activité	NOUN	O	_
+6	de	ADP	O	_
+7	SOCATEX	NOUN	BI	_
+8	par	ADP	O	_
+9	courrier	NOUN	O	_
+10	du	DET	O	_
+11	19	NUM	O	_
+12	décembre	NOUN	O	_
+13	2008	NUM	O	_
+14	.	PUNCT	O	_
+
+
+#- Rapport final d'étude (référencé 3 59 332 ; N°3/4) rédigé par SEVEQUE Environnement et transmis par SOCATEX par courrier du 3 avril 2009.
+1	-	PUNCT	O	_
+2	Rapport	NOUN	O	_
+3	final	ADJ	O	_
+4	d'	ADP	O	_
+5	étude	NOUN	O	_
+6	(	PUNCT	O	_
+7	référencé	NOUN	O	_
+8	3	NUM	O	_
+9	59	NUM	O	_
+10	332	NUM	O	_
+11	;	PUNCT	O	_
+12	N	ADP	O	_
+13	°	NOUN	O	_
+14	3/4	NUM	O	_
+15	)	PUNCT	O	_
+16	rédigé	VERB	O	_
+17	par	ADP	O	_
+18	SEVEQUE	NOUN	BI	_
+19	Environnement	NOUN	EI	_
+20	et	CCONJ	O	_
+21	transmis	VERB	O	_
+22	par	ADP	O	_
+23	SOCATEX	NOUN	BI	_
+24	par	ADP	O	_
+25	courrier	NOUN	O	_
+26	du	DET	O	_
+27	3	NUM	O	_
+28	avril	NOUN	O	_
+29	2009	NUM	O	_
+30	.	PUNCT	O	_
+
+
+#Courrier SOCATEX du 3 septembre 2009 en réponse au courrier de la DREAL du 24 août 2009.
+1	Courrier	NOUN	O	_
+2	SOCATEX	VERB	BI	_
+3	du	DET	O	_
+4	3	NUM	O	_
+5	septembre	NOUN	O	_
+6	2009	NUM	O	_
+7	en	ADP	O	_
+8	réponse	NOUN	O	_
+9	au	PROPN	O	_
+10	courrier	ADJ	O	_
+11	de	ADP	O	_
+12	la	DET	O	_
+13	DREAL	NOUN	O	_
+14	du	DET	O	_
+15	24	NUM	O	_
+16	août	NOUN	O	_
+17	2009	NUM	O	_
+18	.	PUNCT	O	_
+
+
+#- Note technique sur les travaux de dépollution, référencée 3 59 398 et en date du 25/03/2010, rédigée par SEVEQUE Environnement et transmise par SOCATEX par courrier du 1er avril 2010.
+1	-	PUNCT	O	_
+2	Note	NOUN	O	_
+3	technique	ADJ	O	_
+4	sur	ADP	O	_
+5	les	DET	O	_
+6	travaux	NOUN	O	_
+7	de	ADP	O	_
+8	dépollution	NOUN	O	_
+9	,	PUNCT	O	_
+10	référencée	VERB	O	_
+11	3	NUM	O	_
+12	59	NUM	O	_
+13	398	NUM	O	_
+14	et	CCONJ	O	_
+15	en	ADP	O	_
+16	date	NOUN	O	_
+17	du	DET	O	_
+18	25/03/2010	NOUN	O	_
+19	,	PUNCT	O	_
+20	rédigée	VERB	O	_
+21	par	ADP	O	_
+22	SEVEQUE	NOUN	BI	_
+23	Environnement	NOUN	EI	_
+24	et	CCONJ	O	_
+25	transmise	VERB	O	_
+26	par	ADP	O	_
+27	SOCATEX	NOUN	BI	_
+28	par	ADP	O	_
+29	courrier	NOUN	O	_
+30	du	DET	O	_
+31	1er	ADJ	O	_
+32	avril	NOUN	O	_
+33	2010	NUM	O	_
+34	.	PUNCT	O	_
+
+
+#- Récépissé du préfet relatif à la notification de mise à l'arrêt définitif en date du 30 novembre 2010.
+1	-	PUNCT	O	_
+2	Récépissé	VERB	O	_
+3	du	DET	O	_
+4	préfet	NOUN	EI	_
+5	relatif	ADJ	O	_
+6	à	ADP	O	_
+7	la	DET	O	_
+8	notification	NOUN	O	_
+9	de	ADP	O	_
+10	mise	NOUN	O	_
+11	à	ADP	O	_
+12	l'	DET	O	_
+13	arrêt	NOUN	O	_
+14	définitif	ADJ	O	_
+15	en	ADP	O	_
+16	date	NOUN	O	_
+17	du	DET	O	_
+18	30	NUM	O	_
+19	novembre	NOUN	O	_
+20	2010	NUM	O	_
+21	.	PUNCT	O	_
+
+
+#- Courrier SOCATEX du 13/12/2010 apportant des compléments de réponse au dossier de cessation d'activité
+1	-	PUNCT	O	_
+2	Courrier	PROPN	O	_
+3	SOCATEX	VERB	BI	_
+4	du	DET	O	_
+5	13/12/2010	NOUN	O	_
+6	apportant	VERB	O	_
+7	des	DET	O	_
+8	compléments	NOUN	O	_
+9	de	ADP	O	_
+10	réponse	NOUN	O	_
+11	au	PROPN	O	_
+12	dossier	NOUN	O	_
+13	de	ADP	O	_
+14	cessation	NOUN	O	_
+15	d'	ADP	O	_
+16	activité	NOUN	O	_
+
+
+#- Courrier de SOCATEX du 11/04/2011 apportant des compléments de réponse au dossier.
+1	-	PUNCT	O	_
+2	Courrier	NOUN	O	_
+3	de	ADP	O	_
+4	SOCATEX	NOUN	BI	_
+5	du	DET	O	_
+6	11/04/2011	ADJ	O	_
+7	apportant	VERB	O	_
+8	des	DET	O	_
+9	compléments	NOUN	O	_
+10	de	ADP	O	_
+11	réponse	NOUN	O	_
+12	au	PROPN	O	_
+13	dossier	NOUN	O	_
+14	.	PUNCT	O	_
+
+
+#-Le rapport d’étude datant de Février 2013 réalisé par Sévèque Environnement sur l’élaboration du plan de gestion de la pollution dans le cadre d’un changement d’usage
+1	-Le	PUNCT	O	_
+2	rapport	NOUN	O	_
+3	d’	NUM	O	_
+4	étude	NOUN	O	_
+5	datant	VERB	O	_
+6	de	ADP	O	_
+7	Février	NOUN	O	_
+8	2013	NUM	O	_
+9	réalisé	VERB	O	_
+10	par	ADP	O	_
+11	Sévèque	ADJ	O	_
+12	Environnement	NOUN	O	_
+13	sur	ADP	O	_
+14	l’	NOUN	O	_
+15	élaboration	NOUN	O	_
+16	du	DET	O	_
+17	plan	NOUN	O	_
+18	de	ADP	O	_
+19	gestion	NOUN	O	_
+20	de	ADP	O	_
+21	la	DET	O	_
+22	pollution	NOUN	O	_
+23	dans	ADP	O	_
+24	le	DET	O	_
+25	cadre	NOUN	O	_
+26	d’	VERB	O	_
+27	un	DET	O	_
+28	changement	NOUN	O	_
+29	d’	VERB	O	_
+30	usage	NOUN	O	_
+
+
+#-Le rapport des travaux de dépollution et de la réévaluation du plan de gestion, ainsi que l’analyse des risques résiduels à dater du 23/10/2013.
+1	-Le	PUNCT	O	_
+2	rapport	NOUN	O	_
+3	des	DET	O	_
+4	travaux	NOUN	O	_
+5	de	ADP	O	_
+6	dépollution	NOUN	O	_
+7	et	CCONJ	O	_
+8	de	ADP	O	_
+9	la	DET	O	_
+10	réévaluation	NOUN	O	_
+11	du	DET	O	_
+12	plan	NOUN	O	_
+13	de	ADP	O	_
+14	gestion	NOUN	O	_
+15	,	PUNCT	O	_
+16	ainsi	ADV	O	_
+17	que	SCONJ	O	_
+18	l’	PROPN	O	_
+19	analyse	VERB	O	_
+20	des	DET	O	_
+21	risques	NOUN	O	_
+22	résiduels	ADJ	O	_
+23	à	ADP	O	_
+24	dater	VERB	O	_
+25	du	DET	O	_
+26	23/10/2013	NOUN	O	_
+27	.	PUNCT	O	_
+
+
+#-Le rapport de réception des travaux de dépollution et ARR à dater de Février 2015.
+1	-Le	DET	O	_
+2	rapport	NOUN	O	_
+3	de	ADP	O	_
+4	réception	NOUN	O	_
+5	des	DET	O	_
+6	travaux	NOUN	O	_
+7	de	ADP	O	_
+8	dépollution	NOUN	O	_
+9	et	CCONJ	O	_
+10	ARR	NOUN	O	_
+11	à	ADP	O	_
+12	dater	VERB	O	_
+13	de	ADP	O	_
+14	Février	NOUN	O	_
+15	2015	NUM	O	_
+16	.	PUNCT	O	_
+
+
+#-Le rapport de l’Inspection à dater du 7 Mai 2015 faisant office de Procès Verbal de récolement.
+1	-Le	DET	O	_
+2	rapport	NOUN	O	_
+3	de	ADP	O	_
+4	l’	PROPN	O	_
+5	Inspection	NOUN	O	_
+6	à	ADP	O	_
+7	dater	VERB	O	_
+8	du	DET	O	_
+9	7	NUM	O	_
+10	Mai	NOUN	O	_
+11	2015	NUM	O	_
+12	faisant	VERB	O	_
+13	office	NOUN	O	_
+14	de	ADP	O	_
+15	Procès	NOUN	O	_
+16	Verbal	PROPN	O	_
+17	de	ADP	O	_
+18	récolement	NOUN	O	_
+19	.	PUNCT	O	_
+
+
+#Diagnostic de pollution:
+1	Diagnostic	NOUN	O	_
+2	de	ADP	O	_
+3	pollution	NOUN	O	_
+4	:	PUNCT	O	_
+
+
+#Un plan d’investigation a été établi à partir des diagnostics réalisés en 2004 et 2008 par le bureau d’étude SOCOTEC.
+1	Un	DET	O	_
+2	plan	NOUN	O	_
+3	d’	NUM	O	_
+4	investigation	NOUN	O	_
+5	a	AUX	O	_
+6	été	AUX	O	_
+7	établi	VERB	O	_
+8	à	ADP	O	_
+9	partir	VERB	O	_
+10	des	DET	O	_
+11	diagnostics	NOUN	O	_
+12	réalisés	VERB	O	_
+13	en	ADP	O	_
+14	2004	NUM	O	_
+15	et	CCONJ	O	_
+16	2008	NUM	O	_
+17	par	ADP	O	_
+18	le	DET	O	_
+19	bureau	NOUN	O	_
+20	d’	VERB	O	_
+21	étude	NOUN	O	_
+22	SOCOTEC	ADJ	EI	_
+23	.	PUNCT	O	_
+
+
+#Les solvants chlorés ont été intégrés au programme d’investigation afin d’évaluer l’extension de la pollution du site mitoyen RLST.
+1	Les	DET	O	_
+2	solvants	NOUN	BS	_
+3	chlorés	VERB	ES	_
+4	ont	AUX	O	_
+5	été	AUX	O	_
+6	intégrés	VERB	O	_
+7	au	ADV	O	_
+8	programme	VERB	O	_
+9	d’	NOUN	O	_
+10	investigation	NOUN	O	_
+11	afin	ADP	O	_
+12	d’	VERB	O	_
+13	évaluer	VERB	O	_
+14	l’	NUM	O	_
+15	extension	NOUN	O	_
+16	de	ADP	O	_
+17	la	DET	O	_
+18	pollution	NOUN	O	_
+19	du	DET	O	_
+20	site	NOUN	O	_
+21	mitoyen	ADJ	O	_
+22	RLST	PROPN	O	_
+23	.	PUNCT	O	_
+
+
+#Les résultats ont permis à SOCOTEC de mettre en évidence les pollutions décrites ci-après.
+1	Les	DET	O	_
+2	résultats	NOUN	O	_
+3	ont	AUX	O	_
+4	permis	VERB	O	_
+5	à	ADP	O	_
+6	SOCOTEC	NOUN	BI	_
+7	de	ADP	O	_
+8	mettre	VERB	O	_
+9	en	ADP	O	_
+10	évidence	NOUN	O	_
+11	les	DET	O	_
+12	pollutions	NOUN	O	_
+13	décrites	ADJ	O	_
+14	ci	PROPN	O	_
+15	-	PUNCT	O	_
+16	après	ADP	O	_
+17	.	PUNCT	O	_
+
+
+#Sols:
+1	Sols	ADJ	O	_
+2	:	PUNCT	O	_
+
+
+#Des sondages de sols avec prélèvement d’échantillons jusqu’à 5.5 m de profondeur ont été réalisés.
+1	Des	DET	O	_
+2	sondages	NOUN	O	_
+3	de	ADP	O	_
+4	sols	NOUN	O	_
+5	avec	ADP	O	_
+6	prélèvement	ADV	O	_
+7	d’	VERB	O	_
+8	échantillons	NOUN	O	_
+9	jusqu’	PROPN	O	_
+10	à	ADP	O	_
+11	5.5	NUM	O	_
+12	m	NOUN	O	_
+13	de	ADP	O	_
+14	profondeur	NOUN	O	_
+15	ont	AUX	O	_
+16	été	AUX	O	_
+17	réalisés	VERB	O	_
+18	.	PUNCT	O	_
+
+
+#Atelier des presses : une source de pollution par hydrocarbures totaux et solvants chlorés a été identifiée autour de deux sondages jusqu’à au moins 5.5 m de profondeur.
+1	Atelier	NOUN	O	_
+2	des	DET	O	_
+3	presses	NOUN	O	_
+4	 	SPACE	O	_
+5	:	PUNCT	O	_
+6	une	DET	O	_
+7	source	NOUN	O	_
+8	de	ADP	O	_
+9	pollution	NOUN	O	_
+10	par	ADP	BS	_
+11	hydrocarbures	NOUN	BS	_
+12	totaux	ADJ	ES	_
+13	et	CCONJ	BS	_
+14	solvants	NOUN	BS	_
+15	chlorés	VERB	ES	_
+16	a	AUX	O	_
+17	été	AUX	O	_
+18	identifiée	VERB	O	_
+19	autour	ADV	O	_
+20	de	ADP	O	_
+21	deux	NUM	O	_
+22	sondages	NOUN	O	_
+23	jusqu’	PROPN	O	_
+24	à	ADP	O	_
+25	au	PROPN	O	_
+26	moins	ADV	O	_
+27	5.5	NUM	O	_
+28	m	NOUN	O	_
+29	de	ADP	O	_
+30	profondeur	NOUN	O	_
+31	.	PUNCT	O	_
+
+
+#La pollution aux hydrocarbures totaux s’étend sur une surface estimée à 30 m2 avec une concentration maximale en hydrocarbures totaux de 53 800 mg/kg MS.
+1	La	DET	O	_
+2	pollution	NOUN	O	_
+3	aux	ADJ	O	_
+4	hydrocarbures	NOUN	BS	_
+5	totaux	ADJ	ES	_
+6	s’	AUX	O	_
+7	étend	VERB	O	_
+8	sur	ADP	O	_
+9	une	DET	O	_
+10	surface	NOUN	O	_
+11	estimée	VERB	O	_
+12	à	ADP	O	_
+13	30	NUM	O	_
+14	m2	NOUN	O	_
+15	avec	ADP	O	_
+16	une	DET	O	_
+17	concentration	NOUN	O	_
+18	maximale	ADJ	O	_
+19	en	ADP	O	_
+20	hydrocarbures	NOUN	BS	_
+21	totaux	ADJ	ES	_
+22	de	ADP	O	_
+23	53	NUM	O	_
+24	800	NUM	O	_
+25	mg	NOUN	O	_
+26	/	ADP	O	_
+27	kg	NOUN	O	_
+28	MS	NOUN	O	_
+29	.	PUNCT	O	_
+
+
+#La pollution aux solvants chlorés est plus étendue.
+1	La	DET	O	_
+2	pollution	NOUN	O	_
+3	aux	ADJ	O	_
+4	solvants	NOUN	O	_
+5	chlorés	VERB	O	_
+6	est	AUX	O	_
+7	plus	ADV	O	_
+8	étendue	VERB	O	_
+9	.	PUNCT	O	_
+
+
+#La limite de la pollution n’est pas connue, elle s’étend de l’autre côté du mur mitoyen avec le site RLST ELIS, où se trouve l’origine de la pollution.
+1	La	DET	O	_
+2	limite	NOUN	O	_
+3	de	ADP	O	_
+4	la	DET	O	_
+5	pollution	NOUN	O	_
+6	n’	ADV	O	_
+7	est	AUX	O	_
+8	pas	ADV	O	_
+9	connue	VERB	O	_
+10	,	PUNCT	O	_
+11	elle	PRON	O	_
+12	s’	AUX	O	_
+13	étend	VERB	O	_
+14	de	ADP	O	_
+15	l’	PROPN	O	_
+16	autre	ADJ	O	_
+17	côté	NOUN	O	_
+18	du	DET	O	_
+19	mur	NOUN	O	_
+20	mitoyen	ADJ	O	_
+21	avec	ADP	O	_
+22	le	DET	BI	_
+23	site	NOUN	II	_
+24	RLST	ADJ	EI	_
+25	ELIS	NOUN	EI	_
+26	,	PUNCT	O	_
+27	où	PRON	O	_
+28	se	PRON	O	_
+29	trouve	VERB	O	_
+30	l’	PROPN	O	_
+31	origine	NOUN	O	_
+32	de	ADP	O	_
+33	la	DET	O	_
+34	pollution	NOUN	O	_
+35	.	PUNCT	O	_
+
+
+#Zone de la cuve à fuel habitations : une source de pollution aux hydrocarbures totaux et dans une moindre mesure par les HAP a été identifiée en 2004 et 2008 à partir de 2 m de profondeur mais cette source n’a pas été recoupée lors des dernières investigations.
+1	Zone	NOUN	O	_
+2	de	ADP	O	_
+3	la	DET	BD	_
+4	cuve	NOUN	ED	_
+5	à	ADP	O	_
+6	fuel	AUX	BU	_
+7	habitations	NOUN	EU	_
+8	 	SPACE	O	_
+9	:	PUNCT	O	_
+10	une	DET	O	_
+11	source	NOUN	O	_
+12	de	ADP	O	_
+13	pollution	NOUN	O	_
+14	aux	ADJ	BS	_
+15	hydrocarbures	NOUN	BS	_
+16	totaux	ADJ	ES	_
+17	et	CCONJ	O	_
+18	dans	ADP	O	_
+19	une	DET	O	_
+20	moindre	ADJ	O	_
+21	mesure	NOUN	O	_
+22	par	ADP	BS	_
+23	les	DET	BS	_
+24	HAP	NOUN	ES	_
+25	a	AUX	O	_
+26	été	AUX	O	_
+27	identifiée	VERB	O	_
+28	en	ADP	O	_
+29	2004	NUM	O	_
+30	et	CCONJ	O	_
+31	2008	NUM	O	_
+32	à	ADP	O	_
+33	partir	VERB	O	_
+34	de	ADP	O	_
+35	2	NUM	O	_
+36	m	NOUN	O	_
+37	de	ADP	O	_
+38	profondeur	NOUN	O	_
+39	mais	CCONJ	O	_
+40	cette	DET	O	_
+41	source	NOUN	O	_
+42	n’	ADV	O	_
+43	a	AUX	O	_
+44	pas	ADV	O	_
+45	été	AUX	O	_
+46	recoupée	VERB	O	_
+47	lors	ADV	O	_
+48	des	DET	O	_
+49	dernières	ADJ	O	_
+50	investigations	NOUN	O	_
+51	.	PUNCT	O	_
+
+
+#Stockage de produits liquides type huiles : la surface polluée est d’environ 30 m2 sur une profondeur d’un mètre environ.
+1	Stockage	NOUN	O	_
+2	de	ADP	O	_
+3	produits	NOUN	BU	_
+4	liquides	ADJ	EU	_
+5	type	NOUN	EU	_
+6	huiles	ADJ	EU	_
+7	 	SPACE	O	_
+8	:	PUNCT	O	_
+9	la	DET	O	_
+10	surface	NOUN	O	_
+11	polluée	VERB	O	_
+12	est	AUX	O	_
+13	d’	AUX	O	_
+14	environ	ADV	O	_
+15	30	NUM	O	_
+16	m2	NOUN	O	_
+17	sur	ADP	O	_
+18	une	DET	O	_
+19	profondeur	NOUN	O	_
+20	d’	VERB	O	_
+21	un	DET	O	_
+22	mètre	NOUN	O	_
+23	environ	ADV	O	_
+24	.	PUNCT	O	_
+
+
+#Atelier de presses hydrauliques : un spot de pollution par les hydrocarbures totaux et certains HAP a été détecté sur une surface d’environ 40 m2 jusqu’à au moins 5.5 m de profondeur et seulement dans les remblais, jusqu’à 1 m de profondeur, sur une surface proche de 350 m2.
+1	Atelier	NOUN	O	_
+2	de	ADP	O	_
+3	presses	NOUN	O	_
+4	hydrauliques	ADJ	O	_
+5	 	SPACE	O	_
+6	:	PUNCT	O	_
+7	un	DET	O	_
+8	spot	NOUN	O	_
+9	de	ADP	O	_
+10	pollution	NOUN	O	_
+11	par	ADP	BS	_
+12	les	DET	BS	_
+13	hydrocarbures	NOUN	BS	_
+14	totaux	ADJ	ES	_
+15	et	CCONJ	BS	_
+16	certains	DET	BS	_
+17	HAP	PROPN	ES	_
+18	a	AUX	O	_
+19	été	AUX	O	_
+20	détecté	VERB	O	_
+21	sur	ADP	O	_
+22	une	DET	O	_
+23	surface	NOUN	O	_
+24	d’	VERB	O	_
+25	environ	ADV	O	_
+26	40	NUM	O	_
+27	m2	NOUN	O	_
+28	jusqu’	NOUN	O	_
+29	à	ADP	O	_
+30	au	PROPN	O	_
+31	moins	ADV	O	_
+32	5.5	NUM	O	_
+33	m	NOUN	O	_
+34	de	ADP	O	_
+35	profondeur	NOUN	O	_
+36	et	CCONJ	O	_
+37	seulement	ADV	O	_
+38	dans	ADP	O	_
+39	les	DET	O	_
+40	remblais	NOUN	O	_
+41	,	PUNCT	O	_
+42	jusqu’	PROPN	O	_
+43	à	ADP	O	_
+44	1	NUM	O	_
+45	m	NOUN	O	_
+46	de	ADP	O	_
+47	profondeur	NOUN	O	_
+48	,	PUNCT	O	_
+49	sur	ADP	O	_
+50	une	DET	O	_
+51	surface	NOUN	O	_
+52	proche	ADJ	O	_
+53	de	ADP	O	_
+54	350	NUM	O	_
+55	m2	NOUN	O	_
+56	.	PUNCT	O	_
+
+
+#Enfin, des métaux lourds sont présent dans l’ensemble de la zone d’étude de manière dispersée.
+1	Enfin	ADV	O	_
+2	,	PUNCT	O	_
+3	des	DET	BS	_
+4	métaux	NOUN	ES	_
+5	lourds	ADJ	ES	_
+6	sont	AUX	O	_
+7	présent	ADJ	O	_
+8	dans	ADP	O	_
+9	l’	NUM	O	_
+10	ensemble	NOUN	O	_
+11	de	ADP	O	_
+12	la	DET	O	_
+13	zone	NOUN	O	_
+14	d’	NOUN	O	_
+15	étude	NOUN	O	_
+16	de	ADP	O	_
+17	manière	NOUN	O	_
+18	dispersée	ADJ	O	_
+19	.	PUNCT	O	_
+
+
+#Leur origine est attribuable à la nature des remblais, antérieurs aux activités du site.
+1	Leur	DET	O	_
+2	origine	NOUN	O	_
+3	est	AUX	O	_
+4	attribuable	ADJ	O	_
+5	à	ADP	O	_
+6	la	DET	O	_
+7	nature	NOUN	O	_
+8	des	DET	O	_
+9	remblais	NOUN	O	_
+10	,	PUNCT	O	_
+11	antérieurs	NOUN	O	_
+12	aux	ADJ	O	_
+13	activités	NOUN	O	_
+14	du	DET	O	_
+15	site	NOUN	O	_
+16	.	PUNCT	O	_
+
+
+#Eaux souterraines:
+1	Eaux	NOUN	O	_
+2	souterraines	ADJ	O	_
+3	:	PUNCT	O	_
+
+
+#Trois piézomètres ont été implantés sur le site en complément de ceux déjà existants sur le site RLST ELIS, mitoyen.
+1	Trois	NUM	O	_
+2	piézomètres	NOUN	O	_
+3	ont	AUX	O	_
+4	été	AUX	O	_
+5	implantés	VERB	O	_
+6	sur	ADP	O	_
+7	le	DET	O	_
+8	site	NOUN	O	_
+9	en	ADP	O	_
+10	complément	NOUN	O	_
+11	de	ADP	O	_
+12	ceux	PRON	O	_
+13	déjà	ADV	O	_
+14	existants	ADJ	O	_
+15	sur	ADP	O	_
+16	le	DET	O	_
+17	site	NOUN	O	_
+18	RLST	ADJ	BI	_
+19	ELIS	NOUN	EI	_
+20	,	PUNCT	O	_
+21	mitoyen	PROPN	O	_
+22	.	PUNCT	O	_
+
+
+#Ils ont été réalisés entre 11 et 12 m de profondeur.
+1	Ils	PRON	O	_
+2	ont	AUX	O	_
+3	été	AUX	O	_
+4	réalisés	VERB	O	_
+5	entre	ADP	O	_
+6	11	PRON	O	_
+7	et	CCONJ	O	_
+8	12	NUM	O	_
+9	m	NOUN	O	_
+10	de	ADP	O	_
+11	profondeur	NOUN	O	_
+12	.	PUNCT	O	_
+
+
+#Deux (PZ1 et PZ2) ont été implantés en aval présumé du site, un en amont (PZ3).
+1	Deux	NUM	O	_
+2	(	PUNCT	O	_
+3	PZ1	NOUN	O	_
+4	et	CCONJ	O	_
+5	PZ2	PROPN	O	_
+6	)	PUNCT	O	_
+7	ont	AUX	O	_
+8	été	AUX	O	_
+9	implantés	VERB	O	_
+10	en	ADP	O	_
+11	aval	NOUN	O	_
+12	présumé	ADJ	O	_
+13	du	DET	O	_
+14	site	NOUN	O	_
+15	,	PUNCT	O	_
+16	un	DET	O	_
+17	en	ADP	O	_
+18	amont	PROPN	O	_
+19	(	PUNCT	O	_
+20	PZ3	NOUN	O	_
+21	)	PUNCT	O	_
+22	.	PUNCT	O	_
+
+
+#Le sens d’écoulement de la nappe est vers le nord (confirmé par le bureau d'étude URS qui intervient sur le site RLST).
+1	Le	DET	O	_
+2	sens	NOUN	O	_
+3	d’	VERB	O	_
+4	écoulement	ADV	O	_
+5	de	ADP	O	_
+6	la	DET	O	_
+7	nappe	PROPN	O	_
+8	est	AUX	O	_
+9	vers	ADP	O	_
+10	le	DET	O	_
+11	nord	NOUN	O	_
+12	(	PUNCT	O	_
+13	confirmé	VERB	O	_
+14	par	ADP	O	_
+15	le	DET	O	_
+16	bureau	NOUN	O	_
+17	d'	ADP	O	_
+18	étude	NOUN	O	_
+19	URS	PROPN	EI	_
+20	qui	PRON	O	_
+21	intervient	VERB	O	_
+22	sur	ADP	O	_
+23	le	DET	O	_
+24	site	NOUN	O	_
+25	RLST	ADJ	O	_
+26	)	PUNCT	O	_
+27	.	PUNCT	O	_
+
+
+#Les hydrocarbures totaux ne sont pas détectés dans les eaux souterraines.
+1	Les	DET	O	_
+2	hydrocarbures	NOUN	BS	_
+3	totaux	ADJ	ES	_
+4	ne	ADV	O	_
+5	sont	AUX	O	_
+6	pas	ADV	O	_
+7	détectés	VERB	O	_
+8	dans	ADP	O	_
+9	les	DET	O	_
+10	eaux	NOUN	O	_
+11	souterraines	ADJ	O	_
+12	.	PUNCT	O	_
+
+
+#Les HAP sont détectés mais les analyses montrent un impact faible : la concentration des 6 HAP mesurés en aval est 1,5 à 6,5 fois supérieure à la concentration mesurée en amont tout en restant inférieure aux valeurs de référence (définies par l'arrêté du 11 janvier 2007 relatif aux limites et références de qualité des eaux brutes et des eaux destinées à la consommation humaine).
+1	Les	DET	BS	_
+2	HAP	NOUN	ES	_
+3	sont	AUX	O	_
+4	détectés	VERB	O	_
+5	mais	CCONJ	O	_
+6	les	DET	O	_
+7	analyses	NOUN	O	_
+8	montrent	VERB	O	_
+9	un	DET	O	_
+10	impact	NOUN	O	_
+11	faible	ADJ	O	_
+12	 	SPACE	O	_
+13	:	PUNCT	O	_
+14	la	DET	O	_
+15	concentration	NOUN	O	_
+16	des	DET	BS	_
+17	6	NUM	ES	_
+18	HAP	NOUN	ES	_
+19	mesurés	VERB	O	_
+20	en	ADP	O	_
+21	aval	NOUN	O	_
+22	est	AUX	O	_
+23	1,5	NUM	O	_
+24	à	ADP	O	_
+25	6,5	NUM	O	_
+26	fois	NOUN	O	_
+27	supérieure	ADJ	O	_
+28	à	ADP	O	_
+29	la	DET	O	_
+30	concentration	NOUN	O	_
+31	mesurée	VERB	O	_
+32	en	ADP	O	_
+33	amont	VERB	O	_
+34	tout	PRON	O	_
+35	en	ADP	O	_
+36	restant	VERB	O	_
+37	inférieure	NOUN	O	_
+38	aux	ADJ	O	_
+39	valeurs	NOUN	O	_
+40	de	ADP	O	_
+41	référence	NOUN	O	_
+42	(	PUNCT	O	_
+43	définies	NOUN	O	_
+44	par	ADP	O	_
+45	l'	DET	O	_
+46	arrêté	NOUN	O	_
+47	du	DET	O	_
+48	11	NUM	O	_
+49	janvier	NOUN	O	_
+50	2007	NUM	O	_
+51	relatif	ADJ	O	_
+52	aux	DET	O	_
+53	limites	NOUN	O	_
+54	et	CCONJ	O	_
+55	références	NOUN	O	_
+56	de	ADP	O	_
+57	qualité	NOUN	O	_
+58	des	DET	O	_
+59	eaux	NOUN	O	_
+60	brutes	ADJ	O	_
+61	et	CCONJ	O	_
+62	des	DET	O	_
+63	eaux	NOUN	O	_
+64	destinées	VERB	O	_
+65	à	ADP	O	_
+66	la	DET	O	_
+67	consommation	NOUN	O	_
+68	humaine	ADJ	O	_
+69	)	PUNCT	O	_
+70	.	PUNCT	O	_
+
+
+#Il y aurait cependant un transfert des HAP du sol vers les eaux souterraines.
+1	Il	PRON	O	_
+2	y	PRON	O	_
+3	aurait	AUX	O	_
+4	cependant	ADV	O	_
+5	un	DET	O	_
+6	transfert	NOUN	O	_
+7	des	DET	O	_
+8	HAP	NOUN	ES	_
+9	du	DET	O	_
+10	sol	NOUN	O	_
+11	vers	ADP	O	_
+12	les	DET	O	_
+13	eaux	NOUN	O	_
+14	souterraines	ADJ	O	_
+15	.	PUNCT	O	_
+
+
+#Des solvants chlorés sont détectés, avec des concentrations en aval supérieures à celles mesures en amont.
+1	Des	DET	O	_
+2	solvants	NOUN	O	_
+3	chlorés	VERB	BS	_
+4	sont	AUX	O	_
+5	détectés	VERB	O	_
+6	,	PUNCT	O	_
+7	avec	ADP	O	_
+8	des	DET	O	_
+9	concentrations	NOUN	O	_
+10	en	ADP	O	_
+11	aval	NOUN	O	_
+12	supérieures	ADJ	O	_
+13	à	ADP	O	_
+14	celles	PRON	O	_
+15	mesures	NOUN	O	_
+16	en	ADP	O	_
+17	amont	PROPN	O	_
+18	.	PUNCT	O	_
+
+
+#La valeur de référence est dépassée au droit de PZ1.
+1	La	DET	O	_
+2	valeur	NOUN	O	_
+3	de	ADP	O	_
+4	référence	NOUN	O	_
+5	est	AUX	O	_
+6	dépassée	VERB	O	_
+7	au	PROPN	O	_
+8	droit	ADJ	O	_
+9	de	ADP	O	_
+10	PZ1	NOUN	O	_
+11	.	PUNCT	O	_
+
+
+#Le chlorure de vinyle, ultime produit de dégradation des solvants chlorés, n’a pas été détecté au droit du site SOCATEX.
+1	Le	DET	BS	_
+2	chlorure	NOUN	BS	_
+3	de	ADP	ES	_
+4	vinyle	NOUN	ES	_
+5	,	PUNCT	O	_
+6	ultime	PROPN	O	_
+7	produit	VERB	O	_
+8	de	ADP	O	_
+9	dégradation	NOUN	O	_
+10	des	DET	O	_
+11	solvants	NOUN	BU	_
+12	chlorés	VERB	EU	_
+13	,	PUNCT	O	_
+14	n’	PROPN	O	_
+15	a	AUX	O	_
+16	pas	ADV	O	_
+17	été	AUX	O	_
+18	détecté	ADV	O	_
+19	au	PROPN	O	_
+20	droit	VERB	O	_
+21	du	DET	O	_
+22	site	NOUN	O	_
+23	SOCATEX	VERB	BI	_
+24	.	PUNCT	O	_
+
+
+#Remise en état:
+1	Remise	NOUN	O	_
+2	en	ADP	O	_
+3	état	NOUN	O	_
+4	:	PUNCT	O	_
+
+
+#L'exploitant s'engage à remettre en état pour un usage industriel.
+1	L'	DET	O	_
+2	exploitant	VERB	O	_
+3	s'	PRON	O	_
+4	engage	VERB	O	_
+5	à	ADP	O	_
+6	remettre	VERB	O	_
+7	en	ADP	O	_
+8	état	NOUN	O	_
+9	pour	ADP	O	_
+10	un	DET	O	_
+11	usage	NOUN	O	_
+12	industriel	ADJ	O	_
+13	.	PUNCT	O	_
+
+
+#En 2010/2011, il est prévu que la réhabilitation pour un usage industriel soit suivie d'une procédure de changement d'usage à l'initiative d'un aménageur pour un projet mixte (résidentiel, services, artisanat, service public).
+1	En	ADP	O	_
+2	2010/2011	NOUN	O	_
+3	,	PUNCT	O	_
+4	il	PRON	O	_
+5	est	AUX	O	_
+6	prévu	VERB	O	_
+7	que	SCONJ	O	_
+8	la	DET	O	_
+9	réhabilitation	NOUN	O	_
+10	pour	ADP	O	_
+11	un	DET	O	_
+12	usage	NOUN	O	_
+13	industriel	ADJ	O	_
+14	soit	AUX	O	_
+15	suivie	VERB	O	_
+16	d'	ADP	O	_
+17	une	DET	O	_
+18	procédure	NOUN	O	_
+19	de	ADP	O	_
+20	changement	NOUN	O	_
+21	d'	ADP	O	_
+22	usage	NOUN	O	_
+23	à	ADP	O	_
+24	l'	DET	O	_
+25	initiative	NOUN	O	_
+26	d'	ADP	O	_
+27	un	DET	O	_
+28	aménageur	NOUN	O	_
+29	pour	ADP	O	_
+30	un	DET	O	_
+31	projet	NOUN	O	_
+32	mixte	ADJ	O	_
+33	(	PUNCT	O	_
+34	résidentiel	PROPN	O	_
+35	,	PUNCT	O	_
+36	services	NOUN	O	_
+37	,	PUNCT	O	_
+38	artisanat	NOUN	O	_
+39	,	PUNCT	O	_
+40	service	NOUN	O	_
+41	public	ADJ	O	_
+42	)	PUNCT	O	_
+43	.	PUNCT	O	_
+
+
+#Les documents remis par l'exploitant à ce jours excluent la pollution aux solvants chlorés, qui est prise en compte au travers du plan de gestion de RLST ELIS, société mitoyenne exploitant les installations classées à l’origine de cette pollution et dont la réhabilitation du site est en cours.
+1	Les	DET	O	_
+2	documents	NOUN	O	_
+3	remis	VERB	O	_
+4	par	ADP	O	_
+5	l'	DET	O	_
+6	exploitant	VERB	O	_
+7	à	ADP	O	_
+8	ce	DET	O	_
+9	jours	NOUN	O	_
+10	excluent	VERB	O	_
+11	la	DET	O	_
+12	pollution	NOUN	O	_
+13	aux	ADJ	O	_
+14	solvants	NOUN	O	_
+15	chlorés	VERB	BS	_
+16	,	PUNCT	O	_
+17	qui	PRON	O	_
+18	est	AUX	O	_
+19	prise	VERB	O	_
+20	en	ADP	O	_
+21	compte	NOUN	O	_
+22	au	PROPN	O	_
+23	travers	NOUN	O	_
+24	du	DET	O	_
+25	plan	NOUN	O	_
+26	de	ADP	O	_
+27	gestion	NOUN	O	_
+28	de	ADP	O	_
+29	RLST	ADJ	BI	_
+30	ELIS	NOUN	EI	_
+31	,	PUNCT	O	_
+32	société	NOUN	O	_
+33	mitoyenne	ADJ	O	_
+34	exploitant	VERB	O	_
+35	les	DET	O	_
+36	installations	NOUN	O	_
+37	classées	VERB	O	_
+38	à	ADP	O	_
+39	l’	PROPN	O	_
+40	origine	NOUN	O	_
+41	de	ADP	O	_
+42	cette	DET	O	_
+43	pollution	NOUN	O	_
+44	et	CCONJ	O	_
+45	dont	PRON	O	_
+46	la	DET	O	_
+47	réhabilitation	NOUN	O	_
+48	du	DET	O	_
+49	site	NOUN	O	_
+50	est	AUX	O	_
+51	en	ADP	O	_
+52	cours	NOUN	O	_
+53	.	PUNCT	O	_
+
+
+#La pollution a été traitée à l’aide d’une excavation et d’une élimination.
+1	La	DET	O	_
+2	pollution	NOUN	O	_
+3	a	AUX	O	_
+4	été	AUX	O	_
+5	traitée	VERB	O	_
+6	à	ADP	O	_
+7	l’	PROPN	O	_
+8	aide	NOUN	O	_
+9	d’	VERB	O	_
+10	une	DET	O	_
+11	excavation	NOUN	O	_
+12	et	CCONJ	O	_
+13	d’	VERB	O	_
+14	une	DET	O	_
+15	élimination	NOUN	O	_
+16	.	PUNCT	O	_
+
+
+#Les terres concernées par une pollution diffuse ont fait l’objet d’un traitement chimique par ajout de chaux favorisé par un brassage mécanique.
+1	Les	DET	O	_
+2	terres	NOUN	O	_
+3	concernées	VERB	O	_
+4	par	ADP	O	_
+5	une	DET	O	_
+6	pollution	NOUN	O	_
+7	diffuse	ADJ	O	_
+8	ont	AUX	O	_
+9	fait	VERB	O	_
+10	l’	NUM	O	_
+11	objet	NOUN	O	_
+12	d’	VERB	O	_
+13	un	DET	O	_
+14	traitement	NOUN	O	_
+15	chimique	ADJ	O	_
+16	par	ADP	O	_
+17	ajout	NOUN	O	_
+18	de	ADP	O	_
+19	chaux	NOUN	O	_
+20	favorisé	VERB	O	_
+21	par	ADP	O	_
+22	un	DET	O	_
+23	brassage	NOUN	O	_
+24	mécanique	ADJ	O	_
+25	.	PUNCT	O	_
+
+
+#Les impacts potentiels des pollutions identifiées sont les suivants :
+1	Les	DET	O	_
+2	impacts	NOUN	O	_
+3	potentiels	ADJ	O	_
+4	des	DET	O	_
+5	pollutions	NOUN	O	_
+6	identifiées	VERB	O	_
+7	sont	AUX	O	_
+8	les	DET	O	_
+9	suivants	ADJ	O	_
+10	 	SPACE	O	_
+11	:	PUNCT	O	_
+
+
+#- Percolation des polluants et transfert vers les eaux souterraines et transfert des polluants via les eaux souterraines, notamment pour les HAP
+1	-	PUNCT	O	_
+2	Percolation	NOUN	O	_
+3	des	DET	O	_
+4	polluants	NOUN	BU	_
+5	et	CCONJ	O	_
+6	transfert	NOUN	O	_
+7	vers	ADP	O	_
+8	les	DET	O	_
+9	eaux	NOUN	O	_
+10	souterraines	ADJ	O	_
+11	et	CCONJ	O	_
+12	transfert	VERB	O	_
+13	des	DET	O	_
+14	polluants	NOUN	BU	_
+15	via	ADP	O	_
+16	les	DET	O	_
+17	eaux	NOUN	O	_
+18	souterraines	ADJ	O	_
+19	,	PUNCT	O	_
+20	notamment	ADV	O	_
+21	pour	ADP	O	_
+22	les	DET	BS	_
+23	HAP	NOUN	ES	_
+
+
+#- Inhalation de gaz pollués.
+1	-	PUNCT	O	_
+2	Inhalation	NOUN	O	_
+3	de	ADP	O	_
+4	gaz	DET	O	_
+5	pollués	VERB	O	_
+6	.	PUNCT	O	_
+
+
+#Stratégie de réhabilitation
+1	Stratégie	NOUN	O	_
+2	de	ADP	O	_
+3	réhabilitation	NOUN	O	_
+
+
+#Dans un premier temps, SOCATEX vise la maîtrise des sources de pollution avec pour priorité la suppression des sources de pollution des sols et le confinement si nécessaire.
+1	Dans	ADP	O	_
+2	un	DET	O	_
+3	premier	ADJ	O	_
+4	temps	NOUN	O	_
+5	,	PUNCT	O	_
+6	SOCATEX	NOUN	BI	_
+7	vise	ADJ	O	_
+8	la	DET	O	_
+9	maîtrise	NOUN	O	_
+10	des	DET	O	_
+11	sources	NOUN	O	_
+12	de	ADP	O	_
+13	pollution	NOUN	O	_
+14	avec	ADP	O	_
+15	pour	ADP	O	_
+16	priorité	NOUN	O	_
+17	la	DET	O	_
+18	suppression	NOUN	O	_
+19	des	DET	O	_
+20	sources	NOUN	O	_
+21	de	ADP	O	_
+22	pollution	NOUN	O	_
+23	des	DET	O	_
+24	sols	NOUN	O	_
+25	et	CCONJ	O	_
+26	le	DET	O	_
+27	confinement	NOUN	O	_
+28	si	SCONJ	O	_
+29	nécessaire	ADJ	O	_
+30	.	PUNCT	O	_
+
+
+#Le traitement de la nappe, polluées en COHV par le site voisin RLST) n’est pas envisagé (action imposée à RLST par arrêté préfectoral complémentaire du 4 mars 2011).
+1	Le	DET	O	_
+2	traitement	NOUN	O	_
+3	de	ADP	O	_
+4	la	DET	O	_
+5	nappe	PROPN	O	_
+6	,	PUNCT	O	_
+7	polluées	VERB	O	_
+8	en	ADP	O	_
+9	COHV	VERB	BS	_
+10	par	ADP	O	_
+11	le	DET	O	_
+12	site	NOUN	O	_
+13	voisin	ADJ	O	_
+14	RLST	PROPN	BI	_
+15	)	PUNCT	O	_
+16	n’	PRON	O	_
+17	est	AUX	O	_
+18	pas	ADV	O	_
+19	envisagé	VERB	O	_
+20	(	PUNCT	O	_
+21	action	NOUN	O	_
+22	imposée	VERB	O	_
+23	à	ADP	O	_
+24	RLST	VERB	BI	_
+25	par	ADP	O	_
+26	arrêté	VERB	O	_
+27	préfectoral	ADJ	O	_
+28	complémentaire	NOUN	O	_
+29	du	DET	O	_
+30	4	NUM	O	_
+31	mars	NOUN	O	_
+32	2011	NUM	O	_
+33	)	PUNCT	O	_
+34	.	PUNCT	O	_
+
+
+#L’étude prévoit le traitement, sur 2m d’épaisseur, des spots de pollutions identifiés dans l’atelier des presses, autour de la cuve à fuel, au droit du stockage des produits liquides de type huiles et dans l’atelier des presses hydrauliques.
+1	L’	NOUN	O	_
+2	étude	NOUN	O	_
+3	prévoit	VERB	O	_
+4	le	DET	O	_
+5	traitement	NOUN	O	_
+6	,	PUNCT	O	_
+7	sur	ADP	O	_
+8	2	NUM	O	_
+9	m	NOUN	O	_
+10	d’	VERB	O	_
+11	épaisseur	NOUN	O	_
+12	,	PUNCT	O	_
+13	des	DET	O	_
+14	spots	NOUN	O	_
+15	de	ADP	O	_
+16	pollutions	NOUN	O	_
+17	identifiés	VERB	O	_
+18	dans	ADP	O	_
+19	l’	NUM	O	_
+20	atelier	NOUN	O	_
+21	des	DET	O	_
+22	presses	NOUN	O	_
+23	,	PUNCT	O	_
+24	autour	ADV	O	_
+25	de	ADP	O	_
+26	la	DET	O	_
+27	cuve	NOUN	ED	_
+28	à	ADP	O	_
+29	fuel	ADJ	EU	_
+30	,	PUNCT	O	_
+31	au	PROPN	O	_
+32	droit	VERB	O	_
+33	du	DET	O	_
+34	stockage	NOUN	BU	_
+35	des	DET	IU	_
+36	produits	NOUN	IU	_
+37	liquides	ADJ	EU	_
+38	de	ADP	O	_
+39	type	NOUN	BU	_
+40	huiles	ADJ	EU	_
+41	et	CCONJ	O	_
+42	dans	ADP	O	_
+43	l’	NUM	O	_
+44	atelier	NOUN	O	_
+45	des	DET	O	_
+46	presses	NOUN	O	_
+47	hydrauliques	ADJ	O	_
+48	.	PUNCT	O	_
+
+
+#La cuve à fuel (inertée à l’eau) sera retirée et le traitement des terres entre 0 et 2m si celles-ci sont polluées sera réalisé.
+1	La	DET	BD	_
+2	cuve	NOUN	ED	_
+3	à	ADP	O	_
+4	fuel	PROPN	EU	_
+5	(	PUNCT	O	_
+6	inertée	VERB	O	_
+7	à	ADP	O	_
+8	l’	PROPN	O	_
+9	eau	NOUN	O	_
+10	)	PUNCT	O	_
+11	sera	AUX	O	_
+12	retirée	VERB	O	_
+13	et	CCONJ	O	_
+14	le	DET	O	_
+15	traitement	NOUN	O	_
+16	des	DET	O	_
+17	terres	NOUN	O	_
+18	entre	ADP	O	_
+19	0	NUM	O	_
+20	et	CCONJ	O	_
+21	2	NUM	O	_
+22	m	NOUN	O	_
+23	si	SCONJ	O	_
+24	celles	PRON	O	_
+25	-	PUNCT	O	_
+26	ci	PRON	O	_
+27	sont	AUX	O	_
+28	polluées	VERB	O	_
+29	sera	AUX	O	_
+30	réalisé	VERB	O	_
+31	.	PUNCT	O	_
+
+
+#Le traitement retenu n’est pas fixé : il pourra être on site, in situ ou hors site (y compris l’élimination des  terres dans un centre de stockage autorisé).
+1	Le	DET	O	_
+2	traitement	NOUN	O	_
+3	retenu	ADJ	O	_
+4	n’	ADV	O	_
+5	est	AUX	O	_
+6	pas	ADV	O	_
+7	fixé	VERB	O	_
+8	 	SPACE	O	_
+9	:	PUNCT	O	_
+10	il	PRON	O	_
+11	pourra	AUX	O	_
+12	être	AUX	O	_
+13	on	PRON	O	_
+14	site	NOUN	O	_
+15	,	PUNCT	O	_
+16	in	X	O	_
+17	situ	VERB	O	_
+18	ou	CCONJ	O	_
+19	hors	ADP	O	_
+20	site	NOUN	O	_
+21	(	PUNCT	O	_
+22	y	PRON	O	_
+23	compris	ADJ	O	_
+24	l’	NUM	O	_
+25	élimination	VERB	O	_
+26	des	DET	O	_
+27	 	SPACE	O	_
+28	terres	NOUN	O	_
+29	dans	ADP	O	_
+30	un	DET	O	_
+31	centre	NOUN	O	_
+32	de	ADP	O	_
+33	stockage	NOUN	O	_
+34	autorisé	ADJ	O	_
+35	)	PUNCT	O	_
+36	.	PUNCT	O	_
+
+
+#C’est à l’entreprise en charge du chantier de traitement de retenir la solution technique à mettre en œuvre.
+1	C’	NOUN	O	_
+2	est	AUX	O	_
+3	à	ADP	O	_
+4	l’	NOUN	O	_
+5	entreprise	VERB	O	_
+6	en	ADP	O	_
+7	charge	NOUN	O	_
+8	du	DET	O	_
+9	chantier	NOUN	O	_
+10	de	ADP	O	_
+11	traitement	NOUN	O	_
+12	de	ADP	O	_
+13	retenir	VERB	O	_
+14	la	DET	O	_
+15	solution	NOUN	O	_
+16	technique	ADJ	O	_
+17	à	ADP	O	_
+18	mettre	VERB	O	_
+19	en	ADP	O	_
+20	œuvre	NOUN	O	_
+21	.	PUNCT	O	_
+
+
+#L'arrêté préfectoral complémentaire du 20/06/2011 impose notamment à SOCATEX:
+1	L'	DET	O	_
+2	arrêté	NOUN	O	_
+3	préfectoral	ADJ	O	_
+4	complémentaire	NOUN	O	_
+5	du	DET	O	_
+6	20/06/2011	ADJ	O	_
+7	impose	VERB	O	_
+8	notamment	ADV	O	_
+9	à	ADP	O	_
+10	SOCATEX	NOUN	BI	_
+11	:	PUNCT	O	_
+
+
+#-le traitement des spots de pollution conformément au premier plan de gestion remis;
+1	-le	PRON	O	_
+2	traitement	NOUN	O	_
+3	des	DET	O	_
+4	spots	NOUN	O	_
+5	de	ADP	O	_
+6	pollution	NOUN	O	_
+7	conformément	ADV	O	_
+8	au	VERB	O	_
+9	premier	ADJ	O	_
+10	plan	NOUN	O	_
+11	de	ADP	O	_
+12	gestion	NOUN	O	_
+13	remis	NOUN	O	_
+14	;	PUNCT	O	_
+
+
+#- la mise à jour du plan de gestion et de l'analyse des risques résiduels finale (dès lors qu'il demeure une pollution résiduelle et que les voies de transfert ne sont pas totalement supprimées)
+1	-	PUNCT	O	_
+2	la	DET	O	_
+3	mise	NOUN	O	_
+4	à	ADP	O	_
+5	jour	NOUN	O	_
+6	du	DET	O	_
+7	plan	NOUN	O	_
+8	de	ADP	O	_
+9	gestion	NOUN	O	_
+10	et	CCONJ	O	_
+11	de	ADP	O	_
+12	l'	DET	O	_
+13	analyse	NOUN	O	_
+14	des	DET	O	_
+15	risques	NOUN	O	_
+16	résiduels	ADJ	O	_
+17	finale	ADJ	O	_
+18	(	PUNCT	O	_
+19	dès	ADP	O	_
+20	lors	ADV	O	_
+21	qu'	SCONJ	O	_
+22	il	PRON	O	_
+23	demeure	VERB	O	_
+24	une	DET	O	_
+25	pollution	NOUN	O	_
+26	résiduelle	ADJ	O	_
+27	et	CCONJ	O	_
+28	que	SCONJ	O	_
+29	les	DET	O	_
+30	voies	NOUN	O	_
+31	de	ADP	O	_
+32	transfert	NOUN	O	_
+33	ne	ADV	O	_
+34	sont	AUX	O	_
+35	pas	ADV	O	_
+36	totalement	ADV	O	_
+37	supprimées	VERB	O	_
+38	)	PUNCT	O	_
+
+
+#- l'examen de la nécessité de procéder à la surveillance des eaux souterraines;
+1	-	PUNCT	O	_
+2	l'	DET	O	_
+3	examen	NOUN	O	_
+4	de	ADP	O	_
+5	la	DET	O	_
+6	nécessité	NOUN	O	_
+7	de	ADP	O	_
+8	procéder	VERB	O	_
+9	à	ADP	O	_
+10	la	DET	O	_
+11	surveillance	NOUN	O	_
+12	des	DET	O	_
+13	eaux	NOUN	O	_
+14	souterraines	ADJ	O	_
+15	;	PUNCT	O	_
+
+
+#- la mise en œuvre de dispositions type servitudes permettant d'informer les futurs usagers/acquéreurs des précautions d'usage.
+1	-	PUNCT	O	_
+2	la	DET	O	_
+3	mise	NOUN	O	_
+4	en	ADP	O	_
+5	œuvre	NOUN	O	_
+6	de	ADP	O	_
+7	dispositions	NOUN	O	_
+8	type	NOUN	O	_
+9	servitudes	NOUN	O	_
+10	permettant	VERB	O	_
+11	d'	ADP	O	_
+12	informer	VERB	O	_
+13	les	DET	O	_
+14	futurs	NOUN	O	_
+15	usagers	ADJ	O	_
+16	/	ADP	O	_
+17	acquéreurs	NOUN	O	_
+18	des	DET	O	_
+19	précautions	NOUN	O	_
+20	d'	ADP	O	_
+21	usage	NOUN	O	_
+22	.	PUNCT	O	_
+
+
+#Le rapport d’intervention d’Août 2013 réalisé par Sévêque précise les mesures de gestion retenues :
+1	Le	DET	O	_
+2	rapport	NOUN	O	_
+3	d’	NUM	O	_
+4	intervention	NOUN	O	_
+5	d’	NUM	O	_
+6	Août	NOUN	O	_
+7	2013	NUM	O	_
+8	réalisé	VERB	O	_
+9	par	ADP	O	_
+10	Sévêque	NOUN	EI	_
+11	précise	VERB	O	_
+12	les	DET	O	_
+13	mesures	NOUN	O	_
+14	de	ADP	O	_
+15	gestion	NOUN	O	_
+16	retenues	ADJ	O	_
+17	:	PUNCT	O	_
+
+
+#-Les pollutions aux fractions lourdes d’hydrocarbures seront traitées hors site, les terres polluées seront évacuées puis traitées en filières agrées.
+1	-Les	ADJ	O	_
+2	pollutions	NOUN	O	_
+3	aux	ADJ	O	_
+4	fractions	NOUN	BU	_
+5	lourdes	ADJ	EU	_
+6	d’	NUM	EU	_
+7	hydrocarbures	NOUN	BS	_
+8	seront	AUX	O	_
+9	traitées	VERB	O	_
+10	hors	ADP	O	_
+11	site	NOUN	O	_
+12	,	PUNCT	O	_
+13	les	DET	O	_
+14	terres	NOUN	O	_
+15	polluées	VERB	O	_
+16	seront	AUX	O	_
+17	évacuées	VERB	O	_
+18	puis	CCONJ	O	_
+19	traitées	VERB	O	_
+20	en	ADP	O	_
+21	filières	NOUN	O	_
+22	agrées	VERB	O	_
+23	.	PUNCT	O	_
+
+
+#-Concernant l’eau souterraine, les risques générés par les impacts identifiés étant maîtrisés au droit du site SOCATEX, aucune mesure de traitement de la nappe n’a été envisagée.
+1	-Concernant	VERB	O	_
+2	l’	ADJ	O	_
+3	eau	NOUN	O	_
+4	souterraine	PROPN	O	_
+5	,	PUNCT	O	_
+6	les	DET	O	_
+7	risques	NOUN	O	_
+8	générés	VERB	O	_
+9	par	ADP	O	_
+10	les	DET	O	_
+11	impacts	NOUN	O	_
+12	identifiés	VERB	O	_
+13	étant	AUX	O	_
+14	maîtrisés	VERB	O	_
+15	au	PROPN	O	_
+16	droit	VERB	O	_
+17	du	DET	O	_
+18	site	NOUN	O	_
+19	SOCATEX	VERB	BI	_
+20	,	PUNCT	O	_
+21	aucune	DET	O	_
+22	mesure	NOUN	O	_
+23	de	ADP	O	_
+24	traitement	NOUN	O	_
+25	de	ADP	O	_
+26	la	DET	O	_
+27	nappe	PROPN	O	_
+28	n’	PROPN	O	_
+29	a	AUX	O	_
+30	été	AUX	O	_
+31	envisagée	VERB	O	_
+32	.	PUNCT	O	_
+
+
+#Au droit su site voisin RLST, une solution de traitement par pompage, filtration en surface et réinjection de l’eau traitée a été retenue pour traiter la pollution en solvants chlorés.
+1	Au	NOUN	O	_
+2	droit	ADJ	O	_
+3	su	AUX	O	_
+4	site	NOUN	O	_
+5	voisin	ADJ	O	_
+6	RLST	PROPN	O	_
+7	,	PUNCT	O	_
+8	une	DET	O	_
+9	solution	NOUN	O	_
+10	de	ADP	O	_
+11	traitement	NOUN	O	_
+12	par	ADP	O	_
+13	pompage	NOUN	O	_
+14	,	PUNCT	O	_
+15	filtration	NOUN	O	_
+16	en	ADP	O	_
+17	surface	NOUN	O	_
+18	et	CCONJ	O	_
+19	réinjection	NOUN	O	_
+20	de	ADP	O	_
+21	l’	PROPN	O	_
+22	eau	NOUN	O	_
+23	traitée	VERB	O	_
+24	a	AUX	O	_
+25	été	AUX	O	_
+26	retenue	VERB	O	_
+27	pour	ADP	O	_
+28	traiter	VERB	O	_
+29	la	DET	O	_
+30	pollution	NOUN	O	_
+31	en	ADP	O	_
+32	solvants	NOUN	O	_
+33	chlorés	VERB	BS	_
+34	.	PUNCT	O	_
+
+
+#Début des travaux de dépollution des sols le 08 Octobre 2012.
+1	Début	NOUN	O	_
+2	des	DET	O	_
+3	travaux	NOUN	O	_
+4	de	ADP	O	_
+5	dépollution	NOUN	O	_
+6	des	DET	O	_
+7	sols	NOUN	O	_
+8	le	DET	O	_
+9	08	NUM	O	_
+10	Octobre	NOUN	O	_
+11	2012	NUM	O	_
+12	.	PUNCT	O	_
+
+
+#Fin des travaux de dépollution et évacuation des terres excavées en juillet 2013.
+1	Fin	NOUN	O	_
+2	des	DET	O	_
+3	travaux	NOUN	O	_
+4	de	ADP	O	_
+5	dépollution	NOUN	O	_
+6	et	CCONJ	O	_
+7	évacuation	NOUN	O	_
+8	des	DET	O	_
+9	terres	NOUN	O	_
+10	excavées	VERB	O	_
+11	en	ADP	O	_
+12	juillet	NOUN	O	_
+13	2013	NUM	O	_
+14	.	PUNCT	O	_
+
+
+#Fin du comblement des zones excavées par les matériaux concassés en mi-octobre 2013.
+1	Fin	NOUN	O	_
+2	du	DET	O	_
+3	comblement	NOUN	O	_
+4	des	DET	O	_
+5	zones	NOUN	O	_
+6	excavées	VERB	O	_
+7	par	ADP	O	_
+8	les	DET	O	_
+9	matériaux	NOUN	O	_
+10	concassés	VERB	O	_
+11	en	ADP	O	_
+12	mi-octobre	NOUN	O	_
+13	2013	NUM	O	_
+14	.	PUNCT	O	_
+
+
+#Les travaux de dépollution de la nappe sont pilotés par RLST ELIS.
+1	Les	DET	O	_
+2	travaux	NOUN	O	_
+3	de	ADP	O	_
+4	dépollution	NOUN	O	_
+5	de	ADP	O	_
+6	la	DET	O	_
+7	nappe	PROPN	O	_
+8	sont	AUX	O	_
+9	pilotés	VERB	O	_
+10	par	ADP	O	_
+11	RLST	DET	BI	_
+12	ELIS	NOUN	EI	_
+13	.	PUNCT	O	_
+
+
+#Les résultats de l’analyse des risques résiduels rendent compte d’une maîtrise des risques sanitaires liés à l’inhalation des polluants volatils issus du dégazage des sols et de la nappe après dépollution.
+1	Les	DET	O	_
+2	résultats	NOUN	O	_
+3	de	ADP	O	_
+4	l’	PROPN	O	_
+5	analyse	NOUN	O	_
+6	des	DET	O	_
+7	risques	NOUN	O	_
+8	résiduels	ADJ	O	_
+9	rendent	ADV	O	_
+10	compte	NOUN	O	_
+11	d’	VERB	O	_
+12	une	DET	O	_
+13	maîtrise	NOUN	O	_
+14	des	DET	O	_
+15	risques	NOUN	O	_
+16	sanitaires	ADJ	O	_
+17	liés	VERB	O	_
+18	à	ADP	O	_
+19	l’	PROPN	O	_
+20	inhalation	NOUN	O	_
+21	des	DET	O	_
+22	polluants	NOUN	BU	_
+23	volatils	ADJ	EU	_
+24	issus	ADJ	O	_
+25	du	DET	O	_
+26	dégazage	NOUN	O	_
+27	des	DET	O	_
+28	sols	NOUN	O	_
+29	et	CCONJ	O	_
+30	de	ADP	O	_
+31	la	DET	O	_
+32	nappe	NOUN	O	_
+33	après	ADP	O	_
+34	dépollution	NOUN	O	_
+35	.	PUNCT	O	_
+
+
+#Le rapport de l’Inspection, en date du 07/05/2015 vaut Procès-Verbal de récolement des travaux, réalisés pour rendre le site compatible avec un usage futur de type industriel.
+1	Le	DET	O	_
+2	rapport	NOUN	O	_
+3	de	ADP	O	_
+4	l’	PROPN	O	_
+5	Inspection	NOUN	O	_
+6	,	PUNCT	O	_
+7	en	ADP	O	_
+8	date	NOUN	O	_
+9	du	DET	O	_
+10	07/05/2015	NOUN	O	_
+11	vaut	VERB	O	_
+12	Procès	NOUN	O	_
+13	-	PUNCT	O	_
+14	Verbal	NOUN	O	_
+15	de	ADP	O	_
+16	récolement	NOUN	O	_
+17	des	DET	O	_
+18	travaux	NOUN	O	_
+19	,	PUNCT	O	_
+20	réalisés	VERB	O	_
+21	pour	ADP	O	_
+22	rendre	VERB	O	_
+23	le	DET	O	_
+24	site	NOUN	O	_
+25	compatible	ADJ	O	_
+26	avec	ADP	O	_
+27	un	DET	O	_
+28	usage	NOUN	O	_
+29	futur	ADJ	O	_
+30	de	ADP	O	_
+31	type	NOUN	O	_
+32	industriel	ADJ	O	_
+33	.	PUNCT	O	_
+
+
+#59.0315
+#Ancienne unité d'ennoblissement textile créée au XIXème siècle et exploitée jusqu'en janvier 2001.
+1	Ancienne	ADJ	O	_
+2	unité	NOUN	O	_
+3	d'	ADP	O	_
+4	ennoblissement	VERB	O	_
+5	textile	ADJ	O	_
+6	créée	VERB	O	_
+7	au	PROPN	O	_
+8	XIXème	ADJ	O	_
+9	siècle	NOUN	O	_
+10	et	CCONJ	O	_
+11	exploitée	VERB	O	_
+12	jusqu'	ADP	O	_
+13	en	ADP	O	_
+14	janvier	NOUN	O	_
+15	2001	NUM	O	_
+16	.	PUNCT	O	_
+
+
+#Usine située en milieu fortement urbanisée, entourée d'habitations (quartier populaire de l'Hommelet).
+1	Usine	NOUN	O	_
+2	située	VERB	O	_
+3	en	ADP	O	_
+4	milieu	NOUN	O	_
+5	fortement	ADV	O	_
+6	urbanisée	VERB	O	_
+7	,	PUNCT	O	_
+8	entourée	VERB	O	_
+9	d'	ADP	O	_
+10	habitations	NOUN	O	_
+11	(	PUNCT	O	_
+12	quartier	NOUN	O	_
+13	populaire	ADJ	O	_
+14	de	ADP	O	_
+15	l'	DET	O	_
+16	Hommelet	NOUN	O	_
+17	)	PUNCT	O	_
+18	.	PUNCT	O	_
+
+
+#Parcelle de 7 162 m², majoritairement construite.
+1	Parcelle	NOUN	O	_
+2	de	ADP	O	_
+3	7	NUM	O	_
+4	162	NUM	O	_
+5	m²	NOUN	O	_
+6	,	PUNCT	O	_
+7	majoritairement	VERB	O	_
+8	construite	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#Dossier de cessation en juin 2001.
+1	Dossier	NOUN	O	_
+2	de	ADP	O	_
+3	cessation	NOUN	O	_
+4	en	ADP	O	_
+5	juin	NOUN	O	_
+6	2001	NUM	O	_
+7	.	PUNCT	O	_
+
+
+#- Mise en place d'une installation de recyclage et de combustion des huiles d'enzymages relarguées lors des opérations de séchage pour éliminer les odeurs et donc les plaintes en septembre 1998
+1	-	PUNCT	O	_
+2	Mise	NOUN	O	_
+3	en	ADP	O	_
+4	place	NOUN	O	_
+5	d'	ADP	O	_
+6	une	DET	O	_
+7	installation	NOUN	O	_
+8	de	ADP	O	_
+9	recyclage	NOUN	O	_
+10	et	CCONJ	O	_
+11	de	ADP	O	_
+12	combustion	NOUN	O	_
+13	des	DET	BU	_
+14	huiles	NOUN	EU	_
+15	d'	ADP	O	_
+16	enzymages	NOUN	O	_
+17	relarguées	VERB	O	_
+18	lors	ADV	O	_
+19	des	DET	O	_
+20	opérations	NOUN	O	_
+21	de	ADP	O	_
+22	séchage	NOUN	O	_
+23	pour	ADP	O	_
+24	éliminer	VERB	O	_
+25	les	DET	O	_
+26	odeurs	NOUN	O	_
+27	et	CCONJ	O	_
+28	donc	ADV	O	_
+29	les	DET	O	_
+30	plaintes	NOUN	O	_
+31	en	ADP	O	_
+32	septembre	NOUN	O	_
+33	1998	NUM	O	_
+
+
+#- Étude pour le traitement des eaux AP du 14/12/1998
+1	-	PUNCT	O	_
+2	Étude	NOUN	O	_
+3	pour	ADP	O	_
+4	le	DET	O	_
+5	traitement	NOUN	O	_
+6	des	DET	O	_
+7	eaux	NOUN	O	_
+8	AP	ADJ	O	_
+9	du	DET	O	_
+10	14/12/1998	NOUN	O	_
+
+
+#- Cessation d'activité le 20/01/2001
+1	-	PUNCT	O	_
+2	Cessation	NOUN	O	_
+3	d'	ADP	O	_
+4	activité	NOUN	O	_
+5	le	DET	O	_
+6	20/01/2001	PUNCT	O	_
+
+
+#- Mise en sécurité du site: évacuation de déchets, rebouchage du forage
+1	-	PUNCT	O	_
+2	Mise	NOUN	O	_
+3	en	ADP	O	_
+4	sécurité	NOUN	O	_
+5	du	DET	O	_
+6	site	NOUN	O	_
+7	:	PUNCT	O	_
+8	évacuation	NOUN	O	_
+9	de	ADP	O	_
+10	déchets	NOUN	O	_
+11	,	PUNCT	O	_
+12	rebouchage	NOUN	O	_
+13	du	DET	O	_
+14	forage	NOUN	O	_
+
+
+#- L'étude de sols, phase historique et documentaire, a mis en évidence la nécessité d'opérer des investigations sur plusieurs secteurs de l'usine.
+1	-	PUNCT	O	_
+2	L'	DET	O	_
+3	étude	NOUN	O	_
+4	de	ADP	O	_
+5	sols	NOUN	O	_
+6	,	PUNCT	O	_
+7	phase	NOUN	O	_
+8	historique	ADJ	O	_
+9	et	CCONJ	O	_
+10	documentaire	ADJ	O	_
+11	,	PUNCT	O	_
+12	a	AUX	O	_
+13	mis	VERB	O	_
+14	en	ADP	O	_
+15	évidence	NOUN	O	_
+16	la	DET	O	_
+17	nécessité	NOUN	O	_
+18	d'	ADP	O	_
+19	opérer	VERB	O	_
+20	des	DET	O	_
+21	investigations	NOUN	O	_
+22	sur	ADP	O	_
+23	plusieurs	DET	O	_
+24	secteurs	NOUN	O	_
+25	de	ADP	O	_
+26	l'	DET	O	_
+27	usine	NOUN	O	_
+28	.	PUNCT	O	_
+
+
+#- Arrêté préfectoral du 05/07/2001 imposant  des prescriptions complémentaires pour la remise en état du site.
+1	-	PUNCT	O	_
+2	Arrêté	VERB	O	_
+3	préfectoral	ADJ	O	_
+4	du	DET	O	_
+5	05/07/2001	NUM	O	_
+6	imposant	VERB	O	_
+7	 	SPACE	O	_
+8	des	DET	O	_
+9	prescriptions	NOUN	O	_
+10	complémentaires	ADJ	O	_
+11	pour	ADP	O	_
+12	la	DET	O	_
+13	remise	NOUN	O	_
+14	en	ADP	O	_
+15	état	NOUN	O	_
+16	du	DET	O	_
+17	site	NOUN	O	_
+18	.	PUNCT	O	_
+
+
+#- Pollution aux métaux: terres excavées et envoyées aux filières agréées
+1	-	PUNCT	O	_
+2	Pollution	NOUN	O	_
+3	aux	ADJ	O	_
+4	métaux	NOUN	BS	_
+5	:	PUNCT	O	_
+6	terres	NOUN	O	_
+7	excavées	VERB	O	_
+8	et	CCONJ	O	_
+9	envoyées	NOUN	O	_
+10	aux	ADJ	O	_
+11	filières	NOUN	O	_
+12	agréées	VERB	O	_
+
+
+#- Traitement par stripping et venting pour les organochlorés mais échec car concentrations anormales après traitement, puits de venting rebouchés pour arrêter les émanations de gaz.
+1	-	PUNCT	O	_
+2	Traitement	NOUN	O	_
+3	par	ADP	O	_
+4	stripping	PROPN	O	_
+5	et	CCONJ	O	_
+6	venting	ADJ	O	_
+7	pour	ADP	O	_
+8	les	DET	BS	_
+9	organochlorés	NOUN	BS	_
+10	mais	CCONJ	O	_
+11	échec	NOUN	O	_
+12	car	CCONJ	O	_
+13	concentrations	NOUN	O	_
+14	anormales	ADJ	O	_
+15	après	ADP	O	_
+16	traitement	NOUN	O	_
+17	,	PUNCT	O	_
+18	puits	NOUN	O	_
+19	de	ADP	O	_
+20	venting	PROPN	O	_
+21	rebouchés	VERB	O	_
+22	pour	ADP	O	_
+23	arrêter	VERB	O	_
+24	les	DET	O	_
+25	émanations	NOUN	O	_
+26	de	ADP	O	_
+27	gaz	PROPN	O	_
+28	.	PUNCT	O	_
+
+
+#- Les principaux polluants à rechercher sont les hydrocarbures, les métaux (pigments de colorants) et les produits de traitement (perchloréthylène, soude...)
+1	-	PUNCT	O	_
+2	Les	DET	O	_
+3	principaux	ADJ	O	_
+4	polluants	NOUN	O	_
+5	à	ADP	O	_
+6	rechercher	VERB	O	_
+7	sont	AUX	O	_
+8	les	DET	O	_
+9	hydrocarbures	NOUN	BS	_
+10	,	PUNCT	O	_
+11	les	DET	BS	_
+12	métaux	NOUN	ES	_
+13	(	PUNCT	O	_
+14	pigments	ADJ	O	_
+15	de	ADP	O	_
+16	colorants	NOUN	BU	_
+17	)	PUNCT	O	_
+18	et	CCONJ	O	_
+19	les	DET	BU	_
+20	produits	NOUN	IU	_
+21	de	ADP	IU	_
+22	traitement	NOUN	EU	_
+23	(	PUNCT	O	_
+24	perchloréthylène	NOUN	BS	_
+25	,	PUNCT	O	_
+26	soude	NOUN	BS	_
+27	...	PUNCT	O	_
+28	)	PUNCT	O	_
+
+
+#- EDR réalisée en décembre 2006 montre un risque inacceptable pour un marché aux légumes, nécessité de mesures compensatoires: futurs bâtiments sur vide sanitaire avec des matériaux étanches et renouvellement de l'air.
+1	-	PUNCT	O	_
+2	EDR	NOUN	O	_
+3	réalisée	VERB	O	_
+4	en	ADP	O	_
+5	décembre	NOUN	O	_
+6	2006	NUM	O	_
+7	montre	VERB	O	_
+8	un	DET	O	_
+9	risque	NOUN	O	_
+10	inacceptable	ADJ	O	_
+11	pour	ADP	O	_
+12	un	DET	O	_
+13	marché	NOUN	O	_
+14	aux	ADJ	O	_
+15	légumes	NOUN	O	_
+16	,	PUNCT	O	_
+17	nécessité	NOUN	O	_
+18	de	ADP	O	_
+19	mesures	NOUN	O	_
+20	compensatoires	ADJ	O	_
+21	:	PUNCT	O	_
+22	futurs	NOUN	O	_
+23	bâtiments	ADJ	O	_
+24	sur	ADP	O	_
+25	vide	ADJ	O	_
+26	sanitaire	ADJ	O	_
+27	avec	ADP	O	_
+28	des	DET	O	_
+29	matériaux	NOUN	O	_
+30	étanches	ADJ	O	_
+31	et	CCONJ	O	_
+32	renouvellement	ADV	O	_
+33	de	ADP	O	_
+34	l'	DET	O	_
+35	air	NOUN	O	_
+36	.	PUNCT	O	_
+
+
+#- D'après les études, la nappe de la craie utilisée pour l'AEP ne risque pas d'être impactée par la pollution du site.
+1	-	PUNCT	O	_
+2	D'	ADP	O	_
+3	après	ADP	O	_
+4	les	DET	O	_
+5	études	NOUN	O	_
+6	,	PUNCT	O	_
+7	la	DET	O	_
+8	nappe	NOUN	O	_
+9	de	ADP	O	_
+10	la	DET	O	_
+11	craie	NOUN	O	_
+12	utilisée	VERB	O	_
+13	pour	ADP	O	_
+14	l'	DET	O	_
+15	AEP	PROPN	O	_
+16	ne	ADV	O	_
+17	risque	VERB	O	_
+18	pas	ADV	O	_
+19	d'	ADP	O	_
+20	être	AUX	O	_
+21	impactée	VERB	O	_
+22	par	ADP	O	_
+23	la	DET	O	_
+24	pollution	NOUN	O	_
+25	du	DET	O	_
+26	site	NOUN	O	_
+27	.	PUNCT	O	_
+
+
+#- Action de l'administration toujours en cours sur ce site.
+1	-	PUNCT	O	_
+2	Action	NOUN	O	_
+3	de	ADP	O	_
+4	l'	DET	O	_
+5	administration	NOUN	O	_
+6	toujours	ADV	O	_
+7	en	ADP	O	_
+8	cours	NOUN	O	_
+9	sur	ADP	O	_
+10	ce	DET	O	_
+11	site	NOUN	O	_
+12	.	PUNCT	O	_
+
+
+#- En cas de changement d'usage, il appartient au maître d'ouvrage de vérifier que son projet est compatible avec l'état des sols compte tenu des travaux qui ont été réalisés pour un usage donné et de respecter les dispositions de servitudes éventuellement instaurées sur ce site(si servitudes mises en œuvre).
+1	-	PUNCT	O	_
+2	En	ADP	O	_
+3	cas	NOUN	O	_
+4	de	ADP	O	_
+5	changement	NOUN	O	_
+6	d'	ADP	O	_
+7	usage	NOUN	O	_
+8	,	PUNCT	O	_
+9	il	PRON	O	_
+10	appartient	VERB	O	_
+11	au	PROPN	O	_
+12	maître	NOUN	O	_
+13	d'	ADP	O	_
+14	ouvrage	NOUN	O	_
+15	de	ADP	O	_
+16	vérifier	NOUN	O	_
+17	que	SCONJ	O	_
+18	son	DET	O	_
+19	projet	NOUN	O	_
+20	est	AUX	O	_
+21	compatible	ADJ	O	_
+22	avec	ADP	O	_
+23	l'	DET	O	_
+24	état	NOUN	O	_
+25	des	DET	O	_
+26	sols	NOUN	O	_
+27	compte	NOUN	O	_
+28	tenu	VERB	O	_
+29	des	DET	O	_
+30	travaux	NOUN	O	_
+31	qui	PRON	O	_
+32	ont	AUX	O	_
+33	été	AUX	O	_
+34	réalisés	VERB	O	_
+35	pour	ADP	O	_
+36	un	DET	O	_
+37	usage	NOUN	O	_
+38	donné	VERB	O	_
+39	et	CCONJ	O	_
+40	de	ADP	O	_
+41	respecter	VERB	O	_
+42	les	DET	O	_
+43	dispositions	NOUN	O	_
+44	de	ADP	O	_
+45	servitudes	NOUN	O	_
+46	éventuellement	AUX	O	_
+47	instaurées	VERB	O	_
+48	sur	ADP	O	_
+49	ce	DET	O	_
+50	site(si	ADJ	O	_
+51	servitudes	AUX	O	_
+52	mises	NOUN	O	_
+53	en	ADP	O	_
+54	œuvre	NOUN	O	_
+55	)	PUNCT	O	_
+56	.	PUNCT	O	_
+
+
+#59.0314
+#- Station service située au pied d'un immeuble avec aire de lavage, garage et boutique.
+1	-	PUNCT	O	_
+2	Station	NOUN	O	_
+3	service	NOUN	O	_
+4	située	VERB	O	_
+5	au	PROPN	O	_
+6	pied	ADJ	O	_
+7	d'	ADP	O	_
+8	un	DET	O	_
+9	immeuble	NOUN	O	_
+10	avec	ADP	O	_
+11	aire	NOUN	O	_
+12	de	ADP	O	_
+13	lavage	NOUN	O	_
+14	,	PUNCT	O	_
+15	garage	NOUN	O	_
+16	et	CCONJ	O	_
+17	boutique	ADJ	O	_
+18	.	PUNCT	O	_
+
+
+#- Sol protégé des eaux de ruissellement par une dalle de béton.
+1	-	PUNCT	O	_
+2	Sol	PROPN	O	_
+3	protégé	VERB	O	_
+4	des	DET	O	_
+5	eaux	NOUN	O	_
+6	de	ADP	O	_
+7	ruissellement	NOUN	O	_
+8	par	ADP	O	_
+9	une	DET	O	_
+10	dalle	NOUN	O	_
+11	de	ADP	O	_
+12	béton	PROPN	O	_
+13	.	PUNCT	O	_
+
+
+#- Lettre de confirmation de cessation d'activité le 12/04/2001
+1	-	PUNCT	O	_
+2	Lettre	NOUN	O	_
+3	de	ADP	O	_
+4	confirmation	NOUN	O	_
+5	de	ADP	O	_
+6	cessation	NOUN	O	_
+7	d'	ADP	O	_
+8	activité	NOUN	O	_
+9	le	DET	O	_
+10	12/04/2001	NOUN	O	_
+
+
+#- Lors de l'arrêt définitif de l'exploitation de la station service, un constat de pollution des sols par hydrocarbures à été fait.
+1	-	PUNCT	O	_
+2	Lors	ADV	O	_
+3	de	ADP	O	_
+4	l'	DET	O	_
+5	arrêt	NOUN	O	_
+6	définitif	ADJ	O	_
+7	de	ADP	O	_
+8	l'	DET	O	_
+9	exploitation	NOUN	O	_
+10	de	ADP	O	_
+11	la	DET	O	_
+12	station	NOUN	O	_
+13	service	NOUN	O	_
+14	,	PUNCT	O	_
+15	un	DET	O	_
+16	constat	NOUN	O	_
+17	de	ADP	O	_
+18	pollution	NOUN	O	_
+19	des	DET	O	_
+20	sols	NOUN	O	_
+21	par	ADP	O	_
+22	hydrocarbures	NOUN	BS	_
+23	à	ADP	O	_
+24	été	AUX	O	_
+25	fait	VERB	O	_
+26	.	PUNCT	O	_
+
+
+#- Est présent un flottant d' hydrocarbures dans une des fosses abritant une cuve simple enveloppe d'essence sans plomb et gasoil.
+1	-	PUNCT	O	_
+2	Est	AUX	O	_
+3	présent	ADJ	O	_
+4	un	DET	O	_
+5	flottant	NOUN	O	_
+6	d	NOUN	O	_
+7	'	PUNCT	O	_
+8	hydrocarbures	NOUN	BS	_
+9	dans	ADP	O	_
+10	une	DET	O	_
+11	des	DET	O	_
+12	fosses	NOUN	O	_
+13	abritant	ADP	O	_
+14	une	DET	BD	_
+15	cuve	NOUN	ED	_
+16	simple	ADJ	O	_
+17	enveloppe	NOUN	O	_
+18	d'	ADP	O	_
+19	essence	NOUN	BS	_
+20	sans	ADP	BS	_
+21	plomb	VERB	BS	_
+22	et	CCONJ	O	_
+23	gasoil	VERB	BS	_
+24	.	PUNCT	O	_
+
+
+#- Il existe une pollution par vapeurs d'hydrocarbures sur une partie de l'ancienne piste de distribution dû aux
+1	-	PUNCT	O	_
+2	Il	PRON	O	_
+3	existe	VERB	O	_
+4	une	DET	O	_
+5	pollution	NOUN	O	_
+6	par	ADP	O	_
+7	vapeurs	NOUN	O	_
+8	d'	ADP	O	_
+9	hydrocarbures	NOUN	BS	_
+10	sur	ADP	O	_
+11	une	DET	O	_
+12	partie	NOUN	O	_
+13	de	ADP	O	_
+14	l'	DET	O	_
+15	ancienne	ADJ	O	_
+16	piste	ADJ	O	_
+17	de	ADP	O	_
+18	distribution	NOUN	O	_
+19	dû	ADJ	O	_
+20	aux	ADJ	O	_
+
+
+#composés organiques volatils présents dans les sols.
+1	composés	NOUN	O	_
+2	organiques	ADJ	O	_
+3	volatils	ADJ	O	_
+4	présents	ADJ	O	_
+5	dans	ADP	O	_
+6	les	DET	O	_
+7	sols	NOUN	O	_
+8	.	PUNCT	O	_
+
+
+#- 08/06/01:Dégazage et deferraillage des cuves, élimination du flottant et venting.
+1	-	PUNCT	O	_
+2	08/06/01	NUM	O	_
+3	:	PUNCT	O	_
+4	Dégazage	NOUN	O	_
+5	et	CCONJ	O	_
+6	deferraillage	VERB	O	_
+7	des	DET	O	_
+8	cuves	NOUN	O	_
+9	,	PUNCT	O	_
+10	élimination	NOUN	O	_
+11	du	DET	O	_
+12	flottant	NOUN	O	_
+13	et	CCONJ	O	_
+14	venting	ADJ	O	_
+15	.	PUNCT	O	_
+
+
+#- Site mis en sécurité vis à vis des tiers.
+1	-	PUNCT	O	_
+2	Site	NOUN	O	_
+3	mis	VERB	O	_
+4	en	ADP	O	_
+5	sécurité	NOUN	O	_
+6	vis	NOUN	O	_
+7	à	ADP	O	_
+8	vis	NOUN	O	_
+9	des	DET	O	_
+10	tiers	NOUN	O	_
+11	.	PUNCT	O	_
+
+
+#- Aucune action de l'administration en cours.
+1	-	PUNCT	O	_
+2	Aucune	DET	O	_
+3	action	NOUN	O	_
+4	de	ADP	O	_
+5	l'	DET	O	_
+6	administration	NOUN	O	_
+7	en	ADP	O	_
+8	cours	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#- En cas de changement d'usage, il appartient au maître d'ouvrage de vérifier que son projet est compatible avec l'état des sols compte tenu des travaux qui ont été réalisés pour un usage donné et de respecter les dispositions de servitudes éventuellement instaurées sur ce site(si servitudes mises en œuvre).
+1	-	PUNCT	O	_
+2	En	ADP	O	_
+3	cas	NOUN	O	_
+4	de	ADP	O	_
+5	changement	NOUN	O	_
+6	d'	ADP	O	_
+7	usage	NOUN	O	_
+8	,	PUNCT	O	_
+9	il	PRON	O	_
+10	appartient	VERB	O	_
+11	au	PROPN	O	_
+12	maître	NOUN	O	_
+13	d'	ADP	O	_
+14	ouvrage	NOUN	O	_
+15	de	ADP	O	_
+16	vérifier	NOUN	O	_
+17	que	SCONJ	O	_
+18	son	DET	O	_
+19	projet	NOUN	O	_
+20	est	AUX	O	_
+21	compatible	ADJ	O	_
+22	avec	ADP	O	_
+23	l'	DET	O	_
+24	état	NOUN	O	_
+25	des	DET	O	_
+26	sols	NOUN	O	_
+27	compte	NOUN	O	_
+28	tenu	VERB	O	_
+29	des	DET	O	_
+30	travaux	NOUN	O	_
+31	qui	PRON	O	_
+32	ont	AUX	O	_
+33	été	AUX	O	_
+34	réalisés	VERB	O	_
+35	pour	ADP	O	_
+36	un	DET	O	_
+37	usage	NOUN	O	_
+38	donné	VERB	O	_
+39	et	CCONJ	O	_
+40	de	ADP	O	_
+41	respecter	VERB	O	_
+42	les	DET	O	_
+43	dispositions	NOUN	O	_
+44	de	ADP	O	_
+45	servitudes	NOUN	O	_
+46	éventuellement	AUX	O	_
+47	instaurées	VERB	O	_
+48	sur	ADP	O	_
+49	ce	DET	O	_
+50	site(si	ADJ	O	_
+51	servitudes	AUX	O	_
+52	mises	NOUN	O	_
+53	en	ADP	O	_
+54	œuvre	NOUN	O	_
+55	)	PUNCT	O	_
+56	.	PUNCT	O	_
+
+
+#59.0321
+#Ancien site occupé par un transporteur, comportant 4 bâtiments principaux à usage d'entrepôts.
+1	Ancien	ADJ	O	_
+2	site	NOUN	O	_
+3	occupé	VERB	O	_
+4	par	ADP	O	_
+5	un	DET	O	_
+6	transporteur	NOUN	O	_
+7	,	PUNCT	O	_
+8	comportant	VERB	O	_
+9	4	NUM	O	_
+10	bâtiments	NOUN	O	_
+11	principaux	ADJ	O	_
+12	à	ADP	O	_
+13	usage	NOUN	O	_
+14	d'	ADP	O	_
+15	entrepôts	NOUN	O	_
+16	.	PUNCT	O	_
+
+
+#Le site était peut être, à l'origine, textile.
+1	Le	DET	O	_
+2	site	NOUN	O	_
+3	était	AUX	O	_
+4	peut	VERB	O	_
+5	être	AUX	O	_
+6	,	PUNCT	O	_
+7	à	ADP	O	_
+8	l'	DET	O	_
+9	origine	NOUN	O	_
+10	,	PUNCT	O	_
+11	textile	NOUN	O	_
+12	.	PUNCT	O	_
+
+
+#Il a été occupé, pendant plusieurs décennies avant et après la seconde guerre mondiale, par une huilerie.
+1	Il	PRON	O	_
+2	a	AUX	O	_
+3	été	AUX	O	_
+4	occupé	VERB	O	_
+5	,	PUNCT	O	_
+6	pendant	ADP	O	_
+7	plusieurs	DET	O	_
+8	décennies	NOUN	O	_
+9	avant	ADP	O	_
+10	et	CCONJ	O	_
+11	après	ADP	O	_
+12	la	DET	O	_
+13	seconde	ADJ	O	_
+14	guerre	PROPN	O	_
+15	mondiale	ADJ	O	_
+16	,	PUNCT	O	_
+17	par	ADP	O	_
+18	une	DET	O	_
+19	huilerie	NOUN	O	_
+20	.	PUNCT	O	_
+
+
+#Il aurait également servi de garage de chars allemands en 39-45.
+1	Il	PRON	O	_
+2	aurait	AUX	O	_
+3	également	ADV	O	_
+4	servi	VERB	O	_
+5	de	ADP	O	_
+6	garage	NOUN	O	_
+7	de	ADP	O	_
+8	chars	NOUN	O	_
+9	allemands	ADJ	O	_
+10	en	ADP	O	_
+11	39	NUM	O	_
+12	-	PUNCT	O	_
+13	45	NUM	O	_
+14	.	PUNCT	O	_
+
+
+#Le site s'étend sur 1,8 ha environ, couvert aux 2 tiers de bâtiments.
+1	Le	DET	O	_
+2	site	NOUN	O	_
+3	s'	PRON	O	_
+4	étend	VERB	O	_
+5	sur	ADP	O	_
+6	1,8	NUM	O	_
+7	ha	NOUN	O	_
+8	environ	ADV	O	_
+9	,	PUNCT	O	_
+10	couvert	NOUN	O	_
+11	aux	PROPN	O	_
+12	2	NUM	O	_
+13	tiers	NOUN	O	_
+14	de	ADP	O	_
+15	bâtiments	NOUN	O	_
+16	.	PUNCT	O	_
+
+
+#La cave d'un des bâtiments (+/- 1500 m²) comporte un dépôt sauvage d'hydrocarbures (type huiles de vidange) répandu à même le sol, sur une épaisseur d'une vingtaine de cm.
+1	La	DET	O	_
+2	cave	NOUN	O	_
+3	d'	ADP	O	_
+4	un	PRON	O	_
+5	des	DET	O	_
+6	bâtiments	NOUN	O	_
+7	(	PUNCT	O	_
+8	+	ADP	O	_
+9	/-	NOUN	O	_
+10	1500	NUM	O	_
+11	m²	NOUN	O	_
+12	)	PUNCT	O	_
+13	comporte	VERB	O	_
+14	un	DET	O	_
+15	dépôt	NOUN	O	_
+16	sauvage	ADJ	O	_
+17	d'	ADP	O	_
+18	hydrocarbures	NOUN	BS	_
+19	(	PUNCT	O	_
+20	type	NOUN	O	_
+21	huiles	ADJ	O	_
+22	de	ADP	O	_
+23	vidange	NOUN	O	_
+24	)	PUNCT	O	_
+25	répandu	VERB	O	_
+26	à	ADP	O	_
+27	même	ADV	O	_
+28	le	DET	O	_
+29	sol	NOUN	O	_
+30	,	PUNCT	O	_
+31	sur	ADP	O	_
+32	une	DET	O	_
+33	épaisseur	NOUN	O	_
+34	d'	ADP	O	_
+35	une	DET	O	_
+36	vingtaine	NOUN	O	_
+37	de	ADP	O	_
+38	cm	NOUN	O	_
+39	.	PUNCT	O	_
+
+
+#Le dossier de cessation d'activité a été déposé.
+1	Le	DET	O	_
+2	dossier	NOUN	O	_
+3	de	ADP	O	_
+4	cessation	NOUN	O	_
+5	d'	ADP	O	_
+6	activité	NOUN	O	_
+7	a	AUX	O	_
+8	été	AUX	O	_
+9	déposé	VERB	O	_
+10	.	PUNCT	O	_
+
+
+#Des études menées sur le site montrent une contamination des sols et de la nappe des limons par les hydrocarbures.
+1	Des	DET	O	_
+2	études	NOUN	O	_
+3	menées	VERB	O	_
+4	sur	ADP	O	_
+5	le	DET	O	_
+6	site	NOUN	O	_
+7	montrent	VERB	O	_
+8	une	DET	O	_
+9	contamination	NOUN	O	_
+10	des	DET	O	_
+11	sols	NOUN	O	_
+12	et	CCONJ	O	_
+13	de	ADP	O	_
+14	la	DET	O	_
+15	nappe	PROPN	O	_
+16	des	DET	O	_
+17	limons	NOUN	O	_
+18	par	ADP	O	_
+19	les	DET	O	_
+20	hydrocarbures	NOUN	BS	_
+21	.	PUNCT	O	_
+
+
+#Un dispositif de surveillance des eaux souterraine a été mis en place par la Communauté Urbaine et ne montre pas de pollution de la nappe significative.
+1	Un	DET	O	_
+2	dispositif	NOUN	O	_
+3	de	ADP	O	_
+4	surveillance	NOUN	O	_
+5	des	DET	O	_
+6	eaux	NOUN	O	_
+7	souterraine	PROPN	O	_
+8	a	AUX	O	_
+9	été	AUX	O	_
+10	mis	VERB	O	_
+11	en	ADP	O	_
+12	place	NOUN	O	_
+13	par	ADP	O	_
+14	la	DET	BI	_
+15	Communauté	PROPN	EI	_
+16	Urbaine	PROPN	EI	_
+17	et	CCONJ	O	_
+18	ne	ADV	O	_
+19	montre	VERB	O	_
+20	pas	ADV	O	_
+21	de	ADP	O	_
+22	pollution	NOUN	O	_
+23	de	ADP	O	_
+24	la	DET	O	_
+25	nappe	ADJ	O	_
+26	significative	ADJ	O	_
+27	.	PUNCT	O	_
+
+
+#62.0043
+#- Friche industrielle sur laquelle a été exploité un ancien établissement de chaudronnerie abritant, outre les installations classiques de chaudronnerie, un atelier de peinture.
+1	-	PUNCT	O	_
+2	Friche	NOUN	O	_
+3	industrielle	ADJ	O	_
+4	sur	ADP	O	_
+5	laquelle	PRON	O	_
+6	a	AUX	O	_
+7	été	AUX	O	_
+8	exploité	VERB	O	_
+9	un	DET	O	_
+10	ancien	ADJ	O	_
+11	établissement	NOUN	O	_
+12	de	ADP	O	_
+13	chaudronnerie	NOUN	O	_
+14	abritant	ADV	O	_
+15	,	PUNCT	O	_
+16	outre	ADP	O	_
+17	les	DET	O	_
+18	installations	NOUN	O	_
+19	classiques	ADJ	O	_
+20	de	ADP	O	_
+21	chaudronnerie	NOUN	O	_
+22	,	PUNCT	O	_
+23	un	DET	O	_
+24	atelier	NOUN	O	_
+25	de	ADP	O	_
+26	peinture	NOUN	O	_
+27	.	PUNCT	O	_
+
+
+#- Toutes les structures aériennes (bâtiments) ont été démolies.
+1	-	PUNCT	O	_
+2	Toutes	ADJ	O	_
+3	les	DET	O	_
+4	structures	NOUN	O	_
+5	aériennes	ADJ	O	_
+6	(	PUNCT	O	_
+7	bâtiments	NOUN	O	_
+8	)	PUNCT	O	_
+9	ont	AUX	O	_
+10	été	AUX	O	_
+11	démolies	VERB	O	_
+12	.	PUNCT	O	_
+
+
+#- Étude des sols réalisée.
+1	-	PUNCT	O	_
+2	Étude	NOUN	O	_
+3	des	DET	O	_
+4	sols	NOUN	O	_
+5	réalisée	VERB	O	_
+6	.	PUNCT	O	_
+
+
+#- Diagnostic approfondi et évaluation détaillée des risques réalisés en aout 98 et juin 97 qui concluent que les remblais sont pollués au cuivre et baryum sur une surface estimé à 4500 m².
+1	-	PUNCT	O	_
+2	Diagnostic	NOUN	O	_
+3	approfondi	PROPN	O	_
+4	et	CCONJ	O	_
+5	évaluation	NOUN	O	_
+6	détaillée	VERB	O	_
+7	des	DET	O	_
+8	risques	NOUN	O	_
+9	réalisés	VERB	O	_
+10	en	ADP	O	_
+11	aout	NOUN	O	_
+12	98	NUM	O	_
+13	et	CCONJ	O	_
+14	juin	NOUN	O	_
+15	97	NUM	O	_
+16	qui	PRON	O	_
+17	concluent	VERB	O	_
+18	que	SCONJ	O	_
+19	les	DET	O	_
+20	remblais	NOUN	O	_
+21	sont	AUX	O	_
+22	pollués	VERB	O	_
+23	au	PROPN	O	_
+24	cuivre	PROPN	BS	_
+25	et	CCONJ	O	_
+26	baryum	ADP	BS	_
+27	sur	ADP	O	_
+28	une	DET	O	_
+29	surface	NOUN	O	_
+30	estimé	VERB	O	_
+31	à	ADP	O	_
+32	4500	NUM	O	_
+33	m²	NOUN	O	_
+34	.	PUNCT	O	_
+
+
+#Le site est en classe 1 (à investiguer).
+1	Le	DET	O	_
+2	site	NOUN	O	_
+3	est	AUX	O	_
+4	en	ADP	O	_
+5	classe	NOUN	O	_
+6	1	NUM	O	_
+7	(	PUNCT	O	_
+8	à	ADP	O	_
+9	investiguer	VERB	O	_
+10	)	PUNCT	O	_
+11	.	PUNCT	O	_
+
+
+#- Arrêté préfectoral du 11/03/1999 imposant le traitement de la pollution et la mise en place d'une surveillance de la qualité des eaux souterraines.
+1	-	PUNCT	O	_
+2	Arrêté	VERB	O	_
+3	préfectoral	ADJ	O	_
+4	du	DET	O	_
+5	11/03/1999	NOUN	O	_
+6	imposant	VERB	O	_
+7	le	DET	O	_
+8	traitement	NOUN	O	_
+9	de	ADP	O	_
+10	la	DET	O	_
+11	pollution	NOUN	O	_
+12	et	CCONJ	O	_
+13	la	DET	O	_
+14	mise	NOUN	O	_
+15	en	ADP	O	_
+16	place	NOUN	O	_
+17	d'	ADP	O	_
+18	une	DET	O	_
+19	surveillance	NOUN	O	_
+20	de	ADP	O	_
+21	la	DET	O	_
+22	qualité	NOUN	O	_
+23	des	DET	O	_
+24	eaux	NOUN	O	_
+25	souterraines	ADJ	O	_
+26	.	PUNCT	O	_
+
+
+#- Arrêté préfectoral du 26/01/2001 prescrivant les modalités du suivi piézométrique des eaux souterraines.
+1	-	PUNCT	O	_
+2	Arrêté	VERB	O	_
+3	préfectoral	ADJ	O	_
+4	du	DET	O	_
+5	26/01/2001	NOUN	O	_
+6	prescrivant	VERB	O	_
+7	les	DET	O	_
+8	modalités	NOUN	O	_
+9	du	DET	O	_
+10	suivi	NOUN	O	_
+11	piézométrique	VERB	O	_
+12	des	DET	O	_
+13	eaux	NOUN	O	_
+14	souterraines	ADJ	O	_
+15	.	PUNCT	O	_
+
+
+#- Élimination d'une partie des terres polluées en décharge.
+1	-	PUNCT	O	_
+2	Élimination	NOUN	O	_
+3	d'	ADP	O	_
+4	une	DET	O	_
+5	partie	NOUN	O	_
+6	des	DET	O	_
+7	terres	NOUN	O	_
+8	polluées	VERB	O	_
+9	en	ADP	O	_
+10	décharge	NOUN	O	_
+11	.	PUNCT	O	_
+
+
+#- Confinement du reste du site pollué par un revêtement étanche.
+1	-	PUNCT	O	_
+2	Confinement	NOUN	O	_
+3	du	DET	O	_
+4	reste	NOUN	O	_
+5	du	DET	O	_
+6	site	NOUN	O	_
+7	pollué	VERB	O	_
+8	par	ADP	O	_
+9	un	DET	O	_
+10	revêtement	NOUN	O	_
+11	étanche	ADJ	O	_
+12	.	PUNCT	O	_
+
+
+#e site est réutilisé(complexe cinématographique)
+1	e	NOUN	O	_
+2	site	NOUN	O	_
+3	est	AUX	O	_
+4	réutilisé(complexe	NOUN	O	_
+5	cinématographique	ADJ	O	_
+6	)	PUNCT	O	_
+
+
+#- Surveillance des eaux souterraines en place.
+1	-	PUNCT	O	_
+2	Surveillance	NOUN	O	_
+3	des	DET	O	_
+4	eaux	NOUN	O	_
+5	souterraines	ADJ	O	_
+6	en	ADP	O	_
+7	place	NOUN	O	_
+8	.	PUNCT	O	_
+
+
+#- Dossier de demande d'instauration de servitudes d'utilité publique remis en février 2001. (phase enquête publique en 2003)
+1	-	PUNCT	O	_
+2	Dossier	NOUN	O	_
+3	de	ADP	O	_
+4	demande	NOUN	O	_
+5	d'	ADP	O	_
+6	instauration	NOUN	O	_
+7	de	ADP	O	_
+8	servitudes	NOUN	O	_
+9	d'	ADP	O	_
+10	utilité	NOUN	O	_
+11	publique	ADJ	O	_
+12	remis	VERB	O	_
+13	en	ADP	O	_
+14	février	NOUN	O	_
+15	2001	NUM	O	_
+16	.	PUNCT	O	_
+17	(	PUNCT	O	_
+18	phase	NOUN	O	_
+19	enquête	NOUN	O	_
+20	publique	ADJ	O	_
+21	en	ADP	O	_
+22	2003	NUM	O	_
+23	)	PUNCT	O	_
+
+
+#- Les eaux souterraines sont utilisées pour un usage d'eau potable et industrielle dans le secteur.
+1	-	PUNCT	O	_
+2	Les	DET	O	_
+3	eaux	NOUN	O	_
+4	souterraines	NOUN	O	_
+5	sont	AUX	O	_
+6	utilisées	VERB	O	_
+7	pour	ADP	O	_
+8	un	DET	O	_
+9	usage	NOUN	O	_
+10	d'	ADP	O	_
+11	eau	NOUN	O	_
+12	potable	ADJ	O	_
+13	et	CCONJ	O	_
+14	industrielle	ADJ	O	_
+15	dans	ADP	O	_
+16	le	DET	O	_
+17	secteur	NOUN	O	_
+18	.	PUNCT	O	_
+
+
+#Néanmoins, le captage d'eau potable le plus proche à 2.5 km du site, ce qui minore le risque pour les populations utilisatrices.
+1	Néanmoins	ADV	O	_
+2	,	PUNCT	O	_
+3	le	DET	O	_
+4	captage	NOUN	O	_
+5	d'	ADP	O	_
+6	eau	NOUN	O	_
+7	potable	ADJ	O	_
+8	le	DET	O	_
+9	plus	ADV	O	_
+10	proche	ADJ	O	_
+11	à	ADP	O	_
+12	2.5	NUM	O	_
+13	km	NOUN	O	_
+14	du	DET	O	_
+15	site	NOUN	O	_
+16	,	PUNCT	O	_
+17	ce	PRON	O	_
+18	qui	PRON	O	_
+19	minore	VERB	O	_
+20	le	DET	O	_
+21	risque	NOUN	O	_
+22	pour	ADP	O	_
+23	les	DET	O	_
+24	populations	NOUN	O	_
+25	utilisatrices	ADJ	O	_
+26	.	PUNCT	O	_
+
+
+#- Site mis en sécurité vis-à-vis des tiers.
+1	-	PUNCT	O	_
+2	Site	NOUN	O	_
+3	mis	VERB	O	_
+4	en	ADP	O	_
+5	sécurité	NOUN	O	_
+6	vis-à-vis	VERB	O	_
+7	des	DET	O	_
+8	tiers	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#- Action de l'administration toujours en cours.
+1	-	PUNCT	O	_
+2	Action	NOUN	O	_
+3	de	ADP	O	_
+4	l'	DET	O	_
+5	administration	NOUN	O	_
+6	toujours	ADV	O	_
+7	en	ADP	O	_
+8	cours	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#59.0042
+#Ancienne décharge de scories plombeuses .
+1	Ancienne	ADJ	O	_
+2	décharge	NOUN	O	_
+3	de	ADP	O	_
+4	scories	NOUN	EU	_
+5	plombeuses	ADJ	EU	_
+6	.	PUNCT	O	_
+
+
+#Ces dépôts de scories plombeuses (70 000 t)de PENNAROYA (devenu METALEUROP) ont été déposés sur un terrain
+1	Ces	DET	O	_
+2	dépôts	NOUN	O	_
+3	de	ADP	O	_
+4	scories	NOUN	EU	_
+5	plombeuses	ADJ	EU	_
+6	(	PUNCT	O	_
+7	70	NUM	O	_
+8	000	NUM	O	_
+9	t)de	NOUN	O	_
+10	PENNAROYA	ADJ	EI	_
+11	(	PUNCT	O	_
+12	devenu	NOUN	O	_
+13	METALEUROP	NOUN	EI	_
+14	)	PUNCT	O	_
+15	ont	AUX	O	_
+16	été	AUX	O	_
+17	déposés	VERB	O	_
+18	sur	ADP	O	_
+19	un	DET	O	_
+20	terrain	NOUN	O	_
+
+
+#d'une superficie d'un hectare, non autorisé en tant que décharge, à Awoingt, de 1972 à 1980.
+1	d'	ADP	O	_
+2	une	DET	O	_
+3	superficie	NOUN	O	_
+4	d'	ADP	O	_
+5	un	DET	O	_
+6	hectare	NOUN	O	_
+7	,	PUNCT	O	_
+8	non	ADV	O	_
+9	autorisé	VERB	O	_
+10	en	ADP	O	_
+11	tant	ADV	O	_
+12	que	SCONJ	O	_
+13	décharge	NOUN	O	_
+14	,	PUNCT	O	_
+15	à	ADP	O	_
+16	Awoingt	PROPN	O	_
+17	,	PUNCT	O	_
+18	de	ADP	O	_
+19	1972	NUM	O	_
+20	à	ADP	O	_
+21	1980	NUM	O	_
+22	.	PUNCT	O	_
+
+
+#- Surface du site : 1,2 ha.
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Surface	PROPN	O	_
+4	du	DET	O	_
+5	site	NOUN	O	_
+6	:	PUNCT	O	_
+7	1,2	NUM	O	_
+8	ha	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#- Pas de pollution de la nappe mise en évidence.
+1	-	PUNCT	O	_
+2	Pas	ADV	O	_
+3	de	ADP	O	_
+4	pollution	NOUN	O	_
+5	de	ADP	O	_
+6	la	DET	O	_
+7	nappe	ADJ	O	_
+8	mise	NOUN	O	_
+9	en	ADP	O	_
+10	évidence	NOUN	O	_
+11	.	PUNCT	O	_
+
+
+#- Dossier de fermeture de la décharge déposé en avril 1996
+1	-	PUNCT	O	_
+2	Dossier	NOUN	O	_
+3	de	ADP	O	_
+4	fermeture	NOUN	O	_
+5	de	ADP	O	_
+6	la	DET	O	_
+7	décharge	NOUN	O	_
+8	déposé	VERB	O	_
+9	en	ADP	O	_
+10	avril	NOUN	O	_
+11	1996	NUM	O	_
+
+
+#- Réaménagement du site réalisé : mise en place d'une couverture de terres imperméables et reverdissement (coût :
+1	-	PUNCT	O	_
+2	Réaménagement	NOUN	O	_
+3	du	DET	O	_
+4	site	NOUN	O	_
+5	réalisé	ADJ	O	_
+6	:	PUNCT	O	_
+7	mise	NOUN	O	_
+8	en	ADP	O	_
+9	place	NOUN	O	_
+10	d'	ADP	O	_
+11	une	DET	O	_
+12	couverture	NOUN	O	_
+13	de	ADP	O	_
+14	terres	NOUN	O	_
+15	imperméables	ADJ	O	_
+16	et	CCONJ	O	_
+17	reverdissement	VERB	O	_
+18	(	PUNCT	O	_
+19	coût	NOUN	O	_
+20	 	SPACE	O	_
+21	:	PUNCT	O	_
+
+
+#350 kF).
+1	350	NUM	O	_
+2	kF	NOUN	O	_
+3	)	PUNCT	O	_
+4	.	PUNCT	O	_
+
+
+#1/ Situation administrative et technique
+1	1/	NUM	O	_
+2	Situation	NOUN	O	_
+3	administrative	ADJ	O	_
+4	et	CCONJ	O	_
+5	technique	ADJ	O	_
+
+
+#Un arrêté préfectoral fixant les modalités de sa remise en état a été signé le 15 juillet 1993.
+1	Un	DET	O	_
+2	arrêté	NOUN	O	_
+3	préfectoral	ADJ	O	_
+4	fixant	ADV	O	_
+5	les	DET	O	_
+6	modalités	NOUN	O	_
+7	de	ADP	O	_
+8	sa	DET	O	_
+9	remise	NOUN	O	_
+10	en	ADP	O	_
+11	état	NOUN	O	_
+12	a	AUX	O	_
+13	été	AUX	O	_
+14	signé	VERB	O	_
+15	le	DET	O	_
+16	15	NUM	O	_
+17	juillet	NOUN	O	_
+18	1993	NUM	O	_
+19	.	PUNCT	O	_
+
+
+#Les travaux de remise en état imposés par ces arrêtés préfectoraux ont été menés, et l'inspection des installations classées a actée en 1995 leur mise en œuvre.
+1	Les	DET	O	_
+2	travaux	NOUN	O	_
+3	de	ADP	O	_
+4	remise	NOUN	O	_
+5	en	ADP	O	_
+6	état	NOUN	O	_
+7	imposés	VERB	O	_
+8	par	ADP	O	_
+9	ces	DET	O	_
+10	arrêtés	NOUN	O	_
+11	préfectoraux	ADJ	O	_
+12	ont	AUX	O	_
+13	été	AUX	O	_
+14	menés	VERB	O	_
+15	,	PUNCT	O	_
+16	et	CCONJ	O	_
+17	l'	DET	O	_
+18	inspection	NOUN	O	_
+19	des	DET	O	_
+20	installations	NOUN	O	_
+21	classées	VERB	O	_
+22	a	AUX	O	_
+23	actée	VERB	O	_
+24	en	ADP	O	_
+25	1995	NUM	O	_
+26	leur	DET	O	_
+27	mise	NOUN	O	_
+28	en	ADP	O	_
+29	œuvre	NOUN	O	_
+30	.	PUNCT	O	_
+
+
+#L'arrêté initial a été complété par un second arrêté signé le 9 septembre 1997, imposant un suivi bi-annuel du site et des eaux souterraines, et demandant un rapport de compte rendu transmis à l'inspection.
+1	L'	DET	O	_
+2	arrêté	NOUN	O	_
+3	initial	ADJ	O	_
+4	a	AUX	O	_
+5	été	AUX	O	_
+6	complété	VERB	O	_
+7	par	ADP	O	_
+8	un	DET	O	_
+9	second	ADJ	O	_
+10	arrêté	VERB	O	_
+11	signé	VERB	O	_
+12	le	DET	O	_
+13	9	NUM	O	_
+14	septembre	NOUN	O	_
+15	1997	NUM	O	_
+16	,	PUNCT	O	_
+17	imposant	VERB	O	_
+18	un	DET	O	_
+19	suivi	NOUN	O	_
+20	bi-annuel	ADJ	O	_
+21	du	DET	O	_
+22	site	NOUN	O	_
+23	et	CCONJ	O	_
+24	des	DET	O	_
+25	eaux	NOUN	O	_
+26	souterraines	ADJ	O	_
+27	,	PUNCT	O	_
+28	et	CCONJ	O	_
+29	demandant	VERB	O	_
+30	un	DET	O	_
+31	rapport	NOUN	O	_
+32	de	ADP	O	_
+33	compte	NOUN	O	_
+34	rendu	VERB	O	_
+35	transmis	VERB	O	_
+36	à	ADP	O	_
+37	l'	DET	O	_
+38	inspection	NOUN	O	_
+39	.	PUNCT	O	_
+
+
+#Ces travaux sont caractérisés principalement par la couverture de la décharge par une barrière argileuse d'épaisseur supérieure à un mètre et par un reprofilage du dépôt.
+1	Ces	DET	O	_
+2	travaux	NOUN	O	_
+3	sont	AUX	O	_
+4	caractérisés	VERB	O	_
+5	principalement	ADV	O	_
+6	par	ADP	O	_
+7	la	DET	O	_
+8	couverture	NOUN	O	_
+9	de	ADP	O	_
+10	la	DET	O	_
+11	décharge	NOUN	O	_
+12	par	ADP	O	_
+13	une	DET	O	_
+14	barrière	NOUN	O	_
+15	argileuse	ADJ	O	_
+16	d'	ADP	O	_
+17	épaisseur	NOUN	O	_
+18	supérieure	ADJ	O	_
+19	à	ADP	O	_
+20	un	DET	O	_
+21	mètre	NOUN	O	_
+22	et	CCONJ	O	_
+23	par	ADP	O	_
+24	un	DET	O	_
+25	reprofilage	NOUN	O	_
+26	du	DET	O	_
+27	dépôt	NOUN	O	_
+28	.	PUNCT	O	_
+
+
+#2/Restrictions d'usages
+1	2	NUM	O	_
+2	/	CCONJ	O	_
+3	Restrictions	NOUN	O	_
+4	d'	ADP	O	_
+5	usages	NOUN	O	_
+
+
+#Le site d'Awoingt a fait l'objet de servitudes d'utilité publique, déterminées par un arrêté préfectoral du 13 novembre 1998, portants sur la parcelle cadastrale où a été exploitée la décharge.
+1	Le	DET	O	_
+2	site	NOUN	O	_
+3	d'	ADP	O	_
+4	Awoingt	PROPN	O	_
+5	a	AUX	O	_
+6	fait	VERB	O	_
+7	l'	DET	O	_
+8	objet	NOUN	O	_
+9	de	ADP	O	_
+10	servitudes	NOUN	O	_
+11	d'	ADP	O	_
+12	utilité	NOUN	O	_
+13	publique	ADJ	O	_
+14	,	PUNCT	O	_
+15	déterminées	VERB	O	_
+16	par	ADP	O	_
+17	un	DET	O	_
+18	arrêté	NOUN	O	_
+19	préfectoral	ADJ	O	_
+20	du	DET	O	_
+21	13	NUM	O	_
+22	novembre	NOUN	O	_
+23	1998	NUM	O	_
+24	,	PUNCT	O	_
+25	portants	NOUN	O	_
+26	sur	ADP	O	_
+27	la	DET	O	_
+28	parcelle	NOUN	O	_
+29	cadastrale	ADJ	O	_
+30	où	PRON	O	_
+31	a	AUX	O	_
+32	été	AUX	O	_
+33	exploitée	VERB	O	_
+34	la	DET	O	_
+35	décharge	NOUN	O	_
+36	.	PUNCT	O	_
+
+
+#3/Surveillance des eaux souterraines et résultats
+1	3	NUM	O	_
+2	/	CCONJ	O	_
+3	Surveillance	NOUN	O	_
+4	des	DET	O	_
+5	eaux	NOUN	O	_
+6	souterraines	ADJ	O	_
+7	et	CCONJ	O	_
+8	résultats	NOUN	O	_
+
+
+#La surveillance semestrielle de la nappe souterraine de la craie ne fait actuellement pas apparaître de contamination.
+1	La	DET	O	_
+2	surveillance	NOUN	O	_
+3	semestrielle	ADJ	O	_
+4	de	ADP	O	_
+5	la	DET	O	_
+6	nappe	ADJ	O	_
+7	souterraine	NOUN	O	_
+8	de	ADP	O	_
+9	la	DET	O	_
+10	craie	NOUN	O	_
+11	ne	ADV	O	_
+12	fait	VERB	O	_
+13	actuellement	ADV	O	_
+14	pas	ADV	O	_
+15	apparaître	VERB	O	_
+16	de	ADP	O	_
+17	contamination	NOUN	O	_
+18	.	PUNCT	O	_
+
+
+#Le réseau de surveillance a complété en 2006 (APC 18/09/2006) afin d'avoir un réseau de piézomètres complet et des paramètres plus représentatif de l'ancienne activité.
+1	Le	DET	O	_
+2	réseau	NOUN	O	_
+3	de	ADP	O	_
+4	surveillance	NOUN	O	_
+5	a	AUX	O	_
+6	complété	VERB	O	_
+7	en	ADP	O	_
+8	2006	NUM	O	_
+9	(	PUNCT	O	_
+10	APC	NOUN	O	_
+11	18/09/2006	NOUN	O	_
+12	)	PUNCT	O	_
+13	afin	ADP	O	_
+14	d'	ADP	O	_
+15	avoir	VERB	O	_
+16	un	DET	O	_
+17	réseau	NOUN	O	_
+18	de	ADP	O	_
+19	piézomètres	NOUN	O	_
+20	complet	NOUN	O	_
+21	et	CCONJ	O	_
+22	des	DET	O	_
+23	paramètres	NOUN	O	_
+24	plus	ADV	O	_
+25	représentatif	ADJ	O	_
+26	de	ADP	O	_
+27	l'	DET	O	_
+28	ancienne	ADJ	O	_
+29	activité	NOUN	O	_
+30	.	PUNCT	O	_
+
+
+#62.0005
+#- Ancienne implantation d'une usine de fabrication de carbure de calcium.
+1	-	PUNCT	O	_
+2	Ancienne	ADJ	O	_
+3	implantation	NOUN	O	_
+4	d'	ADP	O	_
+5	une	DET	O	_
+6	usine	NOUN	O	_
+7	de	ADP	O	_
+8	fabrication	NOUN	O	_
+9	de	ADP	O	_
+10	carbure	NOUN	BS	_
+11	de	ADP	IU	_
+12	calcium	NOUN	EU	_
+13	.	PUNCT	O	_
+
+
+#- Superficie du site : 10 ha.
+1	-	PUNCT	O	_
+2	Superficie	NOUN	O	_
+3	du	DET	O	_
+4	site	NOUN	O	_
+5	:	PUNCT	O	_
+6	10	NUM	O	_
+7	ha	PROPN	O	_
+8	.	PUNCT	O	_
+
+
+#- Activité de 1930 à 1971.
+1	-	PUNCT	O	_
+2	Activité	NOUN	O	_
+3	de	ADP	O	_
+4	1930	NUM	O	_
+5	à	ADP	O	_
+6	1971	NUM	O	_
+7	.	PUNCT	O	_
+
+
+#- Ancien site CDF Chimie.
+1	-	PUNCT	O	_
+2	Ancien	ADJ	O	_
+3	site	NOUN	O	_
+4	CDF	NOUN	II	_
+5	Chimie	ADJ	EI	_
+6	.	PUNCT	O	_
+
+
+#- Dépôts localisés de terres souillées par de la cyanamide calcique et de déchets ferro-siliceux sur environ 1 ha.
+1	-	PUNCT	O	_
+2	Dépôts	NOUN	O	_
+3	localisés	VERB	O	_
+4	de	ADP	O	_
+5	terres	NOUN	O	_
+6	souillées	VERB	O	_
+7	par	ADP	O	_
+8	de	ADP	O	_
+9	la	DET	O	_
+10	cyanamide	NOUN	ES	_
+11	calcique	ADJ	ES	_
+12	et	CCONJ	O	_
+13	de	ADP	O	_
+14	déchets	NOUN	O	_
+15	ferro	PROPN	ES	_
+16	-	PUNCT	O	_
+17	siliceux	PRON	O	_
+18	sur	ADP	O	_
+19	environ	ADV	O	_
+20	1	NUM	O	_
+21	ha	NOUN	O	_
+22	.	PUNCT	O	_
+
+
+#- Analyse préliminaire des risques de pollution liés à des résidus d'exploitation sur la friche industrielle ATOCHEM de Wingles, par le BRGM, en date du 3/01/1991 et qui conclu que l'influence des dépôts industriels de la friche sur la nappe de la craie parait limitée.
+1	-	PUNCT	O	_
+2	Analyse	NOUN	O	_
+3	préliminaire	ADJ	O	_
+4	des	DET	O	_
+5	risques	NOUN	O	_
+6	de	ADP	O	_
+7	pollution	NOUN	O	_
+8	liés	VERB	O	_
+9	à	ADP	O	_
+10	des	DET	O	_
+11	résidus	NOUN	O	_
+12	d'	ADP	O	_
+13	exploitation	NOUN	O	_
+14	sur	ADP	O	_
+15	la	DET	O	_
+16	friche	NOUN	O	_
+17	industrielle	ADJ	O	_
+18	ATOCHEM	VERB	EI	_
+19	de	ADP	O	_
+20	Wingles	PROPN	O	_
+21	,	PUNCT	O	_
+22	par	ADP	O	_
+23	le	DET	BI	_
+24	BRGM	PROPN	EI	_
+25	,	PUNCT	O	_
+26	en	ADP	O	_
+27	date	NOUN	O	_
+28	du	DET	O	_
+29	3/01/1991	NOUN	O	_
+30	et	CCONJ	O	_
+31	qui	PRON	O	_
+32	conclu	VERB	O	_
+33	que	SCONJ	O	_
+34	l'	DET	O	_
+35	influence	NOUN	O	_
+36	des	DET	O	_
+37	dépôts	NOUN	O	_
+38	industriels	ADJ	O	_
+39	de	ADP	O	_
+40	la	DET	O	_
+41	friche	NOUN	O	_
+42	sur	ADP	O	_
+43	la	DET	O	_
+44	nappe	NOUN	O	_
+45	de	ADP	O	_
+46	la	DET	O	_
+47	craie	NOUN	O	_
+48	parait	VERB	O	_
+49	limitée	ADJ	O	_
+50	.	PUNCT	O	_
+
+
+#- Confinement des terres souillées sur le site (1 ha) et requalification paysagère réalisés sous la maîtrise d'ouvrage de l'EPF.
+1	-	PUNCT	O	_
+2	Confinement	ADV	O	_
+3	des	DET	O	_
+4	terres	NOUN	O	_
+5	souillées	VERB	O	_
+6	sur	ADP	O	_
+7	le	DET	O	_
+8	site	NOUN	O	_
+9	(	PUNCT	O	_
+10	1	NUM	O	_
+11	ha	NOUN	O	_
+12	)	PUNCT	O	_
+13	et	CCONJ	O	_
+14	requalification	NOUN	O	_
+15	paysagère	AUX	O	_
+16	réalisés	VERB	O	_
+17	sous	ADP	O	_
+18	la	DET	O	_
+19	maîtrise	NOUN	O	_
+20	d'	ADP	O	_
+21	ouvrage	NOUN	O	_
+22	de	ADP	O	_
+23	l'	DET	O	_
+24	EPF	PROPN	EI	_
+25	.	PUNCT	O	_
+
+
+#- Mesures de restriction de l'usage du sol à mettre en place.
+1	-	PUNCT	O	_
+2	Mesures	NOUN	O	_
+3	de	ADP	O	_
+4	restriction	NOUN	O	_
+5	de	ADP	O	_
+6	l'	DET	O	_
+7	usage	NOUN	O	_
+8	du	DET	O	_
+9	sol	NOUN	O	_
+10	à	ADP	O	_
+11	mettre	VERB	O	_
+12	en	ADP	O	_
+13	place	NOUN	O	_
+14	.	PUNCT	O	_
+
+
+#- Aucun usage connu des eaux souterraines.
+1	-	PUNCT	O	_
+2	Aucun	DET	O	_
+3	usage	NOUN	O	_
+4	connu	VERB	O	_
+5	des	DET	O	_
+6	eaux	NOUN	O	_
+7	souterraines	ADJ	O	_
+8	.	PUNCT	O	_
+
+
+#- Utilisation actuelle: zone naturelle.
+1	-	PUNCT	O	_
+2	Utilisation	NOUN	O	_
+3	actuelle	ADJ	O	_
+4	:	PUNCT	O	_
+5	zone	NOUN	O	_
+6	naturelle	ADJ	O	_
+7	.	PUNCT	O	_
+
+
+#62.0003
+#- Superficie du site : 50 ha.
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Superficie	NOUN	O	_
+4	du	DET	O	_
+5	site	NOUN	O	_
+6	:	PUNCT	O	_
+7	50	NUM	O	_
+8	ha	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#- Ancienne cokerie des Houillères.
+1	-	PUNCT	O	_
+2	Ancienne	ADJ	O	_
+3	cokerie	NOUN	O	_
+4	des	DET	O	_
+5	Houillères	NOUN	O	_
+6	.	PUNCT	O	_
+
+
+#Arrêt de l'activité en 1978 et démantèlement de l'usine en 1980.
+1	Arrêt	NOUN	O	_
+2	de	ADP	O	_
+3	l'	DET	O	_
+4	activité	NOUN	O	_
+5	en	ADP	O	_
+6	1978	NUM	O	_
+7	et	CCONJ	O	_
+8	démantèlement	ADV	O	_
+9	de	ADP	O	_
+10	l'	DET	O	_
+11	usine	NOUN	O	_
+12	en	ADP	O	_
+13	1980	NUM	O	_
+14	.	PUNCT	O	_
+
+
+#- Site très vulnérable.
+1	-	PUNCT	O	_
+2	Site	NOUN	O	_
+3	très	ADV	O	_
+4	vulnérable	ADJ	O	_
+5	.	PUNCT	O	_
+
+
+#- Sols pollués par des goudrons et des ferrocyanures.
+1	-	PUNCT	O	_
+2	Sols	NOUN	O	_
+3	pollués	VERB	O	_
+4	par	ADP	O	_
+5	des	DET	O	_
+6	goudrons	NOUN	BU	_
+7	et	CCONJ	O	_
+8	des	DET	O	_
+9	ferrocyanures	NOUN	BS	_
+10	.	PUNCT	O	_
+
+
+#- Surveillance de la nappe exercée depuis 1991.
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Surveillance	NOUN	O	_
+4	de	ADP	O	_
+5	la	DET	O	_
+6	nappe	ADJ	O	_
+7	exercée	VERB	O	_
+8	depuis	ADP	O	_
+9	1991	NUM	O	_
+10	.	PUNCT	O	_
+
+
+#enforcement de la surveillance de la nappe.
+1	enforcement	ADV	O	_
+2	de	ADP	O	_
+3	la	DET	O	_
+4	surveillance	NOUN	O	_
+5	de	ADP	O	_
+6	la	DET	O	_
+7	nappe	PROPN	O	_
+8	.	PUNCT	O	_
+
+
+#- Réhabilitation de la zone polluée par les ferrocyanures achevée en 1994 : extraction, tri , incinération et lavage de terres.regroupement et confinement sur le site des déchets et terres souillées  (2 000 m3) par encapsulage étanche (coût : 1,1 MF).
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Réhabilitation	NOUN	O	_
+4	de	ADP	O	_
+5	la	DET	O	_
+6	zone	NOUN	O	_
+7	polluée	VERB	O	_
+8	par	ADP	O	_
+9	les	DET	BS	_
+10	ferrocyanures	NOUN	BS	_
+11	achevée	VERB	O	_
+12	en	ADP	O	_
+13	1994	NUM	O	_
+14	:	PUNCT	O	_
+15	extraction	NOUN	O	_
+16	,	PUNCT	O	_
+17	tri	NOUN	O	_
+18	,	PUNCT	O	_
+19	incinération	NOUN	O	_
+20	et	CCONJ	O	_
+21	lavage	NOUN	O	_
+22	de	ADP	O	_
+23	terres.regroupement	NOUN	O	_
+24	et	CCONJ	O	_
+25	confinement	ADV	O	_
+26	sur	ADP	O	_
+27	le	DET	O	_
+28	site	NOUN	O	_
+29	des	DET	O	_
+30	déchets	NOUN	O	_
+31	et	CCONJ	O	_
+32	terres	NOUN	O	_
+33	souillées	VERB	O	_
+34	 	SPACE	O	_
+35	(	PUNCT	O	_
+36	2	NUM	O	_
+37	000	NUM	O	_
+38	m3	NOUN	O	_
+39	)	PUNCT	O	_
+40	par	ADP	O	_
+41	encapsulage	NOUN	O	_
+42	étanche	ADJ	O	_
+43	(	PUNCT	O	_
+44	coût	NOUN	O	_
+45	:	PUNCT	O	_
+46	1,1	NUM	O	_
+47	 	SPACE	O	_
+48	MF	NOUN	O	_
+49	)	PUNCT	O	_
+50	.	PUNCT	O	_
+
+
+#- Requalification de la friche par l’Établissement Public Foncier (modelage des terrains et verdissement) partiellement réalisée.
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Requalification	NOUN	O	_
+4	de	ADP	O	_
+5	la	DET	O	_
+6	friche	NOUN	O	_
+7	par	ADP	O	_
+8	l’	PROPN	O	_
+9	Établissement	NOUN	O	_
+10	Public	ADJ	O	_
+11	Foncier	PROPN	O	_
+12	(	PUNCT	O	_
+13	modelage	NOUN	O	_
+14	des	DET	O	_
+15	terrains	NOUN	O	_
+16	et	CCONJ	O	_
+17	verdissement	ADV	O	_
+18	)	PUNCT	O	_
+19	partiellement	ADV	O	_
+20	réalisée	VERB	O	_
+21	.	PUNCT	O	_
+
+
+#- Découverte de goudrons lors de travaux sur le site : un diagnostic complet du site a été demandé à CDF selon la méthodologie nationale en matière de sites et sols pollués.
+1	-	PUNCT	O	_
+2	Découverte	NOUN	O	_
+3	de	ADP	O	_
+4	goudrons	NOUN	BU	_
+5	lors	ADV	O	_
+6	de	ADP	O	_
+7	travaux	NOUN	O	_
+8	sur	ADP	O	_
+9	le	DET	O	_
+10	site	NOUN	O	_
+11	:	PUNCT	O	_
+12	un	DET	O	_
+13	diagnostic	NOUN	O	_
+14	complet	ADJ	O	_
+15	du	DET	O	_
+16	site	NOUN	O	_
+17	a	AUX	O	_
+18	été	AUX	O	_
+19	demandé	VERB	O	_
+20	à	ADP	O	_
+21	CDF	PROPN	BI	_
+22	selon	ADP	O	_
+23	la	DET	O	_
+24	méthodologie	NOUN	O	_
+25	nationale	ADJ	O	_
+26	en	ADP	O	_
+27	matière	NOUN	O	_
+28	de	ADP	O	_
+29	sites	NOUN	O	_
+30	et	CCONJ	O	_
+31	sols	NOUN	O	_
+32	pollués	VERB	O	_
+33	.	PUNCT	O	_
+
+
+#- Diagnostic initial et évaluation simplifiée des risques réalisés en juin 99 : site en classe 2.
+1	-	PUNCT	O	_
+2	Diagnostic	NOUN	O	_
+3	initial	ADJ	O	_
+4	et	CCONJ	O	_
+5	évaluation	NOUN	O	_
+6	simplifiée	ADP	O	_
+7	des	DET	O	_
+8	risques	NOUN	O	_
+9	réalisés	VERB	O	_
+10	en	ADP	O	_
+11	juin	NOUN	O	_
+12	99	NUM	O	_
+13	:	PUNCT	O	_
+14	site	NOUN	O	_
+15	en	ADP	O	_
+16	classe	NOUN	O	_
+17	2	NUM	O	_
+18	.	PUNCT	O	_
+
+
+#- Diagnostic approfondi et Évaluation Détaillée des Risques remis en juillet 1999.
+1	-	PUNCT	O	_
+2	Diagnostic	NOUN	O	_
+3	approfondi	PROPN	O	_
+4	et	CCONJ	O	_
+5	Évaluation	NOUN	O	_
+6	Détaillée	VERB	O	_
+7	des	DET	O	_
+8	Risques	NOUN	O	_
+9	remis	VERB	O	_
+10	en	ADP	O	_
+11	juillet	NOUN	O	_
+12	1999	NUM	O	_
+13	.	PUNCT	O	_
+
+
+#- Arrêté préfectoral du 23/12/1993 et du 27/08/1998 imposent à CDF de faire réaliser:
+1	-	PUNCT	O	_
+2	Arrêté	VERB	O	_
+3	préfectoral	ADJ	O	_
+4	du	DET	O	_
+5	23/12/1993	NOUN	O	_
+6	et	CCONJ	O	_
+7	du	DET	O	_
+8	27/08/1998	NUM	O	_
+9	imposent	ADV	O	_
+10	à	ADP	O	_
+11	CDF	PROPN	BI	_
+12	de	ADP	O	_
+13	faire	VERB	O	_
+14	réaliser	VERB	O	_
+15	:	PUNCT	O	_
+
+
+#*une remise en état, un projet de réhabilitation et le suivi piézométrique du site.
+1	*	ADV	O	_
+2	une	DET	O	_
+3	remise	NOUN	O	_
+4	en	ADP	O	_
+5	état	NOUN	O	_
+6	,	PUNCT	O	_
+7	un	DET	O	_
+8	projet	NOUN	O	_
+9	de	ADP	O	_
+10	réhabilitation	NOUN	O	_
+11	et	CCONJ	O	_
+12	le	DET	O	_
+13	suivi	NOUN	O	_
+14	piézométrique	ADJ	O	_
+15	du	DET	O	_
+16	site	NOUN	O	_
+17	.	PUNCT	O	_
+
+
+#*une étude de sol phase A et une Évaluation Simplifiée des Risques.
+1	*	ADV	O	_
+2	une	DET	O	_
+3	étude	NOUN	O	_
+4	de	ADP	O	_
+5	sol	NOUN	O	_
+6	phase	VERB	O	_
+7	A	NOUN	O	_
+8	et	CCONJ	O	_
+9	une	DET	O	_
+10	Évaluation	NOUN	O	_
+11	Simplifiée	VERB	O	_
+12	des	DET	O	_
+13	Risques	NOUN	O	_
+14	.	PUNCT	O	_
+
+
+#- Travaux de traitement de pollution résiduelle par géoxydation terminés en 2003.
+1	-	PUNCT	O	_
+2	Travaux	NOUN	O	_
+3	de	ADP	O	_
+4	traitement	NOUN	O	_
+5	de	ADP	O	_
+6	pollution	NOUN	O	_
+7	résiduelle	ADJ	O	_
+8	par	ADP	O	_
+9	géoxydation	NOUN	O	_
+10	terminés	VERB	O	_
+11	en	ADP	O	_
+12	2003	NUM	O	_
+13	.	PUNCT	O	_
+
+
+#- Lors de la visite du 12/07/2007, l'inspection a constaté que l'état du terrain correspond à l'état final des travaux, un PV de récolement a été dressé en ce sens.
+1	-	PUNCT	O	_
+2	Lors	ADV	O	_
+3	de	ADP	O	_
+4	la	DET	O	_
+5	visite	NOUN	O	_
+6	du	PROPN	O	_
+7	12/07/2007	NOUN	O	_
+8	,	PUNCT	O	_
+9	l'	DET	O	_
+10	inspection	NOUN	O	_
+11	a	AUX	O	_
+12	constaté	VERB	O	_
+13	que	SCONJ	O	_
+14	l'	DET	O	_
+15	état	NOUN	O	_
+16	du	DET	O	_
+17	terrain	NOUN	O	_
+18	correspond	VERB	O	_
+19	à	ADP	O	_
+20	l'	DET	O	_
+21	état	NOUN	O	_
+22	final	ADJ	O	_
+23	des	DET	O	_
+24	travaux	NOUN	O	_
+25	,	PUNCT	O	_
+26	un	DET	O	_
+27	PV	NOUN	O	_
+28	de	ADP	O	_
+29	récolement	NOUN	O	_
+30	a	AUX	O	_
+31	été	AUX	O	_
+32	dressé	VERB	O	_
+33	en	ADP	O	_
+34	ce	DET	O	_
+35	sens	NOUN	O	_
+36	.	PUNCT	O	_
+
+
+#- Dossier de Servitudes de restriction de l'usage du sol terminé (phase enquête publique en 2013).
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Dossier	NOUN	O	_
+4	de	ADP	O	_
+5	Servitudes	NOUN	O	_
+6	de	ADP	O	_
+7	restriction	NOUN	O	_
+8	de	ADP	O	_
+9	l'	DET	O	_
+10	usage	NOUN	O	_
+11	du	DET	O	_
+12	sol	NOUN	O	_
+13	terminé	ADJ	O	_
+14	(	PUNCT	O	_
+15	phase	NOUN	O	_
+16	enquête	NOUN	O	_
+17	publique	ADJ	O	_
+18	en	ADP	O	_
+19	2013	NUM	O	_
+20	)	PUNCT	O	_
+21	.	PUNCT	O	_
+
+
+#- Activité actuelle: stockage et transit de ballast, passage de bulldozer en vue de construire une voie ferrée temporaire.
+1	-	PUNCT	O	_
+2	Activité	NOUN	O	_
+3	actuelle	ADJ	O	_
+4	:	PUNCT	O	_
+5	stockage	NOUN	O	_
+6	et	CCONJ	O	_
+7	transit	VERB	O	_
+8	de	ADP	O	_
+9	ballast	PROPN	O	_
+10	,	PUNCT	O	_
+11	passage	NOUN	O	_
+12	de	ADP	O	_
+13	bulldozer	NOUN	O	_
+14	en	ADP	O	_
+15	vue	NOUN	O	_
+16	de	ADP	O	_
+17	construire	VERB	O	_
+18	une	DET	O	_
+19	voie	NOUN	O	_
+20	ferrée	ADJ	O	_
+21	temporaire	ADJ	O	_
+22	.	PUNCT	O	_
+
+
+#- Les eaux souterraines sont utilisées à des fins d'eau potable et industrielle.
+1	-	PUNCT	O	_
+2	Les	DET	O	_
+3	eaux	NOUN	O	_
+4	souterraines	NOUN	O	_
+5	sont	AUX	O	_
+6	utilisées	VERB	O	_
+7	à	ADP	O	_
+8	des	DET	O	_
+9	fins	NOUN	O	_
+10	d'	ADP	O	_
+11	eau	NOUN	O	_
+12	potable	ADJ	O	_
+13	et	CCONJ	O	_
+14	industrielle	ADJ	O	_
+15	.	PUNCT	O	_
+
+
+#- Action de l'administration toujours en cours.
+1	-	PUNCT	O	_
+2	Action	NOUN	O	_
+3	de	ADP	O	_
+4	l'	DET	O	_
+5	administration	NOUN	O	_
+6	toujours	ADV	O	_
+7	en	ADP	O	_
+8	cours	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#59.0286
+#-Le site de Cambrai aurait accueilli une usine fabriquant du gaz à partir de la distillation de la houille de 1891 à 1975 (l'étude historique et les sondages effectués sur site n'ont pas permis de retrouver d'éventuels stockages ; il est possible que le produit ait été évacué au fur et à mesure de sa production comme stipulé dans un procès verbal de récolement de 1892).
+1	-Le	PUNCT	O	_
+2	site	NOUN	O	_
+3	de	ADP	O	_
+4	Cambrai	PROPN	O	_
+5	aurait	AUX	O	_
+6	accueilli	VERB	O	_
+7	une	DET	O	_
+8	usine	NOUN	O	_
+9	fabriquant	VERB	O	_
+10	du	DET	O	_
+11	gaz	NOUN	O	_
+12	à	ADP	O	_
+13	partir	VERB	O	_
+14	de	ADP	O	_
+15	la	DET	O	_
+16	distillation	NOUN	O	_
+17	de	ADP	O	_
+18	la	DET	O	_
+19	houille	NOUN	O	_
+20	de	ADP	O	_
+21	1891	NUM	O	_
+22	à	ADP	O	_
+23	1975	NUM	O	_
+24	(	PUNCT	O	_
+25	l'	DET	O	_
+26	étude	NOUN	O	_
+27	historique	ADJ	O	_
+28	et	CCONJ	O	_
+29	les	DET	O	_
+30	sondages	NOUN	O	_
+31	effectués	ADJ	O	_
+32	sur	ADP	O	_
+33	site	NOUN	O	_
+34	n'	ADV	O	_
+35	ont	AUX	O	_
+36	pas	ADV	O	_
+37	permis	VERB	O	_
+38	de	ADP	O	_
+39	retrouver	VERB	O	_
+40	d'	DET	O	_
+41	éventuels	ADJ	O	_
+42	stockages	NOUN	O	_
+43	;	PUNCT	O	_
+44	il	PRON	O	_
+45	est	AUX	O	_
+46	possible	ADJ	O	_
+47	que	SCONJ	O	_
+48	le	DET	O	_
+49	produit	NOUN	O	_
+50	ait	AUX	O	_
+51	été	AUX	O	_
+52	évacué	VERB	O	_
+53	au	PROPN	O	_
+54	fur	PROPN	O	_
+55	et	CCONJ	O	_
+56	à	ADP	O	_
+57	mesure	NOUN	O	_
+58	de	ADP	O	_
+59	sa	DET	O	_
+60	production	NOUN	O	_
+61	comme	ADP	O	_
+62	stipulé	VERB	O	_
+63	dans	ADP	O	_
+64	un	DET	O	_
+65	procès	NOUN	O	_
+66	verbal	ADJ	O	_
+67	de	ADP	O	_
+68	récolement	NOUN	O	_
+69	de	ADP	O	_
+70	1892	NUM	O	_
+71	)	PUNCT	O	_
+72	.	PUNCT	O	_
+
+
+#-Actuellement, il est utilisé par EDF/GDF Services Hainaut Cambrésis pour l'accueil de la clientèle (bureaux, parkings, voies de circulation, ancien magasin qui n'est quasiment plus utilisé, un poste haute pression gaz et différentes zones de stockage de poteaux, transformateurs et tourets.
+1	-Actuellement	ADV	O	_
+2	,	PUNCT	O	_
+3	il	PRON	O	_
+4	est	AUX	O	_
+5	utilisé	VERB	O	_
+6	par	ADP	O	_
+7	EDF	NOUN	BI	_
+8	/	ADP	BI	_
+9	GDF	PROPN	BI	_
+10	Services	PROPN	II	_
+11	Hainaut	ADP	O	_
+12	Cambrésis	NOUN	O	_
+13	pour	ADP	O	_
+14	l'	DET	O	_
+15	accueil	NOUN	O	_
+16	de	ADP	O	_
+17	la	DET	O	_
+18	clientèle	NOUN	O	_
+19	(	PUNCT	O	_
+20	bureaux	NOUN	ED	_
+21	,	PUNCT	O	_
+22	parkings	PROPN	O	_
+23	,	PUNCT	O	_
+24	voies	NOUN	O	_
+25	de	ADP	O	_
+26	circulation	NOUN	O	_
+27	,	PUNCT	O	_
+28	ancien	ADJ	O	_
+29	magasin	NOUN	O	_
+30	qui	PRON	O	_
+31	n'	ADV	O	_
+32	est	AUX	O	_
+33	quasiment	ADV	O	_
+34	plus	ADV	O	_
+35	utilisé	VERB	O	_
+36	,	PUNCT	O	_
+37	un	DET	O	_
+38	poste	NOUN	O	_
+39	haute	ADJ	O	_
+40	pression	NOUN	O	_
+41	gaz	ADJ	O	_
+42	et	CCONJ	O	_
+43	différentes	DET	O	_
+44	zones	NOUN	O	_
+45	de	ADP	O	_
+46	stockage	NOUN	O	_
+47	de	ADP	O	_
+48	poteaux	NOUN	O	_
+49	,	PUNCT	O	_
+50	transformateurs	NOUN	O	_
+51	et	CCONJ	O	_
+52	tourets	NOUN	O	_
+53	.	PUNCT	O	_
+
+
+#-Le site est d'une superficie de 14283m², il se trouve dans la partie Nord-Ouest de la ville de Cambrai au sein d'une zone fortement urbanisée.
+1	-Le	PUNCT	O	_
+2	site	NOUN	O	_
+3	est	AUX	O	_
+4	d'	ADP	O	_
+5	une	DET	O	_
+6	superficie	NOUN	O	_
+7	de	ADP	O	_
+8	14283	NUM	O	_
+9	m²	NOUN	O	_
+10	,	PUNCT	O	_
+11	il	PRON	O	_
+12	se	PRON	O	_
+13	trouve	VERB	O	_
+14	dans	ADP	O	_
+15	la	DET	O	_
+16	partie	NOUN	O	_
+17	Nord	ADJ	O	_
+18	-	PUNCT	O	_
+19	Ouest	NOUN	O	_
+20	de	ADP	O	_
+21	la	DET	O	_
+22	ville	NOUN	O	_
+23	de	ADP	O	_
+24	Cambrai	PROPN	O	_
+25	au	PROPN	O	_
+26	sein	ADJ	O	_
+27	d'	ADP	O	_
+28	une	DET	O	_
+29	zone	NOUN	O	_
+30	fortement	ADV	O	_
+31	urbanisée	VERB	O	_
+32	.	PUNCT	O	_
+
+
+#Gaz de France a hiérarchisé ses actions sur les 467 sites d'anciennes usines à gaz qu'il gère, répartis sur l'ensemble du territoire.
+1	Gaz	NOUN	BI	_
+2	de	ADP	II	_
+3	France	PROPN	EI	_
+4	a	AUX	O	_
+5	hiérarchisé	VERB	O	_
+6	ses	DET	O	_
+7	actions	NOUN	O	_
+8	sur	ADP	O	_
+9	les	DET	O	_
+10	467	NUM	O	_
+11	sites	NOUN	O	_
+12	d'	ADP	O	_
+13	anciennes	ADJ	O	_
+14	usines	NOUN	O	_
+15	à	ADP	O	_
+16	gaz	NOUN	O	_
+17	qu'	SCONJ	O	_
+18	il	PRON	O	_
+19	gère	VERB	O	_
+20	,	PUNCT	O	_
+21	répartis	VERB	O	_
+22	sur	ADP	O	_
+23	l'	DET	O	_
+24	ensemble	NOUN	O	_
+25	du	DET	O	_
+26	territoire	NOUN	O	_
+27	.	PUNCT	O	_
+
+
+#La méthodologie retenue a consisté à hiérarchiser les sites en fonction de leur sensibilité vis à vis de l'environnement  (usage du site, vulnérabilité des eaux souterraines et superficielles, présence et type de population sur le site...).
+1	La	DET	O	_
+2	méthodologie	NOUN	O	_
+3	retenue	VERB	O	_
+4	a	AUX	O	_
+5	consisté	VERB	O	_
+6	à	ADP	O	_
+7	hiérarchiser	VERB	O	_
+8	les	DET	O	_
+9	sites	NOUN	O	_
+10	en	ADP	O	_
+11	fonction	NOUN	O	_
+12	de	ADP	O	_
+13	leur	DET	O	_
+14	sensibilité	NOUN	O	_
+15	vis	NOUN	O	_
+16	à	ADP	O	_
+17	vis	NOUN	O	_
+18	de	ADP	O	_
+19	l'	DET	O	_
+20	environnement	NOUN	O	_
+21	 	SPACE	O	_
+22	(	PUNCT	O	_
+23	usage	NOUN	O	_
+24	du	DET	O	_
+25	site	NOUN	O	_
+26	,	PUNCT	O	_
+27	vulnérabilité	NOUN	O	_
+28	des	DET	O	_
+29	eaux	NOUN	O	_
+30	souterraines	ADJ	O	_
+31	et	CCONJ	O	_
+32	superficielles	ADJ	O	_
+33	,	PUNCT	O	_
+34	présence	NOUN	O	_
+35	et	CCONJ	O	_
+36	type	NOUN	O	_
+37	de	ADP	O	_
+38	population	NOUN	O	_
+39	sur	ADP	O	_
+40	le	DET	O	_
+41	site	NOUN	O	_
+42	...	PUNCT	O	_
+43	)	PUNCT	O	_
+44	.	PUNCT	O	_
+
+
+#L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.
+1	L'	DET	O	_
+2	application	NOUN	O	_
+3	de	ADP	O	_
+4	cette	DET	O	_
+5	méthode	NOUN	O	_
+6	a	AUX	O	_
+7	abouti	VERB	O	_
+8	à	ADP	O	_
+9	l'	DET	O	_
+10	établissement	NOUN	O	_
+11	de	ADP	O	_
+12	5	NUM	O	_
+13	classes	NOUN	O	_
+14	de	ADP	O	_
+15	priorité	NOUN	O	_
+16	pour	ADP	O	_
+17	lesquelles	PRON	O	_
+18	les	DET	O	_
+19	engagements	NOUN	O	_
+20	de	ADP	O	_
+21	Gaz	PROPN	BI	_
+22	de	ADP	II	_
+23	France	PROPN	EI	_
+24	ont	AUX	O	_
+25	fait	VERB	O	_
+26	l'	DET	O	_
+27	objet	NOUN	O	_
+28	d'	ADP	O	_
+29	un	DET	O	_
+30	protocole	NOUN	O	_
+31	d'	ADP	O	_
+32	accord	NOUN	O	_
+33	relatif	ADJ	O	_
+34	à	ADP	O	_
+35	la	DET	O	_
+36	maîtrise	NOUN	O	_
+37	et	CCONJ	O	_
+38	au	PROPN	O	_
+39	suivi	VERB	O	_
+40	de	ADP	O	_
+41	la	DET	O	_
+42	réhabilitation	NOUN	O	_
+43	des	DET	O	_
+44	anciens	NOUN	O	_
+45	terrains	ADJ	O	_
+46	d'	ADP	O	_
+47	usines	NOUN	O	_
+48	à	ADP	O	_
+49	gaz	NOUN	O	_
+50	entre	ADP	O	_
+51	le	DET	BI	_
+52	Ministère	NOUN	II	_
+53	de	ADP	II	_
+54	l'	DET	II	_
+55	Environnement	NOUN	EI	_
+56	et	CCONJ	O	_
+57	Gaz	PROPN	BI	_
+58	de	ADP	II	_
+59	France	PROPN	EI	_
+60	signé	VERB	O	_
+61	le	DET	O	_
+62	25	NUM	O	_
+63	avril	NOUN	O	_
+64	1996	NUM	O	_
+65	.	PUNCT	O	_
+
+
+#-Le site de Cambrai est en classe 3 du protocole.
+1	-Le	PUNCT	O	_
+2	site	NOUN	O	_
+3	de	ADP	O	_
+4	Cambrai	PROPN	O	_
+5	est	AUX	O	_
+6	en	ADP	O	_
+7	classe	NOUN	O	_
+8	3	NUM	O	_
+9	du	DET	O	_
+10	protocole	NOUN	O	_
+11	.	PUNCT	O	_
+
+
+#De ce fait, c'est un site dont la sensibilité vis à vis de l'homme, des eaux souterraines et superficielles est faible.
+1	De	ADP	O	_
+2	ce	DET	O	_
+3	fait	NOUN	O	_
+4	,	PUNCT	O	_
+5	c'	PRON	O	_
+6	est	AUX	O	_
+7	un	DET	O	_
+8	site	NOUN	O	_
+9	dont	PRON	O	_
+10	la	DET	O	_
+11	sensibilité	NOUN	O	_
+12	vis	NOUN	O	_
+13	à	ADP	O	_
+14	vis	NOUN	O	_
+15	de	ADP	O	_
+16	l'	DET	O	_
+17	homme	NOUN	O	_
+18	,	PUNCT	O	_
+19	des	DET	O	_
+20	eaux	NOUN	O	_
+21	souterraines	ADJ	O	_
+22	et	CCONJ	O	_
+23	superficielles	ADJ	O	_
+24	est	AUX	O	_
+25	faible	ADJ	O	_
+26	.	PUNCT	O	_
+
+
+#-Conformément aux engagements pris dans le protocole, Gaz de France a réalisé une étude historique, complétée par des sondages, pour essayer de localisation des cuves.
+1	-Conformément	ADV	O	_
+2	aux	DET	O	_
+3	engagements	NOUN	O	_
+4	pris	VERB	O	_
+5	dans	ADP	O	_
+6	le	DET	O	_
+7	protocole	NOUN	O	_
+8	,	PUNCT	O	_
+9	Gaz	PROPN	BI	_
+10	de	ADP	II	_
+11	France	PROPN	EI	_
+12	a	AUX	O	_
+13	réalisé	VERB	O	_
+14	une	DET	O	_
+15	étude	NOUN	O	_
+16	historique	ADJ	O	_
+17	,	PUNCT	O	_
+18	complétée	VERB	O	_
+19	par	ADP	O	_
+20	des	DET	O	_
+21	sondages	NOUN	O	_
+22	,	PUNCT	O	_
+23	pour	ADP	O	_
+24	essayer	VERB	O	_
+25	de	ADP	O	_
+26	localisation	NOUN	O	_
+27	des	DET	O	_
+28	cuves	NOUN	O	_
+29	.	PUNCT	O	_
+
+
+#Aucune trace de stockages divers n'a été trouvée.
+1	Aucune	DET	O	_
+2	trace	NOUN	O	_
+3	de	ADP	O	_
+4	stockages	NOUN	O	_
+5	divers	ADJ	O	_
+6	n'	ADV	O	_
+7	a	AUX	O	_
+8	été	AUX	O	_
+9	trouvée	VERB	O	_
+10	.	PUNCT	O	_
+
+
+#-A partir de dires d'anciens employés, des investigations ont été réalisées aux emplacements supposés d'anciennes cuves et édifices.
+1	-A	VERB	O	_
+2	partir	VERB	O	_
+3	de	DET	O	_
+4	dires	NOUN	O	_
+5	d'	ADP	O	_
+6	anciens	ADJ	O	_
+7	employés	NOUN	O	_
+8	,	PUNCT	O	_
+9	des	DET	O	_
+10	investigations	NOUN	O	_
+11	ont	AUX	O	_
+12	été	AUX	O	_
+13	réalisées	VERB	O	_
+14	aux	DET	O	_
+15	emplacements	NOUN	O	_
+16	supposés	VERB	O	_
+17	d'	ADP	O	_
+18	anciennes	ADJ	O	_
+19	cuves	NOUN	O	_
+20	et	CCONJ	O	_
+21	édifices	NOUN	O	_
+22	.	PUNCT	O	_
+
+
+#La campagne de sondages n'a pas permis de retrouver ces éventuels stockages.
+1	La	DET	O	_
+2	campagne	NOUN	O	_
+3	de	ADP	O	_
+4	sondages	NOUN	O	_
+5	n'	ADV	O	_
+6	a	AUX	O	_
+7	pas	ADV	O	_
+8	permis	VERB	O	_
+9	de	ADP	O	_
+10	retrouver	VERB	O	_
+11	ces	DET	O	_
+12	éventuels	ADJ	O	_
+13	stockages	NOUN	O	_
+14	.	PUNCT	O	_
+
+
+#- Aucune cuve retrouvée, trace de pollution sur un sondage, justifient la non extinction de l'action de l'état.
+1	-	PUNCT	O	_
+2	Aucune	DET	O	_
+3	cuve	NOUN	O	_
+4	retrouvée	VERB	O	_
+5	,	PUNCT	O	_
+6	trace	NOUN	O	_
+7	de	ADP	O	_
+8	pollution	NOUN	O	_
+9	sur	ADP	O	_
+10	un	DET	O	_
+11	sondage	NOUN	O	_
+12	,	PUNCT	O	_
+13	justifient	ADV	O	_
+14	la	DET	O	_
+15	non	ADV	O	_
+16	extinction	ADJ	O	_
+17	de	ADP	O	_
+18	l'	DET	O	_
+19	action	NOUN	O	_
+20	de	ADP	O	_
+21	l'	DET	O	_
+22	état	NOUN	O	_
+23	.	PUNCT	O	_
+
+
+#59.0061
+#- Superficie du site : 21 ha.
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Superficie	NOUN	O	_
+4	du	DET	O	_
+5	site	NOUN	O	_
+6	:	PUNCT	O	_
+7	21	NUM	O	_
+8	ha	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#- Ancien parc à bois des houillères réaménagé par la ville de Douai en espace vert et de promenade.
+1	-	PUNCT	O	_
+2	Ancien	ADJ	O	_
+3	parc	NOUN	O	_
+4	à	ADP	O	_
+5	bois	NOUN	O	_
+6	des	DET	O	_
+7	houillères	NOUN	O	_
+8	réaménagé	VERB	O	_
+9	par	ADP	O	_
+10	la	DET	O	_
+11	ville	NOUN	O	_
+12	de	ADP	O	_
+13	Douai	NOUN	O	_
+14	en	ADP	O	_
+15	espace	NOUN	O	_
+16	vert	PROPN	O	_
+17	et	CCONJ	O	_
+18	de	ADP	O	_
+19	promenade	NOUN	O	_
+20	.	PUNCT	O	_
+
+
+#- Sol pollué très ponctuellement par des hydrocarbures et des goudrons.
+1	-	PUNCT	O	_
+2	Sol	PROPN	O	_
+3	pollué	PROPN	O	_
+4	très	ADV	O	_
+5	ponctuellement	ADV	O	_
+6	par	ADP	O	_
+7	des	DET	O	_
+8	hydrocarbures	NOUN	BS	_
+9	et	CCONJ	O	_
+10	des	DET	O	_
+11	goudrons	NOUN	BU	_
+12	.	PUNCT	O	_
+
+
+#- Étude des sols initiale réalisée en 1994.
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Étude	NOUN	O	_
+4	des	DET	O	_
+5	sols	NOUN	O	_
+6	initiale	ADJ	O	_
+7	réalisée	VERB	O	_
+8	en	ADP	O	_
+9	1994	NUM	O	_
+10	.	PUNCT	O	_
+
+
+#- Totalité des investigations terminées sur une partie du site : cette partie a été banalisée.
+1	-	PUNCT	O	_
+2	Totalité	NOUN	O	_
+3	des	DET	O	_
+4	investigations	NOUN	O	_
+5	terminées	VERB	O	_
+6	sur	ADP	O	_
+7	une	DET	O	_
+8	partie	NOUN	O	_
+9	du	DET	O	_
+10	site	NOUN	O	_
+11	:	PUNCT	O	_
+12	cette	DET	O	_
+13	partie	NOUN	O	_
+14	a	AUX	O	_
+15	été	AUX	O	_
+16	banalisée	VERB	O	_
+17	.	PUNCT	O	_
+
+
+#- Le site est réaménagé par la ville de Douai
+1	-	PUNCT	O	_
+2	Le	DET	O	_
+3	site	NOUN	O	_
+4	est	AUX	O	_
+5	réaménagé	VERB	O	_
+6	par	ADP	O	_
+7	la	DET	O	_
+8	ville	NOUN	O	_
+9	de	ADP	O	_
+10	Douai	NOUN	EI	_
+
+
+#- Surveillance du site en place : présence de phénols dans la nappe.
+1	-	PUNCT	O	_
+2	Surveillance	NOUN	O	_
+3	du	DET	O	_
+4	site	NOUN	O	_
+5	en	ADP	O	_
+6	place	NOUN	O	_
+7	:	PUNCT	O	_
+8	présence	NOUN	O	_
+9	de	ADP	O	_
+10	phénols	NOUN	BS	_
+11	dans	ADP	O	_
+12	la	DET	O	_
+13	nappe	PROPN	O	_
+14	.	PUNCT	O	_
+
+
+#- Arrêté prefectoral imposant à la SA Charbonnages de France la réalisation d'une étude approfondie du site, le 29/01/1998
+1	-	PUNCT	O	_
+2	Arrêté	PROPN	O	_
+3	prefectoral	ADJ	O	_
+4	imposant	VERB	O	_
+5	à	ADP	O	_
+6	la	DET	BI	_
+7	SA	NOUN	II	_
+8	Charbonnages	NOUN	II	_
+9	de	ADP	II	_
+10	France	PROPN	EI	_
+11	la	DET	O	_
+12	réalisation	NOUN	O	_
+13	d'	ADP	O	_
+14	une	DET	O	_
+15	étude	NOUN	O	_
+16	approfondie	VERB	O	_
+17	du	DET	O	_
+18	site	NOUN	O	_
+19	,	PUNCT	O	_
+20	le	DET	O	_
+21	29/01/1998	ADJ	O	_
+
+
+#- Dossier de servitude déposé par CDF en cours d'instruction.
+1	-	PUNCT	O	_
+2	Dossier	NOUN	O	_
+3	de	ADP	O	_
+4	servitude	NOUN	O	_
+5	déposé	VERB	O	_
+6	par	ADP	O	_
+7	CDF	PROPN	BI	_
+8	en	ADP	O	_
+9	cours	NOUN	O	_
+10	d'	ADP	O	_
+11	instruction	NOUN	O	_
+12	.	PUNCT	O	_
+
+
+#- Réalisation d'une nouvelle version de l'évaluation détaillée des risques en mars 2000
+1	-	PUNCT	O	_
+2	Réalisation	NOUN	O	_
+3	d'	ADP	O	_
+4	une	DET	O	_
+5	nouvelle	ADJ	O	_
+6	version	NOUN	O	_
+7	de	ADP	O	_
+8	l'	DET	O	_
+9	évaluation	NOUN	O	_
+10	détaillée	VERB	O	_
+11	des	DET	O	_
+12	risques	NOUN	O	_
+13	en	ADP	O	_
+14	mars	NOUN	O	_
+15	2000	NUM	O	_
+
+
+#- Une convention a été signée avec la ville de Douai afin de garder un accès aux piézomètres du site.
+1	-	PUNCT	O	_
+2	Une	DET	O	_
+3	convention	NOUN	O	_
+4	a	AUX	O	_
+5	été	AUX	O	_
+6	signée	VERB	O	_
+7	avec	ADP	O	_
+8	la	DET	BI	_
+9	ville	NOUN	II	_
+10	de	ADP	II	_
+11	Douai	NOUN	EI	_
+12	afin	ADP	O	_
+13	de	ADP	O	_
+14	garder	VERB	O	_
+15	un	DET	O	_
+16	accès	NOUN	O	_
+17	aux	ADJ	O	_
+18	piézomètres	NOUN	O	_
+19	du	DET	O	_
+20	site	NOUN	O	_
+21	.	PUNCT	O	_
+
+
+#- Le captage d'alimentation en eau potable le plus proche est a plus de 3 km du site et ne risque donc pas d’être impacté par la pollution du site.
+1	-	PUNCT	O	_
+2	Le	DET	O	_
+3	captage	NOUN	O	_
+4	d'	ADP	O	_
+5	alimentation	NOUN	O	_
+6	en	ADP	O	_
+7	eau	NOUN	O	_
+8	potable	ADJ	O	_
+9	le	DET	O	_
+10	plus	ADV	O	_
+11	proche	ADJ	O	_
+12	est	AUX	O	_
+13	a	AUX	O	_
+14	plus	ADV	O	_
+15	de	ADP	O	_
+16	3	NUM	O	_
+17	km	NOUN	O	_
+18	du	DET	O	_
+19	site	NOUN	O	_
+20	et	CCONJ	O	_
+21	ne	ADV	O	_
+22	risque	VERB	O	_
+23	donc	ADV	O	_
+24	pas	ADV	O	_
+25	d’	VERB	O	_
+26	être	AUX	O	_
+27	impacté	VERB	O	_
+28	par	ADP	O	_
+29	la	DET	O	_
+30	pollution	NOUN	O	_
+31	du	DET	O	_
+32	site	NOUN	O	_
+33	.	PUNCT	O	_
+
+
+#- Le site est mis en sécurité vis à vis des tiers.
+1	-	PUNCT	O	_
+2	Le	DET	O	_
+3	site	NOUN	O	_
+4	est	AUX	O	_
+5	mis	VERB	O	_
+6	en	ADP	O	_
+7	sécurité	NOUN	O	_
+8	vis	NOUN	O	_
+9	à	ADP	O	_
+10	vis	NOUN	O	_
+11	des	DET	O	_
+12	tiers	NOUN	O	_
+13	.	PUNCT	O	_
+
+
+#- Une action de l'administration est toujours en cours sur ce site.
+1	-	PUNCT	O	_
+2	Une	DET	O	_
+3	action	NOUN	O	_
+4	de	ADP	O	_
+5	l'	DET	O	_
+6	administration	NOUN	O	_
+7	est	AUX	O	_
+8	toujours	ADV	O	_
+9	en	ADP	O	_
+10	cours	NOUN	O	_
+11	sur	ADP	O	_
+12	ce	DET	O	_
+13	site	NOUN	O	_
+14	.	PUNCT	O	_
+
+
+#62.0038
+#- L'usine de Biache a été crée en 1846, à partir de 1971, rénovation totale pour la production de tôles minces laminées à froid.
+1	-	PUNCT	O	_
+2	L'	DET	O	_
+3	usine	NOUN	O	_
+4	de	ADP	O	_
+5	Biache	PROPN	O	_
+6	a	AUX	O	_
+7	été	AUX	O	_
+8	crée	VERB	O	_
+9	en	ADP	O	_
+10	1846	NUM	O	_
+11	,	PUNCT	O	_
+12	à	ADP	O	_
+13	partir	VERB	O	_
+14	de	ADP	O	_
+15	1971	NUM	O	_
+16	,	PUNCT	O	_
+17	rénovation	NOUN	O	_
+18	totale	ADJ	O	_
+19	pour	ADP	O	_
+20	la	DET	O	_
+21	production	NOUN	O	_
+22	de	ADP	O	_
+23	tôles	NOUN	O	_
+24	minces	NOUN	O	_
+25	laminées	VERB	O	_
+26	à	ADP	O	_
+27	froid	NOUN	O	_
+28	.	PUNCT	O	_
+
+
+#- Bassins à boues: 12 bassins exploités de 1960 à 1990 au Nord Est du site.
+1	-	PUNCT	O	_
+2	Bassins	ADV	O	_
+3	à	ADP	O	_
+4	boues	ADJ	O	_
+5	:	PUNCT	O	_
+6	12	NUM	O	_
+7	bassins	NOUN	O	_
+8	exploités	VERB	O	_
+9	de	ADP	O	_
+10	1960	NUM	O	_
+11	à	ADP	O	_
+12	1990	NUM	O	_
+13	au	NOUN	O	_
+14	Nord	ADJ	O	_
+15	Est	AUX	O	_
+16	du	DET	O	_
+17	site	NOUN	O	_
+18	.	PUNCT	O	_
+
+
+#- Anciens bassins à boues contenant des boues de décapage à l'acide sulfurique, des résidus de décantation et des battitures de laminoirs.
+1	-	PUNCT	O	_
+2	Anciens	ADJ	O	_
+3	bassins	NOUN	O	_
+4	à	ADP	O	_
+5	boues	ADJ	O	_
+6	contenant	VERB	O	_
+7	des	DET	O	_
+8	boues	NOUN	O	_
+9	de	ADP	O	_
+10	décapage	NOUN	O	_
+11	à	ADP	O	_
+12	l'	DET	O	_
+13	acide	NOUN	BS	_
+14	sulfurique	ADJ	BS	_
+15	,	PUNCT	O	_
+16	des	DET	O	_
+17	résidus	NOUN	O	_
+18	de	ADP	O	_
+19	décantation	NOUN	O	_
+20	et	CCONJ	O	_
+21	des	DET	O	_
+22	battitures	NOUN	O	_
+23	de	ADP	O	_
+24	laminoirs	NOUN	O	_
+25	.	PUNCT	O	_
+
+
+#- Volume total de déchets entreposé estimé à 75 000 m3.
+1	-	PUNCT	O	_
+2	Volume	NOUN	O	_
+3	total	ADJ	O	_
+4	de	ADP	O	_
+5	déchets	NOUN	O	_
+6	entreposé	PROPN	O	_
+7	estimé	VERB	O	_
+8	à	ADP	O	_
+9	75	NUM	O	_
+10	000	NUM	O	_
+11	m3	NOUN	O	_
+12	.	PUNCT	O	_
+
+
+#- Superficie du site: 48.8 ha dont 3.5 ha pour les bassins.
+1	-	PUNCT	O	_
+2	Superficie	NOUN	O	_
+3	du	DET	O	_
+4	site	NOUN	O	_
+5	:	PUNCT	O	_
+6	48.8	NOUN	O	_
+7	ha	PROPN	O	_
+8	dont	PRON	O	_
+9	3.5	NUM	O	_
+10	ha	NOUN	O	_
+11	pour	ADP	O	_
+12	les	DET	O	_
+13	bassins	NOUN	O	_
+14	.	PUNCT	O	_
+
+
+#- Pollution des eaux souterraines constatée (sulfates).
+1	-	PUNCT	O	_
+2	Pollution	NOUN	O	_
+3	des	DET	O	_
+4	eaux	NOUN	O	_
+5	souterraines	NOUN	O	_
+6	constatée	VERB	O	_
+7	(	PUNCT	O	_
+8	sulfates	ADJ	BS	_
+9	)	PUNCT	O	_
+10	.	PUNCT	O	_
+
+
+#- L'ensemble du site est visé par la circulaire du 3 avril 1996 qui impose une étude des sols sur les sites en activité.
+1	-	PUNCT	O	_
+2	L'	DET	O	_
+3	ensemble	NOUN	O	_
+4	du	DET	O	_
+5	site	NOUN	O	_
+6	est	AUX	O	_
+7	visé	VERB	O	_
+8	par	ADP	O	_
+9	la	DET	O	_
+10	circulaire	NOUN	O	_
+11	du	DET	O	_
+12	3	NUM	O	_
+13	avril	NOUN	O	_
+14	1996	NUM	O	_
+15	qui	PRON	O	_
+16	impose	VERB	O	_
+17	une	DET	O	_
+18	étude	NOUN	O	_
+19	des	DET	O	_
+20	sols	NOUN	O	_
+21	sur	ADP	O	_
+22	les	DET	O	_
+23	sites	NOUN	O	_
+24	en	ADP	O	_
+25	activité	NOUN	O	_
+26	.	PUNCT	O	_
+
+
+#- Arrêté préfectoral du 15/07/1996 imposant la réalisation de travaux de réhabilitation des bassins à boues.
+1	-	PUNCT	O	_
+2	Arrêté	VERB	O	_
+3	préfectoral	ADJ	O	_
+4	du	DET	O	_
+5	15/07/1996	PRON	O	_
+6	imposant	VERB	O	_
+7	la	DET	O	_
+8	réalisation	NOUN	O	_
+9	de	ADP	O	_
+10	travaux	NOUN	O	_
+11	de	ADP	O	_
+12	réhabilitation	NOUN	O	_
+13	des	DET	O	_
+14	bassins	NOUN	O	_
+15	à	ADP	O	_
+16	boues	ADJ	O	_
+17	.	PUNCT	O	_
+
+
+#- Etude des sols réalisée en 1994.
+1	-	PUNCT	O	_
+2	Etude	NOUN	O	_
+3	des	DET	O	_
+4	sols	NOUN	O	_
+5	réalisée	VERB	O	_
+6	en	ADP	O	_
+7	1994	NUM	O	_
+8	.	PUNCT	O	_
+
+
+#- Surveillance de la qualité des eaux souterraines exercée.
+1	-	PUNCT	O	_
+2	Surveillance	NOUN	O	_
+3	de	ADP	O	_
+4	la	DET	O	_
+5	qualité	NOUN	O	_
+6	des	DET	O	_
+7	eaux	NOUN	O	_
+8	souterraines	NOUN	O	_
+9	exercée	VERB	O	_
+10	.	PUNCT	O	_
+
+
+#- Etude diagnostic approfondie terminée : l'impact des bassins sur la qualité des eaux est limité.
+1	-	PUNCT	O	_
+2	Etude	NOUN	O	_
+3	diagnostic	VERB	O	_
+4	approfondie	AUX	O	_
+5	terminée	VERB	O	_
+6	:	PUNCT	O	_
+7	l'	DET	O	_
+8	impact	NOUN	O	_
+9	des	DET	O	_
+10	bassins	NOUN	O	_
+11	sur	ADP	O	_
+12	la	DET	O	_
+13	qualité	NOUN	O	_
+14	des	DET	O	_
+15	eaux	NOUN	O	_
+16	est	AUX	O	_
+17	limité	ADJ	O	_
+18	.	PUNCT	O	_
+
+
+#- Etude de diffusion des sulfates demandée afin de mesurer l'impact à long terme.
+1	-	PUNCT	O	_
+2	Etude	NOUN	O	_
+3	de	ADP	O	_
+4	diffusion	NOUN	O	_
+5	des	DET	O	_
+6	sulfates	NOUN	BS	_
+7	demandée	VERB	O	_
+8	afin	ADP	O	_
+9	de	ADP	O	_
+10	mesurer	VERB	O	_
+11	l'	DET	O	_
+12	impact	NOUN	O	_
+13	à	ADP	O	_
+14	long	ADJ	O	_
+15	terme	NOUN	O	_
+16	.	PUNCT	O	_
+
+
+#- Cessation d'activité définitive notifiée par courrier du 1 er octobre 2002.
+1	-	PUNCT	O	_
+2	Cessation	NOUN	O	_
+3	d'	ADP	O	_
+4	activité	NOUN	O	_
+5	définitive	ADJ	O	_
+6	notifiée	VERB	O	_
+7	par	ADP	O	_
+8	courrier	NOUN	O	_
+9	du	DET	O	_
+10	1	NUM	O	_
+11	er	CCONJ	O	_
+12	octobre	NOUN	O	_
+13	2002	NUM	O	_
+14	.	PUNCT	O	_
+
+
+#- En 2003: projet d'implantation de l'usine NMC sur le site (fabrication de pièces auto).
+1	-	PUNCT	O	_
+2	En	ADP	O	_
+3	2003	NUM	O	_
+4	:	PUNCT	O	_
+5	projet	NOUN	O	_
+6	d'	ADP	O	_
+7	implantation	NOUN	O	_
+8	de	ADP	O	_
+9	l'	DET	O	_
+10	usine	NOUN	O	_
+11	NMC	NOUN	BI	_
+12	sur	ADP	O	_
+13	le	DET	O	_
+14	site	NOUN	O	_
+15	(	PUNCT	O	_
+16	fabrication	NOUN	O	_
+17	de	ADP	O	_
+18	pièces	NOUN	O	_
+19	auto	ADJ	O	_
+20	)	PUNCT	O	_
+21	.	PUNCT	O	_
+
+
+#- Travaux de réhabilitations: mise en sécurité et élimination des déchets avec couverture des basins et mise en place d'une clôture sur la zone des bassins.
+1	-	PUNCT	O	_
+2	Travaux	NOUN	O	_
+3	de	ADP	O	_
+4	réhabilitations	NOUN	O	_
+5	:	PUNCT	O	_
+6	mise	NOUN	O	_
+7	en	ADP	O	_
+8	sécurité	NOUN	O	_
+9	et	CCONJ	O	_
+10	élimination	VERB	O	_
+11	des	DET	O	_
+12	déchets	NOUN	O	_
+13	avec	ADP	O	_
+14	couverture	NOUN	O	_
+15	des	DET	O	_
+16	basins	NOUN	O	_
+17	et	CCONJ	O	_
+18	mise	NOUN	O	_
+19	en	ADP	O	_
+20	place	NOUN	O	_
+21	d'	ADP	O	_
+22	une	DET	O	_
+23	clôture	NOUN	O	_
+24	sur	ADP	O	_
+25	la	DET	O	_
+26	zone	NOUN	O	_
+27	des	DET	O	_
+28	bassins	NOUN	O	_
+29	.	PUNCT	O	_
+
+
+#Travaux à partir du 29/06/2007.
+1	Travaux	NOUN	O	_
+2	à	ADP	O	_
+3	partir	VERB	O	_
+4	du	DET	O	_
+5	29/06/2007	NOUN	O	_
+6	.	PUNCT	O	_
+
+
+#- Réaménagement du site (démolition ...), en date du 12/12/2008.
+1	-	PUNCT	O	_
+2	Réaménagement	NOUN	O	_
+3	du	DET	O	_
+4	site	NOUN	O	_
+5	(	PUNCT	O	_
+6	démolition	NOUN	O	_
+7	...	PUNCT	O	_
+8	)	PUNCT	O	_
+9	,	PUNCT	O	_
+10	en	ADP	O	_
+11	date	NOUN	O	_
+12	du	DET	O	_
+13	12/12/2008	NOUN	O	_
+14	.	PUNCT	O	_
+
+
+#- Visite d'inspection du 19/09/2011, constat: site clôturé dans sa totalité, plusieurs sociétés se sont implantées sur la partie usine, zone des bassins à boues isolée par une clôture.
+1	-	PUNCT	O	_
+2	Visite	NOUN	O	_
+3	d'	ADP	O	_
+4	inspection	NOUN	O	_
+5	du	DET	O	_
+6	19/09/2011	NOUN	O	_
+7	,	PUNCT	O	_
+8	constat	NOUN	O	_
+9	:	PUNCT	O	_
+10	site	NOUN	O	_
+11	clôturé	VERB	O	_
+12	dans	ADP	O	_
+13	sa	DET	O	_
+14	totalité	NOUN	O	_
+15	,	PUNCT	O	_
+16	plusieurs	DET	O	_
+17	sociétés	NOUN	O	_
+18	se	PRON	O	_
+19	sont	AUX	O	_
+20	implantées	VERB	O	_
+21	sur	ADP	O	_
+22	la	DET	O	_
+23	partie	NOUN	O	_
+24	usine	NOUN	O	_
+25	,	PUNCT	O	_
+26	zone	VERB	O	_
+27	des	DET	O	_
+28	bassins	NOUN	O	_
+29	à	ADP	O	_
+30	boues	ADJ	O	_
+31	isolée	VERB	O	_
+32	par	ADP	O	_
+33	une	DET	O	_
+34	clôture	NOUN	O	_
+35	.	PUNCT	O	_
+
+
+#- PV de récolement en date du 17/10/2011.
+1	-	PUNCT	O	_
+2	PV	NOUN	O	_
+3	de	ADP	O	_
+4	récolement	NOUN	O	_
+5	en	ADP	O	_
+6	date	NOUN	O	_
+7	du	DET	O	_
+8	17/10/2011	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#- Les eaux souterraines sont utilisées dans le secteur pour un usage AEP et AEA (eau potable et agricole).
+1	-	PUNCT	O	_
+2	Les	DET	O	_
+3	eaux	NOUN	O	_
+4	souterraines	NOUN	O	_
+5	sont	AUX	O	_
+6	utilisées	VERB	O	_
+7	dans	ADP	O	_
+8	le	DET	O	_
+9	secteur	NOUN	O	_
+10	pour	ADP	O	_
+11	un	DET	O	_
+12	usage	NOUN	O	_
+13	AEP	PROPN	O	_
+14	et	CCONJ	O	_
+15	AEA	PROPN	O	_
+16	(	PUNCT	O	_
+17	eau	NOUN	O	_
+18	potable	ADJ	O	_
+19	et	CCONJ	O	_
+20	agricole	ADJ	O	_
+21	)	PUNCT	O	_
+22	.	PUNCT	O	_
+
+
+#- Site mis en sécurité vis à vis des tiers.
+1	-	PUNCT	O	_
+2	Site	NOUN	O	_
+3	mis	VERB	O	_
+4	en	ADP	O	_
+5	sécurité	NOUN	O	_
+6	vis	NOUN	O	_
+7	à	ADP	O	_
+8	vis	NOUN	O	_
+9	des	DET	O	_
+10	tiers	NOUN	O	_
+11	.	PUNCT	O	_
+
+
+#- Action de l'administration toujours en cours.
+1	-	PUNCT	O	_
+2	Action	NOUN	O	_
+3	de	ADP	O	_
+4	l'	DET	O	_
+5	administration	NOUN	O	_
+6	toujours	ADV	O	_
+7	en	ADP	O	_
+8	cours	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#59.0034
+#- 1859: Fondation de la Boulonnerie de Thiant.
+1	-	PUNCT	O	_
+2	1859	NUM	O	_
+3	:	PUNCT	O	_
+4	Fondation	NOUN	O	_
+5	de	ADP	O	_
+6	la	DET	O	_
+7	Boulonnerie	NOUN	O	_
+8	de	ADP	O	_
+9	Thiant	NOUN	O	_
+10	.	PUNCT	O	_
+
+
+#- 1905: Construction de l'usine actuelle.
+1	-	PUNCT	O	_
+2	1905	NUM	O	_
+3	:	PUNCT	O	_
+4	Construction	NOUN	O	_
+5	de	ADP	O	_
+6	l'	DET	O	_
+7	usine	NOUN	O	_
+8	actuelle	ADJ	O	_
+9	.	PUNCT	O	_
+
+
+#- Site situé à 10km au sud-ouest de Valenciennes, et à 500m du centre ville de thiant.
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Site	NOUN	O	_
+4	situé	VERB	O	_
+5	à	ADP	O	_
+6	10	NUM	O	_
+7	km	NOUN	O	_
+8	au	PROPN	O	_
+9	sud-ouest	NOUN	O	_
+10	de	ADP	O	_
+11	Valenciennes	PROPN	O	_
+12	,	PUNCT	O	_
+13	et	CCONJ	O	_
+14	à	ADP	O	_
+15	500	NUM	O	_
+16	m	NOUN	O	_
+17	du	DET	O	_
+18	centre	NOUN	O	_
+19	ville	NOUN	O	_
+20	de	ADP	O	_
+21	thiant	NOUN	O	_
+22	.	PUNCT	O	_
+
+
+#- La société Former est propriétaire des parcelles: 100, 102, 103, 106, 266 ce qui représente 16906m², sur un terrain de 35000m².
+1	-	PUNCT	O	_
+2	La	DET	BI	_
+3	société	NOUN	II	_
+4	Former	PROPN	EI	_
+5	est	AUX	O	_
+6	propriétaire	NOUN	O	_
+7	des	DET	O	_
+8	parcelles	NOUN	O	_
+9	:	PUNCT	O	_
+10	100	PRON	O	_
+11	,	PUNCT	O	_
+12	102	NUM	O	_
+13	,	PUNCT	O	_
+14	103	NUM	O	_
+15	,	PUNCT	O	_
+16	106	NUM	O	_
+17	,	PUNCT	O	_
+18	266	NUM	O	_
+19	ce	PRON	O	_
+20	qui	PRON	O	_
+21	représente	VERB	O	_
+22	16906	NUM	O	_
+23	m²	NOUN	O	_
+24	,	PUNCT	O	_
+25	sur	ADP	O	_
+26	un	DET	O	_
+27	terrain	NOUN	O	_
+28	de	ADP	O	_
+29	35000	NUM	O	_
+30	m²	NOUN	O	_
+31	.	PUNCT	O	_
+
+
+#- Sol pollué par des métaux et des hydrocarbures à la suite du débordement d'un ancien bassin de décantation d'eaux de traitement de surfaces (5 000 m3 de terres souillées).
+1	-	PUNCT	O	_
+2	Sol	PROPN	O	_
+3	pollué	VERB	O	_
+4	par	ADP	O	_
+5	des	DET	BS	_
+6	métaux	NOUN	ES	_
+7	et	CCONJ	O	_
+8	des	DET	O	_
+9	hydrocarbures	NOUN	BS	_
+10	à	ADP	O	_
+11	la	DET	O	_
+12	suite	NOUN	O	_
+13	du	DET	O	_
+14	débordement	NOUN	O	_
+15	d'	ADP	O	_
+16	un	DET	O	_
+17	ancien	ADJ	O	_
+18	bassin	NOUN	O	_
+19	de	ADP	O	_
+20	décantation	NOUN	O	_
+21	d'	ADP	O	_
+22	eaux	NOUN	O	_
+23	de	ADP	O	_
+24	traitement	NOUN	O	_
+25	de	ADP	O	_
+26	surfaces	NOUN	O	_
+27	(	PUNCT	O	_
+28	5	NUM	O	_
+29	000	NUM	O	_
+30	m3	NOUN	O	_
+31	de	ADP	O	_
+32	terres	NOUN	O	_
+33	souillées	VERB	O	_
+34	)	PUNCT	O	_
+35	.	PUNCT	O	_
+
+
+#Incendie sur le site du débordement en 1976 (sur la partie Trou des Belges, jouxtant l'usine).
+1	Incendie	NOUN	O	_
+2	sur	ADP	O	_
+3	le	DET	O	_
+4	site	NOUN	O	_
+5	du	DET	O	_
+6	débordement	NOUN	O	_
+7	en	ADP	O	_
+8	1976	NUM	O	_
+9	(	PUNCT	O	_
+10	sur	ADP	O	_
+11	la	DET	O	_
+12	partie	NOUN	O	_
+13	Trou	PROPN	O	_
+14	des	DET	O	_
+15	Belges	PROPN	O	_
+16	,	PUNCT	O	_
+17	jouxtant	VERB	O	_
+18	l'	DET	O	_
+19	usine	NOUN	O	_
+20	)	PUNCT	O	_
+21	.	PUNCT	O	_
+
+
+#- Site en activité: fabrication d'écrous produits par frappe à froid.
+1	-	PUNCT	O	_
+2	Site	NOUN	O	_
+3	en	ADP	O	_
+4	activité	NOUN	O	_
+5	:	PUNCT	O	_
+6	fabrication	NOUN	O	_
+7	d'	ADP	O	_
+8	écrous	ADJ	O	_
+9	produits	NOUN	O	_
+10	par	ADP	O	_
+11	frappe	PROPN	O	_
+12	à	ADP	O	_
+13	froid	NOUN	O	_
+14	.	PUNCT	O	_
+
+
+#- Arrêté préfectoral du 22/12/1997 imposant à la SA FORMER la réalisation d'une étude complémentaire pour la remise en état du site "Le Trou des Belges".
+1	-	PUNCT	O	_
+2	Arrêté	VERB	O	_
+3	préfectoral	ADJ	O	_
+4	du	DET	O	_
+5	22/12/1997	NOUN	O	_
+6	imposant	VERB	O	_
+7	à	ADP	O	_
+8	la	DET	BI	_
+9	SA	PROPN	II	_
+10	FORMER	NOUN	EI	_
+11	la	DET	O	_
+12	réalisation	NOUN	O	_
+13	d'	ADP	O	_
+14	une	DET	O	_
+15	étude	NOUN	O	_
+16	complémentaire	ADJ	O	_
+17	pour	ADP	O	_
+18	la	DET	O	_
+19	remise	NOUN	O	_
+20	en	ADP	O	_
+21	état	NOUN	O	_
+22	du	DET	O	_
+23	site	NOUN	O	_
+24	"	PUNCT	O	_
+25	Le	DET	O	_
+26	Trou	NOUN	O	_
+27	des	DET	O	_
+28	Belges	PROPN	O	_
+29	"	PUNCT	O	_
+30	.	PUNCT	O	_
+
+
+#- Etude des sols réalisée.
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Etude	NOUN	O	_
+4	des	DET	O	_
+5	sols	NOUN	O	_
+6	réalisée	VERB	O	_
+7	.	PUNCT	O	_
+
+
+#- Etude d'impact approfondie réalisée
+1	-	PUNCT	O	_
+2	 	SPACE	O	_
+3	Etude	NOUN	O	_
+4	d'	ADP	O	_
+5	impact	NOUN	O	_
+6	approfondie	DET	O	_
+7	réalisée	VERB	O	_
+
+
+#- La surveillance des eaux souterraines a été imposée par arrêté préfectoral du 23 décembre 2002.
+1	-	PUNCT	O	_
+2	La	DET	O	_
+3	surveillance	NOUN	O	_
+4	des	DET	O	_
+5	eaux	NOUN	O	_
+6	souterraines	NOUN	O	_
+7	a	AUX	O	_
+8	été	AUX	O	_
+9	imposée	VERB	O	_
+10	par	ADP	O	_
+11	arrêté	VERB	O	_
+12	préfectoral	ADJ	O	_
+13	du	DET	O	_
+14	23	NUM	O	_
+15	décembre	NOUN	O	_
+16	2002	NUM	O	_
+17	.	PUNCT	O	_
+
+
+#- 3 piézomètres sont implantés sur le site.
+1	-	PUNCT	O	_
+2	3	NUM	O	_
+3	piézomètres	NOUN	O	_
+4	sont	AUX	O	_
+5	implantés	VERB	O	_
+6	sur	ADP	O	_
+7	le	DET	O	_
+8	site	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#- Il existe des sources de pollution au HCT, certains éléments métalliques (arsenic, plomb, cadmium, zinc) dans la partie Nord Est de la zone d'étude.
+1	-	PUNCT	O	_
+2	Il	PRON	O	_
+3	existe	VERB	O	_
+4	des	DET	O	_
+5	sources	NOUN	O	_
+6	de	ADP	O	_
+7	pollution	NOUN	O	_
+8	au	PROPN	O	_
+9	HCT	NOUN	BS	_
+10	,	PUNCT	O	_
+11	certains	DET	O	_
+12	éléments	NOUN	BS	_
+13	métalliques	ADJ	ES	_
+14	(	PUNCT	O	_
+15	arsenic	PROPN	BS	_
+16	,	PUNCT	O	_
+17	plomb	PROPN	BS	_
+18	,	PUNCT	O	_
+19	cadmium	NOUN	BS	_
+20	,	PUNCT	O	_
+21	zinc	PROPN	BS	_
+22	)	PUNCT	O	_
+23	dans	ADP	O	_
+24	la	DET	O	_
+25	partie	NOUN	O	_
+26	Nord	ADJ	O	_
+27	Est	AUX	O	_
+28	de	ADP	O	_
+29	la	DET	O	_
+30	zone	NOUN	O	_
+31	d'	ADP	O	_
+32	étude	NOUN	O	_
+33	.	PUNCT	O	_
+
+
+#- Les nappes d'eau souterraines sont utilisées dans le secteur à des fins industrielles et d'eau potable.
+1	-	PUNCT	O	_
+2	Les	DET	O	_
+3	nappes	NOUN	O	_
+4	d'	ADP	O	_
+5	eau	NOUN	O	_
+6	souterraines	NOUN	O	_
+7	sont	AUX	O	_
+8	utilisées	VERB	O	_
+9	dans	ADP	O	_
+10	le	DET	O	_
+11	secteur	NOUN	O	_
+12	à	ADP	O	_
+13	des	DET	O	_
+14	fins	NOUN	O	_
+15	industrielles	ADJ	O	_
+16	et	CCONJ	O	_
+17	d'	ADP	O	_
+18	eau	NOUN	O	_
+19	potable	ADJ	O	_
+20	.	PUNCT	O	_
+
+
+#- Action de l'administration toujours en cours.
+1	-	PUNCT	O	_
+2	Action	NOUN	O	_
+3	de	ADP	O	_
+4	l'	DET	O	_
+5	administration	NOUN	O	_
+6	toujours	ADV	O	_
+7	en	ADP	O	_
+8	cours	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#59.0293
+#Le site de Marquette les Lille aurait accueilli une usine fabriquant du gaz à partir de la distillation de la houille.
+1	Le	DET	O	_
+2	site	NOUN	O	_
+3	de	ADP	O	_
+4	Marquette	PROPN	O	_
+5	les	DET	O	_
+6	Lille	PROPN	O	_
+7	aurait	AUX	O	_
+8	accueilli	VERB	O	_
+9	une	DET	O	_
+10	usine	NOUN	O	_
+11	fabriquant	VERB	O	_
+12	du	DET	O	_
+13	gaz	NOUN	O	_
+14	à	ADP	O	_
+15	partir	VERB	O	_
+16	de	ADP	O	_
+17	la	DET	O	_
+18	distillation	NOUN	O	_
+19	de	ADP	O	_
+20	la	DET	O	_
+21	houille	NOUN	O	_
+22	.	PUNCT	O	_
+
+
+#Gaz de France a hiérarchisé ses actions sur les 467 sites d'anciennes usines à gaz qu'il gère, répartis sur l'ensemble du territoire.
+1	Gaz	NOUN	BI	_
+2	de	ADP	II	_
+3	France	PROPN	EI	_
+4	a	AUX	O	_
+5	hiérarchisé	VERB	O	_
+6	ses	DET	O	_
+7	actions	NOUN	O	_
+8	sur	ADP	O	_
+9	les	DET	O	_
+10	467	NUM	O	_
+11	sites	NOUN	O	_
+12	d'	ADP	O	_
+13	anciennes	ADJ	O	_
+14	usines	NOUN	O	_
+15	à	ADP	O	_
+16	gaz	NOUN	O	_
+17	qu'	SCONJ	O	_
+18	il	PRON	O	_
+19	gère	VERB	O	_
+20	,	PUNCT	O	_
+21	répartis	VERB	O	_
+22	sur	ADP	O	_
+23	l'	DET	O	_
+24	ensemble	NOUN	O	_
+25	du	DET	O	_
+26	territoire	NOUN	O	_
+27	.	PUNCT	O	_
+
+
+#La méthodologie retenue a consisté à hiérarchiser les sites en fonction de leur sensibilité vis à vis de l'environnement  (usage du site, vulnérabilité des eaux souterraines et superficielles, présence et type de population sur le site...).
+1	La	DET	O	_
+2	méthodologie	NOUN	O	_
+3	retenue	VERB	O	_
+4	a	AUX	O	_
+5	consisté	VERB	O	_
+6	à	ADP	O	_
+7	hiérarchiser	VERB	O	_
+8	les	DET	O	_
+9	sites	NOUN	O	_
+10	en	ADP	O	_
+11	fonction	NOUN	O	_
+12	de	ADP	O	_
+13	leur	DET	O	_
+14	sensibilité	NOUN	O	_
+15	vis	NOUN	O	_
+16	à	ADP	O	_
+17	vis	NOUN	O	_
+18	de	ADP	O	_
+19	l'	DET	O	_
+20	environnement	NOUN	O	_
+21	 	SPACE	O	_
+22	(	PUNCT	O	_
+23	usage	NOUN	O	_
+24	du	DET	O	_
+25	site	NOUN	O	_
+26	,	PUNCT	O	_
+27	vulnérabilité	NOUN	O	_
+28	des	DET	O	_
+29	eaux	NOUN	O	_
+30	souterraines	ADJ	O	_
+31	et	CCONJ	O	_
+32	superficielles	ADJ	O	_
+33	,	PUNCT	O	_
+34	présence	NOUN	O	_
+35	et	CCONJ	O	_
+36	type	NOUN	O	_
+37	de	ADP	O	_
+38	population	NOUN	O	_
+39	sur	ADP	O	_
+40	le	DET	O	_
+41	site	NOUN	O	_
+42	...	PUNCT	O	_
+43	)	PUNCT	O	_
+44	.	PUNCT	O	_
+
+
+#L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.
+1	L'	DET	O	_
+2	application	NOUN	O	_
+3	de	ADP	O	_
+4	cette	DET	O	_
+5	méthode	NOUN	O	_
+6	a	AUX	O	_
+7	abouti	VERB	O	_
+8	à	ADP	O	_
+9	l'	DET	O	_
+10	établissement	NOUN	O	_
+11	de	ADP	O	_
+12	5	NUM	O	_
+13	classes	NOUN	O	_
+14	de	ADP	O	_
+15	priorité	NOUN	O	_
+16	pour	ADP	O	_
+17	lesquelles	PRON	O	_
+18	les	DET	O	_
+19	engagements	NOUN	O	_
+20	de	ADP	O	_
+21	Gaz	PROPN	BI	_
+22	de	ADP	II	_
+23	France	PROPN	EI	_
+24	ont	AUX	O	_
+25	fait	VERB	O	_
+26	l'	DET	O	_
+27	objet	NOUN	O	_
+28	d'	ADP	O	_
+29	un	DET	O	_
+30	protocole	NOUN	O	_
+31	d'	ADP	O	_
+32	accord	NOUN	O	_
+33	relatif	ADJ	O	_
+34	à	ADP	O	_
+35	la	DET	O	_
+36	maîtrise	NOUN	O	_
+37	et	CCONJ	O	_
+38	au	PROPN	O	_
+39	suivi	VERB	O	_
+40	de	ADP	O	_
+41	la	DET	O	_
+42	réhabilitation	NOUN	O	_
+43	des	DET	O	_
+44	anciens	NOUN	O	_
+45	terrains	ADJ	O	_
+46	d'	ADP	O	_
+47	usines	NOUN	O	_
+48	à	ADP	O	_
+49	gaz	NOUN	O	_
+50	entre	ADP	O	_
+51	le	DET	BI	_
+52	Ministère	NOUN	II	_
+53	de	ADP	II	_
+54	l'	DET	II	_
+55	Environnement	NOUN	EI	_
+56	et	CCONJ	O	_
+57	Gaz	PROPN	BI	_
+58	de	ADP	II	_
+59	France	PROPN	EI	_
+60	signé	VERB	O	_
+61	le	DET	O	_
+62	25	NUM	O	_
+63	avril	NOUN	O	_
+64	1996	NUM	O	_
+65	.	PUNCT	O	_
+
+
+#Le site de Marquette les Lille est en classe 3 du protocole.
+1	Le	DET	O	_
+2	site	NOUN	O	_
+3	de	ADP	O	_
+4	Marquette	PROPN	O	_
+5	les	DET	O	_
+6	Lille	PROPN	O	_
+7	est	AUX	O	_
+8	en	ADP	O	_
+9	classe	NOUN	O	_
+10	3	NUM	O	_
+11	du	DET	O	_
+12	protocole	NOUN	O	_
+13	.	PUNCT	O	_
+
+
+#De ce fait, c'est un site dont la sensibilité vis à vis de l'homme, des eaux souterraines et superficielles est faible.
+1	De	ADP	O	_
+2	ce	DET	O	_
+3	fait	NOUN	O	_
+4	,	PUNCT	O	_
+5	c'	PRON	O	_
+6	est	AUX	O	_
+7	un	DET	O	_
+8	site	NOUN	O	_
+9	dont	PRON	O	_
+10	la	DET	O	_
+11	sensibilité	NOUN	O	_
+12	vis	NOUN	O	_
+13	à	ADP	O	_
+14	vis	NOUN	O	_
+15	de	ADP	O	_
+16	l'	DET	O	_
+17	homme	NOUN	O	_
+18	,	PUNCT	O	_
+19	des	DET	O	_
+20	eaux	NOUN	O	_
+21	souterraines	ADJ	O	_
+22	et	CCONJ	O	_
+23	superficielles	ADJ	O	_
+24	est	AUX	O	_
+25	faible	ADJ	O	_
+26	.	PUNCT	O	_
+
+
+#-Le site est cloturé, l'environnement du site est de type résidentiel.
+1	-Le	PUNCT	O	_
+2	site	NOUN	O	_
+3	est	AUX	O	_
+4	cloturé	VERB	O	_
+5	,	PUNCT	O	_
+6	l'	DET	O	_
+7	environnement	NOUN	O	_
+8	du	DET	O	_
+9	site	NOUN	O	_
+10	est	AUX	O	_
+11	de	ADP	O	_
+12	type	NOUN	O	_
+13	résidentiel	ADJ	O	_
+14	.	PUNCT	O	_
+
+
+#- La nappe se trouve à moins de 5m de profondeur et le canal de la Deûle est environ à 250m du site.
+1	-	PUNCT	O	_
+2	La	DET	O	_
+3	nappe	NOUN	O	_
+4	se	PRON	O	_
+5	trouve	VERB	O	_
+6	à	ADP	O	_
+7	moins	ADV	O	_
+8	de	ADP	O	_
+9	5	NUM	O	_
+10	m	NOUN	O	_
+11	de	ADP	O	_
+12	profondeur	NOUN	O	_
+13	et	CCONJ	O	_
+14	le	DET	O	_
+15	canal	NOUN	O	_
+16	de	ADP	O	_
+17	la	DET	O	_
+18	Deûle	PROPN	O	_
+19	est	AUX	O	_
+20	environ	ADV	O	_
+21	à	ADP	O	_
+22	250	NUM	O	_
+23	m	NOUN	O	_
+24	du	DET	O	_
+25	site	NOUN	O	_
+26	.	PUNCT	O	_
+
+
+#-Le site constitué de pelouses, se trouve en zone urbaine et n'est pas utilisé pour des usages agricoles.
+1	-Le	PUNCT	O	_
+2	site	NOUN	O	_
+3	constitué	VERB	O	_
+4	de	ADP	O	_
+5	pelouses	NOUN	O	_
+6	,	PUNCT	O	_
+7	se	PRON	O	_
+8	trouve	VERB	O	_
+9	en	ADP	O	_
+10	zone	NOUN	O	_
+11	urbaine	ADJ	O	_
+12	et	CCONJ	O	_
+13	n'	ADV	O	_
+14	est	AUX	O	_
+15	pas	ADV	O	_
+16	utilisé	VERB	O	_
+17	pour	ADP	O	_
+18	des	DET	O	_
+19	usages	NOUN	O	_
+20	agricoles	ADJ	O	_
+21	.	PUNCT	O	_
+
+
+#-Il existe plusieurs captages d'eau potable à moins de 5 km du site et des captages industriels à moins de 500m.
+1	-Il	PRON	O	_
+2	existe	VERB	O	_
+3	plusieurs	DET	O	_
+4	captages	NOUN	O	_
+5	d'	ADP	O	_
+6	eau	NOUN	O	_
+7	potable	ADJ	O	_
+8	à	ADP	O	_
+9	moins	ADV	O	_
+10	de	ADP	O	_
+11	5	NUM	O	_
+12	km	NOUN	O	_
+13	du	DET	O	_
+14	site	NOUN	O	_
+15	et	CCONJ	O	_
+16	des	DET	O	_
+17	captages	NOUN	O	_
+18	industriels	ADJ	O	_
+19	à	ADP	O	_
+20	moins	ADV	O	_
+21	de	ADP	O	_
+22	500	NUM	O	_
+23	m	NOUN	O	_
+24	.	PUNCT	O	_
+
+
+#59.0573
+#Cet établissement était soumis à autorisation pour l’activité de traitement et développement de surfaces photosensibles à base argentique par arrêté préfectoral en date du 07 octobre 2008.
+1	Cet	DET	O	_
+2	établissement	NOUN	O	_
+3	était	AUX	O	_
+4	soumis	VERB	O	_
+5	à	ADP	O	_
+6	autorisation	NOUN	O	_
+7	pour	ADP	O	_
+8	l’	NUM	O	_
+9	activité	NOUN	O	_
+10	de	ADP	O	_
+11	traitement	NOUN	O	_
+12	et	CCONJ	O	_
+13	développement	VERB	O	_
+14	de	ADP	O	_
+15	surfaces	NOUN	O	_
+16	photosensibles	ADJ	O	_
+17	à	ADP	O	_
+18	base	NOUN	O	_
+19	argentique	ADJ	O	_
+20	par	ADP	O	_
+21	arrêté	VERB	O	_
+22	préfectoral	ADJ	O	_
+23	en	ADP	O	_
+24	date	NOUN	O	_
+25	du	DET	O	_
+26	07	NUM	O	_
+27	octobre	NOUN	O	_
+28	2008	NUM	O	_
+29	.	PUNCT	O	_
+
+
+#Les études sols et eaux ont mis en évidence :
+1	Les	DET	O	_
+2	études	NOUN	O	_
+3	sols	ADJ	O	_
+4	et	CCONJ	O	_
+5	eaux	NOUN	O	_
+6	ont	AUX	O	_
+7	mis	VERB	O	_
+8	en	ADP	O	_
+9	évidence	NOUN	O	_
+10	 	SPACE	O	_
+11	:	PUNCT	O	_
+
+
+#une contamination des sols en :
+1	une	DET	O	_
+2	contamination	NOUN	O	_
+3	des	DET	O	_
+4	sols	NOUN	O	_
+5	en	ADP	O	_
+6	 	SPACE	O	_
+7	:	PUNCT	O	_
+
+
+#en nitrates, sulfates et soufre au niveau des chambres noires à proximité des caniveaux ;
+1	en	ADP	O	_
+2	nitrates	NOUN	BS	_
+3	,	PUNCT	O	_
+4	sulfates	ADJ	BS	_
+5	et	CCONJ	O	_
+6	soufre	PROPN	BS	_
+7	au	PROPN	O	_
+8	niveau	NOUN	O	_
+9	des	DET	O	_
+10	chambres	NOUN	O	_
+11	noires	ADJ	O	_
+12	à	ADP	O	_
+13	proximité	NOUN	O	_
+14	des	DET	O	_
+15	caniveaux	NOUN	O	_
+16	 	SPACE	O	_
+17	;	PUNCT	O	_
+
+
+#en argent, phénols, ammonium, nitrates, bromures, sulfates et soufre dans les caniveaux des ateliers ;
+1	en	ADP	O	_
+2	argent	NOUN	O	_
+3	,	PUNCT	O	_
+4	phénols	NOUN	BS	_
+5	,	PUNCT	O	_
+6	ammonium	ADJ	BS	_
+7	,	PUNCT	O	_
+8	nitrates	ADJ	BS	_
+9	,	PUNCT	O	_
+10	bromures	NOUN	BS	_
+11	,	PUNCT	O	_
+12	sulfates	ADJ	BS	_
+13	et	CCONJ	O	_
+14	soufre	VERB	BS	_
+15	dans	ADP	O	_
+16	les	DET	O	_
+17	caniveaux	NOUN	O	_
+18	des	DET	O	_
+19	ateliers	NOUN	O	_
+20	 	SPACE	O	_
+21	;	PUNCT	O	_
+
+
+#en sulfates et soufre dans le reste du bâtiment.
+1	en	ADP	O	_
+2	sulfates	NOUN	BS	_
+3	et	CCONJ	O	_
+4	soufre	VERB	BS	_
+5	dans	ADP	O	_
+6	le	DET	O	_
+7	reste	NOUN	O	_
+8	du	DET	O	_
+9	bâtiment	NOUN	O	_
+10	.	PUNCT	O	_
+
+
+#que la contamination des sols en composés soufrés n’est pas attribuable à l’ancienne activité Fujifilm (omniprésence des composés soufrés sur la totalité du site),
+1	que	SCONJ	O	_
+2	la	DET	O	_
+3	contamination	NOUN	O	_
+4	des	DET	O	_
+5	sols	NOUN	O	_
+6	en	ADP	O	_
+7	composés	NOUN	BS	_
+8	soufrés	ADJ	ES	_
+9	n’	PROPN	O	_
+10	est	AUX	O	_
+11	pas	ADV	O	_
+12	attribuable	ADJ	O	_
+13	à	ADP	O	_
+14	l’	PROPN	O	_
+15	ancienne	ADJ	O	_
+16	activité	NOUN	O	_
+17	Fujifilm	PROPN	O	_
+18	(	PUNCT	O	_
+19	omniprésence	NOUN	O	_
+20	des	DET	O	_
+21	composés	NOUN	BS	_
+22	soufrés	ADJ	ES	_
+23	sur	ADP	O	_
+24	la	DET	O	_
+25	totalité	NOUN	O	_
+26	du	DET	O	_
+27	site	NOUN	O	_
+28	)	PUNCT	O	_
+29	,	PUNCT	O	_
+
+
+#une contamination des eaux en métaux (nickel et plomb), en composés soufrés et en ammonium.
+1	une	DET	O	_
+2	contamination	NOUN	O	_
+3	des	DET	O	_
+4	eaux	NOUN	O	_
+5	en	ADP	O	_
+6	métaux	NOUN	BS	_
+7	(	PUNCT	O	_
+8	nickel	NOUN	BS	_
+9	et	CCONJ	O	_
+10	plomb	PROPN	BS	_
+11	)	PUNCT	O	_
+12	,	PUNCT	O	_
+13	en	ADP	O	_
+14	composés	NOUN	BU	_
+15	soufrés	ADJ	EU	_
+16	et	CCONJ	O	_
+17	en	ADP	O	_
+18	ammonium	NOUN	BS	_
+19	.	PUNCT	O	_
+
+
+#le plan de gestion préconise, sur la base des investigations réalisées, la dépollution des sources concentrées avec excavation des terres polluées, à savoir :
+1	le	DET	O	_
+2	plan	NOUN	O	_
+3	de	ADP	O	_
+4	gestion	NOUN	O	_
+5	préconise	VERB	O	_
+6	,	PUNCT	O	_
+7	sur	ADP	O	_
+8	la	DET	O	_
+9	base	NOUN	O	_
+10	des	DET	O	_
+11	investigations	NOUN	O	_
+12	réalisées	VERB	O	_
+13	,	PUNCT	O	_
+14	la	DET	O	_
+15	dépollution	NOUN	O	_
+16	des	DET	O	_
+17	sources	NOUN	O	_
+18	concentrées	VERB	O	_
+19	avec	ADP	O	_
+20	excavation	NOUN	O	_
+21	des	DET	O	_
+22	terres	NOUN	O	_
+23	polluées	VERB	O	_
+24	,	PUNCT	O	_
+25	à	ADP	O	_
+26	savoir	VERB	O	_
+27	 	SPACE	O	_
+28	:	PUNCT	O	_
+
+
+#le décapage du fond des caniveaux jusqu’au béton sain ;
+1	le	DET	O	_
+2	décapage	NOUN	O	_
+3	du	DET	O	_
+4	fond	NOUN	O	_
+5	des	DET	O	_
+6	caniveaux	NOUN	O	_
+7	jusqu’	PROPN	O	_
+8	au	PROPN	O	_
+9	béton	PROPN	O	_
+10	sain	PROPN	O	_
+11	 	SPACE	O	_
+12	;	PUNCT	O	_
+
+
+#l’excavation des terres périphériques des caniveaux de la zone historique de production (ancienne salle chimie) et des chambres noires sur une profondeur de 3 mètres.
+1	l’	NOUN	O	_
+2	excavation	NOUN	O	_
+3	des	DET	O	_
+4	terres	NOUN	O	_
+5	périphériques	ADJ	O	_
+6	des	DET	O	_
+7	caniveaux	NOUN	O	_
+8	de	ADP	O	_
+9	la	DET	O	_
+10	zone	NOUN	O	_
+11	historique	ADJ	O	_
+12	de	ADP	O	_
+13	production	NOUN	O	_
+14	(	PUNCT	O	_
+15	ancienne	ADJ	O	_
+16	salle	NOUN	O	_
+17	chimie	NOUN	O	_
+18	)	PUNCT	O	_
+19	et	CCONJ	O	_
+20	des	DET	O	_
+21	chambres	NOUN	O	_
+22	noires	ADJ	O	_
+23	sur	ADP	O	_
+24	une	DET	O	_
+25	profondeur	NOUN	O	_
+26	de	ADP	O	_
+27	3	NUM	O	_
+28	mètres	NOUN	O	_
+29	.	PUNCT	O	_
+
+
+#et puis, l'apport de matériaux propres.
+1	et	CCONJ	O	_
+2	puis	CCONJ	O	_
+3	,	PUNCT	O	_
+4	l'	DET	O	_
+5	apport	NOUN	O	_
+6	de	ADP	O	_
+7	matériaux	NOUN	O	_
+8	propres	ADJ	O	_
+9	.	PUNCT	O	_
+
+
+#Conformément au plan de gestion, les zones dépolluées sont :
+1	Conformément	ADV	O	_
+2	au	PROPN	O	_
+3	plan	NOUN	O	_
+4	de	ADP	O	_
+5	gestion	NOUN	O	_
+6	,	PUNCT	O	_
+7	les	DET	O	_
+8	zones	NOUN	O	_
+9	dépolluées	VERB	O	_
+10	sont	AUX	O	_
+11	 	SPACE	O	_
+12	:	PUNCT	O	_
+
+
+#les caniveaux ;
+1	les	DET	O	_
+2	caniveaux	NOUN	O	_
+3	 	SPACE	O	_
+4	;	PUNCT	O	_
+
+
+#la zone des chambres noires ;
+1	la	DET	O	_
+2	zone	NOUN	O	_
+3	des	DET	O	_
+4	chambres	NOUN	O	_
+5	noires	ADJ	O	_
+6	 	SPACE	O	_
+7	;	PUNCT	O	_
+
+
+#l’ancienne salle chimie.
+1	l’	NOUN	O	_
+2	ancienne	ADJ	O	_
+3	salle	NOUN	O	_
+4	chimie	NOUN	O	_
+5	.	PUNCT	O	_
+
+
+#Le rapport de fin de travaux VALGO spécifie que les travaux se sont déroulés entre le 12 décembre 2011 et le 26 avril 2012.
+1	Le	DET	O	_
+2	rapport	NOUN	O	_
+3	de	ADP	O	_
+4	fin	NOUN	O	_
+5	de	ADP	O	_
+6	travaux	NOUN	O	_
+7	VALGO	ADJ	O	_
+8	spécifie	VERB	O	_
+9	que	SCONJ	O	_
+10	les	DET	O	_
+11	travaux	NOUN	O	_
+12	se	PRON	O	_
+13	sont	AUX	O	_
+14	déroulés	VERB	O	_
+15	entre	ADP	O	_
+16	le	DET	O	_
+17	12	NUM	O	_
+18	décembre	NOUN	O	_
+19	2011	NUM	O	_
+20	et	CCONJ	O	_
+21	le	DET	O	_
+22	26	NUM	O	_
+23	avril	NOUN	O	_
+24	2012	NUM	O	_
+25	.	PUNCT	O	_
+
+
+#Un rapport de l'Inspection en date du 20 février 2013, vaut procès verbal de récolement (site remis en état pour un usage futur de type industriel).
+1	Un	DET	O	_
+2	rapport	NOUN	O	_
+3	de	ADP	O	_
+4	l'	DET	O	_
+5	Inspection	NOUN	O	_
+6	en	ADP	O	_
+7	date	NOUN	O	_
+8	du	DET	O	_
+9	20	NUM	O	_
+10	février	NOUN	O	_
+11	2013	NUM	O	_
+12	,	PUNCT	O	_
+13	vaut	VERB	O	_
+14	procès	NOUN	O	_
+15	verbal	ADJ	O	_
+16	de	ADP	O	_
+17	récolement	NOUN	O	_
+18	(	PUNCT	O	_
+19	site	NOUN	O	_
+20	remis	VERB	O	_
+21	en	ADP	O	_
+22	état	NOUN	O	_
+23	pour	ADP	O	_
+24	un	DET	O	_
+25	usage	NOUN	O	_
+26	futur	ADJ	O	_
+27	de	ADP	O	_
+28	type	NOUN	O	_
+29	industriel	ADJ	O	_
+30	)	PUNCT	O	_
+31	.	PUNCT	O	_
+
+
+#59.0420
+#- Activité exercées sur le site depuis 1896: fabrication de colles, de gélatines et engrais, effilochage de déchets textiles, fabrication de peintures, stockage de matériaux.
+1	-	PUNCT	O	_
+2	Activité	NOUN	O	_
+3	exercées	VERB	O	_
+4	sur	ADP	O	_
+5	le	DET	O	_
+6	site	NOUN	O	_
+7	depuis	ADP	O	_
+8	1896	NUM	O	_
+9	:	PUNCT	O	_
+10	fabrication	NOUN	O	_
+11	de	ADP	O	_
+12	colles	ADJ	O	_
+13	,	PUNCT	O	_
+14	de	ADP	O	_
+15	gélatines	NOUN	O	_
+16	et	CCONJ	O	_
+17	engrais	ADJ	O	_
+18	,	PUNCT	O	_
+19	effilochage	NOUN	O	_
+20	de	ADP	O	_
+21	déchets	NOUN	O	_
+22	textiles	ADJ	O	_
+23	,	PUNCT	O	_
+24	fabrication	NOUN	O	_
+25	de	ADP	O	_
+26	peintures	NOUN	O	_
+27	,	PUNCT	O	_
+28	stockage	NOUN	O	_
+29	de	ADP	O	_
+30	matériaux	NOUN	O	_
+31	.	PUNCT	O	_
+
+
+#- DIFRAMA a été créée en 1987 à Leers.
+1	-	PUNCT	O	_
+2	DIFRAMA	NOUN	EI	_
+3	a	AUX	O	_
+4	été	AUX	O	_
+5	créée	VERB	O	_
+6	en	ADP	O	_
+7	1987	NUM	O	_
+8	à	ADP	O	_
+9	Leers	NOUN	O	_
+10	.	PUNCT	O	_
+
+
+#- La société a assuré dans un premier temps la distribution des solvants chez les grossistes d'accessoires automobiles pour ne conserver qu'une activité de nettoyage des emballages plastiques.
+1	-	PUNCT	O	_
+2	La	DET	O	_
+3	société	NOUN	O	_
+4	a	AUX	O	_
+5	assuré	VERB	O	_
+6	dans	ADP	O	_
+7	un	DET	O	_
+8	premier	ADJ	O	_
+9	temps	NOUN	O	_
+10	la	DET	O	_
+11	distribution	NOUN	O	_
+12	des	DET	O	_
+13	solvants	NOUN	O	_
+14	chez	ADP	O	_
+15	les	DET	O	_
+16	grossistes	NOUN	O	_
+17	d'	ADP	O	_
+18	accessoires	ADJ	O	_
+19	automobiles	ADJ	O	_
+20	pour	ADP	O	_
+21	ne	ADV	O	_
+22	conserver	VERB	O	_
+23	qu'	ADV	O	_
+24	une	DET	O	_
+25	activité	NOUN	O	_
+26	de	ADP	O	_
+27	nettoyage	NOUN	O	_
+28	des	DET	O	_
+29	emballages	NOUN	O	_
+30	plastiques	ADJ	O	_
+31	.	PUNCT	O	_
+
+
+#- Surface du site: 3000m2.
+1	-	PUNCT	O	_
+2	Surface	PROPN	O	_
+3	du	DET	O	_
+4	site	NOUN	O	_
+5	:	PUNCT	O	_
+6	3000m2	NUM	O	_
+7	.	PUNCT	O	_
+
+
+#- Le rapport KALIES du 14/11/2002 met en évidence une succession d'activité depuis plus de 100 ans ( fabrication de colle, stokage de produits divers, ... ) ayant engendrées plusieurs zones à risques nécessitant des investigations complémentaires préalables à la réalisation de l'ESR.
+1	-	PUNCT	O	_
+2	Le	DET	O	_
+3	rapport	NOUN	O	_
+4	KALIES	PROPN	O	_
+5	du	DET	O	_
+6	14/11/2002	ADJ	O	_
+7	met	VERB	O	_
+8	en	ADP	O	_
+9	évidence	NOUN	O	_
+10	une	DET	O	_
+11	succession	NOUN	O	_
+12	d'	ADP	O	_
+13	activité	NOUN	O	_
+14	depuis	ADP	O	_
+15	plus	ADV	O	_
+16	de	ADP	O	_
+17	100	NUM	O	_
+18	ans	NOUN	O	_
+19	(	PUNCT	O	_
+20	fabrication	NOUN	O	_
+21	de	ADP	O	_
+22	colle	PROPN	O	_
+23	,	PUNCT	O	_
+24	stokage	NOUN	O	_
+25	de	ADP	O	_
+26	produits	NOUN	O	_
+27	divers	ADJ	O	_
+28	,	PUNCT	O	_
+29	...	PUNCT	O	_
+30	)	PUNCT	O	_
+31	ayant	AUX	O	_
+32	engendrées	VERB	O	_
+33	plusieurs	DET	O	_
+34	zones	NOUN	O	_
+35	à	ADP	O	_
+36	risques	NOUN	O	_
+37	nécessitant	VERB	O	_
+38	des	DET	O	_
+39	investigations	NOUN	O	_
+40	complémentaires	ADJ	O	_
+41	préalables	ADJ	O	_
+42	à	ADP	O	_
+43	la	DET	O	_
+44	réalisation	NOUN	O	_
+45	de	ADP	O	_
+46	l'	DET	O	_
+47	ESR	NOUN	O	_
+48	.	PUNCT	O	_
+
+
+#- Arrêté préfectoral complémentaire du 27/08/2003 imposant  la réalisation d'une étude de sol phase B, ainsi qu'une ESR.
+1	-	PUNCT	O	_
+2	Arrêté	PROPN	O	_
+3	préfectoral	ADJ	O	_
+4	complémentaire	NOUN	O	_
+5	du	DET	O	_
+6	27/08/2003	NOUN	O	_
+7	imposant	VERB	O	_
+8	 	SPACE	O	_
+9	la	DET	O	_
+10	réalisation	NOUN	O	_
+11	d'	ADP	O	_
+12	une	DET	O	_
+13	étude	NOUN	O	_
+14	de	ADP	O	_
+15	sol	NOUN	O	_
+16	phase	VERB	O	_
+17	B	NOUN	O	_
+18	,	PUNCT	O	_
+19	ainsi	ADV	O	_
+20	qu'	SCONJ	O	_
+21	une	DET	O	_
+22	ESR	NOUN	O	_
+23	.	PUNCT	O	_
+
+
+#- Mise en place d'un réseau de surveillance de la qualité des eaux souterraines en février 2004 par trois piézomètres.
+1	-	PUNCT	O	_
+2	Mise	NOUN	O	_
+3	en	ADP	O	_
+4	place	NOUN	O	_
+5	d'	ADP	O	_
+6	un	DET	O	_
+7	réseau	NOUN	O	_
+8	de	ADP	O	_
+9	surveillance	NOUN	O	_
+10	de	ADP	O	_
+11	la	DET	O	_
+12	qualité	NOUN	O	_
+13	des	DET	O	_
+14	eaux	NOUN	O	_
+15	souterraines	NOUN	O	_
+16	en	ADP	O	_
+17	février	NOUN	O	_
+18	2004	NUM	O	_
+19	par	ADP	O	_
+20	trois	NUM	O	_
+21	piézomètres	NOUN	O	_
+22	.	PUNCT	O	_
+
+
+#- L'administration n'a pas connaissance d'une utilisation éventuelle de la nappe.
+1	-	PUNCT	O	_
+2	L'	DET	O	_
+3	administration	NOUN	O	_
+4	n'	ADV	O	_
+5	a	AUX	O	_
+6	pas	ADV	O	_
+7	connaissance	NOUN	O	_
+8	d'	ADP	O	_
+9	une	DET	O	_
+10	utilisation	NOUN	O	_
+11	éventuelle	VERB	O	_
+12	de	ADP	O	_
+13	la	DET	O	_
+14	nappe	PROPN	O	_
+15	.	PUNCT	O	_
+
+
+#- Action de l'administration toujours en cours.
+1	-	PUNCT	O	_
+2	Action	NOUN	O	_
+3	de	ADP	O	_
+4	l'	DET	O	_
+5	administration	NOUN	O	_
+6	toujours	ADV	O	_
+7	en	ADP	O	_
+8	cours	NOUN	O	_
+9	.	PUNCT	O	_
+
+
+#- En cas de changement d'usage, il appartient au maître d'ouvrage de vérifier que son projet est compatible avec l'état des sols compte tenu des travaux qui ont été réalisés pour un usage donné et de respecter les dispositions de servitudes éventuellement instaurées sur ce site(si servitudes mises en œuvre).
+1	-	PUNCT	O	_
+2	En	ADP	O	_
+3	cas	NOUN	O	_
+4	de	ADP	O	_
+5	changement	NOUN	O	_
+6	d'	ADP	O	_
+7	usage	NOUN	O	_
+8	,	PUNCT	O	_
+9	il	PRON	O	_
+10	appartient	VERB	O	_
+11	au	PROPN	O	_
+12	maître	NOUN	O	_
+13	d'	ADP	O	_
+14	ouvrage	NOUN	O	_
+15	de	ADP	O	_
+16	vérifier	NOUN	O	_
+17	que	SCONJ	O	_
+18	son	DET	O	_
+19	projet	NOUN	O	_
+20	est	AUX	O	_
+21	compatible	ADJ	O	_
+22	avec	ADP	O	_
+23	l'	DET	O	_
+24	état	NOUN	O	_
+25	des	DET	O	_
+26	sols	NOUN	O	_
+27	compte	NOUN	O	_
+28	tenu	VERB	O	_
+29	des	DET	O	_
+30	travaux	NOUN	O	_
+31	qui	PRON	O	_
+32	ont	AUX	O	_
+33	été	AUX	O	_
+34	réalisés	VERB	O	_
+35	pour	ADP	O	_
+36	un	DET	O	_
+37	usage	NOUN	O	_
+38	donné	VERB	O	_
+39	et	CCONJ	O	_
+40	de	ADP	O	_
+41	respecter	VERB	O	_
+42	les	DET	O	_
+43	dispositions	NOUN	O	_
+44	de	ADP	O	_
+45	servitudes	NOUN	O	_
+46	éventuellement	AUX	O	_
+47	instaurées	VERB	O	_
+48	sur	ADP	O	_
+49	ce	DET	O	_
+50	site(si	ADJ	O	_
+51	servitudes	AUX	O	_
+52	mises	NOUN	O	_
+53	en	ADP	O	_
+54	œuvre	NOUN	O	_
+55	)	PUNCT	O	_
+56	.	PUNCT	O	_
+
+
+#59.0167
+#- Site occupé dans les années 50 par une usine de textile.
+1	-	PUNCT	O	_
+2	Site	NOUN	O	_
+3	occupé	VERB	O	_
+4	dans	ADP	O	_
+5	les	DET	O	_
+6	années	NOUN	O	_
+7	50	NUM	O	_
+8	par	ADP	O	_
+9	une	DET	O	_
+10	usine	NOUN	O	_
+11	de	ADP	O	_
+12	textile	NOUN	O	_
+13	.	PUNCT	O	_
+
+
+#- Ancienne usine de fabrication de tapis de sol pour les activités sportives.
+1	-	PUNCT	O	_
+2	Ancienne	ADJ	O	_
+3	usine	NOUN	O	_
+4	de	ADP	O	_
+5	fabrication	NOUN	O	_
+6	de	ADP	O	_
+7	tapis	NOUN	O	_
+8	de	ADP	O	_
+9	sol	NOUN	O	_
+10	pour	ADP	O	_
+11	les	DET	O	_
+12	activités	NOUN	O	_
+13	sportives	ADJ	O	_
+14	.	PUNCT	O	_
+
+
+#- Présence de cuves enterrées de solvants et hydrocarbures.
+1	-	PUNCT	O	_
+2	Présence	NOUN	O	_
+3	de	ADP	O	_
+4	cuves	NOUN	O	_
+5	enterrées	VERB	O	_
+6	de	ADP	O	_
+7	solvants	NOUN	BU	_
+8	et	CCONJ	O	_
+9	hydrocarbures	NOUN	BS	_
+10	.	PUNCT	O	_
+
+
+#- Diagnostic initial réalisé.
+1	-	PUNCT	O	_
+2	Diagnostic	PROPN	O	_
+3	initial	PROPN	O	_
+4	réalisé	VERB	O	_
+5	.	PUNCT	O	_
+
+
+#- Cessation d'activité de Griltex non notifiée.
+1	-	PUNCT	O	_
+2	Cessation	NOUN	O	_
+3	d'	ADP	O	_
+4	activité	NOUN	O	_
+5	de	ADP	O	_
+6	Griltex	PROPN	EI	_
+7	non	ADV	O	_
+8	notifiée	VERB	O	_
+9	.	PUNCT	O	_
+
+
+#- Diagnostic de pollution des sols réalisé le 07/10/2011.
+1	-	PUNCT	O	_
+2	Diagnostic	NOUN	O	_
+3	de	ADP	O	_
+4	pollution	NOUN	O	_
+5	des	DET	O	_
+6	sols	NOUN	O	_
+7	réalisé	VERB	O	_
+8	le	DET	O	_
+9	07/10/2011	NOUN	O	_
+10	.	PUNCT	O	_
+
+
+#- Réalisation d'un diagnostic amiante-plomb le 19/04/2012 révélant de l'amiante dans certaines parties des bâtiments.
+1	-	PUNCT	O	_
+2	Réalisation	NOUN	O	_
+3	d'	ADP	O	_
+4	un	DET	O	_
+5	diagnostic	NOUN	O	_
+6	amiante	ADJ	O	_
+7	-	PUNCT	O	_
+8	plomb	VERB	O	_
+9	le	DET	O	_
+10	19/04/2012	ADJ	O	_
+11	révélant	NOUN	O	_
+12	de	ADP	O	_
+13	l'	DET	O	_
+14	amiante	NOUN	O	_
+15	dans	ADP	O	_
+16	certaines	DET	O	_
+17	parties	NOUN	O	_
+18	des	DET	O	_
+19	bâtiments	NOUN	O	_
+20	.	PUNCT	O	_
+
+
+#Lors de la démolition, des précautions particulières seront à prendre.
+1	Lors	ADV	O	_
+2	de	ADP	O	_
+3	la	DET	O	_
+4	démolition	NOUN	O	_
+5	,	PUNCT	O	_
+6	des	DET	O	_
+7	précautions	NOUN	O	_
+8	particulières	ADJ	O	_
+9	seront	AUX	O	_
+10	à	ADP	O	_
+11	prendre	VERB	O	_
+12	.	PUNCT	O	_
+
+
+#- Projet de rachat par Projectime, avec projet de construction immobilière.
+1	-	PUNCT	O	_
+2	Projet	NOUN	O	_
+3	de	ADP	O	_
+4	rachat	NOUN	O	_
+5	par	ADP	O	_
+6	Projectime	NOUN	BI	_
+7	,	PUNCT	O	_
+8	avec	ADP	O	_
+9	projet	NOUN	O	_
+10	de	ADP	O	_
+11	construction	NOUN	O	_
+12	immobilière	ADJ	O	_
+13	.	PUNCT	O	_
+
+
+#- Site non mis en sécurité à cette date (30/07/2012).
+1	-	PUNCT	O	_
+2	Site	NOUN	O	_
+3	non	ADV	O	_
+4	mis	VERB	O	_
+5	en	ADP	O	_
+6	sécurité	NOUN	O	_
+7	à	ADP	O	_
+8	cette	DET	O	_
+9	date	NOUN	O	_
+10	(	PUNCT	O	_
+11	30/07/2012	NOUN	O	_
+12	)	PUNCT	O	_
+13	.	PUNCT	O	_
+
+
+#- Action de l'administration toujours en cours.
+1	-	PUNCT	O	_
+2	Action	NOUN	O	_
+3	de	ADP	O	_
+4	l'	DET	O	_
+5	administration	NOUN	O	_
+6	toujours	ADV	O	_
+7	en	ADP	O	_
+8	cours	NOUN	O	_
+9	.	PUNCT	O	_
+
