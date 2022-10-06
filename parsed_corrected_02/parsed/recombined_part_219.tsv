@@ -1,0 +1,5102 @@
+#22.0002
+
+#La société Renaud-Lucienne a été autorisée à exploiter une activité de fabrication de savons, d'encaustique et peintures d'une part, et de régénération d'huiles de moteurs usagées d'autre part par arrêté préfectoral du 4 janvier 1951.
+1	La	le	DET	_	_	2	det	_	_
+2	société	société	NOUN	_	_	8	nsubj:pass	_	_
+3	Renaud	Renaud	PROPN	_	_	2	nmod	_	_
+4	-	-	PROPN	_	_	2	nmod	_	_
+5	Lucienne	Lucienne	PROPN	_	_	2	nmod	_	_
+6	a	avoir	AUX	_	_	8	aux:tense	_	_
+7	été	être	AUX	_	_	8	aux:pass	_	_
+8	autorisée	autoriser	VERB	_	_	8	ROOT	_	_
+9	à	à	ADP	_	_	10	mark	_	_
+10	exploiter	exploiter	VERB	_	_	8	xcomp	_	_
+11	une	un	DET	_	_	12	det	_	_
+12	activité	activité	NOUN	_	_	10	obj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	fabrication	fabrication	NOUN	_	_	12	nmod	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	savons	savon	NOUN	_	_	14	nmod	_	_
+17	,	,	PUNCT	_	_	19	punct	_	_
+18	d'	de	ADP	_	_	19	case	_	_
+19	encaustique	encaustique	NOUN	_	_	16	conj	_	_
+20	et	et	CCONJ	_	_	21	cc	_	_
+21	peintures	peinture	NOUN	_	_	16	conj	_	_
+22	d'	de	ADP	_	_	24	case	_	_
+23	une	un	DET	_	_	24	det	_	_
+24	part	part	NOUN	_	_	14	nmod	_	_
+25	,	,	PUNCT	_	_	14	punct	_	_
+26	et	et	CCONJ	_	_	28	cc	_	_
+27	de	de	ADP	_	_	28	case	_	_
+28	régénération	régénération	NOUN	_	_	14	conj	_	_
+29	d'	de	ADP	_	_	30	case	_	_
+30	huiles	huile	NOUN	_	_	28	nmod	_	_
+31	de	de	ADP	_	_	32	case	_	_
+32	moteurs	moteur	NOUN	_	_	30	nmod	_	_
+33	usagées	usager	ADJ	_	_	30	amod	_	_
+34	d'	de	ADP	_	_	36	case	_	_
+35	autre	autre	ADJ	_	_	36	amod	_	_
+36	part	part	NOUN	_	_	28	nmod	_	_
+37	par	par	ADP	_	_	38	case	_	_
+38	arrêté	arrêté	NOUN	_	_	10	obl:mod	_	_
+39	préfectoral	préfectoral	ADJ	_	_	38	amod	_	_
+40	du	de	ADP	_	_	41	case	_	_
+41	4	4	NUM	_	_	38	nmod	_	_
+42	janvier	janvier	NOUN	_	_	41	nmod	_	_
+43	1951	1951	NUM	_	_	42	nmod	_	_
+44	.	.	PUNCT	_	_	8	punct	_	_
+
+
+#L’activité a cessé en 1993.
+1	L’	l’	DET	_	_	2	det	_	_
+2	activité	activité	NOUN	_	_	4	nsubj	_	_
+3	a	avoir	AUX	_	_	4	aux:tense	_	_
+4	cessé	cesser	VERB	_	_	4	ROOT	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	1993	1993	NUM	_	_	4	obl:mod	_	_
+7	.	.	PUNCT	_	_	4	punct	_	_
+
+
+#La société Renaud-Lucienne a été déclarée en redressement judiciaire en 1993 et mise en liquidation en 1994.
+1	La	le	DET	_	_	2	det	_	_
+2	société	société	NOUN	_	_	8	nsubj:pass	_	_
+3	Renaud	Renaud	PROPN	_	_	2	nmod	_	_
+4	-	-	PROPN	_	_	2	nmod	_	_
+5	Lucienne	Lucienne	PROPN	_	_	2	nmod	_	_
+6	a	avoir	AUX	_	_	8	aux:tense	_	_
+7	été	être	AUX	_	_	8	aux:pass	_	_
+8	déclarée	déclarer	VERB	_	_	8	ROOT	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	redressement	redressement	NOUN	_	_	8	obl:arg	_	_
+11	judiciaire	judiciaire	ADJ	_	_	10	amod	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	1993	1993	NUM	_	_	8	obl:mod	_	_
+14	et	et	CCONJ	_	_	15	cc	_	_
+15	mise	mettre	VERB	_	_	8	conj	_	_
+16	en	en	ADP	_	_	17	case	_	_
+17	liquidation	liquidation	NOUN	_	_	15	obl:arg	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	1994	1994	NUM	_	_	15	obl:mod	_	_
+20	.	.	PUNCT	_	_	8	punct	_	_
+
+
+#A sa cessation, l'exploitant a laissé à l'abandon sur le site de nombreux déchets.
+1	A	à	ADP	_	_	3	case	_	_
+2	sa	son	DET	_	_	3	det	_	_
+3	cessation	cessation	NOUN	_	_	8	obl:mod	_	_
+4	,	,	PUNCT	_	_	8	punct	_	_
+5	l'	le	DET	_	_	6	det	_	_
+6	exploitant	exploitant	NOUN	_	_	8	nsubj	_	_
+7	a	avoir	AUX	_	_	8	aux:tense	_	_
+8	laissé	laisser	VERB	_	_	8	ROOT	_	_
+9	à	à	ADP	_	_	11	case	_	_
+10	l'	le	DET	_	_	11	det	_	_
+11	abandon	abandon	NOUN	_	_	8	obl:arg	_	_
+12	sur	sur	ADP	_	_	14	case	_	_
+13	le	le	DET	_	_	14	det	_	_
+14	site	site	NOUN	_	_	8	obl:mod	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	nombreux	nombreux	ADJ	_	_	17	amod	_	_
+17	déchets	déchet	NOUN	_	_	14	nmod	_	_
+18	.	.	PUNCT	_	_	8	punct	_	_
+
+
+#Le site a été reconnu orphelin par lettres du ministère en charge de l'environnement de juillet 1996 et avril 1997.
+1	Le	le	DET	_	_	2	det	_	_
+2	site	site	NOUN	_	_	5	nsubj:pass	_	_
+3	a	avoir	AUX	_	_	5	aux:tense	_	_
+4	été	être	AUX	_	_	5	aux:pass	_	_
+5	reconnu	reconnaître	VERB	_	_	5	ROOT	_	_
+6	orphelin	orphelin	ADJ	_	_	5	xcomp	_	_
+7	par	par	ADP	_	_	8	case	_	_
+8	lettres	lettre	NOUN	_	_	6	obl:mod	_	_
+9	du	de	ADP	_	_	10	case	_	_
+10	ministère	ministère	NOUN	_	_	8	nmod	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	charge	charge	NOUN	_	_	10	nmod	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	l'	le	DET	_	_	15	det	_	_
+15	environnement	environnement	NOUN	_	_	12	nmod	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	juillet	juillet	NOUN	_	_	10	nmod	_	_
+18	1996	1996	NUM	_	_	17	nmod	_	_
+19	et	et	CCONJ	_	_	20	cc	_	_
+20	avril	avril	NOUN	_	_	17	conj	_	_
+21	1997	1997	NUM	_	_	20	nmod	_	_
+22	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#Conformément à l'arrêté préfectoral du 2 février 1999, l'ADEME a fait procéder courant 2000 et 2001 à l'enlèvement des produits toxiques de laboratoire et à la réalisation des diagnostics amiante et solidité.
+1	Conformément	conformément	ADV	_	_	15	advmod	_	_
+2	à	à	ADP	_	_	4	case	_	_
+3	l'	le	DET	_	_	4	det	_	_
+4	arrêté	arrêté	NOUN	_	_	1	obl:arg	_	_
+5	préfectoral	préfectoral	ADJ	_	_	4	amod	_	_
+6	du	de	ADP	_	_	7	case	_	_
+7	2	2	NUM	_	_	4	nmod	_	_
+8	février	février	NOUN	_	_	7	nmod	_	_
+9	1999	1999	PUNCT	_	_	8	nmod	_	_
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	l'	le	DET	_	_	12	det	_	_
+12	ADEME	ADEME	PROPN	_	_	15	nsubj	_	_
+13	a	avoir	AUX	_	_	15	aux:tense	_	_
+14	fait	faire	AUX	_	_	15	dep	_	_
+15	procéder	procéder	VERB	_	_	15	ROOT	_	_
+16	courant	courant	NOUN	_	_	17	case	_	_
+17	2000	2000	NUM	_	_	15	obl:mod	_	_
+18	et	et	CCONJ	_	_	19	cc	_	_
+19	2001	2001	NUM	_	_	15	conj	_	_
+20	à	à	ADP	_	_	22	case	_	_
+21	l'	le	DET	_	_	22	det	_	_
+22	enlèvement	enlèvement	NOUN	_	_	15	obl:arg	_	_
+23	des	de	ADP	_	_	24	case	_	_
+24	produits	produit	NOUN	_	_	22	nmod	_	_
+25	toxiques	toxique	ADJ	_	_	24	amod	_	_
+26	de	de	ADP	_	_	27	case	_	_
+27	laboratoire	laboratoire	NOUN	_	_	24	nmod	_	_
+28	et	et	CCONJ	_	_	31	cc	_	_
+29	à	à	ADP	_	_	31	case	_	_
+30	la	le	DET	_	_	31	det	_	_
+31	réalisation	réalisation	NOUN	_	_	22	conj	_	_
+32	des	de	ADP	_	_	33	case	_	_
+33	diagnostics	diagnostic	NOUN	_	_	31	nmod	_	_
+34	amiante	amiante	NOUN	_	_	33	nmod	_	_
+35	et	et	CCONJ	_	_	36	cc	_	_
+36	solidité	solidité	NOUN	_	_	34	conj	_	_
+37	.	.	PUNCT	_	_	15	punct	_	_
+
+
+#Au total, l'ADEME a procédé à l'enlèvement et à l'élimination de 299 tonnes de déchets dangereux.
+1	Au	au	ADP	_	_	2	case	_	_
+2	total	total	NOUN	_	_	7	obl:mod	_	_
+3	,	,	PUNCT	_	_	7	punct	_	_
+4	l'	le	DET	_	_	5	det	_	_
+5	ADEME	ADEME	PROPN	_	_	7	nsubj	_	_
+6	a	avoir	AUX	_	_	7	aux:tense	_	_
+7	procédé	procéder	VERB	_	_	7	ROOT	_	_
+8	à	à	ADP	_	_	10	case	_	_
+9	l'	le	DET	_	_	10	det	_	_
+10	enlèvement	enlèvement	NOUN	_	_	7	obl:arg	_	_
+11	et	et	CCONJ	_	_	14	cc	_	_
+12	à	à	ADP	_	_	14	case	_	_
+13	l'	le	DET	_	_	14	det	_	_
+14	élimination	élimination	NOUN	_	_	10	conj	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	299	299	NUM	_	_	17	nummod	_	_
+17	tonnes	tonne	NOUN	_	_	10	nmod	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	déchets	déchet	NOUN	_	_	17	nmod	_	_
+20	dangereux	dangereux	ADJ	_	_	19	amod	_	_
+21	.	.	PUNCT	_	_	7	punct	_	_
+
+
+#Au cours de l'exécution des travaux, il a été constaté que les dallage à l'intérieur des bâtiments et que les sols à l'extérieur étaient probablement pollués à plusieurs endroits.
+1	Au	au	ADP	_	_	2	case	_	_
+2	cours	cours	NOUN	_	_	12	obl:mod	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	l'	le	DET	_	_	5	det	_	_
+5	exécution	exécution	NOUN	_	_	2	nmod	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	travaux	travail	NOUN	_	_	5	nmod	_	_
+8	,	,	PUNCT	_	_	12	punct	_	_
+9	il	il	PRON	_	_	12	nsubj:pass	_	_
+10	a	avoir	AUX	_	_	12	aux:tense	_	_
+11	été	être	AUX	_	_	12	aux:pass	_	_
+12	constaté	constater	VERB	_	_	12	ROOT	_	_
+13	que	que	SCONJ	_	_	15	mark	_	_
+14	les	le	DET	_	_	15	det	_	_
+15	dallage	dallage	NOUN	_	_	12	ccomp	_	_
+16	à	à	ADP	_	_	18	case	_	_
+17	l'	le	DET	_	_	18	det	_	_
+18	intérieur	intérieur	NOUN	_	_	15	nmod	_	_
+19	des	de	ADP	_	_	20	case	_	_
+20	bâtiments	bâtiment	NOUN	_	_	18	nmod	_	_
+21	et	et	CCONJ	_	_	30	cc	_	_
+22	que	que	SCONJ	_	_	30	mark	_	_
+23	les	le	DET	_	_	24	det	_	_
+24	sols	sol	NOUN	_	_	30	nsubj:pass	_	_
+25	à	à	ADP	_	_	27	case	_	_
+26	l'	le	DET	_	_	27	det	_	_
+27	extérieur	extérieur	NOUN	_	_	24	nmod	_	_
+28	étaient	être	AUX	_	_	30	aux:pass	_	_
+29	probablement	probablement	ADV	_	_	30	advmod	_	_
+30	pollués	polluer	VERB	_	_	15	conj	_	_
+31	à	à	ADP	_	_	33	case	_	_
+32	plusieurs	plusieurs	DET	_	_	33	det	_	_
+33	endroits	endroit	NOUN	_	_	30	obl:mod	_	_
+34	.	.	PUNCT	_	_	15	punct	_	_
+
+
+#Conformément à l'arrêté préfectoral du 19 octobre 2005, l'ADEME a fait procéder à une étude qui a permis de caractériser le contexte géologique et hydrogéologique du site et de mettre en place un réseau de piézomètres pour le suivi de la qualité des eaux souterraines.
+1	Conformément	conformément	ADV	_	_	15	advmod	_	_
+2	à	à	ADP	_	_	4	case	_	_
+3	l'	le	DET	_	_	4	det	_	_
+4	arrêté	arrêté	NOUN	_	_	1	obl:arg	_	_
+5	préfectoral	préfectoral	ADJ	_	_	4	amod	_	_
+6	du	de	ADP	_	_	7	case	_	_
+7	19	19	NUM	_	_	4	nmod	_	_
+8	octobre	octobre	NOUN	_	_	7	nmod	_	_
+9	2005	2005	PUNCT	_	_	8	nmod	_	_
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	l'	le	DET	_	_	12	det	_	_
+12	ADEME	ADEME	PROPN	_	_	15	nsubj	_	_
+13	a	avoir	AUX	_	_	15	aux:tense	_	_
+14	fait	faire	AUX	_	_	15	dep	_	_
+15	procéder	procéder	VERB	_	_	15	ROOT	_	_
+16	à	à	ADP	_	_	18	case	_	_
+17	une	un	DET	_	_	18	det	_	_
+18	étude	étude	NOUN	_	_	15	obl:arg	_	_
+19	qui	qui	PRON	_	_	21	nsubj	_	_
+20	a	avoir	AUX	_	_	21	aux:tense	_	_
+21	permis	permettre	VERB	_	_	18	acl:relcl	_	_
+22	de	de	ADP	_	_	23	mark	_	_
+23	caractériser	caractériser	VERB	_	_	21	xcomp	_	_
+24	le	le	DET	_	_	25	det	_	_
+25	contexte	contexte	NOUN	_	_	23	obj	_	_
+26	géologique	géologique	ADJ	_	_	25	amod	_	_
+27	et	et	CCONJ	_	_	28	cc	_	_
+28	hydrogéologique	hydrogéologique	ADJ	_	_	26	conj	_	_
+29	du	de	ADP	_	_	30	case	_	_
+30	site	site	NOUN	_	_	25	nmod	_	_
+31	et	et	CCONJ	_	_	33	cc	_	_
+32	de	de	ADP	_	_	33	mark	_	_
+33	mettre	mettre	VERB	_	_	23	conj	_	_
+34	en	en	ADP	_	_	35	case	_	_
+35	place	place	NOUN	_	_	33	obl:arg	_	_
+36	un	un	DET	_	_	37	det	_	_
+37	réseau	réseau	NOUN	_	_	33	obj	_	_
+38	de	de	ADP	_	_	39	case	_	_
+39	piézomètres	piézomètre	NOUN	_	_	37	nmod	_	_
+40	pour	pour	ADP	_	_	42	case	_	_
+41	le	le	DET	_	_	42	det	_	_
+42	suivi	suivi	NOUN	_	_	33	obl:mod	_	_
+43	de	de	ADP	_	_	45	case	_	_
+44	la	le	DET	_	_	45	det	_	_
+45	qualité	qualité	NOUN	_	_	42	nmod	_	_
+46	des	de	ADP	_	_	47	case	_	_
+47	eaux	eau	NOUN	_	_	45	nmod	_	_
+48	souterraines	souterrain	ADJ	_	_	47	amod	_	_
+49	.	.	PUNCT	_	_	15	punct	_	_
+
+
+#De fortes contaminations en hydrocarbures lourds et volatils et en solvants chlorés ont été constatées.
+1	De	de	DET	_	_	3	det	_	_
+2	fortes	fort	ADJ	_	_	3	amod	_	_
+3	contaminations	contamination	NOUN	_	_	15	nsubj:pass	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	hydrocarbures	hydrocarbure	NOUN	_	_	3	nmod	_	_
+6	lourds	lourd	ADJ	_	_	5	amod	_	_
+7	et	et	CCONJ	_	_	8	cc	_	_
+8	volatils	volatil	ADJ	_	_	6	conj	_	_
+9	et	et	CCONJ	_	_	11	cc	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	solvants	solvant	NOUN	_	_	5	conj	_	_
+12	chlorés	chlorer	VERB	_	_	11	acl	_	_
+13	ont	avoir	AUX	_	_	15	aux:tense	_	_
+14	été	être	AUX	_	_	15	aux:pass	_	_
+15	constatées	constater	VERB	_	_	15	ROOT	_	_
+16	.	.	PUNCT	_	_	15	punct	_	_
+
+
+#Conformément à l'arrêté préfectoral du 20 décembre 2010, l'ADEME a fait réaliser de nouvelles investigations, notamment au niveau des zones d'habitats et des locaux de travail situés à proximité du site, au niveau du ruisseau le Jouha situé en contre-bas du site, au niveau de l'emprise du site afin de localiser les sources de pollution et l'extension du panache de pollution.
+1	Conformément	conformément	ADV	_	_	15	advmod	_	_
+2	à	à	ADP	_	_	4	case	_	_
+3	l'	le	DET	_	_	4	det	_	_
+4	arrêté	arrêté	NOUN	_	_	1	obl:arg	_	_
+5	préfectoral	préfectoral	ADJ	_	_	4	amod	_	_
+6	du	de	ADP	_	_	7	case	_	_
+7	20	20	NUM	_	_	4	nmod	_	_
+8	décembre	décembre	NOUN	_	_	7	nmod	_	_
+9	2010	2010	PUNCT	_	_	8	nmod	_	_
+10	,	,	PUNCT	_	_	15	punct	_	_
+11	l'	le	DET	_	_	12	det	_	_
+12	ADEME	ADEME	PROPN	_	_	15	nsubj	_	_
+13	a	avoir	AUX	_	_	15	aux:tense	_	_
+14	fait	faire	AUX	_	_	15	dep	_	_
+15	réaliser	réaliser	VERB	_	_	15	ROOT	_	_
+16	de	de	DET	_	_	18	det	_	_
+17	nouvelles	nouveau	ADJ	_	_	18	amod	_	_
+18	investigations	investigation	NOUN	_	_	15	obj	_	_
+19	,	,	PUNCT	_	_	15	punct	_	_
+20	notamment	notamment	ADV	_	_	22	advmod	_	_
+21	au	au	ADP	_	_	22	case	_	_
+22	niveau	niveau	NOUN	_	_	15	obl:mod	_	_
+23	des	de	ADP	_	_	24	case	_	_
+24	zones	zone	NOUN	_	_	22	nmod	_	_
+25	d'	de	ADP	_	_	26	case	_	_
+26	habitats	habitat	NOUN	_	_	24	nmod	_	_
+27	et	et	CCONJ	_	_	29	cc	_	_
+28	des	de	ADP	_	_	29	case	_	_
+29	locaux	local	NOUN	_	_	24	conj	_	_
+30	de	de	ADP	_	_	31	case	_	_
+31	travail	travail	NOUN	_	_	29	nmod	_	_
+32	situés	situer	VERB	_	_	29	acl	_	_
+33	à	à	ADP	_	_	34	case	_	_
+34	proximité	proximité	NOUN	_	_	32	obl:arg	_	_
+35	du	de	ADP	_	_	36	case	_	_
+36	site	site	NOUN	_	_	34	nmod	_	_
+37	,	,	PUNCT	_	_	22	punct	_	_
+38	au	au	ADP	_	_	39	case	_	_
+39	niveau	niveau	NOUN	_	_	15	obl:mod	_	_
+40	du	de	ADP	_	_	41	case	_	_
+41	ruisseau	ruisseau	NOUN	_	_	39	nmod	_	_
+42	le	le	DET	_	_	43	det	_	_
+43	Jouha	Jouha	PROPN	_	_	41	nmod	_	_
+44	situé	situer	VERB	_	_	41	acl	_	_
+45	en	en	ADP	_	_	46	case	_	_
+46	contre-bas	contre-bas	NOUN	_	_	44	obl:arg	_	_
+47	du	de	ADP	_	_	48	case	_	_
+48	site	site	NOUN	_	_	46	nmod	_	_
+49	,	,	PUNCT	_	_	39	punct	_	_
+50	au	au	ADP	_	_	51	case	_	_
+51	niveau	niveau	NOUN	_	_	15	obl:mod	_	_
+52	de	de	ADP	_	_	54	case	_	_
+53	l'	le	DET	_	_	54	det	_	_
+54	emprise	emprise	NOUN	_	_	51	nmod	_	_
+55	du	de	ADP	_	_	56	case	_	_
+56	site	site	NOUN	_	_	54	nmod	_	_
+57	afin	afin	ADV	_	_	15	advmod	_	_
+58	de	de	ADP	_	_	59	case	_	_
+59	localiser	localiser	VERB	_	_	57	obl:arg	_	_
+60	les	le	DET	_	_	61	det	_	_
+61	sources	source	NOUN	_	_	59	obj	_	_
+62	de	de	ADP	_	_	63	case	_	_
+63	pollution	pollution	NOUN	_	_	61	nmod	_	_
+64	et	et	CCONJ	_	_	66	cc	_	_
+65	l'	le	DET	_	_	66	det	_	_
+66	extension	extension	NOUN	_	_	61	conj	_	_
+67	du	de	ADP	_	_	68	case	_	_
+68	panache	panache	NOUN	_	_	66	nmod	_	_
+69	de	de	ADP	_	_	70	case	_	_
+70	pollution	pollution	NOUN	_	_	68	nmod	_	_
+71	.	.	PUNCT	_	_	15	punct	_	_
+
+
+#Le suivi de la pollution des eaux est poursuivi.
+1	Le	le	DET	_	_	2	det	_	_
+2	suivi	suivi	NOUN	_	_	9	nsubj:pass	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	le	DET	_	_	5	det	_	_
+5	pollution	pollution	NOUN	_	_	2	nmod	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	eaux	eau	NOUN	_	_	5	nmod	_	_
+8	est	être	AUX	_	_	9	aux:pass	_	_
+9	poursuivi	poursuivre	VERB	_	_	9	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+
+#A l'issue des différentes investigations réalisées sur et hors site, 6 sources de pollution ont été caractérisées :
+1	A	à	ADP	_	_	3	case	_	_
+2	l'	le	DET	_	_	3	det	_	_
+3	issue	issue	NOUN	_	_	19	obl:mod	_	_
+4	des	de	ADP	_	_	6	case	_	_
+5	différentes	différent	ADJ	_	_	6	amod	_	_
+6	investigations	investigation	NOUN	_	_	3	nmod	_	_
+7	réalisées	réaliser	VERB	_	_	6	acl	_	_
+8	sur	sur	ADP	_	_	11	case	_	_
+9	et	et	CCONJ	_	_	10	cc	_	_
+10	hors	hors	ADP	_	_	11	case	_	_
+11	site	site	NOUN	_	_	7	obl:mod	_	_
+12	,	,	PUNCT	_	_	19	punct	_	_
+13	6	6	NUM	_	_	14	nummod	_	_
+14	sources	source	NOUN	_	_	19	nsubj:pass	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	pollution	pollution	NOUN	_	_	14	nmod	_	_
+17	ont	avoir	AUX	_	_	19	aux:tense	_	_
+18	été	être	AUX	_	_	19	aux:pass	_	_
+19	caractérisées	caractériser	VERB	_	_	19	ROOT	_	_
+20	:	:	PUNCT	_	_	19	punct	_	_
+
+
+#- source 1 : pollution des sols en surface par des huiles lourdes en contre-bas du jardin d'un riverain ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	source	source	NOUN	_	_	2	ROOT	_	_
+3	1	1	NUM	_	_	2	nummod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	pollution	pollution	NOUN	_	_	2	appos	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	sols	sol	NOUN	_	_	5	nmod	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	surface	surface	NOUN	_	_	7	nmod	_	_
+10	par	par	ADP	_	_	12	case	_	_
+11	des	un	DET	_	_	12	det	_	_
+12	huiles	huile	NOUN	_	_	5	nmod	_	_
+13	lourdes	lourd	ADJ	_	_	12	amod	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	contre-bas	contre-bas	NOUN	_	_	5	nmod	_	_
+16	du	de	ADP	_	_	17	case	_	_
+17	jardin	jardin	NOUN	_	_	15	nmod	_	_
+18	d'	de	ADP	_	_	20	case	_	_
+19	un	un	DET	_	_	20	det	_	_
+20	riverain	riverain	NOUN	_	_	17	nmod	_	_
+21	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- source 2 : présence de fûts enterrés dans la partie nord du site (parc à fûts) ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	source	source	NOUN	_	_	2	ROOT	_	_
+3	2	2	NUM	_	_	2	nummod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	présence	présence	NOUN	_	_	2	appos	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	fûts	fût	NOUN	_	_	5	nmod	_	_
+8	enterrés	enterrer	VERB	_	_	7	acl	_	_
+9	dans	dans	ADP	_	_	11	case	_	_
+10	la	le	DET	_	_	11	det	_	_
+11	partie	partie	NOUN	_	_	8	obl:mod	_	_
+12	nord	nord	NUM	_	_	11	amod	_	_
+13	du	de	ADP	_	_	14	case	_	_
+14	site	site	NOUN	_	_	11	nmod	_	_
+15	(	(	PUNCT	_	_	11	punct	_	_
+16	parc	parc	NOUN	_	_	11	appos	_	_
+17	à	à	ADP	_	_	18	case	_	_
+18	fûts	fût	NOUN	_	_	16	nmod	_	_
+19	)	)	PUNCT	_	_	11	punct	_	_
+20	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- source 3 : forte pollution des sols par des hydrocarbures dans la zone bâtiment qui est à l'origine de la pollution des eaux souterraines et de la présence d'une phase flottante huileuse noire dans les eaux souterraines ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	source	source	NOUN	_	_	2	ROOT	_	_
+3	3	3	NUM	_	_	2	nummod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	forte	fort	ADJ	_	_	6	amod	_	_
+6	pollution	pollution	NOUN	_	_	2	appos	_	_
+7	des	de	ADP	_	_	8	case	_	_
+8	sols	sol	NOUN	_	_	6	nmod	_	_
+9	par	par	ADP	_	_	11	case	_	_
+10	des	un	DET	_	_	11	det	_	_
+11	hydrocarbures	hydrocarbure	NOUN	_	_	6	nmod	_	_
+12	dans	dans	ADP	_	_	14	case	_	_
+13	la	le	DET	_	_	14	det	_	_
+14	zone	zone	NOUN	_	_	6	nmod	_	_
+15	bâtiment	bâtiment	NOUN	_	_	14	nmod	_	_
+16	qui	qui	PRON	_	_	20	nsubj	_	_
+17	est	être	AUX	_	_	20	cop	_	_
+18	à	à	ADP	_	_	20	case	_	_
+19	l'	le	DET	_	_	20	det	_	_
+20	origine	origine	NOUN	_	_	14	acl:relcl	_	_
+21	de	de	ADP	_	_	23	case	_	_
+22	la	le	DET	_	_	23	det	_	_
+23	pollution	pollution	NOUN	_	_	20	nmod	_	_
+24	des	de	ADP	_	_	25	case	_	_
+25	eaux	eau	NOUN	_	_	23	nmod	_	_
+26	souterraines	souterrain	ADJ	_	_	25	amod	_	_
+27	et	et	CCONJ	_	_	30	cc	_	_
+28	de	de	ADP	_	_	30	case	_	_
+29	la	le	DET	_	_	30	det	_	_
+30	présence	présence	NOUN	_	_	23	conj	_	_
+31	d'	de	ADP	_	_	33	case	_	_
+32	une	un	DET	_	_	33	det	_	_
+33	phase	phase	NOUN	_	_	30	nmod	_	_
+34	flottante	flottant	ADJ	_	_	33	amod	_	_
+35	huileuse	huileux	ADJ	_	_	33	amod	_	_
+36	noire	noir	ADJ	_	_	33	amod	_	_
+37	dans	dans	ADP	_	_	39	case	_	_
+38	les	le	DET	_	_	39	det	_	_
+39	eaux	eau	NOUN	_	_	30	nmod	_	_
+40	souterraines	souterrain	ADJ	_	_	39	amod	_	_
+41	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- source 4 : pollution des sols dans la partie nord du parc à fûts ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	source	source	NOUN	_	_	2	ROOT	_	_
+3	4	4	NUM	_	_	2	nummod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	pollution	pollution	NOUN	_	_	2	appos	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	sols	sol	NOUN	_	_	5	nmod	_	_
+8	dans	dans	ADP	_	_	10	case	_	_
+9	la	le	DET	_	_	10	det	_	_
+10	partie	partie	NOUN	_	_	5	nmod	_	_
+11	nord	nord	NUM	_	_	10	amod	_	_
+12	du	de	ADP	_	_	13	case	_	_
+13	parc	parc	NOUN	_	_	10	nmod	_	_
+14	à	à	ADP	_	_	15	case	_	_
+15	fûts	fût	NOUN	_	_	13	nmod	_	_
+16	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- source 5 : pollution des sols en surface par des huiles lourdes le long du ruisseau le Jouha ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	source	source	NOUN	_	_	2	ROOT	_	_
+3	5	5	NUM	_	_	2	nummod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	pollution	pollution	NOUN	_	_	2	appos	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	sols	sol	NOUN	_	_	5	nmod	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	surface	surface	NOUN	_	_	7	nmod	_	_
+10	par	par	ADP	_	_	12	case	_	_
+11	des	un	DET	_	_	12	det	_	_
+12	huiles	huile	NOUN	_	_	5	nmod	_	_
+13	lourdes	lourd	ADJ	_	_	12	amod	_	_
+14	le	le	DET	_	_	15	det	_	_
+15	long	long	ADV	_	_	5	dep	_	_
+16	du	de	ADP	_	_	17	case	_	_
+17	ruisseau	ruisseau	NOUN	_	_	5	nmod	_	_
+18	le	le	DET	_	_	19	det	_	_
+19	Jouha	Jouha	PROPN	_	_	17	nmod	_	_
+20	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- source 6 : pollution des eaux souterraines par des composés organiques halogénés volatils (COHV) en fond de vallon.
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	source	source	NOUN	_	_	2	ROOT	_	_
+3	6	6	NUM	_	_	2	nummod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	pollution	pollution	NOUN	_	_	2	appos	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	eaux	eau	NOUN	_	_	5	nmod	_	_
+8	souterraines	souterrain	ADJ	_	_	7	amod	_	_
+9	par	par	ADP	_	_	11	case	_	_
+10	des	un	DET	_	_	11	det	_	_
+11	composés	composé	NOUN	_	_	5	nmod	_	_
+12	organiques	organique	ADJ	_	_	11	amod	_	_
+13	halogénés	halogéné	ADJ	_	_	11	amod	_	_
+14	volatils	volatil	ADJ	_	_	11	amod	_	_
+15	(	(	PUNCT	_	_	11	punct	_	_
+16	COHV	cohv	NOUN	_	_	11	appos	_	_
+17	)	)	PUNCT	_	_	11	punct	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	fond	fond	NOUN	_	_	2	nmod	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	vallon	vallon	NOUN	_	_	19	nmod	_	_
+22	.	.	PUNCT	_	_	2	punct	_	_
+
+
+#Les eaux superficielles du ruisseau le Jouha, les légumes des potagers des riverains, les gaz du sous-sol et les mesures d'air ambiant chez les riverains ne présentent pas d'impact de pollution significative.
+1	Les	le	DET	_	_	2	det	_	_
+2	eaux	eau	NOUN	_	_	30	nsubj	_	_
+3	superficielles	superficiel	ADJ	_	_	2	amod	_	_
+4	du	de	ADP	_	_	5	case	_	_
+5	ruisseau	ruisseau	NOUN	_	_	2	nmod	_	_
+6	le	le	DET	_	_	7	det	_	_
+7	Jouha	Jouha	PROPN	_	_	5	nmod	_	_
+8	,	,	PUNCT	_	_	10	punct	_	_
+9	les	le	DET	_	_	10	det	_	_
+10	légumes	légume	NOUN	_	_	2	conj	_	_
+11	des	de	ADP	_	_	12	case	_	_
+12	potagers	potager	NOUN	_	_	10	nmod	_	_
+13	des	de	ADP	_	_	14	case	_	_
+14	riverains	riverain	NOUN	_	_	12	nmod	_	_
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	les	le	DET	_	_	17	det	_	_
+17	gaz	gaz	NOUN	_	_	2	conj	_	_
+18	du	de	ADP	_	_	19	case	_	_
+19	sous-sol	sous-sol	NOUN	_	_	17	nmod	_	_
+20	et	et	CCONJ	_	_	22	cc	_	_
+21	les	le	DET	_	_	22	det	_	_
+22	mesures	mesure	NOUN	_	_	2	conj	_	_
+23	d'	de	ADP	_	_	24	case	_	_
+24	air	air	NOUN	_	_	22	nmod	_	_
+25	ambiant	ambiant	ADJ	_	_	24	amod	_	_
+26	chez	chez	ADP	_	_	28	case	_	_
+27	les	le	DET	_	_	28	det	_	_
+28	riverains	riverain	NOUN	_	_	22	nmod	_	_
+29	ne	ne	ADV	_	_	30	advmod	_	_
+30	présentent	présenter	VERB	_	_	30	ROOT	_	_
+31	pas	pas	ADV	_	_	30	advmod	_	_
+32	d'	d'	DET	_	_	33	det	_	_
+33	impact	impact	NOUN	_	_	30	obj	_	_
+34	de	de	ADP	_	_	35	case	_	_
+35	pollution	pollution	NOUN	_	_	33	nmod	_	_
+36	significative	significatif	ADJ	_	_	35	amod	_	_
+37	.	.	PUNCT	_	_	30	punct	_	_
+
+
+#Il n'y a pas d'incompatibilité d'usage entre l'état des milieux et les usages qui en sont faits actuellement.
+1	Il	il	PRON	_	_	4	expl:subj	_	_
+2	n'	n'	ADV	_	_	4	advmod	_	_
+3	y	y	PRON	_	_	4	expl:comp	_	_
+4	a	avoir	VERB	_	_	4	ROOT	_	_
+5	pas	pas	ADV	_	_	4	advmod	_	_
+6	d'	d'	DET	_	_	7	det	_	_
+7	incompatibilité	incompatibilité	NOUN	_	_	4	obj	_	_
+8	d'	de	ADP	_	_	9	case	_	_
+9	usage	usage	NOUN	_	_	7	nmod	_	_
+10	entre	entre	ADP	_	_	12	case	_	_
+11	l'	le	DET	_	_	12	det	_	_
+12	état	état	NOUN	_	_	7	nmod	_	_
+13	des	de	ADP	_	_	14	case	_	_
+14	milieux	milieu	NOUN	_	_	12	nmod	_	_
+15	et	et	CCONJ	_	_	17	cc	_	_
+16	les	le	DET	_	_	17	det	_	_
+17	usages	usage	NOUN	_	_	12	conj	_	_
+18	qui	qui	PRON	_	_	21	nsubj:pass	_	_
+19	en	en	PRON	_	_	21	iobj	_	_
+20	sont	être	AUX	_	_	21	aux:pass	_	_
+21	faits	faire	VERB	_	_	17	acl:relcl	_	_
+22	actuellement	actuellement	ADV	_	_	21	advmod	_	_
+23	.	.	PUNCT	_	_	4	punct	_	_
+
+
+#Par courrier du 18 décembre 2012, le Ministère de l'Ecologie a donné son accord pour les opérations de dépollution suivantes :
+1	Par	par	ADP	_	_	2	case	_	_
+2	courrier	courrier	NOUN	_	_	14	obl:mod	_	_
+3	du	de	ADP	_	_	4	case	_	_
+4	18	18	NUM	_	_	2	nmod	_	_
+5	décembre	décembre	NOUN	_	_	4	nmod	_	_
+6	2012	2012	PUNCT	_	_	5	nmod	_	_
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	le	le	DET	_	_	9	det	_	_
+9	Ministère	ministère	NOUN	_	_	14	nsubj	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	l'	le	DET	_	_	12	det	_	_
+12	Ecologie	ecologie	NOUN	_	_	9	nmod	_	_
+13	a	avoir	AUX	_	_	14	aux:tense	_	_
+14	donné	donner	VERB	_	_	14	ROOT	_	_
+15	son	son	DET	_	_	16	det	_	_
+16	accord	accord	NOUN	_	_	14	obj	_	_
+17	pour	pour	ADP	_	_	19	case	_	_
+18	les	le	DET	_	_	19	det	_	_
+19	opérations	opération	NOUN	_	_	14	obl:arg	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	dépollution	dépollution	NOUN	_	_	19	nmod	_	_
+22	suivantes	suivant	ADJ	_	_	19	amod	_	_
+23	:	:	PUNCT	_	_	14	punct	_	_
+
+
+#- source 1 : excavation des terres polluées, évacuation vers des filières de traitement adaptées et remplacement par des terres propres ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	source	source	NOUN	_	_	2	ROOT	_	_
+3	1	1	NUM	_	_	2	nummod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	excavation	excavation	NOUN	_	_	2	appos	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	terres	terre	NOUN	_	_	5	nmod	_	_
+8	polluées	polluer	VERB	_	_	7	amod	_	_
+9	,	,	PUNCT	_	_	10	punct	_	_
+10	évacuation	évacuation	NOUN	_	_	5	conj	_	_
+11	vers	vers	ADP	_	_	13	case	_	_
+12	des	un	DET	_	_	13	det	_	_
+13	filières	filière	NOUN	_	_	10	nmod	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	traitement	traitement	NOUN	_	_	13	nmod	_	_
+16	adaptées	adapter	VERB	_	_	13	acl	_	_
+17	et	et	CCONJ	_	_	18	cc	_	_
+18	remplacement	remplacement	NOUN	_	_	5	conj	_	_
+19	par	par	ADP	_	_	21	case	_	_
+20	des	un	DET	_	_	21	det	_	_
+21	terres	terre	NOUN	_	_	18	nmod	_	_
+22	propres	propre	ADJ	_	_	21	amod	_	_
+23	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- source 2 : terrassement, tri mécanique des fûts et évacuation vers des filières de traitement adaptées ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	source	source	NOUN	_	_	2	ROOT	_	_
+3	2	2	NUM	_	_	2	nummod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	terrassement	terrassement	NOUN	_	_	2	appos	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	tri	tri	NOUN	_	_	5	conj	_	_
+8	mécanique	mécanique	ADJ	_	_	7	amod	_	_
+9	des	de	ADP	_	_	10	case	_	_
+10	fûts	fût	NOUN	_	_	7	nmod	_	_
+11	et	et	CCONJ	_	_	12	cc	_	_
+12	évacuation	évacuation	NOUN	_	_	5	conj	_	_
+13	vers	vers	ADP	_	_	15	case	_	_
+14	des	un	DET	_	_	15	det	_	_
+15	filières	filière	NOUN	_	_	12	nmod	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	traitement	traitement	NOUN	_	_	15	nmod	_	_
+18	adaptées	adapter	VERB	_	_	15	amod	_	_
+19	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- source 3 : démolition des bâtiments, excavation et traitement sur site des terres et extraction de la phase flottante sur les eaux souterraines (pompage-écrémage) ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	source	source	NOUN	_	_	2	ROOT	_	_
+3	3	3	NUM	_	_	2	nummod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	démolition	démolition	NOUN	_	_	2	appos	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	bâtiments	bâtiment	NOUN	_	_	5	nmod	_	_
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	excavation	excavation	NOUN	_	_	5	conj	_	_
+10	et	et	CCONJ	_	_	11	cc	_	_
+11	traitement	traitement	NOUN	_	_	5	conj	_	_
+12	sur	sur	ADP	_	_	13	case	_	_
+13	site	site	NOUN	_	_	11	nmod	_	_
+14	des	de	ADP	_	_	15	case	_	_
+15	terres	terre	NOUN	_	_	13	nmod	_	_
+16	et	et	CCONJ	_	_	17	cc	_	_
+17	extraction	extraction	NOUN	_	_	5	conj	_	_
+18	de	de	ADP	_	_	20	case	_	_
+19	la	le	DET	_	_	20	det	_	_
+20	phase	phase	NOUN	_	_	17	nmod	_	_
+21	flottante	flottant	ADJ	_	_	20	amod	_	_
+22	sur	sur	ADP	_	_	24	case	_	_
+23	les	le	DET	_	_	24	det	_	_
+24	eaux	eau	NOUN	_	_	20	nmod	_	_
+25	souterraines	souterrain	ADJ	_	_	24	amod	_	_
+26	(	(	PUNCT	_	_	24	punct	_	_
+27	pompage	pompage	NOUN	_	_	24	appos	_	_
+28	-	-	NOUN	_	_	24	fixed	_	_
+29	écrémage	écrémage	NOUN	_	_	24	appos	_	_
+30	)	)	PUNCT	_	_	24	punct	_	_
+31	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- source 4 : excavation et traitement sur site des terres ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	source	source	NOUN	_	_	2	ROOT	_	_
+3	4	4	NUM	_	_	2	nummod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	excavation	excavation	NOUN	_	_	2	appos	_	_
+6	et	et	CCONJ	_	_	7	cc	_	_
+7	traitement	traitement	NOUN	_	_	5	conj	_	_
+8	sur	sur	ADP	_	_	9	case	_	_
+9	site	site	NOUN	_	_	7	nmod	_	_
+10	des	de	ADP	_	_	11	case	_	_
+11	terres	terre	NOUN	_	_	9	nmod	_	_
+12	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- source 5 : excavation des terres contaminées et évacuation vers des filières de traitement adaptées ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	source	source	NOUN	_	_	2	ROOT	_	_
+3	5	5	NUM	_	_	2	nummod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	excavation	excavation	NOUN	_	_	2	appos	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	terres	terre	NOUN	_	_	5	nmod	_	_
+8	contaminées	contaminer	VERB	_	_	7	acl	_	_
+9	et	et	CCONJ	_	_	10	cc	_	_
+10	évacuation	évacuation	NOUN	_	_	5	conj	_	_
+11	vers	vers	ADP	_	_	13	case	_	_
+12	des	un	DET	_	_	13	det	_	_
+13	filières	filière	NOUN	_	_	10	nmod	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	traitement	traitement	NOUN	_	_	13	nmod	_	_
+16	adaptées	adapter	VERB	_	_	13	acl	_	_
+17	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- source 6 : étude complémentaire pour délimiter au nord le panache des eaux souterraines contaminées en COHV et identifier sa source.
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	source	source	NOUN	_	_	2	ROOT	_	_
+3	6	6	NUM	_	_	2	nummod	_	_
+4	:	:	PUNCT	_	_	2	punct	_	_
+5	étude	étude	NOUN	_	_	2	appos	_	_
+6	complémentaire	complémentaire	ADJ	_	_	5	amod	_	_
+7	pour	pour	ADP	_	_	8	mark	_	_
+8	délimiter	délimiter	VERB	_	_	5	acl	_	_
+9	au	au	ADP	_	_	10	case	_	_
+10	nord	nord	NOUN	_	_	8	obl:mod	_	_
+11	le	le	DET	_	_	12	det	_	_
+12	panache	panache	NOUN	_	_	8	obj	_	_
+13	des	de	ADP	_	_	14	case	_	_
+14	eaux	eau	NOUN	_	_	12	nmod	_	_
+15	souterraines	souterrain	ADJ	_	_	14	amod	_	_
+16	contaminées	contaminer	VERB	_	_	14	acl	_	_
+17	en	en	ADP	_	_	18	case	_	_
+18	COHV	cohv	NOUN	_	_	14	nmod	_	_
+19	et	et	CCONJ	_	_	20	cc	_	_
+20	identifier	identifier	VERB	_	_	8	conj	_	_
+21	sa	son	DET	_	_	22	det	_	_
+22	source	source	NOUN	_	_	20	obj	_	_
+23	.	.	PUNCT	_	_	2	punct	_	_
+
+
+#Les arrêtés préfectoraux du 23 septembre 2015 (travaux d'office et occupation temporaire des sols) prescrivent la démolition des bâtiments , la réalisation préalable d'études pour dimensionner le programme de dépollution et la réalisation de l'étude complémentaire (source 6).
+1	Les	le	DET	_	_	2	det	_	_
+2	arrêtés	arrêté	NOUN	_	_	18	nsubj	_	_
+3	préfectoraux	préfectoral	ADJ	_	_	2	amod	_	_
+4	du	de	ADP	_	_	5	case	_	_
+5	23	23	NUM	_	_	2	nmod	_	_
+6	septembre	septembre	NOUN	_	_	5	nmod	_	_
+7	2015	2015	NUM	_	_	6	nmod	_	_
+8	(	(	PUNCT	_	_	2	punct	_	_
+9	travaux	travail	NOUN	_	_	2	appos	_	_
+10	d'	de	ADP	_	_	11	case	_	_
+11	office	office	NOUN	_	_	9	nmod	_	_
+12	et	et	CCONJ	_	_	13	cc	_	_
+13	occupation	occupation	NOUN	_	_	9	conj	_	_
+14	temporaire	temporaire	ADJ	_	_	13	amod	_	_
+15	des	de	ADP	_	_	16	case	_	_
+16	sols	sol	NOUN	_	_	13	nmod	_	_
+17	)	)	PUNCT	_	_	2	punct	_	_
+18	prescrivent	prescrire	VERB	_	_	18	ROOT	_	_
+19	la	le	DET	_	_	20	det	_	_
+20	démolition	démolition	NOUN	_	_	18	obj	_	_
+21	des	de	ADP	_	_	22	case	_	_
+22	bâtiments	bâtiment	NOUN	_	_	20	nmod	_	_
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	la	le	DET	_	_	25	det	_	_
+25	réalisation	réalisation	NOUN	_	_	20	conj	_	_
+26	préalable	préalable	ADJ	_	_	25	amod	_	_
+27	d'	de	ADP	_	_	28	case	_	_
+28	études	étude	NOUN	_	_	25	nmod	_	_
+29	pour	pour	ADP	_	_	30	mark	_	_
+30	dimensionner	dimensionner	VERB	_	_	25	acl	_	_
+31	le	le	DET	_	_	32	det	_	_
+32	programme	programme	NOUN	_	_	30	obj	_	_
+33	de	de	ADP	_	_	34	case	_	_
+34	dépollution	dépollution	NOUN	_	_	32	nmod	_	_
+35	et	et	CCONJ	_	_	37	cc	_	_
+36	la	le	DET	_	_	37	det	_	_
+37	réalisation	réalisation	NOUN	_	_	20	conj	_	_
+38	de	de	ADP	_	_	40	case	_	_
+39	l'	le	DET	_	_	40	det	_	_
+40	étude	étude	NOUN	_	_	37	nmod	_	_
+41	complémentaire	complémentaire	ADJ	_	_	40	amod	_	_
+42	(	(	PUNCT	_	_	18	punct	_	_
+43	source	source	NOUN	_	_	18	obj	_	_
+44	6	6	NUM	_	_	43	nummod	_	_
+45	)	)	PUNCT	_	_	18	punct	_	_
+46	.	.	PUNCT	_	_	18	punct	_	_
+
+
+#Le désamiantage et la démolition des bâtiments ont été réalisés fin juillet 2017.
+1	Le	le	DET	_	_	2	det	_	_
+2	désamiantage	désamiantage	NOUN	_	_	10	nsubj:pass	_	_
+3	et	et	CCONJ	_	_	5	cc	_	_
+4	la	le	DET	_	_	5	det	_	_
+5	démolition	démolition	NOUN	_	_	2	conj	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	bâtiments	bâtiment	NOUN	_	_	5	nmod	_	_
+8	ont	avoir	AUX	_	_	10	aux:tense	_	_
+9	été	être	AUX	_	_	10	aux:pass	_	_
+10	réalisés	réaliser	VERB	_	_	10	ROOT	_	_
+11	fin	fin	NOUN	_	_	10	obl:mod	_	_
+12	juillet	juillet	NOUN	_	_	11	nmod	_	_
+13	2017	2017	PUNCT	_	_	10	punct	_	_
+14	.	.	PUNCT	_	_	10	punct	_	_
+
+
+#L'étude de faisabilité (traitement des sols et des eaux) va être lancée avec pour objectif de réaliser les travaux pour 2020.
+1	L'	le	DET	_	_	2	det	_	_
+2	étude	étude	NOUN	_	_	13	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	faisabilité	faisabilité	NOUN	_	_	2	nmod	_	_
+5	(	(	PUNCT	_	_	2	punct	_	_
+6	traitement	traitement	NOUN	_	_	2	appos	_	_
+7	des	de	ADP	_	_	8	case	_	_
+8	sols	sol	NOUN	_	_	6	nmod	_	_
+9	et	et	CCONJ	_	_	11	cc	_	_
+10	des	de	ADP	_	_	11	case	_	_
+11	eaux	eau	NOUN	_	_	8	conj	_	_
+12	)	)	PUNCT	_	_	2	punct	_	_
+13	va	aller	VERB	_	_	13	ROOT	_	_
+14	être	être	AUX	_	_	15	aux:pass	_	_
+15	lancée	lancer	VERB	_	_	13	xcomp	_	_
+16	avec	avec	ADP	_	_	18	case	_	_
+17	pour	pour	ADP	_	_	18	case	_	_
+18	objectif	objectif	NOUN	_	_	15	obl:mod	_	_
+19	de	de	ADP	_	_	20	mark	_	_
+20	réaliser	réaliser	VERB	_	_	18	acl	_	_
+21	les	le	DET	_	_	22	det	_	_
+22	travaux	travail	NOUN	_	_	20	obj	_	_
+23	pour	pour	ADP	_	_	24	case	_	_
+24	2020	2020	NUM	_	_	20	obl:mod	_	_
+25	.	.	PUNCT	_	_	13	punct	_	_
+
+
+#35.0012
+
+#Le terrain situé à l’ouest du centre ville de Rennes, d’une superficie totale d'environ 45 000 m² a accueilli de 1884 à 1965 une usine fabriquant du gaz à partir de la distillation de la houille.
+1	Le	le	DET	_	_	2	det	_	_
+2	terrain	terrain	NOUN	_	_	23	nsubj	_	_
+3	situé	situer	VERB	_	_	2	acl	_	_
+4	à	à	ADP	_	_	6	case	_	_
+5	l’	l’	DET	_	_	6	det	_	_
+6	ouest	ouest	NOUN	_	_	3	obl:arg	_	_
+7	du	de	ADP	_	_	8	case	_	_
+8	centre	centre	NOUN	_	_	6	nmod	_	_
+9	ville	vill	ADJ	_	_	8	amod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	Rennes	Rennes	PROPN	_	_	8	nmod	_	_
+12	,	,	PUNCT	_	_	2	punct	_	_
+13	d’	d’	ADP	_	_	15	case	_	_
+14	une	un	DET	_	_	15	det	_	_
+15	superficie	superficie	NOUN	_	_	2	nmod	_	_
+16	totale	total	ADJ	_	_	15	amod	_	_
+17	d'	de	ADP	_	_	21	case	_	_
+18	environ	environ	ADV	_	_	21	advmod	_	_
+19	45	45	DET	_	_	21	det	_	_
+20	000	000	DET	_	_	21	det	_	_
+21	m²	m²	NOUN	_	_	15	nmod	_	_
+22	a	avoir	AUX	_	_	23	aux:tense	_	_
+23	accueilli	accueillir	VERB	_	_	23	ROOT	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	1884	1884	NUM	_	_	23	obl:mod	_	_
+26	à	à	ADP	_	_	27	case	_	_
+27	1965	1965	NUM	_	_	25	nmod	_	_
+28	une	un	DET	_	_	29	det	_	_
+29	usine	usine	NOUN	_	_	23	obj	_	_
+30	fabriquant	fabriquer	VERB	_	_	29	acl	_	_
+31	du	de	DET	_	_	32	det	_	_
+32	gaz	gaz	NOUN	_	_	30	obj	_	_
+33	à	à	ADP	_	_	30	advmod	_	_
+34	partir	partir	VERB	_	_	33	fixed	_	_
+35	de	de	ADP	_	_	37	case	_	_
+36	la	le	DET	_	_	37	det	_	_
+37	distillation	distillation	NOUN	_	_	33	dep	_	_
+38	de	de	ADP	_	_	40	case	_	_
+39	la	le	DET	_	_	40	det	_	_
+40	houille	houille	NOUN	_	_	37	nmod	_	_
+41	.	.	PUNCT	_	_	23	punct	_	_
+
+
+#Actuellement, le site est occupé par le service exploitation du centre d'EDF-GDF Services.
+1	Actuellement	actuellement	ADV	_	_	6	advmod	_	_
+2	,	,	PUNCT	_	_	6	punct	_	_
+3	le	le	DET	_	_	4	det	_	_
+4	site	site	NOUN	_	_	6	nsubj:pass	_	_
+5	est	être	AUX	_	_	6	aux:pass	_	_
+6	occupé	occuper	VERB	_	_	6	ROOT	_	_
+7	par	par	ADP	_	_	9	case	_	_
+8	le	le	DET	_	_	9	det	_	_
+9	service	service	NOUN	_	_	6	obl:agent	_	_
+10	exploitation	exploitation	NOUN	_	_	9	nmod	_	_
+11	du	de	ADP	_	_	12	case	_	_
+12	centre	centre	NOUN	_	_	9	nmod	_	_
+13	d'	de	ADP	_	_	14	case	_	_
+14	EDF	EDF	PROPN	_	_	12	nmod	_	_
+15	-	-	PROPN	_	_	12	nmod	_	_
+16	GDF	GDF	PROPN	_	_	12	nmod	_	_
+17	Services	service	NOUN	_	_	16	nmod	_	_
+18	.	.	PUNCT	_	_	6	punct	_	_
+
+
+#Gaz de France a hiérarchisé ses actions sur les 467 sites d’anciennes usines à gaz qu’il gère répartis sur l’ensemble du territoire.
+1	Gaz	Gaz	PROPN	_	_	5	nsubj	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	France	France	PROPN	_	_	1	nmod	_	_
+4	a	avoir	AUX	_	_	5	aux:tense	_	_
+5	hiérarchisé	hiérarchiser	VERB	_	_	5	ROOT	_	_
+6	ses	son	DET	_	_	7	det	_	_
+7	actions	action	NOUN	_	_	5	obj	_	_
+8	sur	sur	ADP	_	_	11	case	_	_
+9	les	le	DET	_	_	11	det	_	_
+10	467	467	NUM	_	_	11	nummod	_	_
+11	sites	site	NOUN	_	_	5	obl:mod	_	_
+12	d’	d’	ADP	_	_	14	case	_	_
+13	anciennes	ancien	ADJ	_	_	14	amod	_	_
+14	usines	usine	NOUN	_	_	11	nmod	_	_
+15	à	à	ADP	_	_	16	case	_	_
+16	gaz	gaz	NOUN	_	_	14	nmod	_	_
+17	qu’	qu’	PRON	_	_	19	obj	_	_
+18	il	il	PRON	_	_	19	nsubj	_	_
+19	gère	gérer	VERB	_	_	14	acl:relcl	_	_
+20	répartis	répartir	VERB	_	_	11	acl	_	_
+21	sur	sur	ADP	_	_	23	case	_	_
+22	l’	l’	DET	_	_	23	det	_	_
+23	ensemble	ensemble	NOUN	_	_	20	obl:mod	_	_
+24	du	de	ADP	_	_	25	case	_	_
+25	territoire	territoire	NOUN	_	_	23	nmod	_	_
+26	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#La méthodologie a consisté à hiérarchiser les sites en fonction de leur sensibilité vis à vis de l’environnement (usage du site, vulnérabilité des eaux souterraines et superficielles, présence et type de population sur le site,...).
+1	La	le	DET	_	_	2	det	_	_
+2	méthodologie	méthodologie	NOUN	_	_	4	nsubj	_	_
+3	a	avoir	AUX	_	_	4	aux:tense	_	_
+4	consisté	consister	VERB	_	_	4	ROOT	_	_
+5	à	à	ADP	_	_	6	mark	_	_
+6	hiérarchiser	hiérarchiser	VERB	_	_	4	xcomp	_	_
+7	les	le	DET	_	_	8	det	_	_
+8	sites	site	NOUN	_	_	6	obj	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	fonction	fonction	NOUN	_	_	6	obl:mod	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	leur	leur	DET	_	_	13	det	_	_
+13	sensibilité	sensibilité	NOUN	_	_	10	nmod	_	_
+14	vis	vis	NOUN	_	_	21	case	_	_
+15	à	à	ADP	_	_	14	fixed	_	_
+16	vis	vis	NOUN	_	_	14	fixed	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	l’	l’	DET	_	_	19	det	_	_
+19	environnement	environnement	NOUN	_	_	14	dep	_	_
+20	(	(	PUNCT	_	_	14	punct	_	_
+21	usage	usage	NOUN	_	_	6	obl:arg	_	_
+22	du	de	ADP	_	_	23	case	_	_
+23	site	site	NOUN	_	_	21	nmod	_	_
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	vulnérabilité	vulnérabilité	NOUN	_	_	21	conj	_	_
+26	des	de	ADP	_	_	27	case	_	_
+27	eaux	eau	NOUN	_	_	25	nmod	_	_
+28	souterraines	souterrain	ADJ	_	_	27	amod	_	_
+29	et	et	CCONJ	_	_	30	cc	_	_
+30	superficielles	superficiel	ADJ	_	_	28	conj	_	_
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	présence	présence	NOUN	_	_	21	conj	_	_
+33	et	et	CCONJ	_	_	34	cc	_	_
+34	type	type	NOUN	_	_	32	conj	_	_
+35	de	de	ADP	_	_	36	case	_	_
+36	population	population	NOUN	_	_	34	nmod	_	_
+37	sur	sur	ADP	_	_	39	case	_	_
+38	le	le	DET	_	_	39	det	_	_
+39	site	site	NOUN	_	_	36	nmod	_	_
+40	,	,	PUNCT	_	_	21	punct	_	_
+41	...	...	PUNCT	_	_	6	punct	_	_
+42	)	)	PUNCT	_	_	4	punct	_	_
+43	.	.	PUNCT	_	_	43	ROOT	_	_
+
+
+#L’application de cette méthode a abouti à l’établissement de cinq classes de priorité pour lesquelles les engagements de Gaz de France ont fait l’objet d’un protocole d’accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d’usines à gaz entre le Ministère de l’Environnement et Gaz de France signé le 25 avril 1996.
+1	L’	l’	DET	_	_	2	det	_	_
+2	application	application	NOUN	_	_	7	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	cette	ce	DET	_	_	5	det	_	_
+5	méthode	méthode	NOUN	_	_	2	nmod	_	_
+6	a	avoir	AUX	_	_	7	aux:tense	_	_
+7	abouti	aboutir	VERB	_	_	7	ROOT	_	_
+8	à	à	ADP	_	_	10	case	_	_
+9	l’	l’	DET	_	_	10	det	_	_
+10	établissement	établissement	NOUN	_	_	7	obl:arg	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	cinq	cinq	NUM	_	_	13	nummod	_	_
+13	classes	classe	NOUN	_	_	10	nmod	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	priorité	priorité	NOUN	_	_	13	nmod	_	_
+16	pour	pour	ADP	_	_	17	case	_	_
+17	lesquelles	lequel	PRON	_	_	25	obl:mod	_	_
+18	les	le	DET	_	_	19	det	_	_
+19	engagements	engagement	NOUN	_	_	25	nsubj	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	Gaz	Gaz	PROPN	_	_	19	nmod	_	_
+22	de	de	ADP	_	_	23	case	_	_
+23	France	France	PROPN	_	_	21	nmod	_	_
+24	ont	avoir	AUX	_	_	25	aux:tense	_	_
+25	fait	faire	VERB	_	_	13	acl:relcl	_	_
+26	l’	l’	DET	_	_	27	det	_	_
+27	objet	objet	NOUN	_	_	25	obj	_	_
+28	d’	d’	ADP	_	_	30	case	_	_
+29	un	un	DET	_	_	30	det	_	_
+30	protocole	protocole	NOUN	_	_	25	obl:arg	_	_
+31	d’	d’	ADP	_	_	32	case	_	_
+32	accord	accord	NOUN	_	_	30	nmod	_	_
+33	relatif	relatif	ADJ	_	_	30	amod	_	_
+34	à	à	ADP	_	_	36	case	_	_
+35	la	le	DET	_	_	36	det	_	_
+36	maîtrise	maîtrise	NOUN	_	_	33	obl:arg	_	_
+37	et	et	CCONJ	_	_	39	cc	_	_
+38	au	au	ADP	_	_	39	case	_	_
+39	suivi	suivi	NOUN	_	_	36	conj	_	_
+40	de	de	ADP	_	_	42	case	_	_
+41	la	le	DET	_	_	42	det	_	_
+42	réhabilitation	réhabilitation	NOUN	_	_	36	nmod	_	_
+43	des	de	ADP	_	_	45	case	_	_
+44	anciens	ancien	ADJ	_	_	45	amod	_	_
+45	terrains	terrain	NOUN	_	_	42	nmod	_	_
+46	d’	d’	ADP	_	_	47	case	_	_
+47	usines	usine	NOUN	_	_	45	nmod	_	_
+48	à	à	ADP	_	_	49	case	_	_
+49	gaz	gaz	NOUN	_	_	47	nmod	_	_
+50	entre	entre	ADP	_	_	52	case	_	_
+51	le	le	DET	_	_	52	det	_	_
+52	Ministère	ministère	NOUN	_	_	30	nmod	_	_
+53	de	de	ADP	_	_	55	case	_	_
+54	l’	l’	DET	_	_	55	det	_	_
+55	Environnement	environnement	NOUN	_	_	52	nmod	_	_
+56	et	et	CCONJ	_	_	57	cc	_	_
+57	Gaz	Gaz	PROPN	_	_	52	conj	_	_
+58	de	de	ADP	_	_	59	case	_	_
+59	France	France	PROPN	_	_	57	nmod	_	_
+60	signé	signer	VERB	_	_	52	acl	_	_
+61	le	le	DET	_	_	62	det	_	_
+62	25	25	NUM	_	_	60	obl:mod	_	_
+63	avril	avril	NOUN	_	_	62	nmod	_	_
+64	1996	1996	NUM	_	_	63	nmod	_	_
+65	.	.	PUNCT	_	_	7	punct	_	_
+
+
+#Le site de l’ancienne usine à gaz de Rennes Voltaire est en classe 2 du protocole, c'est-à-dire un site dont la sensibilité vis-à-vis de l'homme, des eaux souterraines et superficielles est limitée.
+1	Le	le	DET	_	_	2	det	_	_
+2	site	site	NOUN	_	_	14	nsubj	_	_
+3	de	de	ADP	_	_	6	case	_	_
+4	l’	l’	DET	_	_	6	det	_	_
+5	ancienne	ancien	ADJ	_	_	6	amod	_	_
+6	usine	usine	NOUN	_	_	2	nmod	_	_
+7	à	à	ADP	_	_	8	case	_	_
+8	gaz	gaz	NOUN	_	_	6	nmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	Rennes	Rennes	PROPN	_	_	6	nmod	_	_
+11	Voltaire	Voltaire	PROPN	_	_	10	flat:name	_	_
+12	est	être	AUX	_	_	14	cop	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	classe	classe	NOUN	_	_	14	ROOT	_	_
+15	2	2	NUM	_	_	14	nummod	_	_
+16	du	de	ADP	_	_	17	case	_	_
+17	protocole	protocole	NOUN	_	_	14	nmod	_	_
+18	,	,	PUNCT	_	_	17	punct	_	_
+19	c'	c'	ADV	_	_	26	advmod	_	_
+20	est	est	ADV	_	_	26	advmod	_	_
+21	-	-	ADV	_	_	26	advmod	_	_
+22	à	à	ADV	_	_	26	advmod	_	_
+23	-	-	ADV	_	_	26	advmod	_	_
+24	dire	dire	ADV	_	_	26	advmod	_	_
+25	un	un	DET	_	_	26	det	_	_
+26	site	site	NOUN	_	_	14	conj	_	_
+27	dont	dont	PRON	_	_	27	ROOT	_	_
+28	la	le	DET	_	_	28	ROOT	_	_
+29	sensibilité	sensibilité	NOUN	_	_	41	nsubj	_	_
+30	vis-à-vis	vis-à-vis	ADV	_	_	29	advmod	_	_
+31	de	de	ADP	_	_	33	case	_	_
+32	l'	le	DET	_	_	33	det	_	_
+33	homme	homme	NOUN	_	_	30	dep	_	_
+34	,	,	PUNCT	_	_	36	punct	_	_
+35	des	de	ADP	_	_	36	case	_	_
+36	eaux	eau	NOUN	_	_	33	conj	_	_
+37	souterraines	souterrain	ADJ	_	_	36	amod	_	_
+38	et	et	CCONJ	_	_	39	cc	_	_
+39	superficielles	superficiel	ADJ	_	_	37	conj	_	_
+40	est	être	AUX	_	_	41	cop	_	_
+41	limitée	limité	ADJ	_	_	41	ROOT	_	_
+42	.	.	PUNCT	_	_	41	punct	_	_
+
+
+#En raison d’un projet de réaménagement pour les besoins internes d’EDF-GDF un diagnostic approfondi a été réalisé en 1994-1995.
+1	En	en	ADP	_	_	2	case	_	_
+2	raison	raison	NOUN	_	_	21	obl:mod	_	_
+3	d’	d’	ADP	_	_	5	case	_	_
+4	un	un	DET	_	_	5	det	_	_
+5	projet	projet	NOUN	_	_	2	nmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	réaménagement	réaménagement	NOUN	_	_	5	nmod	_	_
+8	pour	pour	ADP	_	_	10	case	_	_
+9	les	le	DET	_	_	10	det	_	_
+10	besoins	besoin	NOUN	_	_	5	nmod	_	_
+11	internes	interne	ADJ	_	_	10	amod	_	_
+12	d’	d’	ADP	_	_	13	case	_	_
+13	EDF	EDF	PROPN	_	_	10	nmod	_	_
+14	-	-	PROPN	_	_	10	nmod	_	_
+15	GDF	GDF	PROPN	_	_	10	nmod	_	_
+16	un	un	DET	_	_	17	det	_	_
+17	diagnostic	diagnostic	NOUN	_	_	21	nsubj:pass	_	_
+18	approfondi	approfondi	ADJ	_	_	17	amod	_	_
+19	a	avoir	AUX	_	_	21	aux:tense	_	_
+20	été	être	AUX	_	_	21	aux:pass	_	_
+21	réalisé	réaliser	VERB	_	_	21	ROOT	_	_
+22	en	en	ADP	_	_	23	case	_	_
+23	1994	1994	NUM	_	_	21	obl:mod	_	_
+24	-	-	NOUN	_	_	23	nmod	_	_
+25	1995	1995	NOUN	_	_	21	nmod	_	_
+26	.	.	PUNCT	_	_	21	punct	_	_
+
+
+#L’ensemble de l’étude a consisté à effectuer des recherches historiques et documentaires, d'ouvrages enterrés, à évaluer l’impact du site sur les ressources locales en eau (souterraine et superficielle), à caractériser le sol (pour évaluer les risques de contact direct ou liés à d’éventuelles émanations gazeuses) et le sous-sol.
+1	L’	l’	DET	_	_	2	det	_	_
+2	ensemble	ensemble	NOUN	_	_	7	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	l’	l’	DET	_	_	5	det	_	_
+5	étude	étude	NOUN	_	_	2	nmod	_	_
+6	a	avoir	AUX	_	_	7	aux:tense	_	_
+7	consisté	consister	VERB	_	_	7	ROOT	_	_
+8	à	à	ADP	_	_	9	mark	_	_
+9	effectuer	effectuer	VERB	_	_	7	xcomp	_	_
+10	des	un	DET	_	_	11	det	_	_
+11	recherches	recherche	NOUN	_	_	9	obj	_	_
+12	historiques	historique	ADJ	_	_	11	amod	_	_
+13	et	et	CCONJ	_	_	14	cc	_	_
+14	documentaires	documentaire	ADJ	_	_	12	conj	_	_
+15	,	,	PUNCT	_	_	9	punct	_	_
+16	d'	de	ADP	_	_	17	case	_	_
+17	ouvrages	ouvrage	NOUN	_	_	9	obl:mod	_	_
+18	enterrés	enterrer	VERB	_	_	17	acl	_	_
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	à	à	ADP	_	_	21	mark	_	_
+21	évaluer	évaluer	VERB	_	_	7	conj	_	_
+22	l’	l’	DET	_	_	23	det	_	_
+23	impact	impact	NOUN	_	_	21	obj	_	_
+24	du	de	ADP	_	_	25	case	_	_
+25	site	site	NOUN	_	_	23	nmod	_	_
+26	sur	sur	ADP	_	_	28	case	_	_
+27	les	le	DET	_	_	28	det	_	_
+28	ressources	ressource	NOUN	_	_	23	nmod	_	_
+29	locales	local	ADJ	_	_	28	amod	_	_
+30	en	en	ADP	_	_	31	case	_	_
+31	eau	eau	NOUN	_	_	28	nmod	_	_
+32	(	(	PUNCT	_	_	31	punct	_	_
+33	souterraine	souterrain	ADJ	_	_	31	amod	_	_
+34	et	et	CCONJ	_	_	35	cc	_	_
+35	superficielle	superficiel	ADJ	_	_	33	conj	_	_
+36	)	)	PUNCT	_	_	31	punct	_	_
+37	,	,	PUNCT	_	_	39	punct	_	_
+38	à	à	ADP	_	_	39	mark	_	_
+39	caractériser	caractériser	VERB	_	_	7	conj	_	_
+40	le	le	DET	_	_	41	det	_	_
+41	sol	sol	NOUN	_	_	39	obj	_	_
+42	(	(	PUNCT	_	_	39	punct	_	_
+43	pour	pour	ADP	_	_	44	mark	_	_
+44	évaluer	évaluer	VERB	_	_	39	advcl	_	_
+45	les	le	DET	_	_	46	det	_	_
+46	risques	risque	NOUN	_	_	44	obj	_	_
+47	de	de	ADP	_	_	48	case	_	_
+48	contact	contact	NOUN	_	_	46	nmod	_	_
+49	direct	direct	ADJ	_	_	48	amod	_	_
+50	ou	ou	CCONJ	_	_	51	cc	_	_
+51	liés	lier	VERB	_	_	48	conj	_	_
+52	à	à	ADP	_	_	55	case	_	_
+53	d’	d’	DET	_	_	55	det	_	_
+54	éventuelles	éventuel	ADJ	_	_	55	amod	_	_
+55	émanations	émanation	NOUN	_	_	51	obl:arg	_	_
+56	gazeuses	gazeux	ADJ	_	_	55	amod	_	_
+57	)	)	PUNCT	_	_	39	punct	_	_
+58	et	et	CCONJ	_	_	60	cc	_	_
+59	le	le	DET	_	_	60	det	_	_
+60	sous-sol	sous-sol	NOUN	_	_	39	conj	_	_
+61	.	.	PUNCT	_	_	7	punct	_	_
+
+
+#Cet audit a montré qu'il existait quatre structures enterrées en sous-sol, ainsi que des sols souillés.
+1	Cet	ce	DET	_	_	2	det	_	_
+2	audit	audit	NOUN	_	_	4	nsubj	_	_
+3	a	avoir	AUX	_	_	4	aux:tense	_	_
+4	montré	montrer	VERB	_	_	4	ROOT	_	_
+5	qu'	que	SCONJ	_	_	7	mark	_	_
+6	il	il	PRON	_	_	7	expl:subj	_	_
+7	existait	exister	VERB	_	_	4	ccomp	_	_
+8	quatre	quatre	NUM	_	_	9	nummod	_	_
+9	structures	structure	NOUN	_	_	7	obj	_	_
+10	enterrées	enterrer	VERB	_	_	9	acl	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	sous-sol	sous-sol	NOUN	_	_	9	nmod	_	_
+13	,	,	PUNCT	_	_	9	punct	_	_
+14	ainsi	ainsi	ADV	_	_	17	cc	_	_
+15	que	que	SCONJ	_	_	14	fixed	_	_
+16	des	un	DET	_	_	17	det	_	_
+17	sols	sol	NOUN	_	_	9	conj	_	_
+18	souillés	souiller	VERB	_	_	17	acl	_	_
+19	.	.	PUNCT	_	_	4	punct	_	_
+
+
+#Dans le cadre de l' arrêté préfectoral du 24 juillet 1996, les travaux de réhabilitation, conduits de 1996 à 2000, ont consisté en la vidange des cuves, l’étanchéification des zones non étanches et le traitement par venting de l’air des sols souillés par des BTEX (butène, toluène, éthylène, xylène) au droit de la halle.
+1	Dans	dans	ADP	_	_	3	case	_	_
+2	le	le	DET	_	_	3	det	_	_
+3	cadre	cadre	NOUN	_	_	26	obl:mod	_	_
+4	de	de	ADP	_	_	7	case	_	_
+5	l	l	DET	_	_	7	det	_	_
+6	'	'	DET	_	_	7	det	_	_
+7	arrêté	arrêté	NOUN	_	_	3	nmod	_	_
+8	préfectoral	préfectoral	ADJ	_	_	7	amod	_	_
+9	du	de	ADP	_	_	10	case	_	_
+10	24	24	NUM	_	_	7	nmod	_	_
+11	juillet	juillet	NOUN	_	_	10	nmod	_	_
+12	1996	1996	NUM	_	_	11	nmod	_	_
+13	,	,	PUNCT	_	_	26	punct	_	_
+14	les	le	DET	_	_	15	det	_	_
+15	travaux	travail	NOUN	_	_	26	nsubj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	réhabilitation	réhabilitation	NOUN	_	_	15	nmod	_	_
+18	,	,	PUNCT	_	_	15	punct	_	_
+19	conduits	conduire	VERB	_	_	15	acl	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	1996	1996	NUM	_	_	19	obl:mod	_	_
+22	à	à	ADP	_	_	23	case	_	_
+23	2000	2000	PUNCT	_	_	21	nmod	_	_
+24	,	,	PUNCT	_	_	15	punct	_	_
+25	ont	avoir	AUX	_	_	26	aux:tense	_	_
+26	consisté	consister	VERB	_	_	26	ROOT	_	_
+27	en	en	ADP	_	_	29	case	_	_
+28	la	le	DET	_	_	29	det	_	_
+29	vidange	vidange	NOUN	_	_	26	obl:arg	_	_
+30	des	de	ADP	_	_	31	case	_	_
+31	cuves	cuve	NOUN	_	_	29	nmod	_	_
+32	,	,	PUNCT	_	_	34	punct	_	_
+33	l’	l’	DET	_	_	34	det	_	_
+34	étanchéification	étanchéification	NOUN	_	_	29	conj	_	_
+35	des	de	ADP	_	_	36	case	_	_
+36	zones	zone	NOUN	_	_	34	nmod	_	_
+37	non	non	ADV	_	_	38	advmod	_	_
+38	étanches	étanche	ADJ	_	_	36	amod	_	_
+39	et	et	CCONJ	_	_	41	cc	_	_
+40	le	le	DET	_	_	41	det	_	_
+41	traitement	traitement	NOUN	_	_	29	conj	_	_
+42	par	par	ADP	_	_	43	case	_	_
+43	venting	venting	NOUN	_	_	41	nmod	_	_
+44	de	de	ADP	_	_	46	case	_	_
+45	l’	l’	DET	_	_	46	det	_	_
+46	air	air	NOUN	_	_	41	nmod	_	_
+47	des	de	ADP	_	_	48	case	_	_
+48	sols	sol	NOUN	_	_	46	nmod	_	_
+49	souillés	souiller	VERB	_	_	48	acl	_	_
+50	par	par	ADP	_	_	52	case	_	_
+51	des	un	DET	_	_	52	det	_	_
+52	BTEX	bte	NOUN	_	_	49	obl:agent	_	_
+53	(	(	PUNCT	_	_	52	punct	_	_
+54	butène	butène	NOUN	_	_	52	appos	_	_
+55	,	,	PUNCT	_	_	56	punct	_	_
+56	toluène	toluène	NOUN	_	_	54	conj	_	_
+57	,	,	PUNCT	_	_	58	punct	_	_
+58	éthylène	éthylène	NOUN	_	_	54	conj	_	_
+59	,	,	PUNCT	_	_	60	punct	_	_
+60	xylène	xylène	NOUN	_	_	54	conj	_	_
+61	)	)	PUNCT	_	_	52	punct	_	_
+62	au	au	ADP	_	_	63	case	_	_
+63	droit	droit	NOUN	_	_	26	obl:mod	_	_
+64	de	de	ADP	_	_	66	case	_	_
+65	la	le	DET	_	_	66	det	_	_
+66	halle	halle	NOUN	_	_	63	nmod	_	_
+67	.	.	PUNCT	_	_	26	punct	_	_
+
+
+#Au total, 1 672 tonnes de matériaux ont été éliminées lors de la neutralisation des cuves et des travaux de terrassement.
+1	Au	au	ADP	_	_	2	case	_	_
+2	total	total	NOUN	_	_	11	obl:mod	_	_
+3	,	,	PUNCT	_	_	11	punct	_	_
+4	1	1	NUM	_	_	6	nummod	_	_
+5	672	672	DET	_	_	6	det	_	_
+6	tonnes	tonne	NOUN	_	_	11	nsubj:pass	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	matériaux	matériau	NOUN	_	_	6	nmod	_	_
+9	ont	avoir	AUX	_	_	11	aux:tense	_	_
+10	été	être	AUX	_	_	11	aux:pass	_	_
+11	éliminées	éliminer	VERB	_	_	11	ROOT	_	_
+12	lors	lors	ADV	_	_	11	advmod	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	la	le	DET	_	_	15	det	_	_
+15	neutralisation	neutralisation	NOUN	_	_	12	obl:arg	_	_
+16	des	de	ADP	_	_	17	case	_	_
+17	cuves	cuve	NOUN	_	_	15	nmod	_	_
+18	et	et	CCONJ	_	_	20	cc	_	_
+19	des	de	ADP	_	_	20	case	_	_
+20	travaux	travail	NOUN	_	_	17	conj	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	terrassement	terrassement	NOUN	_	_	20	nmod	_	_
+23	.	.	PUNCT	_	_	11	punct	_	_
+
+
+#Pendant ces travaux, les eaux de la nappe ont été soumises à des analyses régulières à partir de plusieurs piézomètres installés sur le site.
+1	Pendant	pendant	ADP	_	_	3	case	_	_
+2	ces	ce	DET	_	_	3	det	_	_
+3	travaux	travail	NOUN	_	_	12	obl:mod	_	_
+4	,	,	PUNCT	_	_	12	punct	_	_
+5	les	le	DET	_	_	6	det	_	_
+6	eaux	eau	NOUN	_	_	12	nsubj:pass	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	le	DET	_	_	9	det	_	_
+9	nappe	nappe	NOUN	_	_	6	nmod	_	_
+10	ont	avoir	AUX	_	_	12	aux:tense	_	_
+11	été	être	AUX	_	_	12	aux:pass	_	_
+12	soumises	soumettre	VERB	_	_	12	ROOT	_	_
+13	à	à	ADP	_	_	15	case	_	_
+14	des	un	DET	_	_	15	det	_	_
+15	analyses	analyse	NOUN	_	_	12	obl:arg	_	_
+16	régulières	régulier	ADJ	_	_	15	amod	_	_
+17	à	à	ADP	_	_	12	advmod	_	_
+18	partir	partir	VERB	_	_	17	fixed	_	_
+19	de	de	ADP	_	_	21	case	_	_
+20	plusieurs	plusieurs	DET	_	_	21	det	_	_
+21	piézomètres	piézomètre	NOUN	_	_	17	dep	_	_
+22	installés	installer	VERB	_	_	21	acl	_	_
+23	sur	sur	ADP	_	_	25	case	_	_
+24	le	le	DET	_	_	25	det	_	_
+25	site	site	NOUN	_	_	22	obl:mod	_	_
+26	.	.	PUNCT	_	_	12	punct	_	_
+
+
+#En 1998, la phase surnageante de la nappe a été pompée; 1.9 tonne d’eau fortement souillée par les hydrocarbures monoaromatiques a été extraite.
+1	En	en	ADP	_	_	2	case	_	_
+2	1998	1998	PUNCT	_	_	12	obl:mod	_	_
+3	,	,	PUNCT	_	_	12	punct	_	_
+4	la	le	DET	_	_	5	det	_	_
+5	phase	phase	NOUN	_	_	12	nsubj:pass	_	_
+6	surnageante	surnageant	ADJ	_	_	5	amod	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	le	DET	_	_	9	det	_	_
+9	nappe	nappe	NOUN	_	_	5	nmod	_	_
+10	a	avoir	AUX	_	_	12	aux:tense	_	_
+11	été	être	AUX	_	_	12	aux:pass	_	_
+12	pompée	pomper	VERB	_	_	12	ROOT	_	_
+13	;	;	PUNCT	_	_	12	punct	_	_
+14	1.9	1.9	NUM	_	_	15	nummod	_	_
+15	tonne	tonne	NOUN	_	_	26	nsubj:pass	_	_
+16	d’	d’	ADP	_	_	17	case	_	_
+17	eau	eau	NOUN	_	_	15	nmod	_	_
+18	fortement	fortement	ADV	_	_	19	advmod	_	_
+19	souillée	souiller	VERB	_	_	17	acl	_	_
+20	par	par	ADP	_	_	22	case	_	_
+21	les	le	DET	_	_	22	det	_	_
+22	hydrocarbures	hydrocarbure	NOUN	_	_	19	obl:agent	_	_
+23	monoaromatiques	monoaromatique	ADJ	_	_	22	amod	_	_
+24	a	avoir	AUX	_	_	26	aux:tense	_	_
+25	été	être	AUX	_	_	26	aux:pass	_	_
+26	extraite	extraire	VERB	_	_	26	ROOT	_	_
+27	.	.	PUNCT	_	_	26	punct	_	_
+
+
+#Dans le cadre des travaux de réhabilitation et conformément à l'arrêté préfectoral précité, la qualité des eaux souterraines a fait l'objet d'un suivi jusque fin 1999 basé sur un réseau de 7 piézomètres.
+1	Dans	dans	ADP	_	_	3	case	_	_
+2	le	le	DET	_	_	3	det	_	_
+3	cadre	cadre	NOUN	_	_	22	obl:mod	_	_
+4	des	de	ADP	_	_	5	case	_	_
+5	travaux	travail	NOUN	_	_	3	nmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	réhabilitation	réhabilitation	NOUN	_	_	5	nmod	_	_
+8	et	et	CCONJ	_	_	9	cc	_	_
+9	conformément	conformément	ADV	_	_	3	conj	_	_
+10	à	à	ADP	_	_	12	case	_	_
+11	l'	le	DET	_	_	12	det	_	_
+12	arrêté	arrêté	NOUN	_	_	9	obl:arg	_	_
+13	préfectoral	préfectoral	ADJ	_	_	12	amod	_	_
+14	précité	préciter	VERB	_	_	12	acl	_	_
+15	,	,	PUNCT	_	_	22	punct	_	_
+16	la	le	DET	_	_	17	det	_	_
+17	qualité	qualité	NOUN	_	_	22	nsubj	_	_
+18	des	de	ADP	_	_	19	case	_	_
+19	eaux	eau	NOUN	_	_	17	nmod	_	_
+20	souterraines	souterrain	ADJ	_	_	19	amod	_	_
+21	a	avoir	AUX	_	_	22	aux:tense	_	_
+22	fait	faire	VERB	_	_	22	ROOT	_	_
+23	l'	le	DET	_	_	24	det	_	_
+24	objet	objet	NOUN	_	_	22	obj	_	_
+25	d'	de	ADP	_	_	27	case	_	_
+26	un	un	DET	_	_	27	det	_	_
+27	suivi	suivi	NOUN	_	_	22	obl:arg	_	_
+28	jusque	jusque	ADP	_	_	29	case	_	_
+29	fin	fin	NOUN	_	_	27	nmod	_	_
+30	1999	1999	NUM	_	_	29	nmod	_	_
+31	basé	baser	VERB	_	_	29	acl	_	_
+32	sur	sur	ADP	_	_	34	case	_	_
+33	un	un	DET	_	_	34	det	_	_
+34	réseau	réseau	NOUN	_	_	31	obl:arg	_	_
+35	de	de	ADP	_	_	37	case	_	_
+36	7	7	NUM	_	_	37	nummod	_	_
+37	piézomètres	piézomètre	NOUN	_	_	34	nmod	_	_
+38	.	.	PUNCT	_	_	22	punct	_	_
+
+
+#Les analyses réalisées ont mis en évidence la présence dans les eaux souterraines de sous-produits issus de l'activité gazière.
+1	Les	le	DET	_	_	2	det	_	_
+2	analyses	analyse	NOUN	_	_	5	nsubj	_	_
+3	réalisées	réaliser	VERB	_	_	2	acl	_	_
+4	ont	avoir	AUX	_	_	5	aux:tense	_	_
+5	mis	mettre	VERB	_	_	5	ROOT	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	évidence	évidence	NOUN	_	_	5	obl:arg	_	_
+8	la	le	DET	_	_	9	det	_	_
+9	présence	présence	NOUN	_	_	5	obj	_	_
+10	dans	dans	ADP	_	_	12	case	_	_
+11	les	le	DET	_	_	12	det	_	_
+12	eaux	eau	NOUN	_	_	9	nmod	_	_
+13	souterraines	souterrain	ADJ	_	_	12	amod	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	sous-produits	sous-produit	NOUN	_	_	9	nmod	_	_
+16	issus	issu	ADJ	_	_	15	amod	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	l'	le	DET	_	_	19	det	_	_
+19	activité	activité	NOUN	_	_	16	obl:arg	_	_
+20	gazière	gazier	ADJ	_	_	19	amod	_	_
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#Les résultats ont alors traduit une diminution progressive des concentrations en HAP (hydrocarbures aromatiques polycycliques) et BTEX, mais ont présenté ponctuellement des teneurs non conformes aux valeurs de référence.
+1	Les	le	DET	_	_	2	det	_	_
+2	résultats	résultat	NOUN	_	_	5	nsubj	_	_
+3	ont	avoir	AUX	_	_	5	aux:tense	_	_
+4	alors	alors	ADV	_	_	5	advmod	_	_
+5	traduit	traduire	VERB	_	_	5	ROOT	_	_
+6	une	un	DET	_	_	7	det	_	_
+7	diminution	diminution	NOUN	_	_	5	obj	_	_
+8	progressive	progressif	ADJ	_	_	7	amod	_	_
+9	des	de	ADP	_	_	10	case	_	_
+10	concentrations	concentration	NOUN	_	_	7	nmod	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	HAP	hap	NOUN	_	_	10	nmod	_	_
+13	(	(	PUNCT	_	_	12	punct	_	_
+14	hydrocarbures	hydrocarbure	NOUN	_	_	12	appos	_	_
+15	aromatiques	aromatique	ADJ	_	_	14	amod	_	_
+16	polycycliques	polycyclique	ADJ	_	_	14	amod	_	_
+17	)	)	PUNCT	_	_	12	punct	_	_
+18	et	et	CCONJ	_	_	19	cc	_	_
+19	BTEX	bte	NOUN	_	_	12	conj	_	_
+20	,	,	PUNCT	_	_	5	punct	_	_
+21	mais	mais	CCONJ	_	_	23	cc	_	_
+22	ont	avoir	AUX	_	_	23	aux:tense	_	_
+23	présenté	présenter	VERB	_	_	5	conj	_	_
+24	ponctuellement	ponctuellement	ADV	_	_	23	advmod	_	_
+25	des	un	DET	_	_	26	det	_	_
+26	teneurs	teneur	NOUN	_	_	23	obj	_	_
+27	non	non	ADV	_	_	28	advmod	_	_
+28	conformes	conforme	ADJ	_	_	26	amod	_	_
+29	aux	à	ADP	_	_	30	case	_	_
+30	valeurs	valeur	NOUN	_	_	28	obl:arg	_	_
+31	de	de	ADP	_	_	32	case	_	_
+32	référence	référence	NOUN	_	_	30	nmod	_	_
+33	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#Afin de pérenniser le suivi, un arrêté préfectoral du 29 juin 2001 prescrit de nouvelles mesures de suivi, avec l'objectif d'apprécier la nécessité de maintenir ou non un programme de suivi (à défaut d'une amélioration avérée et durable de la situation).
+1	Afin	afin	ADV	_	_	14	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	pérenniser	pérenniser	VERB	_	_	1	obl:arg	_	_
+4	le	le	DET	_	_	5	det	_	_
+5	suivi	suivi	NOUN	_	_	3	obj	_	_
+6	,	,	PUNCT	_	_	14	punct	_	_
+7	un	un	DET	_	_	8	det	_	_
+8	arrêté	arrêté	NOUN	_	_	14	nsubj	_	_
+9	préfectoral	préfectoral	ADJ	_	_	8	amod	_	_
+10	du	de	ADP	_	_	11	case	_	_
+11	29	29	NUM	_	_	8	nmod	_	_
+12	juin	juin	NOUN	_	_	11	nmod	_	_
+13	2001	2001	NUM	_	_	12	nmod	_	_
+14	prescrit	prescrire	VERB	_	_	14	ROOT	_	_
+15	de	de	DET	_	_	17	det	_	_
+16	nouvelles	nouveau	ADJ	_	_	17	amod	_	_
+17	mesures	mesure	NOUN	_	_	14	obj	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	suivi	suivi	NOUN	_	_	17	nmod	_	_
+20	,	,	PUNCT	_	_	14	punct	_	_
+21	avec	avec	ADP	_	_	23	case	_	_
+22	l'	le	DET	_	_	23	det	_	_
+23	objectif	objectif	NOUN	_	_	14	obl:mod	_	_
+24	d'	de	ADP	_	_	25	mark	_	_
+25	apprécier	apprécier	VERB	_	_	23	acl	_	_
+26	la	le	DET	_	_	27	det	_	_
+27	nécessité	nécessité	NOUN	_	_	25	obj	_	_
+28	de	de	ADP	_	_	29	mark	_	_
+29	maintenir	maintenir	VERB	_	_	27	acl	_	_
+30	ou	ou	CCONJ	_	_	31	cc	_	_
+31	non	non	ADV	_	_	29	conj	_	_
+32	un	un	DET	_	_	33	det	_	_
+33	programme	programme	NOUN	_	_	29	obj	_	_
+34	de	de	ADP	_	_	35	case	_	_
+35	suivi	suivi	NOUN	_	_	33	nmod	_	_
+36	(	(	PUNCT	_	_	27	punct	_	_
+37	à	à	ADP	_	_	38	case	_	_
+38	défaut	défaut	NOUN	_	_	27	obl:mod	_	_
+39	d'	de	ADP	_	_	41	case	_	_
+40	une	un	DET	_	_	41	det	_	_
+41	amélioration	amélioration	NOUN	_	_	38	nmod	_	_
+42	avérée	avéré	ADJ	_	_	41	amod	_	_
+43	et	et	CCONJ	_	_	44	cc	_	_
+44	durable	durable	ADJ	_	_	42	conj	_	_
+45	de	de	ADP	_	_	47	case	_	_
+46	la	le	DET	_	_	47	det	_	_
+47	situation	situation	NOUN	_	_	41	nmod	_	_
+48	)	)	PUNCT	_	_	14	punct	_	_
+49	.	.	PUNCT	_	_	14	punct	_	_
+
+
+#En mars 2005, une synthèse des résultats du programme de surveillance de la qualité des eaux souterraines entre 1996 et 2003 préconise la mise en place d'un suivi des eaux souterraines, portant sur les paramètres HAP, BTEX et ammonium.
+1	En	en	ADP	_	_	2	case	_	_
+2	mars	mars	NOUN	_	_	23	obl:mod	_	_
+3	2005	2005	PUNCT	_	_	2	nmod	_	_
+4	,	,	PUNCT	_	_	23	punct	_	_
+5	une	un	DET	_	_	6	det	_	_
+6	synthèse	synthèse	NOUN	_	_	23	nsubj	_	_
+7	des	de	ADP	_	_	8	case	_	_
+8	résultats	résultat	NOUN	_	_	6	nmod	_	_
+9	du	de	ADP	_	_	10	case	_	_
+10	programme	programme	NOUN	_	_	8	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	surveillance	surveillance	NOUN	_	_	10	nmod	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	la	le	DET	_	_	15	det	_	_
+15	qualité	qualité	NOUN	_	_	12	nmod	_	_
+16	des	de	ADP	_	_	17	case	_	_
+17	eaux	eau	NOUN	_	_	15	nmod	_	_
+18	souterraines	souterrain	ADJ	_	_	17	amod	_	_
+19	entre	entre	ADP	_	_	20	case	_	_
+20	1996	1996	NUM	_	_	6	nmod	_	_
+21	et	et	CCONJ	_	_	22	cc	_	_
+22	2003	2003	NUM	_	_	20	conj	_	_
+23	préconise	préconise	VERB	_	_	23	ROOT	_	_
+24	la	le	DET	_	_	25	det	_	_
+25	mise	mise	NOUN	_	_	23	obj	_	_
+26	en	en	ADP	_	_	27	case	_	_
+27	place	place	NOUN	_	_	25	nmod	_	_
+28	d'	de	ADP	_	_	30	case	_	_
+29	un	un	DET	_	_	30	det	_	_
+30	suivi	suivi	NOUN	_	_	25	nmod	_	_
+31	des	de	ADP	_	_	32	case	_	_
+32	eaux	eau	NOUN	_	_	30	nmod	_	_
+33	souterraines	souterrain	ADJ	_	_	32	amod	_	_
+34	,	,	PUNCT	_	_	30	punct	_	_
+35	portant	porter	VERB	_	_	30	acl	_	_
+36	sur	sur	ADP	_	_	38	case	_	_
+37	les	le	DET	_	_	38	det	_	_
+38	paramètres	paramètre	NOUN	_	_	35	obl:arg	_	_
+39	HAP	hap	NOUN	_	_	38	nmod	_	_
+40	,	,	PUNCT	_	_	41	punct	_	_
+41	BTEX	bte	NOUN	_	_	39	conj	_	_
+42	et	et	CCONJ	_	_	43	cc	_	_
+43	ammonium	ammonium	NOUN	_	_	39	conj	_	_
+44	.	.	PUNCT	_	_	23	punct	_	_
+
+
+#Suite au rapport d'octobre 2004 relatif à la démarche de réhabilitation de la partie nord ouest du site, un arrêté préfectoral complémentaire du 24 janvier 2006 définit les objectifs et précautions à prendre pendant les travaux de réhabilitation, les opérations de surveillance de la nappe (analyses trimestrielles) et en cas de nécessité une étude détaillée des risques (si mise en évidence de substances non visées dans l'étude semi-générique de GDF).
+1	Suite	suite	NOUN	_	_	3	case	_	_
+2	au	au	DET	_	_	3	det	_	_
+3	rapport	rapport	NOUN	_	_	7	obl:mod	_	_
+4	d'	de	ADP	_	_	5	case	_	_
+5	octobre	octobre	NOUN	_	_	3	nmod	_	_
+6	2004	2004	NUM	_	_	5	nmod	_	_
+7	relatif	relatif	ADJ	_	_	7	ROOT	_	_
+8	à	à	ADP	_	_	10	case	_	_
+9	la	le	DET	_	_	10	det	_	_
+10	démarche	démarche	NOUN	_	_	7	obl:arg	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	réhabilitation	réhabilitation	NOUN	_	_	10	nmod	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	la	le	DET	_	_	15	det	_	_
+15	partie	partie	NOUN	_	_	12	nmod	_	_
+16	nord	nord	NOUN	_	_	15	nmod	_	_
+17	ouest	ouest	ADJ	_	_	16	amod	_	_
+18	du	de	ADP	_	_	19	case	_	_
+19	site	site	NOUN	_	_	15	nmod	_	_
+20	,	,	PUNCT	_	_	29	punct	_	_
+21	un	un	DET	_	_	22	det	_	_
+22	arrêté	arrêté	NOUN	_	_	29	nsubj	_	_
+23	préfectoral	préfectoral	ADJ	_	_	22	amod	_	_
+24	complémentaire	complémentaire	ADJ	_	_	22	amod	_	_
+25	du	de	ADP	_	_	26	case	_	_
+26	24	24	NUM	_	_	22	nmod	_	_
+27	janvier	janvier	NOUN	_	_	26	nmod	_	_
+28	2006	2006	NUM	_	_	27	nmod	_	_
+29	définit	définir	VERB	_	_	29	ROOT	_	_
+30	les	le	DET	_	_	31	det	_	_
+31	objectifs	objectif	NOUN	_	_	29	obj	_	_
+32	et	et	CCONJ	_	_	33	cc	_	_
+33	précautions	précaution	NOUN	_	_	31	conj	_	_
+34	à	à	ADP	_	_	35	mark	_	_
+35	prendre	prendre	VERB	_	_	31	acl	_	_
+36	pendant	pendant	ADP	_	_	38	case	_	_
+37	les	le	DET	_	_	38	det	_	_
+38	travaux	travail	NOUN	_	_	35	obl:mod	_	_
+39	de	de	ADP	_	_	40	case	_	_
+40	réhabilitation	réhabilitation	NOUN	_	_	38	nmod	_	_
+41	,	,	PUNCT	_	_	43	punct	_	_
+42	les	le	DET	_	_	43	det	_	_
+43	opérations	opération	NOUN	_	_	38	conj	_	_
+44	de	de	ADP	_	_	45	case	_	_
+45	surveillance	surveillance	NOUN	_	_	43	nmod	_	_
+46	de	de	ADP	_	_	48	case	_	_
+47	la	le	DET	_	_	48	det	_	_
+48	nappe	nappe	NOUN	_	_	45	nmod	_	_
+49	(	(	PUNCT	_	_	38	punct	_	_
+50	analyses	analyse	NOUN	_	_	38	appos	_	_
+51	trimestrielles	trimestriel	ADJ	_	_	50	amod	_	_
+52	)	)	PUNCT	_	_	38	punct	_	_
+53	et	et	CCONJ	_	_	55	cc	_	_
+54	en	en	ADP	_	_	55	case	_	_
+55	cas	cas	NOUN	_	_	38	conj	_	_
+56	de	de	ADP	_	_	57	case	_	_
+57	nécessité	nécessité	NOUN	_	_	55	nmod	_	_
+58	une	un	DET	_	_	59	det	_	_
+59	étude	étude	NOUN	_	_	55	obj	_	_
+60	détaillée	détaillé	ADJ	_	_	59	amod	_	_
+61	des	de	ADP	_	_	62	case	_	_
+62	risques	risque	NOUN	_	_	59	nmod	_	_
+63	(	(	PUNCT	_	_	59	punct	_	_
+64	si	si	SCONJ	_	_	65	mark	_	_
+65	mise	mise	NOUN	_	_	59	nmod	_	_
+66	en	en	ADP	_	_	67	case	_	_
+67	évidence	évidence	NOUN	_	_	65	nmod	_	_
+68	de	de	ADP	_	_	69	case	_	_
+69	substances	substance	NOUN	_	_	65	nmod	_	_
+70	non	non	ADV	_	_	71	advmod	_	_
+71	visées	viser	VERB	_	_	69	acl	_	_
+72	dans	dans	ADP	_	_	74	case	_	_
+73	l'	le	DET	_	_	74	det	_	_
+74	étude	étude	NOUN	_	_	71	obl:mod	_	_
+75	semi-générique	semi-génériqu	ADJ	_	_	74	amod	_	_
+76	de	de	ADP	_	_	77	case	_	_
+77	GDF	gdf	NOUN	_	_	74	nmod	_	_
+78	)	)	PUNCT	_	_	59	punct	_	_
+79	.	.	PUNCT	_	_	29	punct	_	_
+
+
+#Des campagnes de prélèvements complémentaires ont été réalisées en 2005 et 2006 puis en 2008, 2009.
+1	Des	un	DET	_	_	2	det	_	_
+2	campagnes	campagne	NOUN	_	_	8	nsubj:pass	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	prélèvements	prélèvement	NOUN	_	_	2	nmod	_	_
+5	complémentaires	complémentaire	ADJ	_	_	4	amod	_	_
+6	ont	avoir	AUX	_	_	8	aux:tense	_	_
+7	été	être	AUX	_	_	8	aux:pass	_	_
+8	réalisées	réaliser	VERB	_	_	8	ROOT	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	2005	2005	NUM	_	_	8	obl:mod	_	_
+11	et	et	CCONJ	_	_	12	cc	_	_
+12	2006	2006	NUM	_	_	10	conj	_	_
+13	puis	puis	CCONJ	_	_	15	cc	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	2008	2008	NUM	_	_	8	conj	_	_
+16	,	,	NUM	_	_	8	punct	_	_
+17	2009	2009	NUM	_	_	17	ROOT	_	_
+18	.	.	NUM	_	_	18	ROOT	_	_
+
+
+#La synthèse de ces résultats montrent :
+1	La	le	DET	_	_	2	det	_	_
+2	synthèse	synthèse	NOUN	_	_	6	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	ces	ce	DET	_	_	5	det	_	_
+5	résultats	résultat	NOUN	_	_	2	nmod	_	_
+6	montrent	montrer	VERB	_	_	6	ROOT	_	_
+7	:	:	PUNCT	_	_	6	punct	_	_
+
+
+#- globalement des concentrations inférieures aux limites de quantification pour les HAP en aval du site,
+1	-	-	PUNCT	_	_	4	punct	_	_
+2	globalement	globalement	ADV	_	_	4	advmod	_	_
+3	des	un	DET	_	_	4	det	_	_
+4	concentrations	concentration	NOUN	_	_	4	ROOT	_	_
+5	inférieures	inférieur	ADJ	_	_	4	amod	_	_
+6	aux	à	ADP	_	_	7	case	_	_
+7	limites	limite	NOUN	_	_	5	obl:arg	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	quantification	quantification	NOUN	_	_	7	nmod	_	_
+10	pour	pour	ADP	_	_	12	case	_	_
+11	les	le	DET	_	_	12	det	_	_
+12	HAP	hap	NOUN	_	_	4	nmod	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	aval	aval	NOUN	_	_	12	nmod	_	_
+15	du	de	ADP	_	_	16	case	_	_
+16	site	site	NOUN	_	_	14	nmod	_	_
+17	,	,	PUNCT	_	_	4	punct	_	_
+
+
+#- des concentrations inférieures ou proches des limites de quantification pour les BTEX en aval du site,
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	des	un	DET	_	_	3	det	_	_
+3	concentrations	concentration	NOUN	_	_	3	ROOT	_	_
+4	inférieures	inférieur	ADJ	_	_	3	amod	_	_
+5	ou	ou	CCONJ	_	_	6	cc	_	_
+6	proches	proche	ADJ	_	_	4	conj	_	_
+7	des	de	ADP	_	_	8	case	_	_
+8	limites	limite	NOUN	_	_	4	obl:arg	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	quantification	quantification	NOUN	_	_	8	nmod	_	_
+11	pour	pour	ADP	_	_	13	case	_	_
+12	les	le	DET	_	_	13	det	_	_
+13	BTEX	bte	NOUN	_	_	3	nmod	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	aval	aval	NOUN	_	_	13	nmod	_	_
+16	du	de	ADP	_	_	17	case	_	_
+17	site	site	NOUN	_	_	15	nmod	_	_
+18	,	,	PUNCT	_	_	3	punct	_	_
+
+
+#- des concentrations en général inférieures aux limites de quantification pour les cyanures libres,
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	des	un	DET	_	_	3	det	_	_
+3	concentrations	concentration	NOUN	_	_	3	ROOT	_	_
+4	en	en	ADP	_	_	6	advmod	_	_
+5	général	général	ADJ	_	_	4	fixed	_	_
+6	inférieures	inférieur	ADJ	_	_	3	amod	_	_
+7	aux	à	ADP	_	_	8	case	_	_
+8	limites	limite	NOUN	_	_	6	obl:arg	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	quantification	quantification	NOUN	_	_	8	nmod	_	_
+11	pour	pour	ADP	_	_	13	case	_	_
+12	les	le	DET	_	_	13	det	_	_
+13	cyanures	cyanure	NOUN	_	_	8	nmod	_	_
+14	libres	libre	ADJ	_	_	13	amod	_	_
+15	,	,	PUNCT	_	_	3	punct	_	_
+
+
+#- des concentrations inférieures des limites de quantification pour l'ammonium en aval du site,
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	des	un	DET	_	_	3	det	_	_
+3	concentrations	concentration	NOUN	_	_	3	ROOT	_	_
+4	inférieures	inférieur	ADJ	_	_	3	amod	_	_
+5	des	de	ADP	_	_	6	case	_	_
+6	limites	limite	NOUN	_	_	3	nmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	quantification	quantification	NOUN	_	_	6	nmod	_	_
+9	pour	pour	ADP	_	_	11	case	_	_
+10	l'	le	DET	_	_	11	det	_	_
+11	ammonium	ammonium	NOUN	_	_	6	nmod	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	aval	aval	NOUN	_	_	11	nmod	_	_
+14	du	de	ADP	_	_	15	case	_	_
+15	site	site	NOUN	_	_	13	nmod	_	_
+16	,	,	PUNCT	_	_	3	punct	_	_
+
+
+#- des concentrations en général inférieures aux limites de quantification pour l'indice phénol en aval du site,
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	des	un	DET	_	_	3	det	_	_
+3	concentrations	concentration	NOUN	_	_	3	ROOT	_	_
+4	en	en	ADP	_	_	6	advmod	_	_
+5	général	général	ADJ	_	_	4	fixed	_	_
+6	inférieures	inférieur	ADJ	_	_	3	amod	_	_
+7	aux	à	ADP	_	_	8	case	_	_
+8	limites	limite	NOUN	_	_	6	obl:arg	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	quantification	quantification	NOUN	_	_	8	nmod	_	_
+11	pour	pour	ADP	_	_	13	case	_	_
+12	l'	le	DET	_	_	13	det	_	_
+13	indice	indice	NOUN	_	_	3	nmod	_	_
+14	phénol	phénol	NOUN	_	_	13	nmod	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	aval	aval	NOUN	_	_	13	nmod	_	_
+17	du	de	ADP	_	_	18	case	_	_
+18	site	site	NOUN	_	_	16	nmod	_	_
+19	,	,	PUNCT	_	_	3	punct	_	_
+
+
+#- que la Vilaine alimente la nappe alluviale.
+1	-	-	PUNCT	_	_	5	punct	_	_
+2	que	que	SCONJ	_	_	5	mark	_	_
+3	la	le	DET	_	_	4	det	_	_
+4	Vilaine	Vilaine	PROPN	_	_	5	nsubj	_	_
+5	alimente	alimente	VERB	_	_	5	ROOT	_	_
+6	la	le	DET	_	_	7	det	_	_
+7	nappe	nappe	NOUN	_	_	5	obj	_	_
+8	alluviale	alluvial	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#A l'issue de ce bilan, il est recommandé de maintenir la surveillance de la qualité des eaux souterraines à fréquence semestrielle.
+1	A	à	ADP	_	_	3	case	_	_
+2	l'	le	DET	_	_	3	det	_	_
+3	issue	issue	NOUN	_	_	10	obl:mod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	ce	ce	DET	_	_	6	det	_	_
+6	bilan	bilan	NOUN	_	_	3	nmod	_	_
+7	,	,	PUNCT	_	_	10	punct	_	_
+8	il	il	PRON	_	_	10	nsubj:pass	_	_
+9	est	être	AUX	_	_	10	aux:pass	_	_
+10	recommandé	recommander	VERB	_	_	10	ROOT	_	_
+11	de	de	ADP	_	_	12	mark	_	_
+12	maintenir	maintenir	VERB	_	_	10	xcomp	_	_
+13	la	le	DET	_	_	14	det	_	_
+14	surveillance	surveillance	NOUN	_	_	12	obj	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	la	le	DET	_	_	17	det	_	_
+17	qualité	qualité	NOUN	_	_	14	nmod	_	_
+18	des	de	ADP	_	_	19	case	_	_
+19	eaux	eau	NOUN	_	_	17	nmod	_	_
+20	souterraines	souterrain	ADJ	_	_	19	amod	_	_
+21	à	à	ADP	_	_	22	case	_	_
+22	fréquence	fréquence	NOUN	_	_	14	nmod	_	_
+23	semestrielle	semestriel	ADJ	_	_	22	amod	_	_
+24	.	.	PUNCT	_	_	10	punct	_	_
+
+
+#Le bilan des campagnes d'avril 1996 à septembre 2017 fait ressortir les points suivants :
+1	Le	le	DET	_	_	2	det	_	_
+2	bilan	bilan	NOUN	_	_	12	dep	_	_
+3	des	de	ADP	_	_	4	case	_	_
+4	campagnes	campagne	NOUN	_	_	2	nmod	_	_
+5	d'	de	ADP	_	_	6	case	_	_
+6	avril	avril	NOUN	_	_	4	nmod	_	_
+7	1996	1996	NUM	_	_	6	nmod	_	_
+8	à	à	ADP	_	_	9	case	_	_
+9	septembre	septembre	NOUN	_	_	6	nmod	_	_
+10	2017	2017	NUM	_	_	9	nmod	_	_
+11	fait	faire	AUX	_	_	12	dep	_	_
+12	ressortir	ressortir	VERB	_	_	12	ROOT	_	_
+13	les	le	DET	_	_	14	det	_	_
+14	points	point	NOUN	_	_	12	obj	_	_
+15	suivants	suivant	ADJ	_	_	14	amod	_	_
+16	:	:	PUNCT	_	_	12	punct	_	_
+
+
+#- le piézomètre au centre (Pz 12) est le plus impactés par une majorité de composés :
+1	-	-	PUNCT	_	_	13	punct	_	_
+2	le	le	DET	_	_	3	det	_	_
+3	piézomètre	piézomètre	NOUN	_	_	13	nsubj:pass	_	_
+4	au	au	ADP	_	_	5	case	_	_
+5	centre	centre	NOUN	_	_	3	nmod	_	_
+6	(	(	PUNCT	_	_	3	punct	_	_
+7	Pz	pz	NOUN	_	_	3	appos	_	_
+8	12	12	NUM	_	_	7	nummod	_	_
+9	)	)	PUNCT	_	_	3	punct	_	_
+10	est	être	AUX	_	_	13	aux:pass	_	_
+11	le	le	DET	_	_	13	det	_	_
+12	plus	plus	ADV	_	_	13	advmod	_	_
+13	impactés	impacter	VERB	_	_	13	ROOT	_	_
+14	par	par	ADP	_	_	16	case	_	_
+15	une	un	DET	_	_	16	det	_	_
+16	majorité	majorité	NOUN	_	_	13	obl:agent	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	composés	composé	NOUN	_	_	16	nmod	_	_
+19	:	:	PUNCT	_	_	13	punct	_	_
+
+
+#* teneurs élevées en benzène (tendance à la hausse), en toluène et en xylène totaux,
+1	*	*	PUNCT	_	_	2	punct	_	_
+2	teneurs	teneur	NOUN	_	_	2	ROOT	_	_
+3	élevées	élevé	ADJ	_	_	2	amod	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	benzène	benzène	NOUN	_	_	2	nmod	_	_
+6	(	(	PUNCT	_	_	5	punct	_	_
+7	tendance	tendance	NOUN	_	_	5	appos	_	_
+8	à	à	ADP	_	_	10	case	_	_
+9	la	le	DET	_	_	10	det	_	_
+10	hausse	hausse	NOUN	_	_	7	nmod	_	_
+11	)	)	PUNCT	_	_	5	punct	_	_
+12	,	,	PUNCT	_	_	14	punct	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	toluène	toluène	NOUN	_	_	5	conj	_	_
+15	et	et	CCONJ	_	_	17	cc	_	_
+16	en	en	ADP	_	_	17	case	_	_
+17	xylène	xylène	NOUN	_	_	14	conj	_	_
+18	totaux	total	ADJ	_	_	17	amod	_	_
+19	,	,	PUNCT	_	_	5	punct	_	_
+
+
+#* teneur en aluminium supérieure à la valeur de référence, tendance initiale à la hausse puis à la baisse depuis mai 2009,
+1	*	*	PUNCT	_	_	2	punct	_	_
+2	teneur	teneur	NOUN	_	_	2	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	aluminium	aluminium	NOUN	_	_	2	nmod	_	_
+5	supérieure	supérieur	ADJ	_	_	2	amod	_	_
+6	à	à	ADP	_	_	8	case	_	_
+7	la	le	DET	_	_	8	det	_	_
+8	valeur	valeur	NOUN	_	_	5	obl:arg	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	référence	référence	NOUN	_	_	8	nmod	_	_
+11	,	,	PUNCT	_	_	2	punct	_	_
+12	tendance	tendance	NOUN	_	_	2	nmod	_	_
+13	initiale	initial	ADJ	_	_	12	amod	_	_
+14	à	à	ADP	_	_	16	case	_	_
+15	la	le	DET	_	_	16	det	_	_
+16	hausse	hausse	NOUN	_	_	12	nmod	_	_
+17	puis	puis	CCONJ	_	_	20	cc	_	_
+18	à	à	ADP	_	_	20	case	_	_
+19	la	le	DET	_	_	20	det	_	_
+20	baisse	baisse	NOUN	_	_	16	conj	_	_
+21	depuis	depuis	ADP	_	_	22	case	_	_
+22	mai	mai	NOUN	_	_	12	nmod	_	_
+23	2009	2009	PUNCT	_	_	22	nmod	_	_
+24	,	,	PUNCT	_	_	12	nmod	_	_
+
+
+#* teneur en indice phénol supérieure à la valeur de référence et tendance à la hausse,
+1	*	*	PUNCT	_	_	2	punct	_	_
+2	teneur	teneur	NOUN	_	_	2	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	indice	indice	NOUN	_	_	2	nmod	_	_
+5	phénol	phénol	NOUN	_	_	4	nmod	_	_
+6	supérieure	supérieur	ADJ	_	_	2	amod	_	_
+7	à	à	ADP	_	_	9	case	_	_
+8	la	le	DET	_	_	9	det	_	_
+9	valeur	valeur	NOUN	_	_	6	obl:arg	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	référence	référence	NOUN	_	_	9	nmod	_	_
+12	et	et	CCONJ	_	_	13	cc	_	_
+13	tendance	tendance	NOUN	_	_	2	conj	_	_
+14	à	à	ADP	_	_	16	case	_	_
+15	la	le	DET	_	_	16	det	_	_
+16	hausse	hausse	NOUN	_	_	13	nmod	_	_
+17	,	,	PUNCT	_	_	2	punct	_	_
+
+
+#* présence des HAP avec dépassement ponctuel de la valeur de référence + forte odeur en HAP.
+1	*	*	PUNCT	_	_	2	punct	_	_
+2	présence	présence	NOUN	_	_	2	ROOT	_	_
+3	des	de	ADP	_	_	4	case	_	_
+4	HAP	hap	NOUN	_	_	2	nmod	_	_
+5	avec	avec	ADP	_	_	6	case	_	_
+6	dépassement	dépassement	NOUN	_	_	2	nmod	_	_
+7	ponctuel	ponctuel	ADJ	_	_	6	amod	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	la	le	DET	_	_	10	det	_	_
+10	valeur	valeur	NOUN	_	_	6	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	référence	référence	NOUN	_	_	10	nmod	_	_
+13	+	plus	ADP	_	_	15	case	_	_
+14	forte	fort	ADJ	_	_	15	amod	_	_
+15	odeur	odeur	NOUN	_	_	6	nmod	_	_
+16	en	en	ADP	_	_	17	case	_	_
+17	HAP	hap	NOUN	_	_	6	nmod	_	_
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+
+#- le piézomètre Pz9 en aval est impacté par plusieurs composés :
+1	-	-	PUNCT	_	_	8	punct	_	_
+2	le	le	DET	_	_	3	det	_	_
+3	piézomètre	piézomètre	NOUN	_	_	8	nsubj:pass	_	_
+4	Pz9	pz9	NOUN	_	_	3	nmod	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	aval	aval	NOUN	_	_	3	nmod	_	_
+7	est	être	AUX	_	_	8	aux:pass	_	_
+8	impacté	impacter	VERB	_	_	8	ROOT	_	_
+9	par	par	ADP	_	_	11	case	_	_
+10	plusieurs	plusieurs	DET	_	_	11	det	_	_
+11	composés	composé	NOUN	_	_	8	obl:agent	_	_
+12	:	:	PUNCT	_	_	8	punct	_	_
+
+
+#* présence de goudron,
+1	*	*	PUNCT	_	_	2	punct	_	_
+2	présence	présence	NOUN	_	_	2	ROOT	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	goudron	goudron	NOUN	_	_	2	nmod	_	_
+5	,	,	PUNCT	_	_	2	punct	_	_
+
+
+#* fortes teneurs en HAP et dépassement de la valeur de référence depuis octobre 2010,
+1	*	*	PUNCT	_	_	3	punct	_	_
+2	fortes	fort	ADJ	_	_	3	amod	_	_
+3	teneurs	teneur	NOUN	_	_	3	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	HAP	hap	NOUN	_	_	3	nmod	_	_
+6	et	et	CCONJ	_	_	7	cc	_	_
+7	dépassement	dépassement	NOUN	_	_	3	conj	_	_
+8	de	de	ADP	_	_	10	case	_	_
+9	la	le	DET	_	_	10	det	_	_
+10	valeur	valeur	NOUN	_	_	7	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	référence	référence	NOUN	_	_	10	nmod	_	_
+13	depuis	depuis	ADP	_	_	14	case	_	_
+14	octobre	octobre	NOUN	_	_	7	nmod	_	_
+15	2010	2010	PUNCT	_	_	14	nmod	_	_
+16	,	,	PUNCT	_	_	3	punct	_	_
+
+
+#* teneurs significatives en benzène,
+1	*	*	PUNCT	_	_	2	punct	_	_
+2	teneurs	teneur	NOUN	_	_	2	ROOT	_	_
+3	significatives	significatif	ADJ	_	_	2	amod	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	benzène	benzène	NOUN	_	_	2	nmod	_	_
+6	,	,	PUNCT	_	_	2	punct	_	_
+
+
+#* teneurs en ammonium et phénol dépassant régulièrement les valeurs de référence.
+1	*	*	PUNCT	_	_	2	punct	_	_
+2	teneurs	teneur	NOUN	_	_	2	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	ammonium	ammonium	NOUN	_	_	2	nmod	_	_
+5	et	et	CCONJ	_	_	6	cc	_	_
+6	phénol	phénol	NOUN	_	_	4	conj	_	_
+7	dépassant	dépasser	VERB	_	_	2	acl	_	_
+8	régulièrement	régulièrement	ADV	_	_	7	advmod	_	_
+9	les	le	DET	_	_	10	det	_	_
+10	valeurs	valeur	NOUN	_	_	7	obj	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	référence	référence	NOUN	_	_	10	nmod	_	_
+13	.	.	PUNCT	_	_	2	punct	_	_
+
+
+#- les 3 piézomètres en limite de site présentent des traces ponctuelles en composés :
+1	-	-	PUNCT	_	_	9	punct	_	_
+2	les	le	DET	_	_	4	det	_	_
+3	3	3	NUM	_	_	4	nummod	_	_
+4	piézomètres	piézomètre	NOUN	_	_	9	nsubj	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	limite	limite	NOUN	_	_	4	nmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	site	site	NOUN	_	_	6	nmod	_	_
+9	présentent	présenter	VERB	_	_	9	ROOT	_	_
+10	des	un	DET	_	_	11	det	_	_
+11	traces	trace	NOUN	_	_	9	obj	_	_
+12	ponctuelles	ponctuel	ADJ	_	_	11	amod	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	composés	composé	NOUN	_	_	11	nmod	_	_
+15	:	:	PUNCT	_	_	9	punct	_	_
+
+
+#* teneurs en aluminium supérieures à la valeur de référence pour Pz15,
+1	*	*	PUNCT	_	_	2	punct	_	_
+2	teneurs	teneur	NOUN	_	_	2	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	aluminium	aluminium	NOUN	_	_	2	nmod	_	_
+5	supérieures	supérieur	ADJ	_	_	2	amod	_	_
+6	à	à	ADP	_	_	8	case	_	_
+7	la	le	DET	_	_	8	det	_	_
+8	valeur	valeur	NOUN	_	_	5	obl:arg	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	référence	référence	NOUN	_	_	8	nmod	_	_
+11	pour	pour	ADP	_	_	12	case	_	_
+12	Pz15	Pz15	PROPN	_	_	8	nmod	_	_
+13	,	,	PUNCT	_	_	2	punct	_	_
+
+
+#* faible teneurs (stables) en cyanures totaux (un pic en 2013),
+1	*	*	PUNCT	_	_	3	punct	_	_
+2	faible	faible	ADJ	_	_	3	amod	_	_
+3	teneurs	teneur	NOUN	_	_	3	ROOT	_	_
+4	(	(	PUNCT	_	_	3	punct	_	_
+5	stables	stable	ADJ	_	_	3	amod	_	_
+6	)	)	PUNCT	_	_	3	punct	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	cyanures	cyanure	NOUN	_	_	3	nmod	_	_
+9	totaux	total	ADJ	_	_	8	amod	_	_
+10	(	(	PUNCT	_	_	8	punct	_	_
+11	un	un	DET	_	_	12	det	_	_
+12	pic	pic	NOUN	_	_	8	appos	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	2013	2013	PUNCT	_	_	12	nmod	_	_
+15	)	)	PUNCT	_	_	8	punct	_	_
+16	,	,	PUNCT	_	_	3	punct	_	_
+
+
+#* traces en cyanures libres depuis octobre 2008, avec une légère augmentation en amont (un pic en 2012),
+1	*	*	PUNCT	_	_	2	punct	_	_
+2	traces	trace	NOUN	_	_	2	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	cyanures	cyanure	NOUN	_	_	2	nmod	_	_
+5	libres	libre	ADJ	_	_	4	amod	_	_
+6	depuis	depuis	ADP	_	_	7	case	_	_
+7	octobre	octobre	NOUN	_	_	2	nmod	_	_
+8	2008	2008	NUM	_	_	7	nmod	_	_
+9	,	,	NUM	_	_	2	punct	_	_
+10	avec	avec	ADP	_	_	13	case	_	_
+11	une	un	DET	_	_	13	det	_	_
+12	légère	léger	ADJ	_	_	13	amod	_	_
+13	augmentation	augmentation	NOUN	_	_	2	nmod	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	amont	amont	NOUN	_	_	13	nmod	_	_
+16	(	(	PUNCT	_	_	13	punct	_	_
+17	un	un	DET	_	_	18	det	_	_
+18	pic	pic	NOUN	_	_	13	appos	_	_
+19	en	en	ADP	_	_	20	case	_	_
+20	2012	2012	PUNCT	_	_	18	nmod	_	_
+21	)	)	PUNCT	_	_	13	punct	_	_
+22	,	,	PUNCT	_	_	2	punct	_	_
+
+
+#* teneurs en HAP inférieure à la limite de quantification depuis 2010,
+1	*	*	PUNCT	_	_	2	punct	_	_
+2	teneurs	teneur	NOUN	_	_	2	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	HAP	hap	NOUN	_	_	2	nmod	_	_
+5	inférieure	inférieur	ADJ	_	_	2	amod	_	_
+6	à	à	ADP	_	_	8	case	_	_
+7	la	le	DET	_	_	8	det	_	_
+8	limite	limite	NOUN	_	_	5	obl:arg	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	quantification	quantification	NOUN	_	_	8	nmod	_	_
+11	depuis	depuis	ADP	_	_	12	case	_	_
+12	2010	2010	PUNCT	_	_	2	nmod	_	_
+13	,	,	PUNCT	_	_	2	punct	_	_
+
+
+#* teneurs non significatives en BTEX,
+1	*	*	PUNCT	_	_	2	punct	_	_
+2	teneurs	teneur	NOUN	_	_	2	ROOT	_	_
+3	non	non	ADV	_	_	4	advmod	_	_
+4	significatives	significatif	ADJ	_	_	2	amod	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	BTEX	BTEX	PROPN	_	_	2	nmod	_	_
+7	,	,	PUNCT	_	_	2	punct	_	_
+
+
+#* traces en indice phénol (un pic en 2006).
+1	*	*	PUNCT	_	_	2	punct	_	_
+2	traces	trace	NOUN	_	_	2	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	indice	indice	NOUN	_	_	2	nmod	_	_
+5	phénol	phénol	NOUN	_	_	4	nmod	_	_
+6	(	(	PUNCT	_	_	2	punct	_	_
+7	un	un	DET	_	_	8	det	_	_
+8	pic	pic	NOUN	_	_	2	appos	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	2006	2006	NUM	_	_	8	nmod	_	_
+11	)	)	PUNCT	_	_	2	punct	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+
+#22.0014
+
+#La société M.
+1	La	le	DET	_	_	2	det	_	_
+2	société	société	NOUN	_	_	2	ROOT	_	_
+3	M.	m.	NOUN	_	_	2	nmod	_	_
+
+
+#.S a été autorisée à exploiter une usine spécialisée dans la fabrication de chaudières et chauffes-eaux gaz par arrêté préfectoral du 20 mars 1992 (un arrêté préfectoral initial a été pris le 18 juin 1969).
+1	.S	.s	PUNCT	_	_	4	nsubj:pass	_	_
+2	a	avoir	AUX	_	_	4	aux:tense	_	_
+3	été	être	AUX	_	_	4	aux:pass	_	_
+4	autorisée	autoriser	VERB	_	_	4	ROOT	_	_
+5	à	à	ADP	_	_	6	mark	_	_
+6	exploiter	exploiter	VERB	_	_	4	xcomp	_	_
+7	une	un	DET	_	_	8	det	_	_
+8	usine	usine	NOUN	_	_	6	obj	_	_
+9	spécialisée	spécialiser	VERB	_	_	8	acl	_	_
+10	dans	dans	ADP	_	_	12	case	_	_
+11	la	le	DET	_	_	12	det	_	_
+12	fabrication	fabrication	NOUN	_	_	9	obl:arg	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	chaudières	chaudière	NOUN	_	_	12	nmod	_	_
+15	et	et	CCONJ	_	_	16	cc	_	_
+16	chauffes	chauffe	NOUN	_	_	14	conj	_	_
+17	-	-	NOUN	_	_	14	nmod	_	_
+18	eaux	eau	NOUN	_	_	8	nmod	_	_
+19	gaz	gaz	NOUN	_	_	18	nmod	_	_
+20	par	par	ADP	_	_	21	case	_	_
+21	arrêté	arrêté	NOUN	_	_	6	obl:mod	_	_
+22	préfectoral	préfectoral	ADJ	_	_	21	amod	_	_
+23	du	de	ADP	_	_	24	case	_	_
+24	20	20	NUM	_	_	21	nmod	_	_
+25	mars	mars	NOUN	_	_	24	nmod	_	_
+26	1992	1992	NUM	_	_	25	nmod	_	_
+27	(	(	PUNCT	_	_	4	punct	_	_
+28	un	un	DET	_	_	29	det	_	_
+29	arrêté	arrêté	NOUN	_	_	34	nsubj:pass	_	_
+30	préfectoral	préfectoral	ADJ	_	_	29	amod	_	_
+31	initial	initial	ADJ	_	_	29	amod	_	_
+32	a	avoir	AUX	_	_	34	aux:tense	_	_
+33	été	être	AUX	_	_	34	aux:pass	_	_
+34	pris	prendre	VERB	_	_	4	parataxis	_	_
+35	le	le	DET	_	_	36	det	_	_
+36	18	18	NUM	_	_	34	obl:mod	_	_
+37	juin	juin	NOUN	_	_	36	nmod	_	_
+38	1969	1969	NUM	_	_	37	nmod	_	_
+39	)	)	PUNCT	_	_	4	punct	_	_
+40	.	.	PUNCT	_	_	4	punct	_	_
+
+
+#Les activités industrielles ont cessé en juillet 2009.
+1	Les	le	DET	_	_	2	det	_	_
+2	activités	activité	NOUN	_	_	5	nsubj	_	_
+3	industrielles	industriel	ADJ	_	_	2	amod	_	_
+4	ont	avoir	AUX	_	_	5	aux:tense	_	_
+5	cessé	cesser	VERB	_	_	5	ROOT	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	juillet	juillet	NOUN	_	_	5	obl:mod	_	_
+8	2009	2009	NUM	_	_	7	nmod	_	_
+9	.	.	NUM	_	_	5	punct	_	_
+
+
+#Plusieurs études ont été menées dans le cadre de la cessation d'activité.
+1	Plusieurs	plusieurs	DET	_	_	2	det	_	_
+2	études	étude	NOUN	_	_	5	nsubj:pass	_	_
+3	ont	avoir	AUX	_	_	5	aux:tense	_	_
+4	été	être	AUX	_	_	5	aux:pass	_	_
+5	menées	mener	VERB	_	_	5	ROOT	_	_
+6	dans	dans	ADP	_	_	8	case	_	_
+7	le	le	DET	_	_	8	det	_	_
+8	cadre	cadre	NOUN	_	_	5	obl:mod	_	_
+9	de	de	ADP	_	_	11	case	_	_
+10	la	le	DET	_	_	11	det	_	_
+11	cessation	cessation	NOUN	_	_	8	nmod	_	_
+12	d'	de	ADP	_	_	13	case	_	_
+13	activité	activité	NOUN	_	_	11	nmod	_	_
+14	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#Elles concluent :
+1	Elles	lui	PRON	_	_	2	nsubj	_	_
+2	concluent	conclure	VERB	_	_	2	ROOT	_	_
+3	:	:	PUNCT	_	_	2	punct	_	_
+
+
+#1/ pour les sols
+1	1/	1/	SYM	_	_	1	ROOT	_	_
+2	pour	pour	ADP	_	_	4	case	_	_
+3	les	le	DET	_	_	4	det	_	_
+4	sols	sol	NOUN	_	_	1	nmod	_	_
+
+
+#- une contamination généralisée des sols par les métaux lourds (arsenic, cadmium, cuivre, nickel, mercure) avec des pics de concentration ponctuels ;
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	une	un	DET	_	_	3	det	_	_
+3	contamination	contamination	NOUN	_	_	3	ROOT	_	_
+4	généralisée	généraliser	ADJ	_	_	3	amod	_	_
+5	des	de	ADP	_	_	6	case	_	_
+6	sols	sol	NOUN	_	_	3	nmod	_	_
+7	par	par	ADP	_	_	9	case	_	_
+8	les	le	DET	_	_	9	det	_	_
+9	métaux	métal	NOUN	_	_	3	nmod	_	_
+10	lourds	lourd	ADJ	_	_	9	amod	_	_
+11	(	(	PUNCT	_	_	9	punct	_	_
+12	arsenic	arsenic	NOUN	_	_	9	appos	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	cadmium	cadmium	NOUN	_	_	12	conj	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	cuivre	cuivre	NOUN	_	_	12	conj	_	_
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	nickel	nickel	NOUN	_	_	12	conj	_	_
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	mercure	mercure	NOUN	_	_	12	conj	_	_
+21	)	)	PUNCT	_	_	9	punct	_	_
+22	avec	avec	ADP	_	_	24	case	_	_
+23	des	un	DET	_	_	24	det	_	_
+24	pics	pic	NOUN	_	_	3	nmod	_	_
+25	de	de	ADP	_	_	26	case	_	_
+26	concentration	concentration	NOUN	_	_	24	nmod	_	_
+27	ponctuels	ponctuel	ADJ	_	_	24	amod	_	_
+28	;	;	PUNCT	_	_	3	punct	_	_
+
+
+#- des zones de contaminations ponctuelles par les hydrocarbures totaux (HCT) ;
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	des	un	DET	_	_	3	det	_	_
+3	zones	zone	NOUN	_	_	3	ROOT	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	contaminations	contamination	NOUN	_	_	3	nmod	_	_
+6	ponctuelles	ponctuel	ADJ	_	_	5	amod	_	_
+7	par	par	ADP	_	_	9	case	_	_
+8	les	le	DET	_	_	9	det	_	_
+9	hydrocarbures	hydrocarbure	NOUN	_	_	5	nmod	_	_
+10	totaux	total	ADJ	_	_	9	amod	_	_
+11	(	(	PUNCT	_	_	9	punct	_	_
+12	HCT	hct	NOUN	_	_	9	appos	_	_
+13	)	)	PUNCT	_	_	9	punct	_	_
+14	;	;	PUNCT	_	_	3	punct	_	_
+
+
+#- la présence de nombreux déchets enfouis (friche), présentant une contamination particulièrement importante par les métaux lourds et les hydrocarbures.
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	la	le	DET	_	_	3	det	_	_
+3	présence	présence	NOUN	_	_	3	ROOT	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	nombreux	nombreux	ADJ	_	_	6	amod	_	_
+6	déchets	déchet	NOUN	_	_	3	nmod	_	_
+7	enfouis	enfouir	VERB	_	_	6	acl	_	_
+8	(	(	PUNCT	_	_	6	punct	_	_
+9	friche	friche	NOUN	_	_	6	appos	_	_
+10	)	)	PUNCT	_	_	6	punct	_	_
+11	,	,	PUNCT	_	_	6	punct	_	_
+12	présentant	présenter	VERB	_	_	6	acl	_	_
+13	une	un	DET	_	_	14	det	_	_
+14	contamination	contamination	NOUN	_	_	12	obj	_	_
+15	particulièrement	particulièrement	ADV	_	_	16	advmod	_	_
+16	importante	important	ADJ	_	_	14	amod	_	_
+17	par	par	ADP	_	_	19	case	_	_
+18	les	le	DET	_	_	19	det	_	_
+19	métaux	métal	NOUN	_	_	14	nmod	_	_
+20	lourds	lourd	ADJ	_	_	19	amod	_	_
+21	et	et	CCONJ	_	_	23	cc	_	_
+22	les	le	DET	_	_	23	det	_	_
+23	hydrocarbures	hydrocarbure	NOUN	_	_	19	conj	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
+
+
+#2/ pour les eaux souterraines
+1	2/	2/	NUM	_	_	1	ROOT	_	_
+2	pour	pour	ADP	_	_	4	case	_	_
+3	les	le	DET	_	_	4	det	_	_
+4	eaux	eau	NOUN	_	_	1	dep	_	_
+5	souterraines	souterrain	ADJ	_	_	4	amod	_	_
+
+
+#- une teneur élevée en aluminium sur l'ensemble du site, avec des pics plus importants en aval hydraulique du batiment, et ponctuellement une contamination par le nickel ;
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	une	un	DET	_	_	3	det	_	_
+3	teneur	teneur	NOUN	_	_	3	ROOT	_	_
+4	élevée	élevé	ADJ	_	_	3	amod	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	aluminium	aluminium	NOUN	_	_	3	nmod	_	_
+7	sur	sur	ADP	_	_	9	case	_	_
+8	l'	le	DET	_	_	9	det	_	_
+9	ensemble	ensemble	NOUN	_	_	3	nmod	_	_
+10	du	de	ADP	_	_	11	case	_	_
+11	site	site	NOUN	_	_	9	nmod	_	_
+12	,	,	PUNCT	_	_	3	punct	_	_
+13	avec	avec	ADP	_	_	15	case	_	_
+14	des	un	DET	_	_	15	det	_	_
+15	pics	pic	NOUN	_	_	3	nmod	_	_
+16	plus	plus	ADV	_	_	17	advmod	_	_
+17	importants	important	ADJ	_	_	15	amod	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	aval	aval	NOUN	_	_	15	nmod	_	_
+20	hydraulique	hydraulique	ADJ	_	_	19	amod	_	_
+21	du	de	ADP	_	_	22	case	_	_
+22	batiment	batiment	NOUN	_	_	19	nmod	_	_
+23	,	,	PUNCT	_	_	15	punct	_	_
+24	et	et	CCONJ	_	_	27	cc	_	_
+25	ponctuellement	ponctuellement	ADV	_	_	27	advmod	_	_
+26	une	un	DET	_	_	27	det	_	_
+27	contamination	contamination	NOUN	_	_	15	conj	_	_
+28	par	par	ADP	_	_	30	case	_	_
+29	le	le	DET	_	_	30	det	_	_
+30	nickel	nickel	NOUN	_	_	27	nmod	_	_
+31	;	;	PUNCT	_	_	3	punct	_	_
+
+
+#- une contamination par les métaux lourds et le trichloroéthylène au niveau de la friche ;
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	une	un	DET	_	_	3	det	_	_
+3	contamination	contamination	NOUN	_	_	3	ROOT	_	_
+4	par	par	ADP	_	_	6	case	_	_
+5	les	le	DET	_	_	6	det	_	_
+6	métaux	métal	NOUN	_	_	3	nmod	_	_
+7	lourds	lourd	ADJ	_	_	6	amod	_	_
+8	et	et	CCONJ	_	_	10	cc	_	_
+9	le	le	DET	_	_	10	det	_	_
+10	trichloroéthylène	trichloroéthylène	NOUN	_	_	6	conj	_	_
+11	au	au	ADP	_	_	12	case	_	_
+12	niveau	niveau	NOUN	_	_	3	nmod	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	la	le	DET	_	_	15	det	_	_
+15	friche	friche	NOUN	_	_	12	nmod	_	_
+16	;	;	PUNCT	_	_	3	punct	_	_
+
+
+#- une contamination par les HCT et les hydrocarbures aromatiques polycycliques (HAP) en aval hydraulique.
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	une	un	DET	_	_	3	det	_	_
+3	contamination	contamination	NOUN	_	_	3	ROOT	_	_
+4	par	par	ADP	_	_	6	case	_	_
+5	les	le	DET	_	_	6	det	_	_
+6	HCT	hct	NOUN	_	_	3	nmod	_	_
+7	et	et	CCONJ	_	_	9	cc	_	_
+8	les	le	DET	_	_	9	det	_	_
+9	hydrocarbures	hydrocarbure	NOUN	_	_	6	conj	_	_
+10	aromatiques	aromatique	ADJ	_	_	9	amod	_	_
+11	polycycliques	polycyclique	ADJ	_	_	9	amod	_	_
+12	(	(	PUNCT	_	_	9	punct	_	_
+13	HAP	hap	NOUN	_	_	9	appos	_	_
+14	)	)	PUNCT	_	_	9	punct	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	aval	aval	NOUN	_	_	3	nmod	_	_
+17	hydraulique	hydraulique	ADJ	_	_	16	amod	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+
+#Un arrêté préfectoral complémentaire du 13 janvier 2012 a prescrit la réalisation d'études complémentaires (dont une interprétation de l'état des milieux), la surveillance des eaux souterraines, ainsi que certains travaux de réhabilitation.
+1	Un	un	DET	_	_	2	det	_	_
+2	arrêté	arrêté	NOUN	_	_	10	nsubj	_	_
+3	préfectoral	préfectoral	ADJ	_	_	2	amod	_	_
+4	complémentaire	complémentaire	ADJ	_	_	2	amod	_	_
+5	du	de	ADP	_	_	6	case	_	_
+6	13	13	NUM	_	_	2	nmod	_	_
+7	janvier	janvier	NOUN	_	_	6	nmod	_	_
+8	2012	2012	NUM	_	_	7	nmod	_	_
+9	a	avoir	AUX	_	_	10	aux:tense	_	_
+10	prescrit	prescrire	VERB	_	_	10	ROOT	_	_
+11	la	le	DET	_	_	12	det	_	_
+12	réalisation	réalisation	NOUN	_	_	10	obj	_	_
+13	d'	de	ADP	_	_	14	case	_	_
+14	études	étude	NOUN	_	_	12	nmod	_	_
+15	complémentaires	complémentaire	ADJ	_	_	14	amod	_	_
+16	(	(	PUNCT	_	_	14	punct	_	_
+17	dont	dont	PRON	_	_	19	nmod	_	_
+18	une	un	DET	_	_	19	det	_	_
+19	interprétation	interprétation	NOUN	_	_	14	acl:relcl	_	_
+20	de	de	ADP	_	_	22	case	_	_
+21	l'	le	DET	_	_	22	det	_	_
+22	état	état	NOUN	_	_	19	nmod	_	_
+23	des	de	ADP	_	_	24	case	_	_
+24	milieux	milieu	NOUN	_	_	22	nmod	_	_
+25	)	)	PUNCT	_	_	12	punct	_	_
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	la	le	DET	_	_	28	det	_	_
+28	surveillance	surveillance	NOUN	_	_	12	conj	_	_
+29	des	de	ADP	_	_	30	case	_	_
+30	eaux	eau	NOUN	_	_	28	nmod	_	_
+31	souterraines	souterrain	ADJ	_	_	30	amod	_	_
+32	,	,	PUNCT	_	_	12	punct	_	_
+33	ainsi	ainsi	ADV	_	_	36	cc	_	_
+34	que	que	SCONJ	_	_	33	fixed	_	_
+35	certains	certain	DET	_	_	36	det	_	_
+36	travaux	travail	NOUN	_	_	12	conj	_	_
+37	de	de	ADP	_	_	38	case	_	_
+38	réhabilitation	réhabilitation	NOUN	_	_	36	nmod	_	_
+39	.	.	PUNCT	_	_	10	punct	_	_
+
+
+#La surveillance des eaux souterraines porte sur les métaux lourds, les composés organohalogénés volatils (COHV), les BTEX (benzène, toluène, éthylène, xylène), les HAP et les PCB, à fréquence trimestrielle les deux premières années puis semestrielle.
+1	La	le	DET	_	_	2	det	_	_
+2	surveillance	surveillance	NOUN	_	_	6	nsubj	_	_
+3	des	de	ADP	_	_	4	case	_	_
+4	eaux	eau	NOUN	_	_	2	nmod	_	_
+5	souterraines	souterrain	ADJ	_	_	4	amod	_	_
+6	porte	porte	VERB	_	_	6	ROOT	_	_
+7	sur	sur	ADP	_	_	9	case	_	_
+8	les	le	DET	_	_	9	det	_	_
+9	métaux	métal	NOUN	_	_	6	obl:arg	_	_
+10	lourds	lourd	ADJ	_	_	9	amod	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	les	le	DET	_	_	13	det	_	_
+13	composés	composé	NOUN	_	_	9	conj	_	_
+14	organohalogénés	organohalogéné	ADJ	_	_	13	amod	_	_
+15	volatils	volatil	ADJ	_	_	13	amod	_	_
+16	(	(	PUNCT	_	_	13	punct	_	_
+17	COHV	cohv	NOUN	_	_	13	appos	_	_
+18	)	)	PUNCT	_	_	13	punct	_	_
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	les	le	DET	_	_	21	det	_	_
+21	BTEX	bte	NOUN	_	_	9	conj	_	_
+22	(	(	PUNCT	_	_	21	punct	_	_
+23	benzène	benzène	NOUN	_	_	21	appos	_	_
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	toluène	toluène	NOUN	_	_	23	conj	_	_
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	éthylène	éthylène	NOUN	_	_	23	conj	_	_
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	xylène	xylène	NOUN	_	_	23	conj	_	_
+30	)	)	PUNCT	_	_	21	punct	_	_
+31	,	,	PUNCT	_	_	33	punct	_	_
+32	les	le	DET	_	_	33	det	_	_
+33	HAP	hap	NOUN	_	_	9	conj	_	_
+34	et	et	CCONJ	_	_	36	cc	_	_
+35	les	le	DET	_	_	36	det	_	_
+36	PCB	pcb	NOUN	_	_	9	conj	_	_
+37	,	,	PUNCT	_	_	6	punct	_	_
+38	à	à	ADP	_	_	39	case	_	_
+39	fréquence	fréquence	NOUN	_	_	6	obl:mod	_	_
+40	trimestrielle	trimestriel	ADJ	_	_	39	amod	_	_
+41	les	le	DET	_	_	44	det	_	_
+42	deux	deux	NUM	_	_	44	nummod	_	_
+43	premières	premier	ADJ	_	_	44	amod	_	_
+44	années	année	NOUN	_	_	39	nmod	_	_
+45	puis	puis	CCONJ	_	_	46	cc	_	_
+46	semestrielle	semestriel	ADJ	_	_	39	conj	_	_
+47	.	.	PUNCT	_	_	6	punct	_	_
+
+
+#L'arrêté préfectoral complémentaire du 24 octobre 2014 prescrit la réalisation de la deuxième phase des travaux de réhabilitation.
+1	L'	le	DET	_	_	2	det	_	_
+2	arrêté	arrêté	NOUN	_	_	9	nsubj	_	_
+3	préfectoral	préfectoral	ADJ	_	_	2	amod	_	_
+4	complémentaire	complémentaire	ADJ	_	_	2	amod	_	_
+5	du	de	ADP	_	_	6	case	_	_
+6	24	24	NUM	_	_	2	nmod	_	_
+7	octobre	octobre	NOUN	_	_	6	nmod	_	_
+8	2014	2014	NUM	_	_	7	nmod	_	_
+9	prescrit	prescrire	VERB	_	_	9	ROOT	_	_
+10	la	le	DET	_	_	11	det	_	_
+11	réalisation	réalisation	NOUN	_	_	9	obj	_	_
+12	de	de	ADP	_	_	15	case	_	_
+13	la	le	DET	_	_	15	det	_	_
+14	deuxième	deuxième	ADJ	_	_	15	amod	_	_
+15	phase	phase	NOUN	_	_	11	nmod	_	_
+16	des	de	ADP	_	_	17	case	_	_
+17	travaux	travail	NOUN	_	_	15	nmod	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	réhabilitation	réhabilitation	NOUN	_	_	17	nmod	_	_
+20	.	.	PUNCT	_	_	9	punct	_	_
+
+
+#Les travaux pendant l'été 2014 ont consisté en :
+1	Les	le	DET	_	_	2	det	_	_
+2	travaux	travail	NOUN	_	_	8	nsubj	_	_
+3	pendant	pendant	ADP	_	_	5	case	_	_
+4	l'	le	DET	_	_	5	det	_	_
+5	été	été	NOUN	_	_	2	nmod	_	_
+6	2014	2014	NUM	_	_	5	nummod	_	_
+7	ont	avoir	AUX	_	_	8	aux:tense	_	_
+8	consisté	consister	VERB	_	_	8	ROOT	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	:	:	PUNCT	_	_	8	obl:arg	_	_
+
+
+#- excavation des terres dans la zone ouest (spot de pollution) ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	excavation	excavation	NOUN	_	_	2	ROOT	_	_
+3	des	de	ADP	_	_	4	case	_	_
+4	terres	terre	NOUN	_	_	2	nmod	_	_
+5	dans	dans	ADP	_	_	7	case	_	_
+6	la	le	DET	_	_	7	det	_	_
+7	zone	zone	NOUN	_	_	2	nmod	_	_
+8	ouest	ouest	ADJ	_	_	7	amod	_	_
+9	(	(	PUNCT	_	_	7	punct	_	_
+10	spot	spot	NOUN	_	_	7	appos	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	pollution	pollution	NOUN	_	_	10	nmod	_	_
+13	)	)	PUNCT	_	_	7	punct	_	_
+14	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- démantèlement des équipements et excavation des terres dans la zone sud ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	démantèlement	démantèlement	NOUN	_	_	2	ROOT	_	_
+3	des	de	ADP	_	_	4	case	_	_
+4	équipements	équipement	NOUN	_	_	2	nmod	_	_
+5	et	et	CCONJ	_	_	6	cc	_	_
+6	excavation	excavation	NOUN	_	_	2	conj	_	_
+7	des	de	ADP	_	_	8	case	_	_
+8	terres	terre	NOUN	_	_	6	nmod	_	_
+9	dans	dans	ADP	_	_	11	case	_	_
+10	la	le	DET	_	_	11	det	_	_
+11	zone	zone	NOUN	_	_	6	nmod	_	_
+12	sud	sud	NOUN	_	_	11	nmod	_	_
+13	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- confinement de la pollution par une dalle étanche dans la friche à l'est ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	confinement	confinement	NOUN	_	_	2	ROOT	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	le	DET	_	_	5	det	_	_
+5	pollution	pollution	NOUN	_	_	2	nmod	_	_
+6	par	par	ADP	_	_	8	case	_	_
+7	une	un	DET	_	_	8	det	_	_
+8	dalle	dalle	NOUN	_	_	5	nmod	_	_
+9	étanche	étanche	ADJ	_	_	8	amod	_	_
+10	dans	dans	ADP	_	_	12	case	_	_
+11	la	le	DET	_	_	12	det	_	_
+12	friche	friche	NOUN	_	_	2	nmod	_	_
+13	à	à	ADP	_	_	15	case	_	_
+14	l'	le	DET	_	_	15	det	_	_
+15	est	est	NOUN	_	_	12	nmod	_	_
+16	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- poursuite du suivi des eaux souterraines
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	poursuite	poursuite	NOUN	_	_	2	ROOT	_	_
+3	du	de	ADP	_	_	4	case	_	_
+4	suivi	suivi	NOUN	_	_	2	nmod	_	_
+5	des	de	ADP	_	_	6	case	_	_
+6	eaux	eau	NOUN	_	_	4	nmod	_	_
+7	souterraines	souterrain	ADJ	_	_	6	amod	_	_
+
+
+#L'ensemble des études et la première phase des travaux exigés ont été réalisés par la société.
+1	L'	le	DET	_	_	2	det	_	_
+2	ensemble	ensemble	NOUN	_	_	14	nsubj:pass	_	_
+3	des	de	ADP	_	_	4	case	_	_
+4	études	étude	NOUN	_	_	2	nmod	_	_
+5	et	et	CCONJ	_	_	8	cc	_	_
+6	la	le	DET	_	_	8	det	_	_
+7	première	premier	ADJ	_	_	8	amod	_	_
+8	phase	phase	NOUN	_	_	2	conj	_	_
+9	des	de	ADP	_	_	10	case	_	_
+10	travaux	travail	NOUN	_	_	8	nmod	_	_
+11	exigés	exiger	VERB	_	_	10	acl	_	_
+12	ont	avoir	AUX	_	_	14	aux:tense	_	_
+13	été	être	AUX	_	_	14	aux:pass	_	_
+14	réalisés	réaliser	VERB	_	_	14	ROOT	_	_
+15	par	par	ADP	_	_	17	case	_	_
+16	la	le	DET	_	_	17	det	_	_
+17	société	société	NOUN	_	_	14	obl:agent	_	_
+18	.	.	PUNCT	_	_	14	punct	_	_
+
+
+#Les résultats de la surveillance des eaux souterraines confirment les analyses précédentes :
+1	Les	le	DET	_	_	2	det	_	_
+2	résultats	résultat	NOUN	_	_	9	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	le	DET	_	_	5	det	_	_
+5	surveillance	surveillance	NOUN	_	_	2	nmod	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	eaux	eau	NOUN	_	_	5	nmod	_	_
+8	souterraines	souterrain	ADJ	_	_	7	amod	_	_
+9	confirment	confirmer	VERB	_	_	9	ROOT	_	_
+10	les	le	DET	_	_	11	det	_	_
+11	analyses	analyse	NOUN	_	_	9	obj	_	_
+12	précédentes	précédent	ADJ	_	_	11	amod	_	_
+13	:	:	PUNCT	_	_	9	punct	_	_
+
+
+#- absence de PCB ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	absence	absence	NOUN	_	_	2	ROOT	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	PCB	pcb	NOUN	_	_	2	nmod	_	_
+5	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- présence d'aluminium en concentration importante sur quasiment l'ensemble des piézomètres et en moindre mesure de plomb et d'arsenic ;
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	présence	présence	NOUN	_	_	2	ROOT	_	_
+3	d'	de	ADP	_	_	4	case	_	_
+4	aluminium	aluminium	NOUN	_	_	2	nmod	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	concentration	concentration	NOUN	_	_	2	nmod	_	_
+7	importante	important	ADJ	_	_	6	amod	_	_
+8	sur	sur	ADP	_	_	11	case	_	_
+9	quasiment	quasiment	ADV	_	_	11	advmod	_	_
+10	l'	le	DET	_	_	11	det	_	_
+11	ensemble	ensemble	NOUN	_	_	2	nmod	_	_
+12	des	de	ADP	_	_	13	case	_	_
+13	piézomètres	piézomètre	NOUN	_	_	11	nmod	_	_
+14	et	et	CCONJ	_	_	17	cc	_	_
+15	en	en	ADP	_	_	17	case	_	_
+16	moindre	moindre	ADJ	_	_	17	amod	_	_
+17	mesure	mesure	NOUN	_	_	2	conj	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	plomb	plomb	NOUN	_	_	17	nmod	_	_
+20	et	et	CCONJ	_	_	22	cc	_	_
+21	d'	de	ADP	_	_	22	case	_	_
+22	arsenic	arsenic	NOUN	_	_	19	conj	_	_
+23	;	;	PUNCT	_	_	2	punct	_	_
+
+
+#- pollution en COHV (trichloroéthylène) dans la zone sud et en aval hydraulique.
+1	-	-	PUNCT	_	_	2	punct	_	_
+2	pollution	pollution	NOUN	_	_	2	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	COHV	cohv	NOUN	_	_	2	nmod	_	_
+5	(	(	PUNCT	_	_	4	punct	_	_
+6	trichloroéthylène	trichloroéthylène	NOUN	_	_	4	appos	_	_
+7	)	)	PUNCT	_	_	4	punct	_	_
+8	dans	dans	ADP	_	_	10	case	_	_
+9	la	le	DET	_	_	10	det	_	_
+10	zone	zone	NOUN	_	_	2	nmod	_	_
+11	sud	sud	NUM	_	_	10	amod	_	_
+12	et	et	CCONJ	_	_	14	cc	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	aval	aval	NOUN	_	_	10	conj	_	_
+15	hydraulique	hydraulique	ADJ	_	_	14	amod	_	_
+16	.	.	PUNCT	_	_	2	punct	_	_
+
+
+#Le bilan quadriennal du suivi de la qualité des eaux souterraines doit être réalisé pour fin 2016.
+1	Le	le	DET	_	_	2	det	_	_
+2	bilan	bilan	NOUN	_	_	12	nsubj	_	_
+3	quadriennal	quadriennal	ADJ	_	_	2	amod	_	_
+4	du	de	ADP	_	_	5	case	_	_
+5	suivi	suivi	NOUN	_	_	2	nmod	_	_
+6	de	de	ADP	_	_	8	case	_	_
+7	la	le	DET	_	_	8	det	_	_
+8	qualité	qualité	NOUN	_	_	5	nmod	_	_
+9	des	de	ADP	_	_	10	case	_	_
+10	eaux	eau	NOUN	_	_	8	nmod	_	_
+11	souterraines	souterrain	ADJ	_	_	10	amod	_	_
+12	doit	devoir	VERB	_	_	12	ROOT	_	_
+13	être	être	AUX	_	_	14	aux:pass	_	_
+14	réalisé	réaliser	VERB	_	_	12	xcomp	_	_
+15	pour	pour	ADP	_	_	16	case	_	_
+16	fin	fin	NOUN	_	_	14	obl:mod	_	_
+17	2016	2016	PUNCT	_	_	16	nummod	_	_
+18	.	.	PUNCT	_	_	14	punct	_	_
+
+
+#Un rapport valant PV de récolement a été rédigé le 27 juillet 2015 : l'exploitant a satisfait à ses obligations réglementaires de remise en état du site.
+1	Un	un	DET	_	_	2	det	_	_
+2	rapport	rapport	NOUN	_	_	9	nsubj:pass	_	_
+3	valant	valoir	VERB	_	_	2	acl	_	_
+4	PV	pv	NOUN	_	_	3	obj	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	récolement	récolement	NOUN	_	_	4	nmod	_	_
+7	a	avoir	AUX	_	_	9	aux:tense	_	_
+8	été	être	AUX	_	_	9	aux:pass	_	_
+9	rédigé	rédiger	VERB	_	_	9	ROOT	_	_
+10	le	le	DET	_	_	11	det	_	_
+11	27	27	NUM	_	_	9	obl:mod	_	_
+12	juillet	juillet	NOUN	_	_	11	nmod	_	_
+13	2015	2015	NUM	_	_	12	nmod	_	_
+14	:	:	PUNCT	_	_	9	punct	_	_
+15	l'	le	DET	_	_	16	det	_	_
+16	exploitant	exploitant	NOUN	_	_	18	nsubj	_	_
+17	a	avoir	AUX	_	_	18	aux:tense	_	_
+18	satisfait	satisfaire	VERB	_	_	9	advcl	_	_
+19	à	à	ADP	_	_	21	case	_	_
+20	ses	son	DET	_	_	21	det	_	_
+21	obligations	obligation	NOUN	_	_	18	obl:arg	_	_
+22	réglementaires	réglementaire	ADJ	_	_	21	amod	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	remise	remise	NOUN	_	_	21	nmod	_	_
+25	en	en	ADP	_	_	26	case	_	_
+26	état	état	NOUN	_	_	24	nmod	_	_
+27	du	de	ADP	_	_	28	case	_	_
+28	site	site	NOUN	_	_	24	nmod	_	_
+29	.	.	PUNCT	_	_	9	punct	_	_
+
+
+#Toutefois, des pollutions résiduelles étant en place sur le site, des servitudes d'utilité publique ont été arrêtées le 5 février 2016.
+1	Toutefois	toutefois	ADV	_	_	8	advmod	_	_
+2	,	,	PUNCT	_	_	8	punct	_	_
+3	des	un	DET	_	_	4	det	_	_
+4	pollutions	pollution	NOUN	_	_	8	nsubj	_	_
+5	résiduelles	résiduel	ADJ	_	_	4	amod	_	_
+6	étant	être	AUX	_	_	8	cop	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	place	place	NOUN	_	_	20	obl:mod	_	_
+9	sur	sur	ADP	_	_	11	case	_	_
+10	le	le	DET	_	_	11	det	_	_
+11	site	site	NOUN	_	_	8	nmod	_	_
+12	,	,	PUNCT	_	_	20	punct	_	_
+13	des	un	DET	_	_	14	det	_	_
+14	servitudes	servitude	NOUN	_	_	20	nsubj:pass	_	_
+15	d'	de	ADP	_	_	16	case	_	_
+16	utilité	utilité	NOUN	_	_	14	nmod	_	_
+17	publique	public	ADJ	_	_	16	amod	_	_
+18	ont	avoir	AUX	_	_	20	aux:tense	_	_
+19	été	être	AUX	_	_	20	aux:pass	_	_
+20	arrêtées	arrêter	VERB	_	_	20	ROOT	_	_
+21	le	le	DET	_	_	22	det	_	_
+22	5	5	NUM	_	_	20	obl:mod	_	_
+23	février	février	NOUN	_	_	22	nmod	_	_
+24	2016	2016	PUNCT	_	_	23	nmod	_	_
+25	.	.	PUNCT	_	_	20	punct	_	_
+
+
+#29.0005
+
+#Le site correspond à un ancien dépôt de ferrailles exploité depuis 1967 sans autorisation.
+1	Le	le	DET	_	_	2	det	_	_
+2	site	site	NOUN	_	_	3	nsubj	_	_
+3	correspond	correspondre	VERB	_	_	3	ROOT	_	_
+4	à	à	ADP	_	_	7	case	_	_
+5	un	un	DET	_	_	7	det	_	_
+6	ancien	ancien	ADJ	_	_	7	amod	_	_
+7	dépôt	dépôt	NOUN	_	_	3	obl:arg	_	_
+8	de	de	ADP	_	_	9	case	_	_
+9	ferrailles	ferraille	NOUN	_	_	7	nmod	_	_
+10	exploité	exploiter	VERB	_	_	7	acl	_	_
+11	depuis	depuis	ADP	_	_	12	case	_	_
+12	1967	1967	NUM	_	_	10	obl:mod	_	_
+13	sans	sans	ADP	_	_	14	case	_	_
+14	autorisation	autorisation	NOUN	_	_	10	obl:mod	_	_
+15	.	.	PUNCT	_	_	3	punct	_	_
+
+
+#Il est sur l’emprise d’une carrière de granit massif désaffectée.
+1	Il	il	PRON	_	_	5	nsubj	_	_
+2	est	être	AUX	_	_	5	cop	_	_
+3	sur	sur	ADP	_	_	5	case	_	_
+4	l’	l’	DET	_	_	5	det	_	_
+5	emprise	emprise	NOUN	_	_	5	ROOT	_	_
+6	d’	d’	ADP	_	_	8	case	_	_
+7	une	un	DET	_	_	8	det	_	_
+8	carrière	carrière	NOUN	_	_	5	nmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	granit	granit	NOUN	_	_	8	nmod	_	_
+11	massif	massif	ADJ	_	_	10	amod	_	_
+12	désaffectée	désaffecter	VERB	_	_	8	acl	_	_
+13	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#Les activités pratiquées ont porté sur la récupération de ferrailles, de déchets métalliques et de véhicules hors d’usage.
+1	Les	le	DET	_	_	2	det	_	_
+2	activités	activité	NOUN	_	_	5	nsubj	_	_
+3	pratiquées	pratiquer	VERB	_	_	2	acl	_	_
+4	ont	avoir	AUX	_	_	5	aux:tense	_	_
+5	porté	porter	VERB	_	_	5	ROOT	_	_
+6	sur	sur	ADP	_	_	8	case	_	_
+7	la	le	DET	_	_	8	det	_	_
+8	récupération	récupération	NOUN	_	_	5	obl:arg	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	ferrailles	ferraille	NOUN	_	_	8	nmod	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	déchets	déchet	NOUN	_	_	10	conj	_	_
+14	métalliques	métallique	ADJ	_	_	13	amod	_	_
+15	et	et	CCONJ	_	_	17	cc	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	véhicules	véhicule	NOUN	_	_	10	conj	_	_
+18	hors	hors	ADP	_	_	20	case	_	_
+19	d’	d’	ADP	_	_	20	case	_	_
+20	usage	usage	NOUN	_	_	17	nmod	_	_
+21	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#Les matériels fixes utilisés comportaient notamment divers hangars et bâtiments, un stockage d’hydrocarbures liquides (FOD/GO) ainsi qu'une petite et très rudimentaire fonderie de plomb.
+1	Les	le	DET	_	_	2	det	_	_
+2	matériels	matériel	NOUN	_	_	5	nsubj	_	_
+3	fixes	fixe	ADJ	_	_	2	amod	_	_
+4	utilisés	utiliser	VERB	_	_	2	acl	_	_
+5	comportaient	comporter	VERB	_	_	5	ROOT	_	_
+6	notamment	notamment	ADV	_	_	5	advmod	_	_
+7	divers	divers	DET	_	_	8	det	_	_
+8	hangars	hangar	NOUN	_	_	5	obj	_	_
+9	et	et	CCONJ	_	_	10	cc	_	_
+10	bâtiments	bâtiment	NOUN	_	_	8	conj	_	_
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	un	un	DET	_	_	13	det	_	_
+13	stockage	stockage	NOUN	_	_	5	conj	_	_
+14	d’	d’	ADP	_	_	15	case	_	_
+15	hydrocarbures	hydrocarbure	NOUN	_	_	13	nmod	_	_
+16	liquides	liquide	ADJ	_	_	15	amod	_	_
+17	(	(	PUNCT	_	_	15	punct	_	_
+18	FOD	fod	NOUN	_	_	15	appos	_	_
+19	/	/	CCONJ	_	_	20	cc	_	_
+20	GO	go	NOUN	_	_	18	conj	_	_
+21	)	)	PUNCT	_	_	13	punct	_	_
+22	ainsi	ainsi	ADV	_	_	29	cc	_	_
+23	qu'	que	SCONJ	_	_	22	fixed	_	_
+24	une	un	DET	_	_	29	det	_	_
+25	petite	petit	ADJ	_	_	29	amod	_	_
+26	et	et	CCONJ	_	_	28	cc	_	_
+27	très	très	ADV	_	_	28	advmod	_	_
+28	rudimentaire	rudimentaire	ADJ	_	_	25	conj	_	_
+29	fonderie	fonderie	NOUN	_	_	5	conj	_	_
+30	de	de	ADP	_	_	31	case	_	_
+31	plomb	plomb	NOUN	_	_	29	nmod	_	_
+32	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#L'arrêt des activités est effectif depuis le 31 décembre 1998.
+1	L'	le	DET	_	_	2	det	_	_
+2	arrêt	arrêt	NOUN	_	_	6	nsubj	_	_
+3	des	de	ADP	_	_	4	case	_	_
+4	activités	activité	NOUN	_	_	2	nmod	_	_
+5	est	être	AUX	_	_	6	cop	_	_
+6	effectif	effectif	ADJ	_	_	6	ROOT	_	_
+7	depuis	depuis	ADP	_	_	9	case	_	_
+8	le	le	DET	_	_	9	det	_	_
+9	31	31	NUM	_	_	6	obl:mod	_	_
+10	décembre	décembre	NOUN	_	_	9	nmod	_	_
+11	1998	1998	NUM	_	_	10	nmod	_	_
+12	.	.	PUNCT	_	_	6	punct	_	_
+
+
+#Le site se trouve en milieu urbain à proximité d’un espace vert public, traversé par un petit ruisseau affluent de la rivière de PONT L'ABBE.
+1	Le	le	DET	_	_	2	det	_	_
+2	site	site	NOUN	_	_	4	nsubj	_	_
+3	se	se	PRON	_	_	4	expl:comp	_	_
+4	trouve	trouve	VERB	_	_	4	ROOT	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	milieu	milieu	NOUN	_	_	4	obl:arg	_	_
+7	urbain	urbain	ADJ	_	_	6	amod	_	_
+8	à	à	ADP	_	_	9	case	_	_
+9	proximité	proximité	NOUN	_	_	4	obl:mod	_	_
+10	d’	d’	ADP	_	_	12	case	_	_
+11	un	un	DET	_	_	12	det	_	_
+12	espace	espace	NOUN	_	_	9	nmod	_	_
+13	vert	vert	ADJ	_	_	12	amod	_	_
+14	public	public	ADJ	_	_	12	amod	_	_
+15	,	,	PUNCT	_	_	12	punct	_	_
+16	traversé	traverser	VERB	_	_	12	acl	_	_
+17	par	par	ADP	_	_	20	case	_	_
+18	un	un	DET	_	_	20	det	_	_
+19	petit	petit	ADJ	_	_	20	amod	_	_
+20	ruisseau	ruisseau	NOUN	_	_	16	obl:agent	_	_
+21	affluent	affluent	NOUN	_	_	20	nmod	_	_
+22	de	de	ADP	_	_	24	case	_	_
+23	la	le	DET	_	_	24	det	_	_
+24	rivière	rivière	NOUN	_	_	21	nmod	_	_
+25	de	de	ADP	_	_	26	case	_	_
+26	PONT	PONT	PROPN	_	_	24	nmod	_	_
+27	L'	le	DET	_	_	28	det	_	_
+28	ABBE	ABBE	PROPN	_	_	26	nmod	_	_
+29	.	.	PUNCT	_	_	4	punct	_	_
+
+
+#Lors de la cessation d'activité, des diagnostics de sols et des eaux ont été réalisés en 1998 et ont mis en évidence une pollution du milieu.
+1	Lors	lors	ADV	_	_	17	advmod	_	_
+2	de	de	ADP	_	_	4	case	_	_
+3	la	le	DET	_	_	4	det	_	_
+4	cessation	cessation	NOUN	_	_	1	obl:arg	_	_
+5	d'	de	ADP	_	_	6	case	_	_
+6	activité	activité	NOUN	_	_	4	nmod	_	_
+7	,	,	PUNCT	_	_	17	punct	_	_
+8	des	un	DET	_	_	9	det	_	_
+9	diagnostics	diagnostic	NOUN	_	_	17	nsubj:pass	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	sols	sol	NOUN	_	_	9	nmod	_	_
+12	et	et	CCONJ	_	_	14	cc	_	_
+13	des	de	ADP	_	_	14	case	_	_
+14	eaux	eau	NOUN	_	_	11	conj	_	_
+15	ont	avoir	AUX	_	_	17	aux:tense	_	_
+16	été	être	AUX	_	_	17	aux:pass	_	_
+17	réalisés	réaliser	VERB	_	_	17	ROOT	_	_
+18	en	en	ADP	_	_	19	case	_	_
+19	1998	1998	NUM	_	_	17	obl:mod	_	_
+20	et	et	CCONJ	_	_	22	cc	_	_
+21	ont	avoir	AUX	_	_	22	aux:tense	_	_
+22	mis	mettre	VERB	_	_	17	conj	_	_
+23	en	en	ADP	_	_	24	case	_	_
+24	évidence	évidence	NOUN	_	_	22	obl:arg	_	_
+25	une	un	DET	_	_	26	det	_	_
+26	pollution	pollution	NOUN	_	_	22	obj	_	_
+27	du	de	ADP	_	_	28	case	_	_
+28	milieu	milieu	NOUN	_	_	26	nmod	_	_
+29	.	.	PUNCT	_	_	17	punct	_	_
+
+
+#A cet effet, les sols les plus contaminés (incluant celles de la fonderie de plomb) ont été excavés et envoyés en centre de traitement en septembre 1999.
+1	A	à	ADP	_	_	3	case	_	_
+2	cet	ce	DET	_	_	3	det	_	_
+3	effet	effet	NOUN	_	_	21	obl:mod	_	_
+4	,	,	PUNCT	_	_	21	punct	_	_
+5	les	le	DET	_	_	6	det	_	_
+6	sols	sol	NOUN	_	_	21	nsubj:pass	_	_
+7	les	le	DET	_	_	9	det	_	_
+8	plus	plus	ADV	_	_	9	advmod	_	_
+9	contaminés	contaminer	VERB	_	_	6	acl	_	_
+10	(	(	PUNCT	_	_	6	punct	_	_
+11	incluant	inclure	VERB	_	_	6	acl	_	_
+12	celles	celui	PRON	_	_	6	nmod	_	_
+13	de	de	ADP	_	_	15	case	_	_
+14	la	le	DET	_	_	15	det	_	_
+15	fonderie	fonderie	NOUN	_	_	12	nmod	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	plomb	plomb	NOUN	_	_	15	nmod	_	_
+18	)	)	PUNCT	_	_	6	punct	_	_
+19	ont	avoir	AUX	_	_	21	aux:tense	_	_
+20	été	être	AUX	_	_	21	aux:pass	_	_
+21	excavés	excaver	VERB	_	_	21	ROOT	_	_
+22	et	et	CCONJ	_	_	23	cc	_	_
+23	envoyés	envoyer	VERB	_	_	21	conj	_	_
+24	en	en	ADP	_	_	25	case	_	_
+25	centre	centre	NOUN	_	_	23	obl:arg	_	_
+26	de	de	ADP	_	_	27	case	_	_
+27	traitement	traitement	NOUN	_	_	25	nmod	_	_
+28	en	en	ADP	_	_	29	case	_	_
+29	septembre	septembre	NOUN	_	_	23	obl:mod	_	_
+30	1999	1999	NUM	_	_	29	nmod	_	_
+31	.	.	PUNCT	_	_	21	punct	_	_
+
+
+#D'août 1999 à janvier 2000, des investigations complémentaires ont été menées sur la qualité des eaux (hydrocarbures (HC), indice phénol, métaux - Cu, Pb et Zn) du ruisseau en aval, des eaux superficielles d’écoulement du site et des eaux souterraines (en aval).
+1	D'	de	ADP	_	_	2	case	_	_
+2	août	août	NOUN	_	_	13	obl:mod	_	_
+3	1999	1999	NUM	_	_	2	nmod	_	_
+4	à	à	ADP	_	_	5	case	_	_
+5	janvier	janvier	NOUN	_	_	2	nmod	_	_
+6	2000	2000	PUNCT	_	_	5	nmod	_	_
+7	,	,	PUNCT	_	_	13	punct	_	_
+8	des	un	DET	_	_	9	det	_	_
+9	investigations	investigation	NOUN	_	_	13	nsubj:pass	_	_
+10	complémentaires	complémentaire	ADJ	_	_	9	amod	_	_
+11	ont	avoir	AUX	_	_	13	aux:tense	_	_
+12	été	être	AUX	_	_	13	aux:pass	_	_
+13	menées	mener	VERB	_	_	13	ROOT	_	_
+14	sur	sur	ADP	_	_	16	case	_	_
+15	la	le	DET	_	_	16	det	_	_
+16	qualité	qualité	NOUN	_	_	13	obl:mod	_	_
+17	des	de	ADP	_	_	18	case	_	_
+18	eaux	eau	NOUN	_	_	16	nmod	_	_
+19	(	(	PUNCT	_	_	18	punct	_	_
+20	hydrocarbures	hydrocarbure	NOUN	_	_	18	appos	_	_
+21	(	(	PUNCT	_	_	20	punct	_	_
+22	HC	hc	NOUN	_	_	20	appos	_	_
+23	)	)	PUNCT	_	_	20	punct	_	_
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	indice	indice	NOUN	_	_	18	conj	_	_
+26	phénol	phénol	NOUN	_	_	25	nmod	_	_
+27	,	,	PUNCT	_	_	28	punct	_	_
+28	métaux	métal	NOUN	_	_	18	conj	_	_
+29	-	-	PUNCT	_	_	30	punct	_	_
+30	Cu	cu	NOUN	_	_	13	dep	_	_
+31	,	,	PUNCT	_	_	32	punct	_	_
+32	Pb	problème	NOUN	_	_	30	conj	_	_
+33	et	et	CCONJ	_	_	34	cc	_	_
+34	Zn	zn	NOUN	_	_	30	conj	_	_
+35	)	)	PUNCT	_	_	13	punct	_	_
+36	du	de	ADP	_	_	37	case	_	_
+37	ruisseau	ruisseau	NOUN	_	_	13	nmod	_	_
+38	en	en	ADP	_	_	39	case	_	_
+39	aval	aval	NOUN	_	_	37	nmod	_	_
+40	,	,	PUNCT	_	_	42	punct	_	_
+41	des	de	ADP	_	_	42	case	_	_
+42	eaux	eau	NOUN	_	_	37	conj	_	_
+43	superficielles	superficiel	ADJ	_	_	42	amod	_	_
+44	d’	d’	ADP	_	_	45	case	_	_
+45	écoulement	écoulement	NOUN	_	_	42	nmod	_	_
+46	du	de	ADP	_	_	47	case	_	_
+47	site	site	NOUN	_	_	45	nmod	_	_
+48	et	et	CCONJ	_	_	50	cc	_	_
+49	des	de	ADP	_	_	50	case	_	_
+50	eaux	eau	NOUN	_	_	37	conj	_	_
+51	souterraines	souterrain	ADJ	_	_	50	amod	_	_
+52	(	(	PUNCT	_	_	50	punct	_	_
+53	en	en	ADP	_	_	54	case	_	_
+54	aval	aval	NOUN	_	_	50	nmod	_	_
+55	)	)	PUNCT	_	_	50	punct	_	_
+56	.	.	PUNCT	_	_	13	punct	_	_
+
+
+#Les résultats montrent de très faibles teneurs en éléments polluants dans les eaux de surface et souterraines, au regard des limites VCI-EAU (usage non sensible).
+1	Les	le	DET	_	_	2	det	_	_
+2	résultats	résultat	NOUN	_	_	3	nsubj	_	_
+3	montrent	montrer	VERB	_	_	3	ROOT	_	_
+4	de	de	DET	_	_	7	det	_	_
+5	très	très	ADV	_	_	6	advmod	_	_
+6	faibles	faible	ADJ	_	_	7	amod	_	_
+7	teneurs	teneur	NOUN	_	_	3	obj	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	éléments	élément	NOUN	_	_	7	nmod	_	_
+10	polluants	polluant	ADJ	_	_	9	amod	_	_
+11	dans	dans	ADP	_	_	13	case	_	_
+12	les	le	DET	_	_	13	det	_	_
+13	eaux	eau	NOUN	_	_	7	nmod	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	surface	surface	NOUN	_	_	13	nmod	_	_
+16	et	et	CCONJ	_	_	17	cc	_	_
+17	souterraines	souterrain	ADJ	_	_	15	conj	_	_
+18	,	,	PUNCT	_	_	13	punct	_	_
+19	au	au	ADP	_	_	20	case	_	_
+20	regard	regard	NOUN	_	_	3	obl:mod	_	_
+21	des	de	ADP	_	_	22	case	_	_
+22	limites	limite	NOUN	_	_	20	nmod	_	_
+23	VCI	VCI	PROPN	_	_	22	nmod	_	_
+24	-	-	PROPN	_	_	22	nmod	_	_
+25	EAU	EAU	PROPN	_	_	22	nmod	_	_
+26	(	(	PUNCT	_	_	22	punct	_	_
+27	usage	usage	NOUN	_	_	22	appos	_	_
+28	non	non	ADV	_	_	29	advmod	_	_
+29	sensible	sensible	ADJ	_	_	27	amod	_	_
+30	)	)	PUNCT	_	_	22	punct	_	_
+31	.	.	PUNCT	_	_	3	punct	_	_
+
+
+#L'arrêté préfectoral complémentaire du 8 janvier 2003 prescrit la surveillance de la qualité des eaux de surface et souterraines.
+1	L'	le	DET	_	_	2	det	_	_
+2	arrêté	arrêté	NOUN	_	_	9	nsubj	_	_
+3	préfectoral	préfectoral	ADJ	_	_	2	amod	_	_
+4	complémentaire	complémentaire	ADJ	_	_	2	amod	_	_
+5	du	de	ADP	_	_	6	case	_	_
+6	8	8	NUM	_	_	2	nmod	_	_
+7	janvier	janvier	NOUN	_	_	6	nmod	_	_
+8	2003	2003	NUM	_	_	7	nmod	_	_
+9	prescrit	prescrire	VERB	_	_	9	ROOT	_	_
+10	la	le	DET	_	_	11	det	_	_
+11	surveillance	surveillance	NOUN	_	_	9	obj	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	la	le	DET	_	_	14	det	_	_
+14	qualité	qualité	NOUN	_	_	11	nmod	_	_
+15	des	de	ADP	_	_	16	case	_	_
+16	eaux	eau	NOUN	_	_	14	nmod	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	surface	surface	NOUN	_	_	16	nmod	_	_
+19	et	et	CCONJ	_	_	20	cc	_	_
+20	souterraines	souterrain	ADJ	_	_	18	conj	_	_
+21	.	.	PUNCT	_	_	9	punct	_	_
+
+
+#Il prévoit en parallèle :
+1	Il	il	PRON	_	_	2	nsubj	_	_
+2	prévoit	prévoir	VERB	_	_	2	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	parallèle	parallèle	NOUN	_	_	2	obl:mod	_	_
+5	:	:	PUNCT	_	_	2	punct	_	_
+
+
+#- la remise en état des lieux (enlèvement des ferrailles, etc.) ;
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	la	le	DET	_	_	3	det	_	_
+3	remise	remise	NOUN	_	_	3	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	état	état	NOUN	_	_	3	nmod	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	lieux	lieu	NOUN	_	_	5	nmod	_	_
+8	(	(	PUNCT	_	_	3	punct	_	_
+9	enlèvement	enlèvement	NOUN	_	_	3	appos	_	_
+10	des	de	ADP	_	_	11	case	_	_
+11	ferrailles	ferraille	NOUN	_	_	9	nmod	_	_
+12	,	,	PUNCT	_	_	9	punct	_	_
+13	etc.	etc.	ADV	_	_	3	advmod	_	_
+14	)	)	PUNCT	_	_	3	punct	_	_
+15	;	;	PUNCT	_	_	3	punct	_	_
+
+
+#- la mise en place de restrictions d'usage des sols, prenant en compte les vecteurs "sol", "eau" et/ou "chaîne alimentaire".
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	la	le	DET	_	_	3	det	_	_
+3	mise	mise	NOUN	_	_	3	ROOT	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	place	place	NOUN	_	_	3	nmod	_	_
+6	de	de	ADP	_	_	7	case	_	_
+7	restrictions	restriction	NOUN	_	_	3	nmod	_	_
+8	d'	de	ADP	_	_	9	case	_	_
+9	usage	usage	NOUN	_	_	7	nmod	_	_
+10	des	de	ADP	_	_	11	case	_	_
+11	sols	sol	NOUN	_	_	9	nmod	_	_
+12	,	,	PUNCT	_	_	3	punct	_	_
+13	prenant	prendre	VERB	_	_	3	acl	_	_
+14	en	en	ADP	_	_	15	case	_	_
+15	compte	compte	NOUN	_	_	13	obl:arg	_	_
+16	les	le	DET	_	_	17	det	_	_
+17	vecteurs	vecteur	NOUN	_	_	13	obj	_	_
+18	"	"	PUNCT	_	_	19	punct	_	_
+19	sol	sol	NOUN	_	_	17	nmod	_	_
+20	"	"	PUNCT	_	_	19	punct	_	_
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	"	"	PUNCT	_	_	23	punct	_	_
+23	eau	eau	NOUN	_	_	17	conj	_	_
+24	"	"	PUNCT	_	_	23	punct	_	_
+25	et	et	CCONJ	_	_	29	cc	_	_
+26	/	/	SYM	_	_	27	cc	_	_
+27	ou	ou	CCONJ	_	_	25	conj	_	_
+28	"	"	PUNCT	_	_	29	punct	_	_
+29	chaîne	chaîne	NOUN	_	_	23	conj	_	_
+30	alimentaire	alimentaire	ADJ	_	_	29	amod	_	_
+31	"	"	PUNCT	_	_	29	punct	_	_
+32	.	.	PUNCT	_	_	17	punct	_	_
+
+
+#Les servitudes ont été signées en avril 2004 (SCPE sous forme d'acte notarié) et ont été enregistrées au Conservatoire des Hypothèques le 16 juin 2004.
+1	Les	le	DET	_	_	2	det	_	_
+2	servitudes	servitude	NOUN	_	_	5	nsubj:pass	_	_
+3	ont	avoir	AUX	_	_	5	aux:tense	_	_
+4	été	être	AUX	_	_	5	aux:pass	_	_
+5	signées	signer	VERB	_	_	5	ROOT	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	avril	avril	NOUN	_	_	5	obl:mod	_	_
+8	2004	2004	NUM	_	_	7	nmod	_	_
+9	(	(	PUNCT	_	_	5	punct	_	_
+10	SCPE	scpe	NOUN	_	_	5	appos	_	_
+11	sous	sous	ADP	_	_	12	case	_	_
+12	forme	forme	NOUN	_	_	10	nmod	_	_
+13	d'	de	ADP	_	_	14	case	_	_
+14	acte	acte	NOUN	_	_	12	nmod	_	_
+15	notarié	notarié	ADJ	_	_	14	amod	_	_
+16	)	)	PUNCT	_	_	5	punct	_	_
+17	et	et	CCONJ	_	_	20	cc	_	_
+18	ont	avoir	AUX	_	_	20	aux:tense	_	_
+19	été	être	AUX	_	_	20	aux:pass	_	_
+20	enregistrées	enregistrer	VERB	_	_	5	conj	_	_
+21	au	au	ADP	_	_	22	case	_	_
+22	Conservatoire	conservatoire	NOUN	_	_	20	obl:mod	_	_
+23	des	de	ADP	_	_	24	case	_	_
+24	Hypothèques	hypothèque	NOUN	_	_	22	nmod	_	_
+25	le	le	DET	_	_	26	det	_	_
+26	16	16	NUM	_	_	20	obl:mod	_	_
+27	juin	juin	NOUN	_	_	26	nmod	_	_
+28	2004	2004	NUM	_	_	27	nmod	_	_
+29	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#Les résultats de l'autosurveillance des eaux souterraines d'avril 2004 montrent globalement une contamination limitée sans évolution significative ; à noter une amélioration sensible de la situation en HC au regard des résultats de la 2è campagne de 2003.
+1	Les	le	DET	_	_	2	det	_	_
+2	résultats	résultat	NOUN	_	_	12	nsubj	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	l'	le	DET	_	_	5	det	_	_
+5	autosurveillance	autosurveillance	NOUN	_	_	2	nmod	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	eaux	eau	NOUN	_	_	5	nmod	_	_
+8	souterraines	souterrain	ADJ	_	_	7	amod	_	_
+9	d'	de	ADP	_	_	10	case	_	_
+10	avril	avril	NOUN	_	_	5	nmod	_	_
+11	2004	2004	NUM	_	_	10	nmod	_	_
+12	montrent	montrer	VERB	_	_	12	ROOT	_	_
+13	globalement	globalement	ADV	_	_	12	advmod	_	_
+14	une	un	DET	_	_	15	det	_	_
+15	contamination	contamination	NOUN	_	_	12	obj	_	_
+16	limitée	limité	ADJ	_	_	15	amod	_	_
+17	sans	sans	ADP	_	_	18	case	_	_
+18	évolution	évolution	NOUN	_	_	15	nmod	_	_
+19	significative	significatif	ADJ	_	_	18	amod	_	_
+20	;	;	PUNCT	_	_	12	punct	_	_
+21	à	à	ADP	_	_	22	mark	_	_
+22	noter	noter	VERB	_	_	22	ROOT	_	_
+23	une	un	DET	_	_	24	det	_	_
+24	amélioration	amélioration	NOUN	_	_	22	obj	_	_
+25	sensible	sensible	ADJ	_	_	24	amod	_	_
+26	de	de	ADP	_	_	28	case	_	_
+27	la	le	DET	_	_	28	det	_	_
+28	situation	situation	NOUN	_	_	24	nmod	_	_
+29	en	en	ADP	_	_	30	case	_	_
+30	HC	hc	NOUN	_	_	28	nmod	_	_
+31	au	au	ADP	_	_	32	case	_	_
+32	regard	regard	NOUN	_	_	24	nmod	_	_
+33	des	de	ADP	_	_	34	case	_	_
+34	résultats	résultat	NOUN	_	_	32	nmod	_	_
+35	de	de	ADP	_	_	38	case	_	_
+36	la	le	DET	_	_	38	det	_	_
+37	2è	2è	ADJ	_	_	38	amod	_	_
+38	campagne	campagne	NOUN	_	_	34	nmod	_	_
+39	de	de	ADP	_	_	40	case	_	_
+40	2003	2003	NUM	_	_	38	nmod	_	_
+41	.	.	PUNCT	_	_	22	punct	_	_
+
+
+#La visite effectuée le 10 juin 2005 a permis de constater la bonne exécution et l'achèvement des opérations de remise en état du site.
+1	La	le	DET	_	_	2	det	_	_
+2	visite	visite	NOUN	_	_	9	nsubj	_	_
+3	effectuée	effectuer	VERB	_	_	2	acl	_	_
+4	le	le	DET	_	_	5	det	_	_
+5	10	10	NUM	_	_	3	obl:mod	_	_
+6	juin	juin	NOUN	_	_	5	nmod	_	_
+7	2005	2005	NUM	_	_	6	nmod	_	_
+8	a	avoir	AUX	_	_	9	aux:tense	_	_
+9	permis	permettre	VERB	_	_	9	ROOT	_	_
+10	de	de	ADP	_	_	11	mark	_	_
+11	constater	constater	VERB	_	_	9	xcomp	_	_
+12	la	le	DET	_	_	14	det	_	_
+13	bonne	bon	ADJ	_	_	14	amod	_	_
+14	exécution	exécution	NOUN	_	_	11	obj	_	_
+15	et	et	CCONJ	_	_	17	cc	_	_
+16	l'	le	DET	_	_	17	det	_	_
+17	achèvement	achèvement	NOUN	_	_	14	conj	_	_
+18	des	de	ADP	_	_	19	case	_	_
+19	opérations	opération	NOUN	_	_	14	nmod	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	remise	remise	NOUN	_	_	19	nmod	_	_
+22	en	en	ADP	_	_	23	case	_	_
+23	état	état	NOUN	_	_	21	nmod	_	_
+24	du	de	ADP	_	_	25	case	_	_
+25	site	site	NOUN	_	_	21	nmod	_	_
+26	.	.	PUNCT	_	_	9	punct	_	_
+
+
+#Le procès verbal de récolement a été établi le 21 septembre 2005.
+1	Le	le	DET	_	_	2	det	_	_
+2	procès	procès	NOUN	_	_	8	nsubj:pass	_	_
+3	verbal	verbal	ADJ	_	_	2	amod	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	récolement	récolement	NOUN	_	_	2	nmod	_	_
+6	a	avoir	AUX	_	_	8	aux:tense	_	_
+7	été	être	AUX	_	_	8	aux:pass	_	_
+8	établi	établir	VERB	_	_	8	ROOT	_	_
+9	le	le	DET	_	_	10	det	_	_
+10	21	21	NUM	_	_	8	obl:mod	_	_
+11	septembre	septembre	NOUN	_	_	10	nmod	_	_
+12	2005	2005	NUM	_	_	11	nmod	_	_
+13	.	.	NUM	_	_	8	punct	_	_
+
+
+#La surveillance des eaux superficielles et souterraines est maintenue.
+1	La	le	DET	_	_	2	det	_	_
+2	surveillance	surveillance	NOUN	_	_	9	nsubj:pass	_	_
+3	des	de	ADP	_	_	4	case	_	_
+4	eaux	eau	NOUN	_	_	2	nmod	_	_
+5	superficielles	superficiel	ADJ	_	_	4	amod	_	_
+6	et	et	CCONJ	_	_	7	cc	_	_
+7	souterraines	souterrain	ADJ	_	_	5	conj	_	_
+8	est	être	AUX	_	_	9	aux:pass	_	_
+9	maintenue	maintenir	VERB	_	_	9	ROOT	_	_
+10	.	.	PUNCT	_	_	9	punct	_	_
+
+
+#Le Plan d'Occupation des Sols (POS) applicable classe une partie des terrains en zone naturelle et une partie en zone à vocation d'habitat et activités compatibles avec l'habitat.
+1	Le	le	DET	_	_	2	det	_	_
+2	Plan	plan	NOUN	_	_	11	nsubj	_	_
+3	d'	de	ADP	_	_	4	case	_	_
+4	Occupation	occupation	NOUN	_	_	2	nmod	_	_
+5	des	de	ADP	_	_	6	case	_	_
+6	Sols	sol	NOUN	_	_	4	nmod	_	_
+7	(	(	PUNCT	_	_	2	punct	_	_
+8	POS	po	NOUN	_	_	2	appos	_	_
+9	)	)	PUNCT	_	_	2	punct	_	_
+10	applicable	applicable	ADJ	_	_	2	amod	_	_
+11	classe	classer	VERB	_	_	11	ROOT	_	_
+12	une	un	DET	_	_	13	det	_	_
+13	partie	partie	NOUN	_	_	11	obj	_	_
+14	des	de	ADP	_	_	15	case	_	_
+15	terrains	terrain	NOUN	_	_	13	nmod	_	_
+16	en	en	ADP	_	_	17	case	_	_
+17	zone	zone	NOUN	_	_	13	nmod	_	_
+18	naturelle	naturel	ADJ	_	_	17	amod	_	_
+19	et	et	CCONJ	_	_	21	cc	_	_
+20	une	un	DET	_	_	21	det	_	_
+21	partie	partie	NOUN	_	_	13	conj	_	_
+22	en	en	ADP	_	_	23	case	_	_
+23	zone	zone	NOUN	_	_	21	nmod	_	_
+24	à	à	ADP	_	_	25	case	_	_
+25	vocation	vocation	NOUN	_	_	23	nmod	_	_
+26	d'	de	ADP	_	_	27	case	_	_
+27	habitat	habitat	NOUN	_	_	25	nmod	_	_
+28	et	et	CCONJ	_	_	29	cc	_	_
+29	activités	activité	NOUN	_	_	23	conj	_	_
+30	compatibles	compatible	ADJ	_	_	29	amod	_	_
+31	avec	avec	ADP	_	_	33	case	_	_
+32	l'	le	DET	_	_	33	det	_	_
+33	habitat	habitat	NOUN	_	_	30	obl:arg	_	_
+34	.	.	PUNCT	_	_	11	punct	_	_
+
+
+#En 2015, le Plan Local d'Urbanisme est en cours d'élaboration et prévoit de classer le secteur à vocation résidentielle.
+1	En	en	ADP	_	_	2	case	_	_
+2	2015	2015	PUNCT	_	_	11	obl:mod	_	_
+3	,	,	PUNCT	_	_	11	punct	_	_
+4	le	le	DET	_	_	5	det	_	_
+5	Plan	plan	NOUN	_	_	11	nsubj	_	_
+6	Local	local	ADJ	_	_	5	amod	_	_
+7	d'	de	ADP	_	_	8	case	_	_
+8	Urbanisme	urbanisme	NOUN	_	_	5	nmod	_	_
+9	est	être	AUX	_	_	11	cop	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	cours	cours	NOUN	_	_	11	ROOT	_	_
+12	d'	de	ADP	_	_	13	case	_	_
+13	élaboration	élaboration	NOUN	_	_	11	nmod	_	_
+14	et	et	CCONJ	_	_	15	cc	_	_
+15	prévoit	prévoir	VERB	_	_	11	conj	_	_
+16	de	de	ADP	_	_	17	mark	_	_
+17	classer	classer	VERB	_	_	15	xcomp	_	_
+18	le	le	DET	_	_	19	det	_	_
+19	secteur	secteur	NOUN	_	_	17	obj	_	_
+20	à	à	ADP	_	_	21	case	_	_
+21	vocation	vocation	NOUN	_	_	19	nmod	_	_
+22	résidentielle	résidentiel	ADJ	_	_	21	amod	_	_
+23	.	.	PUNCT	_	_	11	punct	_	_
+
+
+#Cette requalification sera mise en œuvre après la levée des servitudes de restrictions d'usage.
+1	Cette	ce	DET	_	_	2	det	_	_
+2	requalification	requalification	NOUN	_	_	4	nsubj:pass	_	_
+3	sera	être	AUX	_	_	4	aux:pass	_	_
+4	mise	mettre	VERB	_	_	4	ROOT	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	œuvre	œuvre	NOUN	_	_	4	obl:arg	_	_
+7	après	après	ADP	_	_	9	case	_	_
+8	la	le	DET	_	_	9	det	_	_
+9	levée	levée	NOUN	_	_	4	obl:mod	_	_
+10	des	de	ADP	_	_	11	case	_	_
+11	servitudes	servitude	NOUN	_	_	9	nmod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	restrictions	restriction	NOUN	_	_	11	nmod	_	_
+14	d'	de	ADP	_	_	15	case	_	_
+15	usage	usage	NOUN	_	_	13	nmod	_	_
+16	.	.	PUNCT	_	_	4	punct	_	_
+
+
+#35.0022
+
+#La société VERON a été autorisée à exercer une activité d'effilochage de textiles et activité annexes (telles que blanchisserie, cassage des métaux, dépôt d'os et papiers usagés) par arrêté préfectoral du 10 février 1962.
+1	La	le	DET	_	_	2	det	_	_
+2	société	société	NOUN	_	_	6	nsubj:pass	_	_
+3	VERON	VERON	PROPN	_	_	2	flat:name	_	_
+4	a	avoir	AUX	_	_	6	aux:tense	_	_
+5	été	être	AUX	_	_	6	aux:pass	_	_
+6	autorisée	autoriser	VERB	_	_	6	ROOT	_	_
+7	à	à	ADP	_	_	8	mark	_	_
+8	exercer	exercer	VERB	_	_	6	xcomp	_	_
+9	une	un	DET	_	_	10	det	_	_
+10	activité	activité	NOUN	_	_	8	obj	_	_
+11	d'	de	ADP	_	_	12	case	_	_
+12	effilochage	effilochage	NOUN	_	_	10	nmod	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	textiles	textile	NOUN	_	_	12	nmod	_	_
+15	et	et	CCONJ	_	_	16	cc	_	_
+16	activité	activité	NOUN	_	_	12	conj	_	_
+17	annexes	annexe	ADJ	_	_	16	amod	_	_
+18	(	(	PUNCT	_	_	10	punct	_	_
+19	telles	tel	ADJ	_	_	10	amod	_	_
+20	que	que	SCONJ	_	_	21	mark	_	_
+21	blanchisserie	blanchisserie	NOUN	_	_	19	dep	_	_
+22	,	,	PUNCT	_	_	23	punct	_	_
+23	cassage	cassage	NOUN	_	_	21	conj	_	_
+24	des	de	ADP	_	_	25	case	_	_
+25	métaux	métal	NOUN	_	_	23	nmod	_	_
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	dépôt	dépôt	NOUN	_	_	21	conj	_	_
+28	d'	de	ADP	_	_	29	case	_	_
+29	os	os	NOUN	_	_	27	nmod	_	_
+30	et	et	CCONJ	_	_	31	cc	_	_
+31	papiers	papier	NOUN	_	_	29	conj	_	_
+32	usagés	usager	ADJ	_	_	31	amod	_	_
+33	)	)	PUNCT	_	_	10	punct	_	_
+34	par	par	ADP	_	_	35	case	_	_
+35	arrêté	arrêté	NOUN	_	_	8	obl:mod	_	_
+36	préfectoral	préfectoral	ADJ	_	_	35	amod	_	_
+37	du	de	ADP	_	_	38	case	_	_
+38	10	10	NUM	_	_	35	nmod	_	_
+39	février	février	NOUN	_	_	38	nmod	_	_
+40	1962	1962	NUM	_	_	39	nmod	_	_
+41	.	.	PUNCT	_	_	6	punct	_	_
+
+
+#Après 1995, la société SNC Les Baudières reprend l'activité sur le site.
+1	Après	après	ADP	_	_	2	case	_	_
+2	1995	1995	PUNCT	_	_	9	obl:mod	_	_
+3	,	,	PUNCT	_	_	9	punct	_	_
+4	la	le	DET	_	_	5	det	_	_
+5	société	société	NOUN	_	_	9	nsubj	_	_
+6	SNC	snc	NOUN	_	_	5	nmod	_	_
+7	Les	le	DET	_	_	8	det	_	_
+8	Baudières	Baudières	PROPN	_	_	5	nmod	_	_
+9	reprend	reprendre	VERB	_	_	9	ROOT	_	_
+10	l'	le	DET	_	_	11	det	_	_
+11	activité	activité	NOUN	_	_	9	obj	_	_
+12	sur	sur	ADP	_	_	14	case	_	_
+13	le	le	DET	_	_	14	det	_	_
+14	site	site	NOUN	_	_	9	obl:mod	_	_
+15	.	.	PUNCT	_	_	9	punct	_	_
+
+
+#La SNC Les Baudières a déclaré sa cessation d'activité en avril 2003.
+1	La	le	DET	_	_	2	det	_	_
+2	SNC	SNC	PROPN	_	_	6	nsubj	_	_
+3	Les	le	DET	_	_	4	det	_	_
+4	Baudières	Baudières	PROPN	_	_	6	nsubj	_	_
+5	a	avoir	AUX	_	_	6	aux:tense	_	_
+6	déclaré	déclarer	VERB	_	_	6	ROOT	_	_
+7	sa	son	DET	_	_	8	det	_	_
+8	cessation	cessation	NOUN	_	_	6	obj	_	_
+9	d'	de	ADP	_	_	10	case	_	_
+10	activité	activité	NOUN	_	_	8	nmod	_	_
+11	en	en	ADP	_	_	12	case	_	_
+12	avril	avril	NOUN	_	_	6	obl:mod	_	_
+13	2003	2003	NUM	_	_	12	nmod	_	_
+14	.	.	PUNCT	_	_	6	punct	_	_
+
+
+#A cette occasion, un diagnostic environnemental du site a été réalisé et mis en évidence une pollution des sols.
+1	A	à	ADP	_	_	3	case	_	_
+2	cette	ce	DET	_	_	3	det	_	_
+3	occasion	occasion	NOUN	_	_	12	obl:mod	_	_
+4	,	,	PUNCT	_	_	12	punct	_	_
+5	un	un	DET	_	_	6	det	_	_
+6	diagnostic	diagnostic	NOUN	_	_	12	nsubj:pass	_	_
+7	environnemental	environnemental	ADJ	_	_	6	amod	_	_
+8	du	de	ADP	_	_	9	case	_	_
+9	site	site	NOUN	_	_	6	nmod	_	_
+10	a	avoir	AUX	_	_	12	aux:tense	_	_
+11	été	être	AUX	_	_	12	aux:pass	_	_
+12	réalisé	réaliser	VERB	_	_	12	ROOT	_	_
+13	et	et	CCONJ	_	_	14	cc	_	_
+14	mis	mettre	VERB	_	_	12	conj	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	évidence	évidence	NOUN	_	_	14	obl:arg	_	_
+17	une	un	DET	_	_	18	det	_	_
+18	pollution	pollution	NOUN	_	_	12	obj	_	_
+19	des	de	ADP	_	_	20	case	_	_
+20	sols	sol	NOUN	_	_	18	nmod	_	_
+21	.	.	PUNCT	_	_	12	punct	_	_
+
+
+#La société Romi Recyclage a été autorisée à exercer, sur le site, une activité de transit de déchets industriels par arrêté préfectoral 25 janvier 2007.
+1	La	le	DET	_	_	2	det	_	_
+2	société	société	NOUN	_	_	7	nsubj:pass	_	_
+3	Romi	Romi	PROPN	_	_	2	appos	_	_
+4	Recyclage	Recyclage	PROPN	_	_	3	flat:name	_	_
+5	a	avoir	AUX	_	_	7	aux:tense	_	_
+6	été	être	AUX	_	_	7	aux:pass	_	_
+7	autorisée	autoriser	VERB	_	_	7	ROOT	_	_
+8	à	à	ADP	_	_	9	mark	_	_
+9	exercer	exercer	VERB	_	_	7	xcomp	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	sur	sur	ADP	_	_	13	case	_	_
+12	le	le	DET	_	_	13	det	_	_
+13	site	site	NOUN	_	_	9	obl:mod	_	_
+14	,	,	PUNCT	_	_	9	punct	_	_
+15	une	un	DET	_	_	16	det	_	_
+16	activité	activité	NOUN	_	_	9	obj	_	_
+17	de	de	ADP	_	_	18	case	_	_
+18	transit	transit	NOUN	_	_	16	nmod	_	_
+19	de	de	ADP	_	_	20	case	_	_
+20	déchets	déchet	NOUN	_	_	18	nmod	_	_
+21	industriels	industriel	ADJ	_	_	20	amod	_	_
+22	par	par	ADP	_	_	23	case	_	_
+23	arrêté	arrêté	NOUN	_	_	9	obl:mod	_	_
+24	préfectoral	préfectoral	ADJ	_	_	23	amod	_	_
+25	25	25	NUM	_	_	23	nmod	_	_
+26	janvier	janvier	NOUN	_	_	25	nmod	_	_
+27	2007	2007	NUM	_	_	26	nmod	_	_
+28	.	.	NUM	_	_	9	punct	_	_
+
+
+#L'arrêté préfectoral du 27 février 2009 complète ce premier arrêté en autorisant une activité de broyage de déchets encombrants.
+1	L'	le	DET	_	_	2	det	_	_
+2	arrêté	arrêté	NOUN	_	_	8	nsubj	_	_
+3	préfectoral	préfectoral	ADJ	_	_	2	amod	_	_
+4	du	de	ADP	_	_	5	case	_	_
+5	27	27	NUM	_	_	2	nmod	_	_
+6	février	février	NOUN	_	_	5	nmod	_	_
+7	2009	2009	NUM	_	_	6	nmod	_	_
+8	complète	compléter	VERB	_	_	8	ROOT	_	_
+9	ce	ce	DET	_	_	11	det	_	_
+10	premier	premier	ADJ	_	_	11	amod	_	_
+11	arrêté	arrêté	NOUN	_	_	8	obj	_	_
+12	en	en	ADP	_	_	13	mark	_	_
+13	autorisant	autoriser	VERB	_	_	8	advcl	_	_
+14	une	un	DET	_	_	15	det	_	_
+15	activité	activité	NOUN	_	_	13	obj	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	broyage	broyage	NOUN	_	_	15	nmod	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	déchets	déchet	NOUN	_	_	17	nmod	_	_
+20	encombrants	encombrant	ADJ	_	_	19	amod	_	_
+21	.	.	PUNCT	_	_	8	punct	_	_
+
+
+#Dans l'arrêté initial de 2007 figurent des restrictions d'usage.
+1	Dans	dans	ADP	_	_	3	case	_	_
+2	l'	le	DET	_	_	3	det	_	_
+3	arrêté	arrêté	NOUN	_	_	7	obl:mod	_	_
+4	initial	initial	ADJ	_	_	3	amod	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	2007	2007	NUM	_	_	3	nmod	_	_
+7	figurent	figurer	VERB	_	_	7	ROOT	_	_
+8	des	un	DET	_	_	9	det	_	_
+9	restrictions	restriction	NOUN	_	_	7	obj	_	_
+10	d'	de	ADP	_	_	11	case	_	_
+11	usage	usage	NOUN	_	_	9	nmod	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
+
+
+#La partie Nord du site a été remise en état et constatée par l'inspection des installations classées en novembre 2000 (parcelles EK88 et EK93).
+1	La	le	DET	_	_	2	det	_	_
+2	partie	partie	NOUN	_	_	8	nsubj:pass	_	_
+3	Nord	nord	NOUN	_	_	2	nmod	_	_
+4	du	de	ADP	_	_	5	case	_	_
+5	site	site	NOUN	_	_	2	nmod	_	_
+6	a	avoir	AUX	_	_	8	aux:tense	_	_
+7	été	être	AUX	_	_	8	aux:pass	_	_
+8	remise	remettre	VERB	_	_	8	ROOT	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	état	état	NOUN	_	_	8	obl:arg	_	_
+11	et	et	CCONJ	_	_	12	cc	_	_
+12	constatée	constater	VERB	_	_	8	conj	_	_
+13	par	par	ADP	_	_	15	case	_	_
+14	l'	le	DET	_	_	15	det	_	_
+15	inspection	inspection	NOUN	_	_	12	obl:agent	_	_
+16	des	de	ADP	_	_	17	case	_	_
+17	installations	installation	NOUN	_	_	15	nmod	_	_
+18	classées	classer	VERB	_	_	17	acl	_	_
+19	en	en	ADP	_	_	20	case	_	_
+20	novembre	novembre	NOUN	_	_	18	obl:mod	_	_
+21	2000	2000	NUM	_	_	20	nmod	_	_
+22	(	(	PUNCT	_	_	17	punct	_	_
+23	parcelles	parcelle	NOUN	_	_	17	appos	_	_
+24	EK88	ek88	NOUN	_	_	23	nmod	_	_
+25	et	et	CCONJ	_	_	26	cc	_	_
+26	EK93	ek93	NOUN	_	_	24	conj	_	_
+27	)	)	PUNCT	_	_	8	punct	_	_
+28	.	.	PUNCT	_	_	28	ROOT	_	_
+
+
+#L'arrêté préfectoral du 8 février 2001 prescrit la réalisation d'un diagnostic approfondi et d'une évaluation détaillée des risques (EDR) pour la partie Sud du site (parcelles EK72, EK 73 et EK 94).
+1	L'	le	DET	_	_	2	det	_	_
+2	arrêté	arrêté	NOUN	_	_	8	nsubj	_	_
+3	préfectoral	préfectoral	ADJ	_	_	2	amod	_	_
+4	du	de	ADP	_	_	5	case	_	_
+5	8	8	NUM	_	_	2	nmod	_	_
+6	février	février	NOUN	_	_	5	nmod	_	_
+7	2001	2001	NUM	_	_	6	nmod	_	_
+8	prescrit	prescrire	VERB	_	_	8	ROOT	_	_
+9	la	le	DET	_	_	10	det	_	_
+10	réalisation	réalisation	NOUN	_	_	8	obj	_	_
+11	d'	de	ADP	_	_	13	case	_	_
+12	un	un	DET	_	_	13	det	_	_
+13	diagnostic	diagnostic	NOUN	_	_	10	nmod	_	_
+14	approfondi	approfondi	ADJ	_	_	13	amod	_	_
+15	et	et	CCONJ	_	_	18	cc	_	_
+16	d'	de	ADP	_	_	18	case	_	_
+17	une	un	DET	_	_	18	det	_	_
+18	évaluation	évaluation	NOUN	_	_	13	conj	_	_
+19	détaillée	détaillé	ADJ	_	_	18	amod	_	_
+20	des	de	ADP	_	_	21	case	_	_
+21	risques	risque	NOUN	_	_	18	nmod	_	_
+22	(	(	PUNCT	_	_	18	punct	_	_
+23	EDR	edr	NOUN	_	_	18	appos	_	_
+24	)	)	PUNCT	_	_	18	punct	_	_
+25	pour	pour	ADP	_	_	27	case	_	_
+26	la	le	DET	_	_	27	det	_	_
+27	partie	partie	NOUN	_	_	10	nmod	_	_
+28	Sud	Sud	NUM	_	_	27	nmod	_	_
+29	du	de	ADP	_	_	30	case	_	_
+30	site	site	NOUN	_	_	27	nmod	_	_
+31	(	(	PUNCT	_	_	27	punct	_	_
+32	parcelles	parcelle	NOUN	_	_	27	appos	_	_
+33	EK72	ek72	NOUN	_	_	32	nmod	_	_
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	EK	ek	NOUN	_	_	32	conj	_	_
+36	73	73	NUM	_	_	35	nummod	_	_
+37	et	et	CCONJ	_	_	38	cc	_	_
+38	EK	ek	NOUN	_	_	32	conj	_	_
+39	94	94	NUM	_	_	38	nummod	_	_
+40	)	)	PUNCT	_	_	27	punct	_	_
+41	.	.	PUNCT	_	_	8	punct	_	_
+
+
+#Le diagnostic environnemental a mis en évidence une pollution des sols par des hydrocarbures totaux (HCT), des hydrocarbures aromatiques (HAP) et des PCB, due à la première activité exercée sur le site.
+1	Le	le	DET	_	_	2	det	_	_
+2	diagnostic	diagnostic	NOUN	_	_	5	nsubj	_	_
+3	environnemental	environnemental	ADJ	_	_	2	amod	_	_
+4	a	avoir	AUX	_	_	5	aux:tense	_	_
+5	mis	mettre	VERB	_	_	5	ROOT	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	évidence	évidence	NOUN	_	_	5	obl:arg	_	_
+8	une	un	DET	_	_	9	det	_	_
+9	pollution	pollution	NOUN	_	_	5	obj	_	_
+10	des	de	ADP	_	_	11	case	_	_
+11	sols	sol	NOUN	_	_	9	nmod	_	_
+12	par	par	ADP	_	_	14	case	_	_
+13	des	un	DET	_	_	14	det	_	_
+14	hydrocarbures	hydrocarbure	NOUN	_	_	9	nmod	_	_
+15	totaux	total	ADJ	_	_	14	amod	_	_
+16	(	(	PUNCT	_	_	14	punct	_	_
+17	HCT	hct	NOUN	_	_	14	appos	_	_
+18	)	)	PUNCT	_	_	14	punct	_	_
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	des	un	DET	_	_	21	det	_	_
+21	hydrocarbures	hydrocarbure	NOUN	_	_	9	conj	_	_
+22	aromatiques	aromatique	ADJ	_	_	21	amod	_	_
+23	(	(	PUNCT	_	_	21	punct	_	_
+24	HAP	hap	NOUN	_	_	21	appos	_	_
+25	)	)	PUNCT	_	_	21	punct	_	_
+26	et	et	CCONJ	_	_	28	cc	_	_
+27	des	un	DET	_	_	28	det	_	_
+28	PCB	pcb	NOUN	_	_	21	conj	_	_
+29	,	,	PUNCT	_	_	9	punct	_	_
+30	due	devoir	ADJ	_	_	9	amod	_	_
+31	à	à	ADP	_	_	34	case	_	_
+32	la	le	DET	_	_	34	det	_	_
+33	première	premier	ADJ	_	_	34	amod	_	_
+34	activité	activité	NOUN	_	_	30	obl:arg	_	_
+35	exercée	exercer	VERB	_	_	34	acl	_	_
+36	sur	sur	ADP	_	_	38	case	_	_
+37	le	le	DET	_	_	38	det	_	_
+38	site	site	NOUN	_	_	35	obl:mod	_	_
+39	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#L'EDR a permis de mettre en évidence :
+1	L'	le	DET	_	_	2	det	_	_
+2	EDR	EDR	PROPN	_	_	4	nsubj	_	_
+3	a	avoir	AUX	_	_	4	aux:tense	_	_
+4	permis	permettre	VERB	_	_	4	ROOT	_	_
+5	de	de	ADP	_	_	6	mark	_	_
+6	mettre	mettre	VERB	_	_	4	xcomp	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	évidence	évidence	NOUN	_	_	6	obl:arg	_	_
+9	:	:	PUNCT	_	_	4	punct	_	_
+
+
+#- la présence d'une couche polluée en profondeur par des hydrocarbures et ponctuellement par des PCB, du plomb et du zinc ;
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	la	le	DET	_	_	3	det	_	_
+3	présence	présence	NOUN	_	_	3	ROOT	_	_
+4	d'	de	ADP	_	_	6	case	_	_
+5	une	un	DET	_	_	6	det	_	_
+6	couche	couche	NOUN	_	_	3	nmod	_	_
+7	polluée	polluer	VERB	_	_	6	acl	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	profondeur	profondeur	NOUN	_	_	7	obl:mod	_	_
+10	par	par	ADP	_	_	12	case	_	_
+11	des	un	DET	_	_	12	det	_	_
+12	hydrocarbures	hydrocarbure	NOUN	_	_	7	obl:agent	_	_
+13	et	et	CCONJ	_	_	14	cc	_	_
+14	ponctuellement	ponctuellement	ADV	_	_	17	advmod	_	_
+15	par	par	ADP	_	_	17	case	_	_
+16	des	un	DET	_	_	17	det	_	_
+17	PCB	pcb	NOUN	_	_	12	nmod	_	_
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	du	de	DET	_	_	20	det	_	_
+20	plomb	plomb	NOUN	_	_	17	conj	_	_
+21	et	et	CCONJ	_	_	23	cc	_	_
+22	du	de	DET	_	_	23	det	_	_
+23	zinc	zinc	NOUN	_	_	17	conj	_	_
+24	;	;	PUNCT	_	_	3	punct	_	_
+
+
+#- la présence d'une pollution de surface en arsenic, plomb, chrome, cuivre et nickel ;
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	la	le	DET	_	_	3	det	_	_
+3	présence	présence	NOUN	_	_	3	ROOT	_	_
+4	d'	de	ADP	_	_	6	case	_	_
+5	une	un	DET	_	_	6	det	_	_
+6	pollution	pollution	NOUN	_	_	3	nmod	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	surface	surface	NOUN	_	_	6	nmod	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	arsenic	arsenic	NOUN	_	_	6	nmod	_	_
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	plomb	plomb	NOUN	_	_	10	conj	_	_
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	chrome	chrome	NOUN	_	_	10	conj	_	_
+15	,	,	PUNCT	_	_	16	punct	_	_
+16	cuivre	cuivre	NOUN	_	_	10	conj	_	_
+17	et	et	CCONJ	_	_	18	cc	_	_
+18	nickel	nickel	NOUN	_	_	10	conj	_	_
+19	;	;	PUNCT	_	_	3	punct	_	_
+
+
+#- la présence de toluène et benzène dans l'air du sol ;
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	la	le	DET	_	_	3	det	_	_
+3	présence	présence	NOUN	_	_	3	ROOT	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	toluène	toluène	NOUN	_	_	3	nmod	_	_
+6	et	et	CCONJ	_	_	7	cc	_	_
+7	benzène	benzène	NOUN	_	_	5	conj	_	_
+8	dans	dans	ADP	_	_	10	case	_	_
+9	l'	le	DET	_	_	10	det	_	_
+10	air	air	NOUN	_	_	3	nmod	_	_
+11	du	de	ADP	_	_	12	case	_	_
+12	sol	sol	NOUN	_	_	10	nmod	_	_
+13	;	;	PUNCT	_	_	3	punct	_	_
+
+
+#- la présence d'HCT dans le piézomètre aval.
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	la	le	DET	_	_	3	det	_	_
+3	présence	présence	NOUN	_	_	3	ROOT	_	_
+4	d'	de	ADP	_	_	5	case	_	_
+5	HCT	hct	NOUN	_	_	3	nmod	_	_
+6	dans	dans	ADP	_	_	8	case	_	_
+7	le	le	DET	_	_	8	det	_	_
+8	piézomètre	piézomètre	NOUN	_	_	3	nmod	_	_
+9	aval	aval	NOUN	_	_	8	nmod	_	_
+10	.	.	PUNCT	_	_	3	punct	_	_
+
+
+#L'EDR conclut en un risque cancérigène sur l'ensemble du site pour un usage industriel, essentiellement lié à la présence d'arsenic sur une zone superficielle du site.
+1	L'	le	DET	_	_	2	det	_	_
+2	EDR	edr	NOUN	_	_	3	nsubj	_	_
+3	conclut	conclure	VERB	_	_	3	ROOT	_	_
+4	en	en	ADP	_	_	6	case	_	_
+5	un	un	DET	_	_	6	det	_	_
+6	risque	risque	NOUN	_	_	3	obl:arg	_	_
+7	cancérigène	cancérigène	ADJ	_	_	6	amod	_	_
+8	sur	sur	ADP	_	_	10	case	_	_
+9	l'	le	DET	_	_	10	det	_	_
+10	ensemble	ensemble	NOUN	_	_	6	nmod	_	_
+11	du	de	ADP	_	_	12	case	_	_
+12	site	site	NOUN	_	_	10	nmod	_	_
+13	pour	pour	ADP	_	_	15	case	_	_
+14	un	un	DET	_	_	15	det	_	_
+15	usage	usage	NOUN	_	_	3	obl:mod	_	_
+16	industriel	industriel	ADJ	_	_	15	amod	_	_
+17	,	,	PUNCT	_	_	15	punct	_	_
+18	essentiellement	essentiellement	ADV	_	_	19	advmod	_	_
+19	lié	lier	VERB	_	_	15	acl	_	_
+20	à	à	ADP	_	_	22	case	_	_
+21	la	le	DET	_	_	22	det	_	_
+22	présence	présence	NOUN	_	_	19	obl:arg	_	_
+23	d'	de	ADP	_	_	24	case	_	_
+24	arsenic	arsenic	NOUN	_	_	22	nmod	_	_
+25	sur	sur	ADP	_	_	27	case	_	_
+26	une	un	DET	_	_	27	det	_	_
+27	zone	zone	NOUN	_	_	22	nmod	_	_
+28	superficielle	superficiel	ADJ	_	_	27	amod	_	_
+29	du	de	ADP	_	_	30	case	_	_
+30	site	site	NOUN	_	_	27	nmod	_	_
+31	.	.	PUNCT	_	_	3	punct	_	_
+
+
+#La SNC Les Baudières a donc excavé les terres polluées et remblayé la zone par des matériaux non pollués.
+1	La	le	DET	_	_	2	det	_	_
+2	SNC	SNC	PROPN	_	_	7	dep	_	_
+3	Les	le	DET	_	_	4	det	_	_
+4	Baudières	Baudières	PROPN	_	_	7	nsubj	_	_
+5	a	avoir	AUX	_	_	7	aux:tense	_	_
+6	donc	donc	ADV	_	_	7	advmod	_	_
+7	excavé	excaver	VERB	_	_	7	ROOT	_	_
+8	les	le	DET	_	_	9	det	_	_
+9	terres	terre	NOUN	_	_	7	obj	_	_
+10	polluées	polluer	VERB	_	_	9	acl	_	_
+11	et	et	CCONJ	_	_	12	cc	_	_
+12	remblayé	remblayer	VERB	_	_	7	conj	_	_
+13	la	le	DET	_	_	14	det	_	_
+14	zone	zone	NOUN	_	_	12	obj	_	_
+15	par	par	ADP	_	_	17	case	_	_
+16	des	un	DET	_	_	17	det	_	_
+17	matériaux	matériau	NOUN	_	_	12	obl:mod	_	_
+18	non	non	ADV	_	_	19	advmod	_	_
+19	pollués	polluer	VERB	_	_	17	acl	_	_
+20	.	.	PUNCT	_	_	7	punct	_	_
+
+
+#Toutefois, une pollution résiduelle en arsenic est présente sous la couche de terre saine.
+1	Toutefois	toutefois	ADV	_	_	9	advmod	_	_
+2	,	,	PUNCT	_	_	9	punct	_	_
+3	une	un	DET	_	_	4	det	_	_
+4	pollution	pollution	NOUN	_	_	9	nsubj	_	_
+5	résiduelle	résiduel	ADJ	_	_	4	amod	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	arsenic	arsenic	PROPN	_	_	4	nmod	_	_
+8	est	être	AUX	_	_	9	cop	_	_
+9	présente	présent	ADJ	_	_	9	ROOT	_	_
+10	sous	sous	ADP	_	_	12	case	_	_
+11	la	le	DET	_	_	12	det	_	_
+12	couche	couche	NOUN	_	_	9	obl:mod	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	terre	terre	NOUN	_	_	12	nmod	_	_
+15	saine	sain	ADJ	_	_	14	amod	_	_
+16	.	.	PUNCT	_	_	9	punct	_	_
+
+
+#Des restrictions d'usage ont été prises pour tenir compte de cette pollution dans l'arrêté préfectoral de la nouvelle installation autorisée sur le site (société Romi Recyclage).
+1	Des	un	DET	_	_	2	det	_	_
+2	restrictions	restriction	NOUN	_	_	7	nsubj:pass	_	_
+3	d'	de	ADP	_	_	4	case	_	_
+4	usage	usage	NOUN	_	_	2	nmod	_	_
+5	ont	avoir	AUX	_	_	7	aux:tense	_	_
+6	été	être	AUX	_	_	7	aux:pass	_	_
+7	prises	prendre	VERB	_	_	7	ROOT	_	_
+8	pour	pour	ADP	_	_	9	mark	_	_
+9	tenir	tenir	VERB	_	_	7	advcl	_	_
+10	compte	compte	NOUN	_	_	9	obj	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	cette	ce	DET	_	_	13	det	_	_
+13	pollution	pollution	NOUN	_	_	9	obl:arg	_	_
+14	dans	dans	ADP	_	_	16	case	_	_
+15	l'	le	DET	_	_	16	det	_	_
+16	arrêté	arrêté	NOUN	_	_	7	obl:mod	_	_
+17	préfectoral	préfectoral	ADJ	_	_	16	amod	_	_
+18	de	de	ADP	_	_	21	case	_	_
+19	la	le	DET	_	_	21	det	_	_
+20	nouvelle	nouveau	ADJ	_	_	21	amod	_	_
+21	installation	installation	NOUN	_	_	16	nmod	_	_
+22	autorisée	autoriser	VERB	_	_	21	acl	_	_
+23	sur	sur	ADP	_	_	25	case	_	_
+24	le	le	DET	_	_	25	det	_	_
+25	site	site	NOUN	_	_	22	obl:mod	_	_
+26	(	(	PUNCT	_	_	21	punct	_	_
+27	société	société	NOUN	_	_	21	appos	_	_
+28	Romi	Romi	PROPN	_	_	27	nmod	_	_
+29	Recyclage	Recyclage	PROPN	_	_	28	flat:name	_	_
+30	)	)	PUNCT	_	_	21	punct	_	_
+31	.	.	PUNCT	_	_	7	punct	_	_
+
+
+#L'arrêté préfectoral du 10 mai 2004 prescrit la surveillance des eaux souterraines :
+1	L'	le	DET	_	_	2	det	_	_
+2	arrêté	arrêté	NOUN	_	_	8	nsubj	_	_
+3	préfectoral	préfectoral	ADJ	_	_	2	amod	_	_
+4	du	de	ADP	_	_	5	case	_	_
+5	10	10	NUM	_	_	2	nmod	_	_
+6	mai	mai	NOUN	_	_	5	nmod	_	_
+7	2004	2004	NUM	_	_	6	nmod	_	_
+8	prescrit	prescrire	VERB	_	_	8	ROOT	_	_
+9	la	le	DET	_	_	10	det	_	_
+10	surveillance	surveillance	NOUN	_	_	8	obj	_	_
+11	des	de	ADP	_	_	12	case	_	_
+12	eaux	eau	NOUN	_	_	10	nmod	_	_
+13	souterraines	souterrain	ADJ	_	_	12	amod	_	_
+14	:	:	PUNCT	_	_	8	punct	_	_
+
+
+#- 2 fois par an,
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	2	2	NUM	_	_	3	nummod	_	_
+3	fois	fois	NOUN	_	_	3	ROOT	_	_
+4	par	par	ADP	_	_	5	case	_	_
+5	an	an	NOUN	_	_	3	nmod	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+
+
+#- par 5 piézomètres,
+1	-	-	PUNCT	_	_	5	punct	_	_
+2	par	par	ADP	_	_	4	case	_	_
+3	5	5	NUM	_	_	4	nummod	_	_
+4	piézomètres	piézomètre	NOUN	_	_	5	obl:mod	_	_
+5	,	,	PUNCT	_	_	5	ROOT	_	_
+
+
+#- pour les paramètres PCB,hydrocarbures totaux (C10-C40), hydrocarbures aromatiques polycycliques (HAP), métaux lourds (chrome, zinc, plomb, arsenic).
+1	-	-	PUNCT	_	_	4	punct	_	_
+2	pour	pour	ADP	_	_	4	case	_	_
+3	les	le	DET	_	_	4	det	_	_
+4	paramètres	paramètre	NOUN	_	_	4	ROOT	_	_
+5	PCB	pcb	NOUN	_	_	4	nmod	_	_
+6	,	,	PUNCT	_	_	4	punct	_	_
+7	hydrocarbures	hydrocarbure	NOUN	_	_	4	nmod	_	_
+8	totaux	total	ADJ	_	_	7	amod	_	_
+9	(	(	PUNCT	_	_	7	punct	_	_
+10	C10-C40	c10-c40	NOUN	_	_	7	appos	_	_
+11	)	)	PUNCT	_	_	7	punct	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	hydrocarbures	hydrocarbure	NOUN	_	_	7	conj	_	_
+14	aromatiques	aromatique	ADJ	_	_	13	amod	_	_
+15	polycycliques	polycyclique	ADJ	_	_	13	amod	_	_
+16	(	(	PUNCT	_	_	13	punct	_	_
+17	HAP	hap	NOUN	_	_	13	appos	_	_
+18	)	)	PUNCT	_	_	13	punct	_	_
+19	,	,	PUNCT	_	_	20	punct	_	_
+20	métaux	métal	NOUN	_	_	4	conj	_	_
+21	lourds	lourd	ADJ	_	_	20	amod	_	_
+22	(	(	PUNCT	_	_	20	punct	_	_
+23	chrome	chrome	NOUN	_	_	20	appos	_	_
+24	,	,	PUNCT	_	_	25	punct	_	_
+25	zinc	zinc	NOUN	_	_	23	conj	_	_
+26	,	,	PUNCT	_	_	27	punct	_	_
+27	plomb	plomb	NOUN	_	_	23	conj	_	_
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	arsenic	arsenic	PROPN	_	_	23	conj	_	_
+30	)	)	PUNCT	_	_	20	punct	_	_
+31	.	.	PUNCT	_	_	4	punct	_	_
+
+
+#Les résultats des analyses des eaux souterraines mettent en évidence, de 2006 à 2011 :
+1	Les	le	DET	_	_	2	det	_	_
+2	résultats	résultat	NOUN	_	_	8	nsubj	_	_
+3	des	de	ADP	_	_	4	case	_	_
+4	analyses	analyse	NOUN	_	_	2	nmod	_	_
+5	des	de	ADP	_	_	6	case	_	_
+6	eaux	eau	NOUN	_	_	4	nmod	_	_
+7	souterraines	souterrain	ADJ	_	_	6	amod	_	_
+8	mettent	mettre	VERB	_	_	8	ROOT	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	évidence	évidence	NOUN	_	_	8	obl:arg	_	_
+11	,	,	PUNCT	_	_	8	punct	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	2006	2006	NUM	_	_	8	obl:mod	_	_
+14	à	à	ADP	_	_	15	case	_	_
+15	2011	2011	NUM	_	_	13	nmod	_	_
+16	:	:	PUNCT	_	_	8	punct	_	_
+
+
+#- pour les hydrocarbures : des teneurs relativement faibles, voire inférieures aux limites de quantification, avec une augmentation significative ponctuelle pour un piézomètre ;
+1	-	-	PUNCT	_	_	4	punct	_	_
+2	pour	pour	ADP	_	_	4	case	_	_
+3	les	le	DET	_	_	4	det	_	_
+4	hydrocarbures	hydrocarbure	NOUN	_	_	4	ROOT	_	_
+5	:	:	PUNCT	_	_	4	punct	_	_
+6	des	un	DET	_	_	7	det	_	_
+7	teneurs	teneur	NOUN	_	_	4	dep	_	_
+8	relativement	relativement	ADV	_	_	9	advmod	_	_
+9	faibles	faible	ADJ	_	_	7	amod	_	_
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	voire	voire	CCONJ	_	_	12	cc	_	_
+12	inférieures	inférieur	ADJ	_	_	9	conj	_	_
+13	aux	à	ADP	_	_	14	case	_	_
+14	limites	limite	NOUN	_	_	12	obl:arg	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	quantification	quantification	NOUN	_	_	14	nmod	_	_
+17	,	,	PUNCT	_	_	7	punct	_	_
+18	avec	avec	ADP	_	_	20	case	_	_
+19	une	un	DET	_	_	20	det	_	_
+20	augmentation	augmentation	NOUN	_	_	7	nmod	_	_
+21	significative	significatif	ADJ	_	_	20	amod	_	_
+22	ponctuelle	ponctuel	ADJ	_	_	20	amod	_	_
+23	pour	pour	ADP	_	_	25	case	_	_
+24	un	un	DET	_	_	25	det	_	_
+25	piézomètre	piézomètre	NOUN	_	_	20	nmod	_	_
+26	;	;	PUNCT	_	_	4	punct	_	_
+
+
+#- pour les HAP : apparition en 2008, notamment du naphtalène et de l'acénaphtylène et le dépassement des limites pour les eaux potables en ce qui concerne la somme d'HAP en 2010 ;
+1	-	-	PUNCT	_	_	6	punct	_	_
+2	pour	pour	ADP	_	_	4	case	_	_
+3	les	le	DET	_	_	4	det	_	_
+4	HAP	hap	NOUN	_	_	6	nmod	_	_
+5	:	:	PUNCT	_	_	6	punct	_	_
+6	apparition	apparition	NOUN	_	_	6	ROOT	_	_
+7	en	en	ADP	_	_	8	case	_	_
+8	2008	2008	NUM	_	_	6	nmod	_	_
+9	,	,	NUM	_	_	6	punct	_	_
+10	notamment	notamment	ADV	_	_	12	advmod	_	_
+11	du	de	DET	_	_	12	det	_	_
+12	naphtalène	naphtalène	NOUN	_	_	6	nmod	_	_
+13	et	et	CCONJ	_	_	16	cc	_	_
+14	de	de	ADP	_	_	16	det	_	_
+15	l'	le	DET	_	_	14	fixed	_	_
+16	acénaphtylène	acénaphtylène	NOUN	_	_	12	conj	_	_
+17	et	et	CCONJ	_	_	19	cc	_	_
+18	le	le	DET	_	_	19	det	_	_
+19	dépassement	dépassement	NOUN	_	_	6	conj	_	_
+20	des	de	ADP	_	_	21	case	_	_
+21	limites	limite	NOUN	_	_	19	nmod	_	_
+22	pour	pour	ADP	_	_	24	case	_	_
+23	les	le	DET	_	_	24	det	_	_
+24	eaux	eau	NOUN	_	_	19	nmod	_	_
+25	potables	potable	ADJ	_	_	24	amod	_	_
+26	en	en	ADP	_	_	31	case	_	_
+27	ce	ce	PRON	_	_	26	fixed	_	_
+28	qui	qui	PRON	_	_	26	fixed	_	_
+29	concerne	concerne	VERB	_	_	26	fixed	_	_
+30	la	le	DET	_	_	31	det	_	_
+31	somme	somme	NOUN	_	_	6	nmod	_	_
+32	d'	de	ADP	_	_	33	case	_	_
+33	HAP	hap	NOUN	_	_	31	nmod	_	_
+34	en	en	ADP	_	_	35	case	_	_
+35	2010	2010	NUM	_	_	31	nmod	_	_
+36	;	;	PUNCT	_	_	6	punct	_	_
+
+
+#- pour les PCB : teneurs inférieures aux limites de quantification (présence ponctuelle de PCB à l’état de traces dans un piézomètre),
+1	-	-	PUNCT	_	_	4	punct	_	_
+2	pour	pour	ADP	_	_	4	case	_	_
+3	les	le	DET	_	_	4	det	_	_
+4	PCB	pcb	NOUN	_	_	4	ROOT	_	_
+5	:	:	PUNCT	_	_	4	punct	_	_
+6	teneurs	teneur	NOUN	_	_	4	appos	_	_
+7	inférieures	inférieur	ADJ	_	_	6	amod	_	_
+8	aux	à	ADP	_	_	9	case	_	_
+9	limites	limite	NOUN	_	_	6	nmod	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	quantification	quantification	NOUN	_	_	9	nmod	_	_
+12	(	(	PUNCT	_	_	4	punct	_	_
+13	présence	présence	NOUN	_	_	4	appos	_	_
+14	ponctuelle	ponctuel	ADJ	_	_	13	amod	_	_
+15	de	de	ADP	_	_	16	case	_	_
+16	PCB	pcb	NOUN	_	_	13	nmod	_	_
+17	à	à	ADP	_	_	19	case	_	_
+18	l’	l’	DET	_	_	19	det	_	_
+19	état	état	NOUN	_	_	13	nmod	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	traces	trace	NOUN	_	_	19	nmod	_	_
+22	dans	dans	ADP	_	_	24	case	_	_
+23	un	un	DET	_	_	24	det	_	_
+24	piézomètre	piézomètre	NOUN	_	_	13	nmod	_	_
+25	)	)	PUNCT	_	_	4	punct	_	_
+26	,	,	PUNCT	_	_	4	punct	_	_
+
+
+#- pour les éléments traces métalliques : l’apparition de concentrations significatives en 2008 pour l’arsenic et en 2009 pour le zinc, puis une tendance nette à la diminution pour ces deux paramètres.
+1	-	-	PUNCT	_	_	9	punct	_	_
+2	pour	pour	ADP	_	_	4	case	_	_
+3	les	le	DET	_	_	4	det	_	_
+4	éléments	élément	NOUN	_	_	9	nmod	_	_
+5	traces	trace	NOUN	_	_	4	nmod	_	_
+6	métalliques	métallique	ADJ	_	_	4	amod	_	_
+7	:	:	PUNCT	_	_	4	punct	_	_
+8	l’	l’	DET	_	_	9	det	_	_
+9	apparition	apparition	NOUN	_	_	9	ROOT	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	concentrations	concentration	NOUN	_	_	9	nmod	_	_
+12	significatives	significatif	ADJ	_	_	11	amod	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	2008	2008	NUM	_	_	9	nmod	_	_
+15	pour	pour	ADP	_	_	17	case	_	_
+16	l’	l’	DET	_	_	17	det	_	_
+17	arsenic	arsenic	NOUN	_	_	14	nmod	_	_
+18	et	et	CCONJ	_	_	20	cc	_	_
+19	en	en	ADP	_	_	20	case	_	_
+20	2009	2009	NUM	_	_	14	conj	_	_
+21	pour	pour	ADP	_	_	23	case	_	_
+22	le	le	DET	_	_	23	det	_	_
+23	zinc	zinc	NOUN	_	_	20	nmod	_	_
+24	,	,	PUNCT	_	_	9	punct	_	_
+25	puis	puis	CCONJ	_	_	27	cc	_	_
+26	une	un	DET	_	_	27	det	_	_
+27	tendance	tendance	NOUN	_	_	9	conj	_	_
+28	nette	net	ADJ	_	_	27	amod	_	_
+29	à	à	ADP	_	_	31	case	_	_
+30	la	le	DET	_	_	31	det	_	_
+31	diminution	diminution	NOUN	_	_	27	nmod	_	_
+32	pour	pour	ADP	_	_	35	case	_	_
+33	ces	ce	DET	_	_	35	det	_	_
+34	deux	deux	NUM	_	_	35	nummod	_	_
+35	paramètres	paramètre	NOUN	_	_	27	nmod	_	_
+36	.	.	PUNCT	_	_	9	punct	_	_
+
+
+#56.0027
+
+#La société Bar Station LE DOUARIN a été autorisé à exploiter une station service (dépôt d'hydrocarbures liquides) par récépissé de déclaration du 31 janvier 1977.
+1	La	le	DET	_	_	2	det	_	_
+2	société	société	NOUN	_	_	9	nsubj:pass	_	_
+3	Bar	Bar	PROPN	_	_	2	nmod	_	_
+4	Station	station	NOUN	_	_	2	nmod	_	_
+5	LE	le	DET	_	_	6	det	_	_
+6	DOUARIN	DOUARIN	PROPN	_	_	2	nmod	_	_
+7	a	avoir	AUX	_	_	9	aux:tense	_	_
+8	été	être	AUX	_	_	9	aux:pass	_	_
+9	autorisé	autoriser	VERB	_	_	9	ROOT	_	_
+10	à	à	ADP	_	_	11	mark	_	_
+11	exploiter	exploiter	VERB	_	_	9	xcomp	_	_
+12	une	un	DET	_	_	13	det	_	_
+13	station	station	NOUN	_	_	11	obj	_	_
+14	service	service	NOUN	_	_	13	nmod	_	_
+15	(	(	PUNCT	_	_	13	punct	_	_
+16	dépôt	dépôt	NOUN	_	_	13	appos	_	_
+17	d'	de	ADP	_	_	18	case	_	_
+18	hydrocarbures	hydrocarbure	NOUN	_	_	16	nmod	_	_
+19	liquides	liquide	ADJ	_	_	18	amod	_	_
+20	)	)	PUNCT	_	_	13	punct	_	_
+21	par	par	ADP	_	_	22	case	_	_
+22	récépissé	récépissé	NOUN	_	_	11	obl:mod	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	déclaration	déclaration	NOUN	_	_	22	nmod	_	_
+25	du	de	ADP	_	_	26	case	_	_
+26	31	31	NUM	_	_	24	nmod	_	_
+27	janvier	janvier	NOUN	_	_	26	nmod	_	_
+28	1977	1977	NUM	_	_	27	nmod	_	_
+29	.	.	PUNCT	_	_	9	punct	_	_
+
+
+#Mais il semblerait que le même type d'activité existait sur le site depuis les années 1920.
+1	Mais	mais	CCONJ	_	_	3	cc	_	_
+2	il	il	PRON	_	_	3	expl:subj	_	_
+3	semblerait	sembler	VERB	_	_	3	ROOT	_	_
+4	que	que	SCONJ	_	_	10	mark	_	_
+5	le	le	DET	_	_	7	det	_	_
+6	même	même	ADJ	_	_	7	amod	_	_
+7	type	type	NOUN	_	_	10	nsubj	_	_
+8	d'	de	ADP	_	_	9	case	_	_
+9	activité	activité	NOUN	_	_	7	nmod	_	_
+10	existait	exister	VERB	_	_	3	ccomp	_	_
+11	sur	sur	ADP	_	_	13	case	_	_
+12	le	le	DET	_	_	13	det	_	_
+13	site	site	NOUN	_	_	10	obl:mod	_	_
+14	depuis	depuis	ADP	_	_	16	case	_	_
+15	les	le	DET	_	_	16	det	_	_
+16	années	année	NOUN	_	_	10	obl:mod	_	_
+17	1920	1920	NUM	_	_	16	nummod	_	_
+18	.	.	PUNCT	_	_	3	punct	_	_
+
+
+#L'activité a cessé vers 1985-1986, sans déclaration.
+1	L'	le	DET	_	_	2	det	_	_
+2	activité	activité	NOUN	_	_	4	nsubj	_	_
+3	a	avoir	AUX	_	_	4	aux:tense	_	_
+4	cessé	cesser	VERB	_	_	4	ROOT	_	_
+5	vers	vers	ADP	_	_	6	case	_	_
+6	1985	1985	NOUN	_	_	4	obl:mod	_	_
+7	-	-	NOUN	_	_	4	obl:mod	_	_
+8	1986	1986	NOUN	_	_	4	obl:mod	_	_
+9	,	,	PUNCT	_	_	4	punct	_	_
+10	sans	sans	ADP	_	_	11	case	_	_
+11	déclaration	déclaration	NOUN	_	_	4	obl:mod	_	_
+12	.	.	PUNCT	_	_	4	punct	_	_
+
+
+#Aucun exploitant n'existe à ce jour.
+1	Aucun	aucun	DET	_	_	2	det	_	_
+2	exploitant	exploitant	NOUN	_	_	4	nsubj	_	_
+3	n'	n'	ADV	_	_	4	advmod	_	_
+4	existe	existe	VERB	_	_	4	ROOT	_	_
+5	à	à	ADP	_	_	7	case	_	_
+6	ce	ce	DET	_	_	7	det	_	_
+7	jour	jour	NOUN	_	_	4	obl:mod	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
+
+
+#L'usage du site a été modifié et converti en résidences particulières (plusieurs logements).
+1	L'	le	DET	_	_	2	det	_	_
+2	usage	usage	NOUN	_	_	7	nsubj:pass	_	_
+3	du	de	ADP	_	_	4	case	_	_
+4	site	site	NOUN	_	_	2	nmod	_	_
+5	a	avoir	AUX	_	_	7	aux:tense	_	_
+6	été	être	AUX	_	_	7	aux:pass	_	_
+7	modifié	modifier	VERB	_	_	7	ROOT	_	_
+8	et	et	CCONJ	_	_	9	cc	_	_
+9	converti	convertir	VERB	_	_	7	conj	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	résidences	résidence	NOUN	_	_	9	obl:arg	_	_
+12	particulières	particulier	ADJ	_	_	11	amod	_	_
+13	(	(	PUNCT	_	_	11	punct	_	_
+14	plusieurs	plusieurs	DET	_	_	15	det	_	_
+15	logements	logement	NOUN	_	_	11	appos	_	_
+16	)	)	PUNCT	_	_	11	punct	_	_
+17	.	.	PUNCT	_	_	7	punct	_	_
+
+
+#Suite à la plainte d'un des propriétaires concernant une nuisance olfactive, un inspecteur des installations classées et un ingénieur d'étude sanitaire se sont rendus surplace pour constater les désagréments.
+1	Suite	suite	NOUN	_	_	4	case	_	_
+2	à	à	ADP	_	_	1	fixed	_	_
+3	la	le	DET	_	_	4	det	_	_
+4	plainte	plainte	NOUN	_	_	27	obl:mod	_	_
+5	d'	de	ADP	_	_	6	case	_	_
+6	un	un	PRON	_	_	4	nmod	_	_
+7	des	de	ADP	_	_	8	case	_	_
+8	propriétaires	propriétaire	NOUN	_	_	6	nmod	_	_
+9	concernant	concerner	VERB	_	_	6	acl	_	_
+10	une	un	DET	_	_	11	det	_	_
+11	nuisance	nuisance	NOUN	_	_	9	obj	_	_
+12	olfactive	olfactif	ADJ	_	_	11	amod	_	_
+13	,	,	PUNCT	_	_	27	punct	_	_
+14	un	un	DET	_	_	15	det	_	_
+15	inspecteur	inspecteur	NOUN	_	_	27	nsubj	_	_
+16	des	de	ADP	_	_	17	case	_	_
+17	installations	installation	NOUN	_	_	15	nmod	_	_
+18	classées	classer	VERB	_	_	17	acl	_	_
+19	et	et	CCONJ	_	_	21	cc	_	_
+20	un	un	DET	_	_	21	det	_	_
+21	ingénieur	ingénieur	NOUN	_	_	15	conj	_	_
+22	d'	de	ADP	_	_	23	case	_	_
+23	étude	étude	NOUN	_	_	21	nmod	_	_
+24	sanitaire	sanitaire	ADJ	_	_	23	amod	_	_
+25	se	se	PRON	_	_	27	expl:comp	_	_
+26	sont	être	AUX	_	_	27	aux:tense	_	_
+27	rendus	rendre	VERB	_	_	27	ROOT	_	_
+28	surplace	surplace	NOUN	_	_	27	obj	_	_
+29	pour	pour	ADP	_	_	30	mark	_	_
+30	constater	constater	VERB	_	_	27	advcl	_	_
+31	les	le	DET	_	_	32	det	_	_
+32	désagréments	désagrément	NOUN	_	_	30	obj	_	_
+33	.	.	PUNCT	_	_	27	punct	_	_
+
+
+#Il a été mis en évidence la présence de cuves d'essence et gasoil enterrées et non vidangées dans leur intégralité, générant des odeurs.
+1	Il	il	PRON	_	_	4	nsubj:pass	_	_
+2	a	avoir	AUX	_	_	4	aux:tense	_	_
+3	été	être	AUX	_	_	4	aux:pass	_	_
+4	mis	mettre	VERB	_	_	4	ROOT	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	évidence	évidence	NOUN	_	_	4	obl:arg	_	_
+7	la	le	DET	_	_	8	det	_	_
+8	présence	présence	NOUN	_	_	4	obj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	cuves	cuve	NOUN	_	_	8	nmod	_	_
+11	d'	de	ADP	_	_	12	case	_	_
+12	essence	essence	NOUN	_	_	10	nmod	_	_
+13	et	et	CCONJ	_	_	14	cc	_	_
+14	gasoil	gasoil	NOUN	_	_	12	conj	_	_
+15	enterrées	enterrer	VERB	_	_	10	acl	_	_
+16	et	et	CCONJ	_	_	18	cc	_	_
+17	non	non	ADV	_	_	18	advmod	_	_
+18	vidangées	vidanger	VERB	_	_	15	conj	_	_
+19	dans	dans	ADP	_	_	21	case	_	_
+20	leur	leur	DET	_	_	21	det	_	_
+21	intégralité	intégralité	NOUN	_	_	18	obl:mod	_	_
+22	,	,	PUNCT	_	_	10	punct	_	_
+23	générant	générer	VERB	_	_	10	acl	_	_
+24	des	un	DET	_	_	25	det	_	_
+25	odeurs	odeur	NOUN	_	_	23	obj	_	_
+26	.	.	PUNCT	_	_	4	punct	_	_
+
+
+#Afin de mettre en sécurité le site, vis-à-vis des occupants, un prestataire de l'ADEME  c'est rendu sur site avec un inspecteur de la DREAL le 16 octobre 2015.
+1	Afin	afin	ADV	_	_	18	advmod	_	_
+2	de	de	ADP	_	_	3	case	_	_
+3	mettre	mettre	VERB	_	_	1	obl:arg	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	sécurité	sécurité	NOUN	_	_	3	obl:arg	_	_
+6	le	le	DET	_	_	7	det	_	_
+7	site	site	NOUN	_	_	3	obj	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_
+9	vis-à-vis	vis-à-vis	ADV	_	_	3	advmod	_	_
+10	des	de	ADP	_	_	11	case	_	_
+11	occupants	occupant	NOUN	_	_	9	dep	_	_
+12	,	,	PUNCT	_	_	18	punct	_	_
+13	un	un	DET	_	_	14	det	_	_
+14	prestataire	prestataire	NOUN	_	_	18	nsubj	_	_
+15	de	de	ADP	_	_	17	case	_	_
+16	l'	le	DET	_	_	17	det	_	_
+17	ADEME	ADEME	PROPN	_	_	14	nmod	_	_
+18	 	 	SPACE	_	_	18	dep	_	_
+19	c'	ce	PRON	_	_	21	expl:comp	_	_
+20	est	être	AUX	_	_	21	aux:tense	_	_
+21	rendu	rendre	VERB	_	_	18	xcomp	_	_
+22	sur	sur	ADP	_	_	23	case	_	_
+23	site	site	NOUN	_	_	21	obl:arg	_	_
+24	avec	avec	ADP	_	_	26	case	_	_
+25	un	un	DET	_	_	26	det	_	_
+26	inspecteur	inspecteur	NOUN	_	_	21	obl:mod	_	_
+27	de	de	ADP	_	_	29	case	_	_
+28	la	le	DET	_	_	29	det	_	_
+29	DREAL	DREAL	PROPN	_	_	26	nmod	_	_
+30	le	le	DET	_	_	31	det	_	_
+31	16	16	NUM	_	_	21	obl:mod	_	_
+32	octobre	octobre	NOUN	_	_	31	nmod	_	_
+33	2015	2015	PUNCT	_	_	32	nmod	_	_
+34	.	.	PUNCT	_	_	21	punct	_	_
+
+
+#Les mesures proposées sont les suivantes :
+1	Les	le	DET	_	_	2	det	_	_
+2	mesures	mesure	NOUN	_	_	6	nsubj	_	_
+3	proposées	proposer	VERB	_	_	2	acl	_	_
+4	sont	être	AUX	_	_	6	cop	_	_
+5	les	le	DET	_	_	6	det	_	_
+6	suivantes	suivant	ADJ	_	_	6	ROOT	_	_
+7	:	:	PUNCT	_	_	6	punct	_	_
+
+
+#- dans un premier temps, mise en sécurité : vidange, dégazage et neutralisation des réservoirs et des installations pétrolières ;
+1	-	-	PUNCT	_	_	7	punct	_	_
+2	dans	dans	ADP	_	_	5	case	_	_
+3	un	un	DET	_	_	5	det	_	_
+4	premier	premier	ADJ	_	_	5	amod	_	_
+5	temps	temps	NOUN	_	_	7	nmod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	mise	mise	NOUN	_	_	7	ROOT	_	_
+8	en	en	ADP	_	_	9	case	_	_
+9	sécurité	sécurité	NOUN	_	_	7	nmod	_	_
+10	:	:	PUNCT	_	_	7	punct	_	_
+11	vidange	vidange	NOUN	_	_	7	appos	_	_
+12	,	,	PUNCT	_	_	13	punct	_	_
+13	dégazage	dégazage	NOUN	_	_	11	conj	_	_
+14	et	et	CCONJ	_	_	15	cc	_	_
+15	neutralisation	neutralisation	NOUN	_	_	11	conj	_	_
+16	des	de	ADP	_	_	17	case	_	_
+17	réservoirs	réservoir	NOUN	_	_	15	nmod	_	_
+18	et	et	CCONJ	_	_	20	cc	_	_
+19	des	de	ADP	_	_	20	case	_	_
+20	installations	installation	NOUN	_	_	17	conj	_	_
+21	pétrolières	pétrolier	ADJ	_	_	20	amod	_	_
+22	;	;	PUNCT	_	_	7	punct	_	_
+
+
+#- dans un second temps, vérifier l'absence de source de pollution concentrée et de risques sanitaires liés à l'état actuel constaté par la réalisation d'un diagnostic de qualité des milieux et d'une étude d'évaluation des risques saniataires si besoin.
+1	-	-	PUNCT	_	_	7	punct	_	_
+2	dans	dans	ADP	_	_	5	case	_	_
+3	un	un	DET	_	_	5	det	_	_
+4	second	second	ADJ	_	_	5	amod	_	_
+5	temps	temps	NOUN	_	_	7	obl:mod	_	_
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	vérifier	vérifier	VERB	_	_	7	ROOT	_	_
+8	l'	le	DET	_	_	9	det	_	_
+9	absence	absence	NOUN	_	_	7	obj	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	source	source	NOUN	_	_	9	nmod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	pollution	pollution	NOUN	_	_	11	nmod	_	_
+14	concentrée	concentrer	VERB	_	_	13	acl	_	_
+15	et	et	CCONJ	_	_	17	cc	_	_
+16	de	de	ADP	_	_	17	case	_	_
+17	risques	risque	NOUN	_	_	13	conj	_	_
+18	sanitaires	sanitaire	ADJ	_	_	17	amod	_	_
+19	liés	lier	VERB	_	_	17	acl	_	_
+20	à	à	ADP	_	_	22	case	_	_
+21	l'	le	DET	_	_	22	det	_	_
+22	état	état	NOUN	_	_	19	obl:arg	_	_
+23	actuel	actuel	ADJ	_	_	22	amod	_	_
+24	constaté	constater	VERB	_	_	22	acl	_	_
+25	par	par	ADP	_	_	27	case	_	_
+26	la	le	DET	_	_	27	det	_	_
+27	réalisation	réalisation	NOUN	_	_	24	obl:agent	_	_
+28	d'	de	ADP	_	_	30	case	_	_
+29	un	un	DET	_	_	30	det	_	_
+30	diagnostic	diagnostic	NOUN	_	_	27	nmod	_	_
+31	de	de	ADP	_	_	32	case	_	_
+32	qualité	qualité	NOUN	_	_	30	nmod	_	_
+33	des	de	ADP	_	_	34	case	_	_
+34	milieux	milieu	NOUN	_	_	32	nmod	_	_
+35	et	et	CCONJ	_	_	38	cc	_	_
+36	d'	de	ADP	_	_	38	case	_	_
+37	une	un	DET	_	_	38	det	_	_
+38	étude	étude	NOUN	_	_	30	conj	_	_
+39	d'	de	ADP	_	_	40	case	_	_
+40	évaluation	évaluation	NOUN	_	_	38	nmod	_	_
+41	des	de	ADP	_	_	42	case	_	_
+42	risques	risque	NOUN	_	_	40	nmod	_	_
+43	saniataires	saniataire	ADJ	_	_	42	amod	_	_
+44	si	si	SCONJ	_	_	45	mark	_	_
+45	besoin	besoin	NOUN	_	_	24	obl:mod	_	_
+46	.	.	PUNCT	_	_	7	punct	_	_
+
+
+#Les budgets d'intervention, suivant les conditions d'intervention de l'ADEME techniques et financières, doivent être décidés au niveau national.
+1	Les	le	DET	_	_	2	det	_	_
+2	budgets	budget	NOUN	_	_	18	nsubj	_	_
+3	d'	de	ADP	_	_	4	case	_	_
+4	intervention	intervention	NOUN	_	_	2	nmod	_	_
+5	,	,	PUNCT	_	_	18	punct	_	_
+6	suivant	suivant	ADP	_	_	8	case	_	_
+7	les	le	DET	_	_	8	det	_	_
+8	conditions	condition	NOUN	_	_	18	obl:mod	_	_
+9	d'	de	ADP	_	_	10	case	_	_
+10	intervention	intervention	NOUN	_	_	8	nmod	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	l'	le	DET	_	_	13	det	_	_
+13	ADEME	ADEME	PROPN	_	_	8	nmod	_	_
+14	techniques	technique	ADJ	_	_	13	amod	_	_
+15	et	et	CCONJ	_	_	16	cc	_	_
+16	financières	financier	ADJ	_	_	14	conj	_	_
+17	,	,	PUNCT	_	_	18	punct	_	_
+18	doivent	devoir	VERB	_	_	18	ROOT	_	_
+19	être	être	AUX	_	_	20	aux:pass	_	_
+20	décidés	décider	VERB	_	_	18	xcomp	_	_
+21	au	au	ADP	_	_	22	case	_	_
+22	niveau	niveau	NOUN	_	_	20	obl:mod	_	_
+23	national	national	ADJ	_	_	22	amod	_	_
+24	.	.	PUNCT	_	_	18	punct	_	_
+
+
+#29.0010
+
+#Le dépôt d'hydrocarbures existe depuis 1968.
+1	Le	le	DET	_	_	2	det	_	_
+2	dépôt	dépôt	NOUN	_	_	5	nsubj	_	_
+3	d'	de	ADP	_	_	4	case	_	_
+4	hydrocarbures	hydrocarbure	NOUN	_	_	2	nmod	_	_
+5	existe	existe	VERB	_	_	5	ROOT	_	_
+6	depuis	depuis	ADP	_	_	7	case	_	_
+7	1968	1968	NUM	_	_	5	obl:mod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#L'arrêté préfectoral du 13 janvier 1987, complété par l'arrêté préfectoral du 26 mars 1996, autorise la société GROUPEMENT PETROLIER DE BREST à exploiter un dépôt d'hydrocarbures.
+1	L'	le	DET	_	_	2	det	_	_
+2	arrêté	arrêté	NOUN	_	_	19	nsubj	_	_
+3	préfectoral	préfectoral	ADJ	_	_	2	amod	_	_
+4	du	de	ADP	_	_	5	case	_	_
+5	13	13	NUM	_	_	2	nmod	_	_
+6	janvier	janvier	NOUN	_	_	5	nmod	_	_
+7	1987	1987	NUM	_	_	6	nmod	_	_
+8	,	,	PUNCT	_	_	2	punct	_	_
+9	complété	compléter	VERB	_	_	2	acl	_	_
+10	par	par	ADP	_	_	12	case	_	_
+11	l'	le	DET	_	_	12	det	_	_
+12	arrêté	arrêté	NOUN	_	_	9	obl:agent	_	_
+13	préfectoral	préfectoral	ADJ	_	_	12	amod	_	_
+14	du	de	ADP	_	_	15	case	_	_
+15	26	26	NUM	_	_	12	nmod	_	_
+16	mars	mars	NOUN	_	_	15	nmod	_	_
+17	1996	1996	NUM	_	_	16	nmod	_	_
+18	,	,	PUNCT	_	_	19	punct	_	_
+19	autorise	autorise	VERB	_	_	19	ROOT	_	_
+20	la	le	DET	_	_	21	det	_	_
+21	société	société	NOUN	_	_	19	obj	_	_
+22	GROUPEMENT	GROUPEMENT	PROPN	_	_	21	nmod	_	_
+23	PETROLIER	PETROLIER	PROPN	_	_	22	nmod	_	_
+24	DE	de	ADP	_	_	25	case	_	_
+25	BREST	BREST	PROPN	_	_	23	nmod	_	_
+26	à	à	ADP	_	_	27	mark	_	_
+27	exploiter	exploiter	VERB	_	_	19	xcomp	_	_
+28	un	un	DET	_	_	29	det	_	_
+29	dépôt	dépôt	NOUN	_	_	27	obj	_	_
+30	d'	de	ADP	_	_	31	case	_	_
+31	hydrocarbures	hydrocarbure	NOUN	_	_	29	nmod	_	_
+32	.	.	PUNCT	_	_	19	punct	_	_
+
+
+#La déclaration de cessation d'activité est datée du 3 janvier 2002.
+1	La	le	DET	_	_	2	det	_	_
+2	déclaration	déclaration	NOUN	_	_	8	nsubj:pass	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	cessation	cessation	NOUN	_	_	2	nmod	_	_
+5	d'	de	ADP	_	_	6	case	_	_
+6	activité	activité	NOUN	_	_	4	nmod	_	_
+7	est	être	AUX	_	_	8	aux:pass	_	_
+8	datée	dater	VERB	_	_	8	ROOT	_	_
+9	du	de	ADP	_	_	10	case	_	_
+10	3	3	NUM	_	_	8	obl:arg	_	_
+11	janvier	janvier	NOUN	_	_	10	nmod	_	_
+12	2002	2002	NUM	_	_	11	nmod	_	_
+13	.	.	PUNCT	_	_	8	punct	_	_
+
+
+#Le site est actuellement utilisé comme parking.
+1	Le	le	DET	_	_	2	det	_	_
+2	site	site	NOUN	_	_	5	nsubj:pass	_	_
+3	est	être	AUX	_	_	5	aux:pass	_	_
+4	actuellement	actuellement	ADV	_	_	5	advmod	_	_
+5	utilisé	utiliser	VERB	_	_	5	ROOT	_	_
+6	comme	comme	ADP	_	_	7	case	_	_
+7	parking	parking	NOUN	_	_	5	obl:mod	_	_
+8	.	.	PUNCT	_	_	5	punct	_	_
+
+
+#La rupture d’une soudure sur le fond d’un réservoir de stockage survenue en 1995 a provoqué l'écoulement de gasoil, générant une pollution des eaux et des sols.
+1	La	le	DET	_	_	2	det	_	_
+2	rupture	rupture	NOUN	_	_	18	nsubj	_	_
+3	d’	d’	ADP	_	_	5	case	_	_
+4	une	un	DET	_	_	5	det	_	_
+5	soudure	soudure	NOUN	_	_	2	nmod	_	_
+6	sur	sur	ADP	_	_	8	case	_	_
+7	le	le	DET	_	_	8	det	_	_
+8	fond	fond	NOUN	_	_	5	nmod	_	_
+9	d’	d’	ADP	_	_	11	case	_	_
+10	un	un	DET	_	_	11	det	_	_
+11	réservoir	réservoir	NOUN	_	_	8	nmod	_	_
+12	de	de	ADP	_	_	13	case	_	_
+13	stockage	stockage	NOUN	_	_	11	nmod	_	_
+14	survenue	survenir	VERB	_	_	2	acl	_	_
+15	en	en	ADP	_	_	16	case	_	_
+16	1995	1995	NUM	_	_	14	obl:mod	_	_
+17	a	avoir	AUX	_	_	18	aux:tense	_	_
+18	provoqué	provoquer	VERB	_	_	18	ROOT	_	_
+19	l'	le	DET	_	_	20	det	_	_
+20	écoulement	écoulement	NOUN	_	_	18	obj	_	_
+21	de	de	ADP	_	_	22	case	_	_
+22	gasoil	gasoil	NOUN	_	_	20	nmod	_	_
+23	,	,	PUNCT	_	_	20	punct	_	_
+24	générant	générer	VERB	_	_	20	acl	_	_
+25	une	un	DET	_	_	26	det	_	_
+26	pollution	pollution	NOUN	_	_	24	obj	_	_
+27	des	de	ADP	_	_	28	case	_	_
+28	eaux	eau	NOUN	_	_	26	nmod	_	_
+29	et	et	CCONJ	_	_	31	cc	_	_
+30	des	de	ADP	_	_	31	case	_	_
+31	sols	sol	NOUN	_	_	28	conj	_	_
+32	.	.	PUNCT	_	_	18	punct	_	_
+
+
+#Une étude de sol et un pompage avec rabattement de la nappe ont été réalisés en 1996 mais seulement une partie de la pollution a été récupérée.
+1	Une	un	DET	_	_	2	det	_	_
+2	étude	étude	NOUN	_	_	15	nsubj:pass	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	sol	sol	NOUN	_	_	2	nmod	_	_
+5	et	et	CCONJ	_	_	7	cc	_	_
+6	un	un	DET	_	_	7	det	_	_
+7	pompage	pompage	NOUN	_	_	2	conj	_	_
+8	avec	avec	ADP	_	_	9	case	_	_
+9	rabattement	rabattement	NOUN	_	_	7	nmod	_	_
+10	de	de	ADP	_	_	12	case	_	_
+11	la	le	DET	_	_	12	det	_	_
+12	nappe	nappe	NOUN	_	_	9	nmod	_	_
+13	ont	avoir	AUX	_	_	15	aux:tense	_	_
+14	été	être	AUX	_	_	15	aux:pass	_	_
+15	réalisés	réaliser	VERB	_	_	15	ROOT	_	_
+16	en	en	ADP	_	_	17	case	_	_
+17	1996	1996	NUM	_	_	15	obl:mod	_	_
+18	mais	mais	CCONJ	_	_	27	cc	_	_
+19	seulement	seulement	ADV	_	_	21	advmod	_	_
+20	une	un	DET	_	_	21	det	_	_
+21	partie	partie	NOUN	_	_	27	nsubj:pass	_	_
+22	de	de	ADP	_	_	24	case	_	_
+23	la	le	DET	_	_	24	det	_	_
+24	pollution	pollution	NOUN	_	_	21	nmod	_	_
+25	a	avoir	AUX	_	_	27	aux:tense	_	_
+26	été	être	AUX	_	_	27	aux:pass	_	_
+27	récupérée	récupérer	VERB	_	_	15	conj	_	_
+28	.	.	PUNCT	_	_	15	punct	_	_
+
+
+#Une surveillance des eaux souterraine a donc été mise en place.
+1	Une	un	DET	_	_	2	det	_	_
+2	surveillance	surveillance	NOUN	_	_	9	nsubj:pass	_	_
+3	des	de	ADP	_	_	4	case	_	_
+4	eaux	eau	NOUN	_	_	2	nmod	_	_
+5	souterraine	souterrain	ADJ	_	_	4	amod	_	_
+6	a	avoir	AUX	_	_	9	aux:tense	_	_
+7	donc	donc	ADV	_	_	9	advmod	_	_
+8	été	être	AUX	_	_	9	aux:pass	_	_
+9	mise	mettre	VERB	_	_	9	ROOT	_	_
+10	en	en	ADP	_	_	11	case	_	_
+11	place	place	NOUN	_	_	9	obl:arg	_	_
+12	.	.	PUNCT	_	_	9	punct	_	_
+
+
+#Les prélèvements confirment la contamination des eaux souterraines.
+1	Les	le	DET	_	_	2	det	_	_
+2	prélèvements	prélèvement	NOUN	_	_	3	nsubj	_	_
+3	confirment	confirmer	VERB	_	_	3	ROOT	_	_
+4	la	le	DET	_	_	5	det	_	_
+5	contamination	contamination	NOUN	_	_	3	obj	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	eaux	eau	NOUN	_	_	5	nmod	_	_
+8	souterraines	souterrain	ADJ	_	_	7	amod	_	_
+9	.	.	PUNCT	_	_	3	punct	_	_
+
+
+#Dans le cadre de la cessation d'activité, un diagnostic des sols a été réalisé au cours du printemps 2003.
+1	Dans	dans	ADP	_	_	3	case	_	_
+2	le	le	DET	_	_	3	det	_	_
+3	cadre	cadre	NOUN	_	_	16	obl:mod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	le	DET	_	_	6	det	_	_
+6	cessation	cessation	NOUN	_	_	3	nmod	_	_
+7	d'	de	ADP	_	_	8	case	_	_
+8	activité	activité	NOUN	_	_	6	nmod	_	_
+9	,	,	PUNCT	_	_	16	punct	_	_
+10	un	un	DET	_	_	11	det	_	_
+11	diagnostic	diagnostic	NOUN	_	_	16	nsubj:pass	_	_
+12	des	de	ADP	_	_	13	case	_	_
+13	sols	sol	NOUN	_	_	11	nmod	_	_
+14	a	avoir	AUX	_	_	16	aux:tense	_	_
+15	été	être	AUX	_	_	16	aux:pass	_	_
+16	réalisé	réaliser	VERB	_	_	16	ROOT	_	_
+17	au	au	ADP	_	_	18	case	_	_
+18	cours	cours	NOUN	_	_	16	obl:mod	_	_
+19	du	de	ADP	_	_	20	case	_	_
+20	printemps	printemps	NOUN	_	_	18	nmod	_	_
+21	2003	2003	NUM	_	_	20	nummod	_	_
+22	.	.	PUNCT	_	_	16	punct	_	_
+
+
+#Il met en évidence un site contaminé par des hydrocarbures et des métaux lourds.
+1	Il	il	PRON	_	_	2	nsubj	_	_
+2	met	mettre	VERB	_	_	2	ROOT	_	_
+3	en	en	ADP	_	_	4	case	_	_
+4	évidence	évidence	NOUN	_	_	2	obl:arg	_	_
+5	un	un	DET	_	_	6	det	_	_
+6	site	site	NOUN	_	_	2	obj	_	_
+7	contaminé	contaminer	VERB	_	_	6	acl	_	_
+8	par	par	ADP	_	_	10	case	_	_
+9	des	un	DET	_	_	10	det	_	_
+10	hydrocarbures	hydrocarbure	NOUN	_	_	7	obl:agent	_	_
+11	et	et	CCONJ	_	_	13	cc	_	_
+12	des	un	DET	_	_	13	det	_	_
+13	métaux	métal	NOUN	_	_	10	conj	_	_
+14	lourds	lourd	ADJ	_	_	13	amod	_	_
+15	.	.	PUNCT	_	_	2	punct	_	_
+
+
+#Une étude détaillée des risques (EDR) a été réalisé en juillet 2004.
+1	Une	un	DET	_	_	2	det	_	_
+2	étude	étude	NOUN	_	_	11	nsubj:pass	_	_
+3	détaillée	détaillé	ADJ	_	_	2	amod	_	_
+4	des	de	ADP	_	_	5	case	_	_
+5	risques	risque	NOUN	_	_	2	nmod	_	_
+6	(	(	PUNCT	_	_	2	punct	_	_
+7	EDR	edr	NOUN	_	_	2	appos	_	_
+8	)	)	PUNCT	_	_	2	punct	_	_
+9	a	avoir	AUX	_	_	11	aux:tense	_	_
+10	été	être	AUX	_	_	11	aux:pass	_	_
+11	réalisé	réaliser	VERB	_	_	11	ROOT	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	juillet	juillet	NOUN	_	_	11	obl:mod	_	_
+14	2004	2004	NUM	_	_	13	nmod	_	_
+15	.	.	PUNCT	_	_	11	punct	_	_
+
+
+#De nouvelles investigations de terrain, suivant un maillage plus fin ont été conduites au cours de l'année 2005.
+1	De	de	DET	_	_	3	det	_	_
+2	nouvelles	nouveau	ADJ	_	_	3	amod	_	_
+3	investigations	investigation	NOUN	_	_	14	nsubj:pass	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	terrain	terrain	NOUN	_	_	3	nmod	_	_
+6	,	,	PUNCT	_	_	3	punct	_	_
+7	suivant	suivre	VERB	_	_	9	case	_	_
+8	un	un	DET	_	_	9	det	_	_
+9	maillage	maillage	NOUN	_	_	3	nmod	_	_
+10	plus	plus	ADV	_	_	11	advmod	_	_
+11	fin	fin	ADJ	_	_	9	amod	_	_
+12	ont	avoir	AUX	_	_	14	aux:tense	_	_
+13	été	être	AUX	_	_	14	aux:pass	_	_
+14	conduites	conduire	VERB	_	_	14	ROOT	_	_
+15	au	au	ADP	_	_	16	case	_	_
+16	cours	cours	NOUN	_	_	14	obl:mod	_	_
+17	de	de	ADP	_	_	19	case	_	_
+18	l'	le	DET	_	_	19	det	_	_
+19	année	année	NOUN	_	_	16	nmod	_	_
+20	2005	2005	NUM	_	_	19	nummod	_	_
+21	.	.	NUM	_	_	14	punct	_	_
+
+
+#La reprise des terrains étant envisagée, un programme de réhabilitation a été réalisé.
+1	La	le	DET	_	_	2	det	_	_
+2	reprise	reprise	NOUN	_	_	6	nsubj:pass	_	_
+3	des	de	ADP	_	_	4	case	_	_
+4	terrains	terrain	NOUN	_	_	2	nmod	_	_
+5	étant	être	AUX	_	_	6	aux:pass	_	_
+6	envisagée	envisager	VERB	_	_	14	advcl	_	_
+7	,	,	PUNCT	_	_	14	punct	_	_
+8	un	un	DET	_	_	9	det	_	_
+9	programme	programme	NOUN	_	_	14	nsubj:pass	_	_
+10	de	de	ADP	_	_	11	case	_	_
+11	réhabilitation	réhabilitation	NOUN	_	_	9	nmod	_	_
+12	a	avoir	AUX	_	_	14	aux:tense	_	_
+13	été	être	AUX	_	_	14	aux:pass	_	_
+14	réalisé	réaliser	VERB	_	_	14	ROOT	_	_
+15	.	.	PUNCT	_	_	14	punct	_	_
+
+
+#Les travaux de bioremédiation sur site ont été réalisés entre juillet 2006 et mars 2008.
+1	Les	le	DET	_	_	2	det	_	_
+2	travaux	travail	NOUN	_	_	9	nsubj:pass	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	bioremédiation	bioremédiation	NOUN	_	_	2	nmod	_	_
+5	sur	sur	ADP	_	_	6	case	_	_
+6	site	site	NOUN	_	_	4	nmod	_	_
+7	ont	avoir	AUX	_	_	9	aux:tense	_	_
+8	été	être	AUX	_	_	9	aux:pass	_	_
+9	réalisés	réaliser	VERB	_	_	9	ROOT	_	_
+10	entre	entre	ADP	_	_	11	case	_	_
+11	juillet	juillet	NOUN	_	_	9	obl:mod	_	_
+12	2006	2006	NUM	_	_	11	nmod	_	_
+13	et	et	CCONJ	_	_	14	cc	_	_
+14	mars	mars	NOUN	_	_	11	conj	_	_
+15	2008	2008	NUM	_	_	14	nmod	_	_
+16	.	.	NUM	_	_	11	nmod	_	_
+
+
+#Une analyse des risques résiduaires (ARR) début 2008 confirme la compatibilité de la l'état du site (présence d'une pollution résiduelle) avec les usages envisagés (activités tertiaires, stationnement, tête de ligne de bus).
+1	Une	un	DET	_	_	2	det	_	_
+2	analyse	analyse	NOUN	_	_	11	nsubj	_	_
+3	des	de	ADP	_	_	4	case	_	_
+4	risques	risque	NOUN	_	_	2	nmod	_	_
+5	résiduaires	résiduaire	ADJ	_	_	4	amod	_	_
+6	(	(	PUNCT	_	_	4	punct	_	_
+7	ARR	arr	NOUN	_	_	4	appos	_	_
+8	)	)	PUNCT	_	_	4	punct	_	_
+9	début	début	NOUN	_	_	2	nmod	_	_
+10	2008	2008	NUM	_	_	9	nmod	_	_
+11	confirme	confirme	VERB	_	_	11	ROOT	_	_
+12	la	le	DET	_	_	13	det	_	_
+13	compatibilité	compatibilité	NOUN	_	_	11	obj	_	_
+14	de	de	ADP	_	_	17	case	_	_
+15	la	le	DET	_	_	17	det	_	_
+16	l'	le	DET	_	_	17	det	_	_
+17	état	état	NOUN	_	_	13	nmod	_	_
+18	du	de	ADP	_	_	19	case	_	_
+19	site	site	NOUN	_	_	17	nmod	_	_
+20	(	(	PUNCT	_	_	17	punct	_	_
+21	présence	présence	NOUN	_	_	17	appos	_	_
+22	d'	de	ADP	_	_	24	case	_	_
+23	une	un	DET	_	_	24	det	_	_
+24	pollution	pollution	NOUN	_	_	21	nmod	_	_
+25	résiduelle	résiduel	ADJ	_	_	24	amod	_	_
+26	)	)	PUNCT	_	_	17	punct	_	_
+27	avec	avec	ADP	_	_	29	case	_	_
+28	les	le	DET	_	_	29	det	_	_
+29	usages	usage	NOUN	_	_	13	nmod	_	_
+30	envisagés	envisager	VERB	_	_	29	acl	_	_
+31	(	(	PUNCT	_	_	29	punct	_	_
+32	activités	activité	NOUN	_	_	29	appos	_	_
+33	tertiaires	tertiaire	ADJ	_	_	32	amod	_	_
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	stationnement	stationnement	NOUN	_	_	32	conj	_	_
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	tête	tête	NOUN	_	_	32	conj	_	_
+38	de	de	ADP	_	_	39	case	_	_
+39	ligne	ligne	NOUN	_	_	37	nmod	_	_
+40	de	de	ADP	_	_	41	case	_	_
+41	bus	bus	NOUN	_	_	39	nmod	_	_
+42	)	)	PUNCT	_	_	29	punct	_	_
+43	.	.	PUNCT	_	_	11	punct	_	_
+
+
+#Un procès verbal de récolement du 26 novembre 2010 encadre la cessation d'activité.
+1	Un	un	DET	_	_	2	det	_	_
+2	procès	procès	NOUN	_	_	10	nsubj	_	_
+3	verbal	verbal	ADJ	_	_	2	amod	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	récolement	récolement	NOUN	_	_	2	nmod	_	_
+6	du	de	ADP	_	_	7	case	_	_
+7	26	26	NUM	_	_	5	nmod	_	_
+8	novembre	novembre	NOUN	_	_	7	nmod	_	_
+9	2010	2010	NUM	_	_	8	nmod	_	_
+10	encadre	encadre	VERB	_	_	10	ROOT	_	_
+11	la	le	DET	_	_	12	det	_	_
+12	cessation	cessation	NOUN	_	_	10	obj	_	_
+13	d'	de	ADP	_	_	14	case	_	_
+14	activité	activité	NOUN	_	_	12	nmod	_	_
+15	.	.	PUNCT	_	_	10	punct	_	_
+
+
+#Du fait de la présence d'une pollution résiduelle, l'arrêté préfectoral du 10 mars 2011 institue des servitudes d'utilité publiques.
+1	Du	de	ADP	_	_	2	case	_	_
+2	fait	fait	NOUN	_	_	18	obl:mod	_	_
+3	de	de	ADP	_	_	5	case	_	_
+4	la	le	DET	_	_	5	det	_	_
+5	présence	présence	NOUN	_	_	2	nmod	_	_
+6	d'	de	ADP	_	_	8	case	_	_
+7	une	un	DET	_	_	8	det	_	_
+8	pollution	pollution	NOUN	_	_	5	nmod	_	_
+9	résiduelle	résiduel	ADJ	_	_	8	amod	_	_
+10	,	,	PUNCT	_	_	18	punct	_	_
+11	l'	le	DET	_	_	12	det	_	_
+12	arrêté	arrêté	NOUN	_	_	18	nsubj	_	_
+13	préfectoral	préfectoral	ADJ	_	_	12	amod	_	_
+14	du	de	ADP	_	_	15	case	_	_
+15	10	10	NUM	_	_	12	nmod	_	_
+16	mars	mars	NOUN	_	_	15	nmod	_	_
+17	2011	2011	NUM	_	_	16	nmod	_	_
+18	institue	institue	VERB	_	_	18	ROOT	_	_
+19	des	un	DET	_	_	20	det	_	_
+20	servitudes	servitude	NOUN	_	_	18	obj	_	_
+21	d'	de	ADP	_	_	22	case	_	_
+22	utilité	utilité	NOUN	_	_	20	nmod	_	_
+23	publiques	public	ADJ	_	_	22	amod	_	_
+24	.	.	PUNCT	_	_	18	punct	_	_
+
+
+#La surveillance mise en place montre que la qualité des eaux se dégrade après 2009 :
+1	La	le	DET	_	_	2	det	_	_
+2	surveillance	surveillance	NOUN	_	_	6	nsubj	_	_
+3	mise	mettre	VERB	_	_	2	acl	_	_
+4	en	en	ADP	_	_	5	case	_	_
+5	place	place	NOUN	_	_	3	obl:arg	_	_
+6	montre	montre	VERB	_	_	6	ROOT	_	_
+7	que	que	SCONJ	_	_	13	mark	_	_
+8	la	le	DET	_	_	9	det	_	_
+9	qualité	qualité	NOUN	_	_	13	nsubj	_	_
+10	des	de	ADP	_	_	11	case	_	_
+11	eaux	eau	NOUN	_	_	9	nmod	_	_
+12	se	se	PRON	_	_	13	expl:pass	_	_
+13	dégrade	dégrade	VERB	_	_	6	ccomp	_	_
+14	après	après	ADP	_	_	15	case	_	_
+15	2009	2009	NUM	_	_	13	obl:mod	_	_
+16	:	:	PUNCT	_	_	6	punct	_	_
+
+
+#- sur la nappe superficielle des remblais: une tendance à l'altération depuis septembre 2010 avec des variations des teneurs en hydrocarbures C10-C40 notamment en périodes de basses eaux,
+1	-	-	PUNCT	_	_	4	punct	_	_
+2	sur	sur	ADP	_	_	4	case	_	_
+3	la	le	DET	_	_	4	det	_	_
+4	nappe	nappe	NOUN	_	_	4	ROOT	_	_
+5	superficielle	superficiel	ADJ	_	_	4	amod	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	remblais	remblai	NOUN	_	_	4	nmod	_	_
+8	:	:	PUNCT	_	_	4	punct	_	_
+9	une	un	DET	_	_	10	det	_	_
+10	tendance	tendance	NOUN	_	_	4	appos	_	_
+11	à	à	ADP	_	_	13	case	_	_
+12	l'	le	DET	_	_	13	det	_	_
+13	altération	altération	NOUN	_	_	10	nmod	_	_
+14	depuis	depuis	ADP	_	_	15	case	_	_
+15	septembre	septembre	NOUN	_	_	10	nmod	_	_
+16	2010	2010	NUM	_	_	15	nmod	_	_
+17	avec	avec	ADP	_	_	19	case	_	_
+18	des	un	DET	_	_	19	det	_	_
+19	variations	variation	NOUN	_	_	10	nmod	_	_
+20	des	de	ADP	_	_	21	case	_	_
+21	teneurs	teneur	NOUN	_	_	19	nmod	_	_
+22	en	en	ADP	_	_	23	case	_	_
+23	hydrocarbures	hydrocarbure	NOUN	_	_	21	nmod	_	_
+24	C10-C40	C10-C40	PROPN	_	_	23	nmod	_	_
+25	notamment	notamment	ADV	_	_	27	advmod	_	_
+26	en	en	ADP	_	_	27	case	_	_
+27	périodes	période	NOUN	_	_	10	nmod	_	_
+28	de	de	ADP	_	_	30	case	_	_
+29	basses	bas	ADJ	_	_	30	amod	_	_
+30	eaux	eau	NOUN	_	_	27	nmod	_	_
+31	,	,	PUNCT	_	_	4	punct	_	_
+
+
+#- sur la nappe captive : une baisse significative des HC en 2014, ne confirmant pas le dépassement de la valeur de référence observé en juin 2013 sur l'un des piézomètres,
+1	-	-	PUNCT	_	_	8	punct	_	_
+2	sur	sur	ADP	_	_	4	case	_	_
+3	la	le	DET	_	_	4	det	_	_
+4	nappe	nappe	NOUN	_	_	8	nmod	_	_
+5	captive	captif	ADJ	_	_	4	amod	_	_
+6	:	:	PUNCT	_	_	8	punct	_	_
+7	une	un	DET	_	_	8	det	_	_
+8	baisse	baisse	NOUN	_	_	8	ROOT	_	_
+9	significative	significatif	ADJ	_	_	8	amod	_	_
+10	des	de	ADP	_	_	11	case	_	_
+11	HC	hc	NOUN	_	_	8	nmod	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	2014	2014	NUM	_	_	8	nmod	_	_
+14	,	,	NUM	_	_	8	punct	_	_
+15	ne	ne	ADV	_	_	16	advmod	_	_
+16	confirmant	confirmer	VERB	_	_	8	acl	_	_
+17	pas	pas	ADV	_	_	16	advmod	_	_
+18	le	le	DET	_	_	19	det	_	_
+19	dépassement	dépassement	NOUN	_	_	16	obj	_	_
+20	de	de	ADP	_	_	22	case	_	_
+21	la	le	DET	_	_	22	det	_	_
+22	valeur	valeur	NOUN	_	_	19	nmod	_	_
+23	de	de	ADP	_	_	24	case	_	_
+24	référence	référence	NOUN	_	_	22	nmod	_	_
+25	observé	observer	VERB	_	_	19	acl	_	_
+26	en	en	ADP	_	_	27	case	_	_
+27	juin	juin	NOUN	_	_	25	obl:mod	_	_
+28	2013	2013	NUM	_	_	27	nmod	_	_
+29	sur	sur	ADP	_	_	31	case	_	_
+30	l'	le	DET	_	_	31	det	_	_
+31	un	un	PRON	_	_	25	obl:mod	_	_
+32	des	de	ADP	_	_	33	case	_	_
+33	piézomètres	piézomètre	NOUN	_	_	31	nmod	_	_
+34	,	,	PUNCT	_	_	8	punct	_	_
+
+
+#- des teneurs significatives en métaux avec dépassement des seuils de potabilité en aval pour le nickel et l'arsenic.
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	des	un	DET	_	_	3	det	_	_
+3	teneurs	teneur	NOUN	_	_	3	ROOT	_	_
+4	significatives	significatif	ADJ	_	_	3	amod	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	métaux	métal	NOUN	_	_	3	nmod	_	_
+7	avec	avec	ADP	_	_	8	case	_	_
+8	dépassement	dépassement	NOUN	_	_	3	nmod	_	_
+9	des	de	ADP	_	_	10	case	_	_
+10	seuils	seuil	NOUN	_	_	8	nmod	_	_
+11	de	de	ADP	_	_	12	case	_	_
+12	potabilité	potabilité	NOUN	_	_	10	nmod	_	_
+13	en	en	ADP	_	_	14	case	_	_
+14	aval	aval	NOUN	_	_	12	nmod	_	_
+15	pour	pour	ADP	_	_	17	case	_	_
+16	le	le	DET	_	_	17	det	_	_
+17	nickel	nickel	NOUN	_	_	8	nmod	_	_
+18	et	et	CCONJ	_	_	20	cc	_	_
+19	l'	le	DET	_	_	20	det	_	_
+20	arsenic	arsenic	NOUN	_	_	17	conj	_	_
+21	.	.	PUNCT	_	_	3	punct	_	_
+
+
+#La campagne de juin 2015 montre :
+1	La	le	DET	_	_	2	det	_	_
+2	campagne	campagne	NOUN	_	_	6	nsubj	_	_
+3	de	de	ADP	_	_	4	case	_	_
+4	juin	juin	NOUN	_	_	2	nmod	_	_
+5	2015	2015	NUM	_	_	4	nmod	_	_
+6	montre	montre	VERB	_	_	6	ROOT	_	_
+7	:	:	PUNCT	_	_	6	punct	_	_
+
+
+#- des odeurs d'hydrocarbures et des traces de flottant dans la nappe superficielle,
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	des	un	DET	_	_	3	det	_	_
+3	odeurs	odeur	NOUN	_	_	3	ROOT	_	_
+4	d'	de	ADP	_	_	5	case	_	_
+5	hydrocarbures	hydrocarbure	NOUN	_	_	3	nmod	_	_
+6	et	et	CCONJ	_	_	8	cc	_	_
+7	des	un	DET	_	_	8	det	_	_
+8	traces	trace	NOUN	_	_	3	conj	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	flottant	flottant	NOUN	_	_	8	nmod	_	_
+11	dans	dans	ADP	_	_	13	case	_	_
+12	la	le	DET	_	_	13	det	_	_
+13	nappe	nappe	NOUN	_	_	8	nmod	_	_
+14	superficielle	superficiel	ADJ	_	_	13	amod	_	_
+15	,	,	PUNCT	_	_	3	punct	_	_
+
+
+#- la présence d'arsenic et de nickel dans deux piézomètres.
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	la	le	DET	_	_	3	det	_	_
+3	présence	présence	NOUN	_	_	3	ROOT	_	_
+4	d'	de	ADP	_	_	5	case	_	_
+5	arsenic	arsenic	NOUN	_	_	3	nmod	_	_
+6	et	et	CCONJ	_	_	8	cc	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	nickel	nickel	NOUN	_	_	5	conj	_	_
+9	dans	dans	ADP	_	_	11	case	_	_
+10	deux	deux	NUM	_	_	11	nummod	_	_
+11	piézomètres	piézomètre	NOUN	_	_	3	nmod	_	_
+12	.	.	PUNCT	_	_	3	punct	_	_
+
+
+#Le bilan quadriennal pour la période 2011-2014 fait apparaître :
+1	Le	le	DET	_	_	2	det	_	_
+2	bilan	bilan	NOUN	_	_	11	dep	_	_
+3	quadriennal	quadriennal	ADJ	_	_	2	amod	_	_
+4	pour	pour	ADP	_	_	6	case	_	_
+5	la	le	DET	_	_	6	det	_	_
+6	période	période	NOUN	_	_	2	nmod	_	_
+7	2011	2011	NOUN	_	_	6	nmod	_	_
+8	-	-	NOUN	_	_	6	nmod	_	_
+9	2014	2014	NOUN	_	_	6	nmod	_	_
+10	fait	faire	AUX	_	_	11	dep	_	_
+11	apparaître	apparaître	VERB	_	_	11	ROOT	_	_
+12	:	:	PUNCT	_	_	11	punct	_	_
+
+
+#- un pic de pollution en 2013,
+1	-	-	PUNCT	_	_	3	punct	_	_
+2	un	un	DET	_	_	3	det	_	_
+3	pic	pic	NOUN	_	_	3	ROOT	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	pollution	pollution	NOUN	_	_	3	nmod	_	_
+6	en	en	ADP	_	_	7	case	_	_
+7	2013	2013	PUNCT	_	_	3	nmod	_	_
+8	,	,	PUNCT	_	_	3	punct	_	_
+
+
+#- dans la nappe superficielle des remblais : une tendance globale à la hausse pour les C10-C40 et les 6 HAP, ainsi qu'une irisation voire film huileux,
+1	-	-	PUNCT	_	_	10	punct	_	_
+2	dans	dans	ADP	_	_	4	case	_	_
+3	la	le	DET	_	_	4	det	_	_
+4	nappe	nappe	NOUN	_	_	10	nmod	_	_
+5	superficielle	superficiel	ADJ	_	_	4	amod	_	_
+6	des	de	ADP	_	_	7	case	_	_
+7	remblais	remblai	NOUN	_	_	4	nmod	_	_
+8	:	:	PUNCT	_	_	10	punct	_	_
+9	une	un	DET	_	_	10	det	_	_
+10	tendance	tendance	NOUN	_	_	10	ROOT	_	_
+11	globale	global	ADJ	_	_	10	amod	_	_
+12	à	à	ADP	_	_	14	case	_	_
+13	la	le	DET	_	_	14	det	_	_
+14	hausse	hausse	NOUN	_	_	10	nmod	_	_
+15	pour	pour	ADP	_	_	17	case	_	_
+16	les	le	DET	_	_	17	det	_	_
+17	C10-C40	c10-c40	NOUN	_	_	10	nmod	_	_
+18	et	et	CCONJ	_	_	21	cc	_	_
+19	les	le	DET	_	_	21	det	_	_
+20	6	6	NUM	_	_	21	nummod	_	_
+21	HAP	hap	NOUN	_	_	17	conj	_	_
+22	,	,	PUNCT	_	_	10	punct	_	_
+23	ainsi	ainsi	ADV	_	_	26	cc	_	_
+24	qu'	que	SCONJ	_	_	23	fixed	_	_
+25	une	un	DET	_	_	26	det	_	_
+26	irisation	irisation	NOUN	_	_	10	conj	_	_
+27	voire	voire	CCONJ	_	_	28	cc	_	_
+28	film	film	NOUN	_	_	26	conj	_	_
+29	huileux	huileux	ADJ	_	_	28	amod	_	_
+30	,	,	PUNCT	_	_	10	punct	_	_
+
+
+#- dans la nappe profonde :
+1	-	-	PUNCT	_	_	4	punct	_	_
+2	dans	dans	ADP	_	_	4	case	_	_
+3	la	le	DET	_	_	4	det	_	_
+4	nappe	nappe	NOUN	_	_	4	ROOT	_	_
+5	profonde	profond	ADJ	_	_	4	amod	_	_
+6	:	:	PUNCT	_	_	4	punct	_	_
+
+
+#* une légère tendance à la hausse pour les C10-C40, qui semble commencer à stagner en 2014-2015
+1	*	*	PUNCT	_	_	4	punct	_	_
+2	une	un	DET	_	_	4	det	_	_
+3	légère	léger	ADJ	_	_	4	amod	_	_
+4	tendance	tendance	NOUN	_	_	4	ROOT	_	_
+5	à	à	ADP	_	_	7	case	_	_
+6	la	le	DET	_	_	7	det	_	_
+7	hausse	hausse	NOUN	_	_	4	nmod	_	_
+8	pour	pour	ADP	_	_	10	case	_	_
+9	les	le	DET	_	_	10	det	_	_
+10	C10-C40	C10-C40	PROPN	_	_	4	nmod	_	_
+11	,	,	PUNCT	_	_	4	punct	_	_
+12	qui	qui	PRON	_	_	13	nsubj	_	_
+13	semble	semble	VERB	_	_	4	acl:relcl	_	_
+14	commencer	commencer	VERB	_	_	13	xcomp	_	_
+15	à	à	ADP	_	_	16	mark	_	_
+16	stagner	stagner	VERB	_	_	14	xcomp	_	_
+17	en	en	ADP	_	_	18	case	_	_
+18	2014	2014	NUM	_	_	16	obl:mod	_	_
+19	-	-	NUM	_	_	13	obj	_	_
+20	2015	2015	NUM	_	_	4	nmod	_	_
+
+
+#* une stagnation des 6 HAP, excepté pour le piézomètre en latéral hydraulique qui subit de fortes variations qui ont tendance à baisser en 2015.
+1	*	*	PUNCT	_	_	3	punct	_	_
+2	une	un	DET	_	_	3	det	_	_
+3	stagnation	stagnation	NOUN	_	_	3	ROOT	_	_
+4	des	de	ADP	_	_	6	case	_	_
+5	6	6	NUM	_	_	6	nummod	_	_
+6	HAP	hap	NOUN	_	_	3	nmod	_	_
+7	,	,	PUNCT	_	_	3	punct	_	_
+8	excepté	excepté	ADP	_	_	11	case	_	_
+9	pour	pour	ADP	_	_	11	case	_	_
+10	le	le	DET	_	_	11	det	_	_
+11	piézomètre	piézomètre	NOUN	_	_	3	nmod	_	_
+12	en	en	ADP	_	_	13	case	_	_
+13	latéral	latéral	NOUN	_	_	11	nmod	_	_
+14	hydraulique	hydraulique	ADJ	_	_	13	amod	_	_
+15	qui	qui	PRON	_	_	16	nsubj	_	_
+16	subit	subir	VERB	_	_	11	acl:relcl	_	_
+17	de	de	DET	_	_	19	det	_	_
+18	fortes	fort	ADJ	_	_	19	amod	_	_
+19	variations	variation	NOUN	_	_	16	obj	_	_
+20	qui	qui	PRON	_	_	21	nsubj	_	_
+21	ont	avoir	VERB	_	_	19	acl:relcl	_	_
+22	tendance	tendance	NOUN	_	_	21	obj	_	_
+23	à	à	ADP	_	_	24	mark	_	_
+24	baisser	baisser	VERB	_	_	22	xcomp	_	_
+25	en	en	ADP	_	_	26	case	_	_
+26	2015	2015	NUM	_	_	24	obl:mod	_	_
+27	.	.	NUM	_	_	3	punct	_	_
+
+
+#Ces évolutions sont confirmées en 2016.
+1	Ces	ce	DET	_	_	2	det	_	_
+2	évolutions	évolution	NOUN	_	_	4	nsubj:pass	_	_
+3	sont	être	AUX	_	_	4	aux:pass	_	_
+4	confirmées	confirmer	VERB	_	_	4	ROOT	_	_
+5	en	en	ADP	_	_	6	case	_	_
+6	2016	2016	NUM	_	_	4	obl:mod	_	_
+7	.	.	NUM	_	_	4	punct	_	_
+
+

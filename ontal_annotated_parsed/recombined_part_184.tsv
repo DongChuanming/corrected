@@ -1,0 +1,8425 @@
+
+#59.0021
+#- Petite unité de fabrication et de conditionnement de produits chimiques (solvants, détergents, décapants)
+1	-	-	O	_
+2	Petite	petit	O	_
+3	unité	unité	O	_
+4	de	de	O	_
+5	fabrication	fabrication	IA	_
+6	et	et	IA	_
+7	de	de	IA	_
+8	conditionnement	conditionnement	IA	_
+9	de	de	IA	_
+10	produits	produit	IA	_
+11	chimiques	chimique	EA	_
+12	(	(	O	_
+13	solvants	solvant	O	_
+14	,	,	O	_
+15	détergents	détergent	O	_
+16	,	,	O	_
+17	décapants	décapant	O	_
+18	)	)	O	_
+
+
+#comportant un stockage de fûts à  même le sol.
+1	comportant	comporter	O	_
+2	un	un	O	_
+3	stockage	stockage	O	_
+4	de	de	O	_
+5	fûts	fût	O	_
+6	à	à	O	_
+7	 	 	O	_
+8	même	même	O	_
+9	le	le	O	_
+10	sol	sol	O	_
+11	.	.	O	_
+
+
+#- Déversement d'hydrocarbures.
+1	-	-	O	_
+2	Déversement	déversement	BN	_
+3	d'	de	BO	_
+4	hydrocarbures	hydrocarbure	EO	_
+5	.	.	O	_
+
+
+#-le site est situé au centre de la communne de Gondecourt, a proximité de la gare.
+1	-le	-le	BO	_
+2	site	site	EO	_
+3	est	être	BL	_
+4	situé	situer	IL	_
+5	au	au	IL	_
+6	centre	centre	IL	_
+7	de	de	IL	_
+8	la	le	IL	_
+9	communne	communne	IL	_
+10	de	de	IL	_
+11	Gondecourt	Gondecourt	EL	_
+12	,	,	O	_
+13	a	à	BL	_
+14	proximité	proximité	IL	_
+15	de	de	IL	_
+16	la	le	IL	_
+17	gare	gare	EL	_
+18	.	.	O	_
+
+
+#- Champs captants pour l'alimentation en eaude la Métropole Lilloise à proximité.
+1	-	-	O	_
+2	Champs	champ	BO	_
+3	captants	captant	EO	_
+4	pour	pour	O	_
+5	l'	le	O	_
+6	alimentation	alimentation	O	_
+7	en	en	O	_
+8	eaude	eaude	O	_
+9	la	le	BL	_
+10	Métropole	métropole	IL	_
+11	Lilloise	lillois	EL	_
+12	à	à	BL	_
+13	proximité	proximité	EL	_
+14	.	.	O	_
+
+
+#- Evacuation des produits et étude des sols imposées (coût : 108 kF).
+1	-	-	O	_
+2	Evacuation	evacuation	BN	_
+3	des	de	IN	_
+4	produits	produit	IN	_
+5	et	et	IN	_
+6	étude	étude	IN	_
+7	des	de	IN	_
+8	sols	sol	EN	_
+9	imposées	imposer	EN	_
+10	(	(	O	_
+11	coût	coût	O	_
+12	:	:	O	_
+13	108	108	O	_
+14	 	 	O	_
+15	kF	kf	O	_
+16	)	)	O	_
+17	.	.	O	_
+
+
+#- Le choix de la société qui va traiter le site a été fait.
+1	-	-	O	_
+2	Le	le	O	_
+3	choix	choix	O	_
+4	de	de	O	_
+5	la	le	BO	_
+6	société	société	EO	_
+7	qui	qui	O	_
+8	va	aller	O	_
+9	traiter	traiter	O	_
+10	le	le	BO	_
+11	site	site	EO	_
+12	a	avoir	BN	_
+13	été	être	IN	_
+14	fait	faire	EN	_
+15	.	.	O	_
+
+
+#- Diagnostic initial réalisé : site en classe 1 (investigations complémetaires à faire)
+1	-	-	O	_
+2	Diagnostic	diagnostic	IN	_
+3	initial	initial	IN	_
+4	réalisé	réaliser	EN	_
+5	:	:	O	_
+6	site	site	O	_
+7	en	en	O	_
+8	classe	classe	O	_
+9	1	1	O	_
+10	(	(	O	_
+11	investigations	investigation	O	_
+12	complémetaires	complémetaire	O	_
+13	à	à	O	_
+14	faire	faire	O	_
+15	)	)	O	_
+
+
+#- 05/98: evacuation de 1400 t de terres polluées (hydrocarbures) vers un centre spécialisé
+1	-	-	BT	_
+2	05/98	05/98	IT	_
+3	:	:	BN	_
+4	evacuation	evacuation	BN	_
+5	de	de	O	_
+6	1400	1400	BO	_
+7	t	t	IO	_
+8	de	de	IO	_
+9	terres	terre	IO	_
+10	polluées	polluer	EO	_
+11	(	(	O	_
+12	hydrocarbures	hydrocarbure	O	_
+13	)	)	O	_
+14	vers	vers	BR	_
+15	un	un	BO	_
+16	centre	centre	BO	_
+17	spécialisé	spécialisé	EO	_
+
+
+#-07/98 :  Diagnostic approfondi et Evaluation Détaillée des Risques .
+1	-07/98	-07/98	BT	_
+2	:	:	BN	_
+3	 	 	IN	_
+4	Diagnostic	diagnostic	IN	_
+5	approfondi	approfondi	EN	_
+6	et	et	O	_
+7	Evaluation	evaluation	O	_
+8	Détaillée	détaillé	O	_
+9	des	de	O	_
+10	Risques	risque	O	_
+11	.	.	O	_
+
+
+#-2  sources de pollution de sols ont été découvertes qui correspondent à 734 t de terres polluées.
+1	-2	-2	BO	_
+2	 	 	IO	_
+3	sources	source	IO	_
+4	de	de	IO	_
+5	pollution	pollution	IO	_
+6	de	de	IO	_
+7	sols	sol	EO	_
+8	ont	avoir	BN	_
+9	été	être	IN	_
+10	découvertes	découvrir	EN	_
+11	qui	qui	O	_
+12	correspondent	correspondre	O	_
+13	à	à	O	_
+14	734	734	O	_
+15	t	t	O	_
+16	de	de	BO	_
+17	terres	terre	BO	_
+18	polluées	polluer	EO	_
+19	.	.	O	_
+
+
+#-Traitement des 734 T de terres polluées en centre spécialisé.
+1	-Traitement	-traitement	BN	_
+2	des	de	O	_
+3	734	734	O	_
+4	T	t	O	_
+5	de	de	O	_
+6	terres	terre	BO	_
+7	polluées	polluer	EO	_
+8	en	en	O	_
+9	centre	centre	O	_
+10	spécialisé	spécialisé	O	_
+11	.	.	O	_
+
+
+#- Mise en place d'une surveillance piézométrique.
+1	-	-	O	_
+2	Mise	mise	BN	_
+3	en	en	IN	_
+4	place	place	IN	_
+5	d'	de	IN	_
+6	une	un	BA	_
+7	surveillance	surveillance	IA	_
+8	piézométrique	piézométrique	EA	_
+9	.	.	O	_
+
+
+#- Evaluation des risques résiduels demandée à l'exploitant( arrêté du 17/11/99) : recours au Tribunal Administratif
+1	-	-	O	_
+2	Evaluation	evaluation	BO	_
+3	des	de	IO	_
+4	risques	risque	IO	_
+5	résiduels	résiduel	EO	_
+6	demandée	demander	O	_
+7	à	à	O	_
+8	l'	le	BO	_
+9	exploitant	exploitant	EO	_
+10	(	(	O	_
+11	arrêté	arrêté	O	_
+12	du	de	O	_
+13	17/11/99	17/11/99	IT	_
+14	)	)	O	_
+15	:	:	O	_
+16	recours	recours	O	_
+17	au	au	O	_
+18	Tribunal	tribunal	O	_
+19	Administratif	administratif	O	_
+
+
+#- découverte fin 99 de 2 nouvelles zones de pollution
+1	-	-	O	_
+2	découverte	découverte	BN	_
+3	fin	fin	BT	_
+4	99	99	ET	_
+5	de	de	O	_
+6	2	2	BO	_
+7	nouvelles	nouveau	IO	_
+8	zones	zone	IO	_
+9	de	de	IO	_
+10	pollution	pollution	EO	_
+
+
+#- traitement in situ de mai à octobre 2001
+1	-	-	O	_
+2	traitement	traitement	BN	_
+3	in	in	IN	_
+4	situ	situ	EN	_
+5	de	de	BT	_
+6	mai	mai	IT	_
+7	à	à	IT	_
+8	octobre	octobre	IT	_
+9	2001	2001	ET	_
+
+
+#-en attente des résultats définitifs
+1	-en	-en	O	_
+2	attente	attente	O	_
+3	des	de	O	_
+4	résultats	résultat	O	_
+5	définitifs	définitif	O	_
+
+
+#-Rapport de fin de travaux remis le 14/06/2002
+1	-Rapport	-rapport	O	_
+2	de	de	O	_
+3	fin	fin	BN	_
+4	de	de	IN	_
+5	travaux	travail	IN	_
+6	remis	remettre	EN	_
+7	le	le	BT	_
+8	14/06/2002	14/06/2002	IT	_
+
+
+#Site considéré comme banalisable le 07/08/2002.
+1	Site	site	BO	_
+2	considéré	considérer	O	_
+3	comme	comme	O	_
+4	banalisable	banalisabl	O	_
+5	le	le	BT	_
+6	07/08/2002	07/08/2002	IT	_
+7	.	.	O	_
+
+
+#Un projet de construction de trois habitations a été remis.
+1	Un	un	BO	_
+2	projet	projet	IO	_
+3	de	de	IO	_
+4	construction	construction	IO	_
+5	de	de	IO	_
+6	trois	trois	IO	_
+7	habitations	habitation	EO	_
+8	a	avoir	BN	_
+9	été	être	IN	_
+10	remis	remettre	EN	_
+11	.	.	O	_
+
+
+#L'inspection donne un avis favorable le 09/03/2006 étant donnant l'état banalisable du site.
+1	L'	le	O	_
+2	inspection	inspection	O	_
+3	donne	donne	O	_
+4	un	un	BO	_
+5	avis	avis	IO	_
+6	favorable	favorable	EO	_
+7	le	le	BT	_
+8	09/03/2006	09/03/2006	IT	_
+9	étant	être	O	_
+10	donnant	donner	O	_
+11	l'	le	BO	_
+12	état	état	IO	_
+13	banalisable	banalisabl	EO	_
+14	du	de	O	_
+15	site	site	O	_
+16	.	.	O	_
+
+
+#59.0292
+#Les installations de l'usine ont abrités les activités de distillation de houille, fabrication et carburation de gaz à l'eau, de traitement chimique et physique du gaz ainsi que le stockage dans des gazomètres de grande capacité, de 1872 à 1962.
+1	Les	le	BO	_
+2	installations	installation	EO	_
+3	de	de	O	_
+4	l'	le	BO	_
+5	usine	usine	EO	_
+6	ont	avoir	BA	_
+7	abrités	abriter	EA	_
+8	les	le	BA	_
+9	activités	activité	BA	_
+10	de	de	IA	_
+11	distillation	distillation	IA	_
+12	de	de	IA	_
+13	houille	houille	EA	_
+14	,	,	O	_
+15	fabrication	fabrication	BA	_
+16	et	et	O	_
+17	carburation	carburation	BA	_
+18	de	de	IA	_
+19	gaz	gaz	EA	_
+20	à	à	O	_
+21	l'	le	O	_
+22	eau	eau	O	_
+23	,	,	O	_
+24	de	de	O	_
+25	traitement	traitement	BA	_
+26	chimique	chimique	IA	_
+27	et	et	IA	_
+28	physique	physique	IA	_
+29	du	de	IA	_
+30	gaz	gaz	EA	_
+31	ainsi	ainsi	O	_
+32	que	que	O	_
+33	le	le	BA	_
+34	stockage	stockage	IA	_
+35	dans	dans	O	_
+36	des	un	O	_
+37	gazomètres	gazomètre	O	_
+38	de	de	O	_
+39	grande	grand	O	_
+40	capacité	capacité	O	_
+41	,	,	O	_
+42	de	de	BT	_
+43	1872	1872	IT	_
+44	à	à	IT	_
+45	1962	1962	ET	_
+46	.	.	O	_
+
+
+#En 2009, il était utilisé pour les besoins de Gaz de France (dépôt de matériel, poste de détente et bureaux).
+1	En	en	BT	_
+2	2009	2009	ET	_
+3	,	,	ET	_
+4	il	il	BO	_
+5	était	être	BR	_
+6	utilisé	utiliser	IR	_
+7	pour	pour	ER	_
+8	les	le	BO	_
+9	besoins	besoin	EO	_
+10	de	de	O	_
+11	Gaz	Gaz	BO	_
+12	de	de	IO	_
+13	France	France	EO	_
+14	(	(	O	_
+15	dépôt	dépôt	BO	_
+16	de	de	IO	_
+17	matériel	matériel	EO	_
+18	,	,	O	_
+19	poste	poste	O	_
+20	de	de	O	_
+21	détente	détente	O	_
+22	et	et	O	_
+23	bureaux	bureau	O	_
+24	)	)	O	_
+25	.	.	O	_
+
+
+#Site implanté à proximité du centre ville de LOOS dans un quartier d'industries et d'habitations.
+1	Site	site	BO	_
+2	implanté	implanter	BR	_
+3	à	à	BL	_
+4	proximité	proximité	IL	_
+5	du	de	IL	_
+6	centre	centre	IL	_
+7	ville	ville	IL	_
+8	de	de	IL	_
+9	LOOS	LOOS	EL	_
+10	dans	dans	IL	_
+11	un	un	IL	_
+12	quartier	quartier	IL	_
+13	d'	de	IL	_
+14	industries	industrie	IL	_
+15	et	et	IL	_
+16	d'	de	IL	_
+17	habitations	habitation	EL	_
+18	.	.	O	_
+
+
+#La surface totale du site est de 44665 m2.
+1	La	le	O	_
+2	surface	surface	O	_
+3	totale	total	O	_
+4	du	de	O	_
+5	site	site	O	_
+6	est	être	O	_
+7	de	de	O	_
+8	44665	44665	O	_
+9	m2	m2	O	_
+10	.	.	O	_
+
+
+#Gaz de France a hiérarchisé ses actions sur les 467 sites d'anciennes usines à gaz qu'il gère, répartis sur l'ensemble du territoire.
+1	Gaz	Gaz	BO	_
+2	de	de	IO	_
+3	France	France	EO	_
+4	a	avoir	BN	_
+5	hiérarchisé	hiérarchiser	EN	_
+6	ses	son	BO	_
+7	actions	action	EO	_
+8	sur	sur	O	_
+9	les	le	O	_
+10	467	467	BO	_
+11	sites	site	EO	_
+12	d'	de	O	_
+13	anciennes	ancien	O	_
+14	usines	usine	O	_
+15	à	à	O	_
+16	gaz	gaz	O	_
+17	qu'	qu'	O	_
+18	il	il	O	_
+19	gère	gérer	O	_
+20	,	,	O	_
+21	répartis	répartir	O	_
+22	sur	sur	O	_
+23	l'	le	O	_
+24	ensemble	ensemble	O	_
+25	du	de	O	_
+26	territoire	territoire	O	_
+27	.	.	O	_
+
+
+#La méthodologie retenue a consisté à hiérarchiser les sites en fonction de leur sensibilité vis à vis de l'environnement (usage du site, vulnérabilité des eaux souterraines et superficielles, présence et type de population sur le site...).
+1	La	le	O	_
+2	méthodologie	méthodologie	O	_
+3	retenue	retenir	O	_
+4	a	avoir	O	_
+5	consisté	consister	O	_
+6	à	à	O	_
+7	hiérarchiser	hiérarchiser	BN	_
+8	les	le	BO	_
+9	sites	site	EO	_
+10	en	en	BR	_
+11	fonction	fonction	IR	_
+12	de	de	ER	_
+13	leur	leur	BO	_
+14	sensibilité	sensibilité	EO	_
+15	vis	vis	BR	_
+16	à	à	IR	_
+17	vis	vis	IR	_
+18	de	de	ER	_
+19	l'	le	BO	_
+20	environnement	environnement	EO	_
+21	(	(	O	_
+22	usage	usage	O	_
+23	du	de	O	_
+24	site	site	O	_
+25	,	,	O	_
+26	vulnérabilité	vulnérabilité	O	_
+27	des	de	O	_
+28	eaux	eau	O	_
+29	souterraines	souterrain	O	_
+30	et	et	O	_
+31	superficielles	superficiel	O	_
+32	,	,	O	_
+33	présence	présence	O	_
+34	et	et	O	_
+35	type	type	O	_
+36	de	de	O	_
+37	population	population	O	_
+38	sur	sur	O	_
+39	le	le	O	_
+40	site	site	O	_
+41	...	...	O	_
+42	)	)	O	_
+43	.	.	O	_
+
+
+#L'application de cette méthode a abouti à l'établissement de 5 classes de priorité pour lesquelles les engagements de Gaz de France ont fait l'objet d'un protocole d'accord relatif à la maîtrise et au suivi de la réhabilitation des anciens terrains d'usines à gaz entre le Ministère de l'Environnement et Gaz de France signé le 25 avril 1996.
+1	L'	le	BN	_
+2	application	application	EN	_
+3	de	de	O	_
+4	cette	ce	BO	_
+5	méthode	méthode	EO	_
+6	a	avoir	BR	_
+7	abouti	aboutir	IR	_
+8	à	à	ER	_
+9	l'	le	BN	_
+10	établissement	établissement	EN	_
+11	de	de	O	_
+12	5	5	BO	_
+13	classes	classe	IO	_
+14	de	de	IO	_
+15	priorité	priorité	EO	_
+16	pour	pour	O	_
+17	lesquelles	lequel	O	_
+18	les	le	BO	_
+19	engagements	engagement	EO	_
+20	de	de	O	_
+21	Gaz	Gaz	BO	_
+22	de	de	IO	_
+23	France	France	EO	_
+24	ont	avoir	BR	_
+25	fait	faire	IR	_
+26	l'	le	IR	_
+27	objet	objet	IR	_
+28	d'	de	ER	_
+29	un	un	BO	_
+30	protocole	protocole	IO	_
+31	d'	de	IO	_
+32	accord	accord	EO	_
+33	relatif	relatif	BR	_
+34	à	à	ER	_
+35	la	le	BO	_
+36	maîtrise	maîtrise	EO	_
+37	et	et	O	_
+38	au	au	O	_
+39	suivi	suivi	BO	_
+40	de	de	O	_
+41	la	le	BN	_
+42	réhabilitation	réhabilitation	EN	_
+43	des	de	O	_
+44	anciens	ancien	BO	_
+45	terrains	terrain	IO	_
+46	d'	de	IO	_
+47	usines	usine	IO	_
+48	à	à	IO	_
+49	gaz	gaz	EO	_
+50	entre	entre	BR	_
+51	le	le	BO	_
+52	Ministère	ministère	IO	_
+53	de	de	IO	_
+54	l'	le	IO	_
+55	Environnement	environnement	EO	_
+56	et	et	O	_
+57	Gaz	Gaz	BO	_
+58	de	de	IO	_
+59	France	France	EO	_
+60	signé	signer	BN	_
+61	le	le	BT	_
+62	25	25	IT	_
+63	avril	avril	IT	_
+64	1996	1996	ET	_
+65	.	.	O	_
+
+
+#Le site de Loos est en classe 3 du protocole.
+1	Le	le	BO	_
+2	site	site	IO	_
+3	de	de	IO	_
+4	Loos	Loos	EO	_
+5	est	être	O	_
+6	en	en	O	_
+7	classe	classe	O	_
+8	3	3	O	_
+9	du	de	O	_
+10	protocole	protocole	O	_
+11	.	.	O	_
+
+
+#De ce fait, c'est un site dont la sensibilité vis à vis de l'homme, des eaux souterraines et superficielles est faible.
+1	De	de	O	_
+2	ce	ce	O	_
+3	fait	fait	O	_
+4	,	,	O	_
+5	c'	ce	O	_
+6	est	être	O	_
+7	un	un	O	_
+8	site	site	O	_
+9	dont	dont	O	_
+10	la	le	O	_
+11	sensibilité	sensibilité	O	_
+12	vis	vis	O	_
+13	à	à	O	_
+14	vis	vis	O	_
+15	de	de	O	_
+16	l'	le	O	_
+17	homme	homme	O	_
+18	,	,	O	_
+19	des	de	O	_
+20	eaux	eau	O	_
+21	souterraines	souterrain	O	_
+22	et	et	O	_
+23	superficielles	superficiel	O	_
+24	est	être	O	_
+25	faible	faible	O	_
+26	.	.	O	_
+
+
+#Conformément aux engagements pris dans le protocole, Gaz de France a réalisé une étude historique avec localisation des cuves.
+1	Conformément	conformément	BR	_
+2	aux	à	ER	_
+3	engagements	engagement	BO	_
+4	pris	prendre	BR	_
+5	dans	dans	ER	_
+6	le	le	BO	_
+7	protocole	protocole	EO	_
+8	,	,	O	_
+9	Gaz	Gaz	BT	_
+10	de	de	IT	_
+11	France	France	ET	_
+12	a	avoir	BN	_
+13	réalisé	réaliser	EN	_
+14	une	un	BN	_
+15	étude	étude	IN	_
+16	historique	historique	EN	_
+17	avec	avec	O	_
+18	localisation	localisation	O	_
+19	des	de	O	_
+20	cuves	cuve	BO	_
+21	.	.	O	_
+
+
+#Des travaux ont eu lieu en 2003: vidange et comblement des cuves, élimination des eaux, goudrons et remblais souillés et cyanurés.
+1	Des	un	BN	_
+2	travaux	travail	IN	_
+3	ont	avoir	IN	_
+4	eu	avoir	IN	_
+5	lieu	lieu	EN	_
+6	en	en	BT	_
+7	2003	2003	ET	_
+8	:	:	BN	_
+9	vidange	vidange	EN	_
+10	et	et	O	_
+11	comblement	comblement	BN	_
+12	des	de	IN	_
+13	cuves	cuve	BO	_
+14	,	,	O	_
+15	élimination	élimination	BN	_
+16	des	de	IN	_
+17	eaux	eau	EN	_
+18	,	,	O	_
+19	goudrons	goudron	O	_
+20	et	et	O	_
+21	remblais	remblai	BN	_
+22	souillés	souiller	O	_
+23	et	et	O	_
+24	cyanurés	cyanurer	BO	_
+25	.	.	O	_
+
+
+#Deux analyses des eaux souterraines ont été réalisées en janvier 2002 et décembre 2005 par trois piézomètres et ont permis de confirmer la présence de pollution dans les eaux souterraines.
+1	Deux	Deux	BN	_
+2	analyses	analyse	EN	_
+3	des	de	O	_
+4	eaux	eau	BO	_
+5	souterraines	souterrain	EO	_
+6	ont	avoir	BN	_
+7	été	être	IN	_
+8	réalisées	réaliser	EN	_
+9	en	en	BT	_
+10	janvier	janvier	IT	_
+11	2002	2002	IT	_
+12	et	et	IT	_
+13	décembre	décembre	IT	_
+14	2005	2005	ET	_
+15	par	par	O	_
+16	trois	trois	O	_
+17	piézomètres	piézomètre	O	_
+18	et	et	O	_
+19	ont	avoir	O	_
+20	permis	permettre	O	_
+21	de	de	O	_
+22	confirmer	confirmer	O	_
+23	la	le	BO	_
+24	présence	présence	IO	_
+25	de	de	IO	_
+26	pollution	pollution	EO	_
+27	dans	dans	O	_
+28	les	le	O	_
+29	eaux	eau	O	_
+30	souterraines	souterrain	O	_
+31	.	.	O	_
+
+
+#Réalisation d'une étude hydrogéologique en janvier 2005.
+1	Réalisation	réalisation	BN	_
+2	d'	de	BN	_
+3	une	un	BN	_
+4	étude	étude	IN	_
+5	hydrogéologique	hydrogéologique	EN	_
+6	en	en	BT	_
+7	janvier	janvier	IT	_
+8	2005	2005	ET	_
+9	.	.	ET	_
+
+
+#Par ailleurs, Gaz de France réalisera un diagnostic initial en préalable à toute opération de vente, cession ou réaménagement.
+1	Par	par	O	_
+2	ailleurs	ailleurs	O	_
+3	,	,	O	_
+4	Gaz	Gaz	BO	_
+5	de	de	IO	_
+6	France	France	EO	_
+7	réalisera	réaliser	BN	_
+8	un	un	BN	_
+9	diagnostic	diagnostic	IN	_
+10	initial	initial	EN	_
+11	en	en	BR	_
+12	préalable	préalable	IR	_
+13	à	à	ER	_
+14	toute	tout	BN	_
+15	opération	opération	IN	_
+16	de	de	IN	_
+17	vente	vente	EN	_
+18	,	,	O	_
+19	cession	cession	BN	_
+20	ou	ou	O	_
+21	réaménagement	réaménagement	BN	_
+22	.	.	O	_
+
+
+#En 2009, projet de construction de logements sur le site.
+1	En	en	BT	_
+2	2009	2009	ET	_
+3	,	,	ET	_
+4	projet	projet	BR	_
+5	de	de	ER	_
+6	construction	construction	BN	_
+7	de	de	IN	_
+8	logements	logement	EN	_
+9	sur	sur	O	_
+10	le	le	O	_
+11	site	site	O	_
+12	.	.	O	_
+
+
+#Selon les informations a notre disposition, le pompage d'alimentation en eau potable à l'aval du site le plus proche, est à 5.9 km, ce qui minore le risque pour les populations utilisatrices de ces eaux.
+1	Selon	selon	O	_
+2	les	le	O	_
+3	informations	information	O	_
+4	a	à	O	_
+5	notre	notre	O	_
+6	disposition	disposition	O	_
+7	,	,	O	_
+8	le	le	O	_
+9	pompage	pompage	BA	_
+10	d'	de	IA	_
+11	alimentation	alimentation	IA	_
+12	en	en	IA	_
+13	eau	eau	IA	_
+14	potable	potable	EA	_
+15	à	à	BL	_
+16	l'	le	IL	_
+17	aval	aval	IL	_
+18	du	de	IL	_
+19	site	site	EL	_
+20	le	le	BO	_
+21	plus	plus	IO	_
+22	proche	proche	EO	_
+23	,	,	O	_
+24	est	être	O	_
+25	à	à	O	_
+26	5.9	5.9	BO	_
+27	km	kilomètre	EO	_
+28	,	,	O	_
+29	ce	ce	O	_
+30	qui	qui	O	_
+31	minore	minore	O	_
+32	le	le	O	_
+33	risque	risque	O	_
+34	pour	pour	O	_
+35	les	le	O	_
+36	populations	population	O	_
+37	utilisatrices	utilisateur	O	_
+38	de	de	O	_
+39	ces	ce	O	_
+40	eaux	eau	O	_
+41	.	.	O	_
+
+
+#Site mis en sécurité vis à vis des tiers.
+1	Site	site	O	_
+2	mis	mettre	O	_
+3	en	en	O	_
+4	sécurité	sécurité	O	_
+5	vis	vis	O	_
+6	à	à	O	_
+7	vis	vis	O	_
+8	des	de	O	_
+9	tiers	tiers	O	_
+10	.	.	O	_
+
+
+#A ce jour, aucune restriction d'usage n'a été mise en place, lorsqu'un projet proposera une nouvelle utilisation du site, un plan de gestion sera réalisé et proposera des restrictions d'usage.
+1	A	à	BT	_
+2	ce	ce	IT	_
+3	jour	jour	ET	_
+4	,	,	O	_
+5	aucune	aucun	O	_
+6	restriction	restriction	O	_
+7	d'	de	O	_
+8	usage	usage	O	_
+9	n'	n'	O	_
+10	a	avoir	O	_
+11	été	être	O	_
+12	mise	mettre	O	_
+13	en	en	O	_
+14	place	place	O	_
+15	,	,	O	_
+16	lorsqu'	lorsque	O	_
+17	un	un	BO	_
+18	projet	projet	EO	_
+19	proposera	proposer	BN	_
+20	une	un	IN	_
+21	nouvelle	nouveau	IN	_
+22	utilisation	utilisation	EN	_
+23	du	de	BO	_
+24	site	site	EO	_
+25	,	,	O	_
+26	un	un	BO	_
+27	plan	plan	IO	_
+28	de	de	IO	_
+29	gestion	gestion	EO	_
+30	sera	être	BN	_
+31	réalisé	réaliser	EN	_
+32	et	et	O	_
+33	proposera	proposer	O	_
+34	des	un	O	_
+35	restrictions	restriction	O	_
+36	d'	de	O	_
+37	usage	usage	O	_
+38	.	.	O	_
+
+
+#Perspectives:
+1	Perspectives	perspective	O	_
+2	:	:	O	_
+
+
+#L'aménageur a désormais la responsabilité de s'assurer de la compatibilité des usages successifs qu'il pourra envisager sur le site avec l'état des sols et d'assurer l'information des futurs acquéreurs.
+1	L'	le	BO	_
+2	aménageur	aménageur	EN	_
+3	a	avoir	BN	_
+4	désormais	désormais	EN	_
+5	la	le	BO	_
+6	responsabilité	responsabilité	BO	_
+7	de	de	O	_
+8	s'	se	O	_
+9	assurer	assurer	O	_
+10	de	de	O	_
+11	la	le	O	_
+12	compatibilité	compatibilité	O	_
+13	des	de	O	_
+14	usages	usage	O	_
+15	successifs	successif	O	_
+16	qu'	qu'	O	_
+17	il	il	O	_
+18	pourra	pouvoir	O	_
+19	envisager	envisager	O	_
+20	sur	sur	O	_
+21	le	le	O	_
+22	site	site	O	_
+23	avec	avec	O	_
+24	l'	le	O	_
+25	état	état	O	_
+26	des	de	O	_
+27	sols	sol	O	_
+28	et	et	O	_
+29	d'	de	BN	_
+30	assurer	assurer	BN	_
+31	l'	le	BN	_
+32	information	information	BN	_
+33	des	de	BN	_
+34	futurs	futur	IN	_
+35	acquéreurs	acquéreur	EN	_
+36	.	.	O	_
+
+
+#Sauf en cas d'éléments nouveaux portés à la connaissance de la DREAL, il n'y a plus lieu de mettre à jour la présente fiche BASOL.
+1	Sauf	sauf	O	_
+2	en	en	O	_
+3	cas	cas	O	_
+4	d'	de	O	_
+5	éléments	élément	O	_
+6	nouveaux	nouveau	O	_
+7	portés	porter	O	_
+8	à	à	O	_
+9	la	le	O	_
+10	connaissance	connaissance	O	_
+11	de	de	O	_
+12	la	le	BO	_
+13	DREAL	DREAL	EO	_
+14	,	,	O	_
+15	il	il	O	_
+16	n'	n'	O	_
+17	y	y	O	_
+18	a	avoir	BN	_
+19	plus	plus	EN	_
+20	lieu	lieu	O	_
+21	de	de	O	_
+22	mettre	mettre	O	_
+23	à	à	O	_
+24	jour	jour	O	_
+25	la	le	O	_
+26	présente	présent	O	_
+27	fiche	fiche	O	_
+28	BASOL	BASOL	O	_
+29	.	.	O	_
+
+
+#59.0075
+#Le site est divisé en trois parcelles dont deux ont fait l'objet d'activités relevant de la législation des installations classées, la troisième étant occupée par une ancienne voie ferrée permettant l'approvisionnement.
+1	Le	le	BO	_
+2	site	site	EO	_
+3	est	être	O	_
+4	divisé	diviser	BO	_
+5	en	en	EO	_
+6	trois	trois	EO	_
+7	parcelles	parcelle	EO	_
+8	dont	dont	O	_
+9	deux	deux	BO	_
+10	ont	avoir	BR	_
+11	fait	faire	IR	_
+12	l'	le	IR	_
+13	objet	objet	IR	_
+14	d'	de	BA	_
+15	activités	activité	IA	_
+16	relevant	relever	IA	_
+17	de	de	IA	_
+18	la	le	IA	_
+19	législation	législation	IA	_
+20	des	de	IA	_
+21	installations	installation	IA	_
+22	classées	classer	EA	_
+23	,	,	O	_
+24	la	le	O	_
+25	troisième	troisième	O	_
+26	étant	être	O	_
+27	occupée	occuper	IR	_
+28	par	par	ER	_
+29	une	un	BO	_
+30	ancienne	ancien	IO	_
+31	voie	voie	IO	_
+32	ferrée	ferré	EO	_
+33	permettant	permettre	BR	_
+34	l'	le	BA	_
+35	approvisionnement	approvisionnement	EA	_
+36	.	.	O	_
+
+
+#superficie totale: 9700m2
+1	superficie	superficie	O	_
+2	totale	total	O	_
+3	:	:	O	_
+4	9700m2	9700m2	BO	_
+
+
+#L'une des parcelles a été exploitée par la société DELEVOY pour entreposer des peintures et autres produits de droguerie jusqu'en 1991.
+1	L'	le	BO	_
+2	une	un	IO	_
+3	des	de	IO	_
+4	parcelles	parcelle	EO	_
+5	a	avoir	BN	_
+6	été	être	IN	_
+7	exploitée	exploiter	EN	_
+8	par	par	BR	_
+9	la	le	BO	_
+10	société	société	IO	_
+11	DELEVOY	DELEVOY	EO	_
+12	pour	pour	O	_
+13	entreposer	entreposer	BA	_
+14	des	un	BA	_
+15	peintures	peinture	BA	_
+16	et	et	IA	_
+17	autres	autre	IA	_
+18	produits	produit	IA	_
+19	de	de	IA	_
+20	droguerie	droguerie	EA	_
+21	jusqu'	jusque	BT	_
+22	en	en	IT	_
+23	1991	1991	ET	_
+24	.	.	O	_
+
+
+#L'entrepôt a fait l'objet d'un incendie en 1985.
+1	L'	le	BO	_
+2	entrepôt	entrepôt	EO	_
+3	a	avoir	BR	_
+4	fait	faire	IR	_
+5	l'	le	IR	_
+6	objet	objet	IR	_
+7	d'	de	ER	_
+8	un	un	BN	_
+9	incendie	incendie	EN	_
+10	en	en	BT	_
+11	1985	1985	ET	_
+12	.	.	ET	_
+
+
+#L'autre parcelle a été exploitée jusqu'en 1969 par la société EXPERT BEZANCON devenue RIPOLIN et désormais dans le giron d'ATOFINA.
+1	L'	le	O	_
+2	autre	autre	BO	_
+3	parcelle	parcelle	EO	_
+4	a	avoir	BN	_
+5	été	être	IN	_
+6	exploitée	exploiter	EN	_
+7	jusqu'	jusque	BT	_
+8	en	en	IT	_
+9	1969	1969	ET	_
+10	par	par	O	_
+11	la	le	BO	_
+12	société	société	IO	_
+13	EXPERT	EXPERT	EO	_
+14	BEZANCON	BEZANCON	EO	_
+15	devenue	devenir	BN	_
+16	RIPOLIN	RIPOLIN	BO	_
+17	et	et	O	_
+18	désormais	désormais	BA	_
+19	dans	dans	BA	_
+20	le	le	BO	_
+21	giron	giron	BR	_
+22	d'	de	ER	_
+23	ATOFINA	ATOFINA	EO	_
+24	.	.	O	_
+
+
+#L'usine était spécialisée dans la production de blanc de zinc, de minium de plomb, de litharge et de peintures au plomb.
+1	L'	le	BO	_
+2	usine	usine	EO	_
+3	était	être	BR	_
+4	spécialisée	spécialiser	IR	_
+5	dans	dans	ER	_
+6	la	le	IA	_
+7	production	production	IA	_
+8	de	de	IA	_
+9	blanc	blanc	IA	_
+10	de	de	IA	_
+11	zinc	zinc	EA	_
+12	,	,	O	_
+13	de	de	O	_
+14	minium	minium	O	_
+15	de	de	O	_
+16	plomb	plomb	O	_
+17	,	,	O	_
+18	de	de	O	_
+19	litharge	litharge	O	_
+20	et	et	O	_
+21	de	de	O	_
+22	peintures	peinture	O	_
+23	au	au	O	_
+24	plomb	plomb	O	_
+25	.	.	O	_
+
+
+#Le site est aujourd'hui propriété de la mairie de ST ANDRE.
+1	Le	le	BO	_
+2	site	site	EO	_
+3	est	être	BR	_
+4	aujourd'hui	aujourd'hui	IR	_
+5	propriété	propriété	IR	_
+6	de	de	ER	_
+7	la	le	BO	_
+8	mairie	mairie	EO	_
+9	de	de	IL	_
+10	ST	ST	IL	_
+11	ANDRE	ANDRE	EL	_
+12	.	.	O	_
+
+
+#Il constitue un espace vert au milieu d'un quartier faisant l'objet d'une politique de ville renouvelée avec des habitations.
+1	Il	il	O	_
+2	constitue	constitue	O	_
+3	un	un	O	_
+4	espace	espace	IN	_
+5	vert	vert	IN	_
+6	au	au	BL	_
+7	milieu	milieu	IL	_
+8	d'	de	IL	_
+9	un	un	IL	_
+10	quartier	quartier	IL	_
+11	faisant	faire	BR	_
+12	l'	le	BR	_
+13	objet	objet	BR	_
+14	d'	de	ER	_
+15	une	un	BN	_
+16	politique	politique	IN	_
+17	de	de	IN	_
+18	ville	ville	IN	_
+19	renouvelée	renouveler	EN	_
+20	avec	avec	BR	_
+21	des	un	IL	_
+22	habitations	habitation	EL	_
+23	.	.	O	_
+
+
+#La pollution a été découverte par le propriétaire (Mairie de St André) lors de travaux pour la réalisation de logements.
+1	La	le	BO	_
+2	pollution	pollution	EO	_
+3	a	avoir	BN	_
+4	été	être	IN	_
+5	découverte	découvrir	EN	_
+6	par	par	EN	_
+7	le	le	BO	_
+8	propriétaire	propriétaire	EO	_
+9	(	(	O	_
+10	Mairie	mairie	IL	_
+11	de	de	IL	_
+12	St	St	IL	_
+13	André	André	EL	_
+14	)	)	O	_
+15	lors	lors	O	_
+16	de	de	BN	_
+17	travaux	travail	EN	_
+18	pour	pour	O	_
+19	la	le	BN	_
+20	réalisation	réalisation	IN	_
+21	de	de	IN	_
+22	logements	logement	EN	_
+23	.	.	O	_
+
+
+#Un diagnostic initial a été réalisé (après consignation par ordre du préfet de la somme équivalant au montant des études) par la société DELEVOY en parallèle de recours intentés par la société contre l'arrêté préfectoral lui imposant l'étude.
+1	Un	un	BN	_
+2	diagnostic	diagnostic	IN	_
+3	initial	initial	IN	_
+4	a	avoir	BN	_
+5	été	être	IN	_
+6	réalisé	réaliser	EN	_
+7	(	(	O	_
+8	après	après	O	_
+9	consignation	consignation	O	_
+10	par	par	O	_
+11	ordre	ordre	O	_
+12	du	de	O	_
+13	préfet	préfet	O	_
+14	de	de	O	_
+15	la	le	O	_
+16	somme	somme	O	_
+17	équivalant	équivaloir	O	_
+18	au	au	O	_
+19	montant	montant	O	_
+20	des	de	O	_
+21	études	étude	O	_
+22	)	)	O	_
+23	par	par	O	_
+24	la	le	BO	_
+25	société	société	IO	_
+26	DELEVOY	DELEVOY	EO	_
+27	en	en	BR	_
+28	parallèle	parallèle	IR	_
+29	de	de	ER	_
+30	recours	recours	BO	_
+31	intentés	intenter	BR	_
+32	par	par	O	_
+33	la	le	BO	_
+34	société	société	EO	_
+35	contre	contre	O	_
+36	l'	le	BO	_
+37	arrêté	arrêté	IO	_
+38	préfectoral	préfectoral	EO	_
+39	lui	lui	O	_
+40	imposant	imposer	O	_
+41	l'	le	O	_
+42	étude	étude	O	_
+43	.	.	O	_
+
+
+#Le diagnostic initial a mis en évidence la responsabilité partielle de la société EXPERT BEZANCON ainsi qu'une pollution généralisée des remblais du site par le plomb en plus de pollutions plus ponctuelles (xylènes, trychloréthylène...).
+1	Le	le	BN	_
+2	diagnostic	diagnostic	IN	_
+3	initial	initial	EN	_
+4	a	avoir	O	_
+5	mis	mettre	O	_
+6	en	en	O	_
+7	évidence	évidence	O	_
+8	la	le	O	_
+9	responsabilité	responsabilité	O	_
+10	partielle	partiel	O	_
+11	de	de	O	_
+12	la	le	BO	_
+13	société	société	IO	_
+14	EXPERT	EXPERT	EO	_
+15	BEZANCON	BEZANCON	EO	_
+16	ainsi	ainsi	O	_
+17	qu'	que	O	_
+18	une	un	BN	_
+19	pollution	pollution	IN	_
+20	généralisée	généraliser	IN	_
+21	des	de	IN	_
+22	remblais	remblai	EN	_
+23	du	de	IL	_
+24	site	site	EL	_
+25	par	par	O	_
+26	le	le	O	_
+27	plomb	plomb	O	_
+28	en	en	O	_
+29	plus	plus	O	_
+30	de	de	O	_
+31	pollutions	pollution	O	_
+32	plus	plus	O	_
+33	ponctuelles	ponctuel	O	_
+34	(	(	O	_
+35	xylènes	xylène	O	_
+36	,	,	O	_
+37	trychloréthylène	trychloréthylène	O	_
+38	...	...	O	_
+39	)	)	O	_
+40	.	.	O	_
+
+
+#La réalisation d'un diagnostic approfondi et d'une évaluation détaillée des risques ont été proposées ainsi que la clôture du site afin d'en limiter l'accès.
+1	La	le	BN	_
+2	réalisation	réalisation	IN	_
+3	d'	de	IN	_
+4	un	un	IN	_
+5	diagnostic	diagnostic	IN	_
+6	approfondi	approfondi	EN	_
+7	et	et	O	_
+8	d'	de	O	_
+9	une	un	BN	_
+10	évaluation	évaluation	IN	_
+11	détaillée	détaillé	IN	_
+12	des	de	IN	_
+13	risques	risque	EN	_
+14	ont	avoir	BN	_
+15	été	être	IN	_
+16	proposées	proposer	EN	_
+17	ainsi	ainsi	O	_
+18	que	que	O	_
+19	la	le	BN	_
+20	clôture	clôture	BN	_
+21	du	de	IN	_
+22	site	site	EN	_
+23	afin	afin	BR	_
+24	d'	de	ER	_
+25	en	en	O	_
+26	limiter	limiter	O	_
+27	l'	le	O	_
+28	accès	accès	O	_
+29	.	.	O	_
+
+
+#Réalisation d'un diagnostic initial et d'une évaluation simplifiée des risques en septembre 2001
+1	Réalisation	réalisation	BN	_
+2	d'	de	IN	_
+3	un	un	BN	_
+4	diagnostic	diagnostic	IN	_
+5	initial	initial	EN	_
+6	et	et	O	_
+7	d'	de	BN	_
+8	une	un	BN	_
+9	évaluation	évaluation	IN	_
+10	simplifiée	simplifier	IN	_
+11	des	de	IN	_
+12	risques	risque	EN	_
+13	en	en	BT	_
+14	septembre	septembre	IT	_
+15	2001	2001	ET	_
+
+
+#Réalisation d'une étude d'évaluation des pollutions industrielles en juillet 2001
+1	Réalisation	réalisation	BN	_
+2	d'	de	IN	_
+3	une	un	BN	_
+4	étude	étude	IN	_
+5	d'	de	IN	_
+6	évaluation	évaluation	EN	_
+7	des	de	IN	_
+8	pollutions	pollution	EN	_
+9	industrielles	industriel	EO	_
+10	en	en	BT	_
+11	juillet	juillet	IT	_
+12	2001	2001	ET	_
+
+
+#Réalisation d'une évaluation simplifiée des risques et d'un diagnostic approfondi en janvier 2003
+1	Réalisation	réalisation	BN	_
+2	d'	de	IN	_
+3	une	un	IN	_
+4	évaluation	évaluation	IN	_
+5	simplifiée	simplifier	IN	_
+6	des	de	IN	_
+7	risques	risque	EN	_
+8	et	et	O	_
+9	d'	de	BN	_
+10	un	un	BN	_
+11	diagnostic	diagnostic	IN	_
+12	approfondi	approfondir	EN	_
+13	en	en	BT	_
+14	janvier	janvier	IT	_
+15	2003	2003	ET	_
+
+
+#Dépôt d'un permis de construire en 2008 pour de l'habitat.
+1	Dépôt	dépôt	BN	_
+2	d'	de	IL	_
+3	un	un	BO	_
+4	permis	permis	EO	_
+5	de	de	EO	_
+6	construire	construire	EO	_
+7	en	en	BT	_
+8	2008	2008	ET	_
+9	pour	pour	O	_
+10	de	de	O	_
+11	l'	le	BO	_
+12	habitat	habitat	EN	_
+13	.	.	O	_
+
+
+#La nappe polluée est la nappe superficielles.
+1	La	le	O	_
+2	nappe	nappe	O	_
+3	polluée	polluer	O	_
+4	est	être	O	_
+5	la	le	O	_
+6	nappe	nappe	O	_
+7	superficielles	superficiel	O	_
+8	.	.	O	_
+
+
+#La nappe de la craie utilisée pour l'AEP n'a pas été atteinte, ce qui minore le risque pour les populations alentour vis à vis des la pollution du site.
+1	La	le	O	_
+2	nappe	nappe	O	_
+3	de	de	O	_
+4	la	le	O	_
+5	craie	craie	O	_
+6	utilisée	utiliser	O	_
+7	pour	pour	O	_
+8	l'	le	O	_
+9	AEP	aep	O	_
+10	n'	n'	O	_
+11	a	avoir	O	_
+12	pas	pas	O	_
+13	été	être	O	_
+14	atteinte	atteindre	O	_
+15	,	,	O	_
+16	ce	ce	O	_
+17	qui	qui	O	_
+18	minore	minore	O	_
+19	le	le	O	_
+20	risque	risque	O	_
+21	pour	pour	O	_
+22	les	le	BO	_
+23	populations	population	EO	_
+24	alentour	alentour	EL	_
+25	vis	vis	O	_
+26	à	à	O	_
+27	vis	vis	O	_
+28	des	de	O	_
+29	la	le	O	_
+30	pollution	pollution	O	_
+31	du	de	O	_
+32	site	site	O	_
+33	.	.	O	_
+
+
+#Aucun document n'a été transmis à l'administration attestant de la mise en place d'une couverture des sols pollués.
+1	Aucun	aucun	O	_
+2	document	document	O	_
+3	n'	n'	O	_
+4	a	avoir	O	_
+5	été	être	O	_
+6	transmis	transmettre	O	_
+7	à	à	O	_
+8	l'	le	O	_
+9	administration	administration	O	_
+10	attestant	attester	O	_
+11	de	de	O	_
+12	la	le	BN	_
+13	mise	mise	BN	_
+14	en	en	IN	_
+15	place	place	IN	_
+16	d'	de	IN	_
+17	une	un	IN	_
+18	couverture	couverture	IN	_
+19	des	de	IN	_
+20	sols	sol	IN	_
+21	pollués	polluer	EN	_
+22	.	.	O	_
+
+
+#Aucune action de l'administration en cours.
+1	Aucune	aucun	O	_
+2	action	action	O	_
+3	de	de	O	_
+4	l'	le	O	_
+5	administration	administration	O	_
+6	en	en	O	_
+7	cours	cours	O	_
+8	.	.	O	_
+
+
+#En cas de changement d'usage, il appartient au maître d'ouvrage de vérifier que son projet est compatible avec l'état des sols compte tenu des travaux qui ont été réalisés pour un usage donné et de respecter les dispositions de servitudes éventuellement instaurées sur ce site(si servitudes mises en œuvre).
+1	En	en	BR	_
+2	cas	cas	IR	_
+3	de	de	BN	_
+4	changement	changement	IN	_
+5	d'	de	EN	_
+6	usage	usage	O	_
+7	,	,	O	_
+8	il	il	O	_
+9	appartient	appartenir	O	_
+10	au	au	O	_
+11	maître	maître	BO	_
+12	d'	de	EO	_
+13	ouvrage	ouvrage	EO	_
+14	de	de	O	_
+15	vérifier	vérifier	BN	_
+16	que	que	O	_
+17	son	son	BO	_
+18	projet	projet	EO	_
+19	est	être	O	_
+20	compatible	compatible	O	_
+21	avec	avec	O	_
+22	l'	le	O	_
+23	état	état	O	_
+24	des	de	O	_
+25	sols	sol	O	_
+26	compte	compte	O	_
+27	tenu	tenir	O	_
+28	des	de	O	_
+29	travaux	travail	O	_
+30	qui	qui	O	_
+31	ont	avoir	BN	_
+32	été	être	IN	_
+33	réalisés	réaliser	EN	_
+34	pour	pour	O	_
+35	un	un	BO	_
+36	usage	usage	EO	_
+37	donné	donner	O	_
+38	et	et	O	_
+39	de	de	O	_
+40	respecter	respecter	O	_
+41	les	le	O	_
+42	dispositions	disposition	O	_
+43	de	de	O	_
+44	servitudes	servitude	O	_
+45	éventuellement	éventuellement	O	_
+46	instaurées	instaurer	O	_
+47	sur	sur	O	_
+48	ce	ce	O	_
+49	site(si	site(si	O	_
+50	servitudes	servitude	O	_
+51	mises	mettre	O	_
+52	en	en	O	_
+53	œuvre	œuvre	O	_
+54	)	)	O	_
+55	.	.	O	_
+
+
+#59.0151
+#- Ancienne unité de traitement de surface
+1	-	-	O	_
+2	Ancienne	ancien	BO	_
+3	unité	unité	IO	_
+4	de	de	IO	_
+5	traitement	traitement	EO	_
+6	de	de	O	_
+7	surface	surface	O	_
+
+
+#- La société gravait les cylindres pour les machines d'impression de la Société Lawson Mardon Trentesaux, voisine et propriétaire du site
+1	-	-	O	_
+2	La	le	BO	_
+3	société	société	EO	_
+4	gravait	graver	BA	_
+5	les	le	BA	_
+6	cylindres	cylindre	IA	_
+7	pour	pour	IA	_
+8	les	le	IA	_
+9	machines	machine	IA	_
+10	d'	de	IA	_
+11	impression	impression	EA	_
+12	de	de	O	_
+13	la	le	BO	_
+14	Société	société	IO	_
+15	Lawson	Lawson	EO	_
+16	Mardon	Mardon	EO	_
+17	Trentesaux	Trentesaux	EO	_
+18	,	,	O	_
+19	voisine	voisin	O	_
+20	et	et	O	_
+21	propriétaire	propriétaire	BN	_
+22	du	de	IL	_
+23	site	site	EL	_
+
+
+#- Lors de la cessation d'activité en décembre 1996, des études de sols ont été menées.
+1	-	-	O	_
+2	Lors	lors	BT	_
+3	de	de	BN	_
+4	la	le	BN	_
+5	cessation	cessation	IN	_
+6	d'	de	IN	_
+7	activité	activité	EN	_
+8	en	en	BT	_
+9	décembre	décembre	IT	_
+10	1996	1996	ET	_
+11	,	,	ET	_
+12	des	un	BN	_
+13	études	étude	IN	_
+14	de	de	IN	_
+15	sols	sol	EN	_
+16	ont	avoir	BN	_
+17	été	être	IN	_
+18	menées	mener	EN	_
+19	.	.	O	_
+
+
+#Elles ont révélé une pollution de la nappe superficielle  et des sols aux solvants, hydrocarbures et métaux lourds
+1	Elles	lui	O	_
+2	ont	avoir	O	_
+3	révélé	révéler	O	_
+4	une	un	BN	_
+5	pollution	pollution	EN	_
+6	de	de	O	_
+7	la	le	O	_
+8	nappe	nappe	O	_
+9	superficielle	superficiel	O	_
+10	 	 	O	_
+11	et	et	O	_
+12	des	de	O	_
+13	sols	sol	O	_
+14	aux	à	O	_
+15	solvants	solvant	O	_
+16	,	,	O	_
+17	hydrocarbures	hydrocarbure	O	_
+18	et	et	O	_
+19	métaux	métal	O	_
+20	lourds	lourd	O	_
+
+
+#- Toute la pollution observée sur le site ne proviendrait pas du site lui-même.
+1	-	-	O	_
+2	Toute	tout	O	_
+3	la	le	O	_
+4	pollution	pollution	O	_
+5	observée	observer	O	_
+6	sur	sur	O	_
+7	le	le	BO	_
+8	site	site	EO	_
+9	ne	ne	BR	_
+10	proviendrait	provenir	IR	_
+11	pas	pas	IL	_
+12	du	de	IL	_
+13	site	site	EL	_
+14	lui-même	lui-même	O	_
+15	.	.	O	_
+
+
+#- Arrêté préfectoral du 10/09/1997 imposant des prescriptions complémentaires pour la remise en état du site (Diagnostic de pollution).
+1	-	-	O	_
+2	Arrêté	arrêté	BO	_
+3	préfectoral	préfectoral	EO	_
+4	du	de	O	_
+5	10/09/1997	10/09/1997	ET	_
+6	imposant	imposer	BN	_
+7	des	un	BO	_
+8	prescriptions	prescription	IO	_
+9	complémentaires	complémentaire	EO	_
+10	pour	pour	O	_
+11	la	le	BN	_
+12	remise	remise	IN	_
+13	en	en	IN	_
+14	état	état	IN	_
+15	du	de	IN	_
+16	site	site	EN	_
+17	(	(	O	_
+18	Diagnostic	diagnostic	IN	_
+19	de	de	IN	_
+20	pollution	pollution	EN	_
+21	)	)	O	_
+22	.	.	O	_
+
+
+#- Arrêté préfectoral du 10/12/1998 imposant des prescriptions pour la remise en état du site (ESR+ étude de sols).
+1	-	-	O	_
+2	Arrêté	arrêté	BO	_
+3	préfectoral	préfectoral	EO	_
+4	du	de	O	_
+5	10/12/1998	10/12/1998	IT	_
+6	imposant	imposer	BN	_
+7	des	un	BO	_
+8	prescriptions	prescription	EO	_
+9	pour	pour	O	_
+10	la	le	BN	_
+11	remise	remise	IN	_
+12	en	en	IN	_
+13	état	état	EN	_
+14	du	de	O	_
+15	site	site	O	_
+16	(	(	O	_
+17	ESR+	esr+	O	_
+18	étude	étude	IN	_
+19	de	de	IN	_
+20	sols	sol	EN	_
+21	)	)	O	_
+22	.	.	O	_
+
+
+#- Diagnostic initial réalisé le 20/01/1999.
+1	-	-	BN	_
+2	Diagnostic	diagnostic	IN	_
+3	initial	initial	IN	_
+4	réalisé	réaliser	EN	_
+5	le	le	BT	_
+6	20/01/1999	20/01/1999	IT	_
+7	.	.	ET	_
+
+
+#- L'évaluation Simplifiée des Risques a été réalisée le 19/02/1999.
+1	-	-	O	_
+2	L'	le	O	_
+3	évaluation	évaluation	BN	_
+4	Simplifiée	simplifier	IN	_
+5	des	de	IN	_
+6	Risques	risque	EN	_
+7	a	avoir	BN	_
+8	été	être	IN	_
+9	réalisée	réaliser	EN	_
+10	le	le	BT	_
+11	19/02/1999	19/02/1999	ET	_
+12	.	.	ET	_
+
+
+#Elle classe le site en 3.
+1	Elle	lui	O	_
+2	classe	classer	O	_
+3	le	le	O	_
+4	site	site	O	_
+5	en	en	O	_
+6	3	3	O	_
+7	.	.	O	_
+
+
+#- La légère pollution par solvants n'aurait pas pour origine le site : investigations complémentaires à mener pour identifier la source.
+1	-	-	O	_
+2	La	le	O	_
+3	légère	léger	O	_
+4	pollution	pollution	O	_
+5	par	par	O	_
+6	solvants	solvant	O	_
+7	n'	n'	O	_
+8	aurait	avoir	O	_
+9	pas	pas	O	_
+10	pour	pour	O	_
+11	origine	origine	O	_
+12	le	le	O	_
+13	site	site	O	_
+14	:	:	O	_
+15	investigations	investigation	O	_
+16	complémentaires	complémentaire	O	_
+17	à	à	O	_
+18	mener	mener	O	_
+19	pour	pour	O	_
+20	identifier	identifier	O	_
+21	la	le	BO	_
+22	source	source	EO	_
+23	.	.	O	_
+
+
+#- Action de l'administration toujours en cours.
+1	-	-	O	_
+2	Action	action	O	_
+3	de	de	O	_
+4	l'	le	BO	_
+5	administration	administration	EO	_
+6	toujours	toujours	O	_
+7	en	en	O	_
+8	cours	cours	O	_
+9	.	.	O	_
+
+
+#- La pollution des eaux souterraines ne concerne que la nappe superficielle inutilisée.
+1	-	-	O	_
+2	La	le	O	_
+3	pollution	pollution	O	_
+4	des	de	O	_
+5	eaux	eau	O	_
+6	souterraines	souterrain	O	_
+7	ne	ne	O	_
+8	concerne	concerne	O	_
+9	que	que	O	_
+10	la	le	O	_
+11	nappe	nappe	O	_
+12	superficielle	superficiel	O	_
+13	inutilisée	inutilisé	O	_
+14	.	.	O	_
+
+
+#Elle n'a pas impactée la nappe de la craie utilisée pour l'AEP (protégée par se profondeur: plus de 100m et par d'épaisses couches d'argiles imperméables).
+1	Elle	lui	BO	_
+2	n'	n'	BN	_
+3	a	avoir	BN	_
+4	pas	pas	IN	_
+5	impactée	impacter	EN	_
+6	la	le	O	_
+7	nappe	nappe	O	_
+8	de	de	O	_
+9	la	le	O	_
+10	craie	craie	O	_
+11	utilisée	utiliser	O	_
+12	pour	pour	O	_
+13	l'	le	O	_
+14	AEP	aep	O	_
+15	(	(	O	_
+16	protégée	protéger	O	_
+17	par	par	O	_
+18	se	se	O	_
+19	profondeur	profondeur	O	_
+20	:	:	O	_
+21	plus	plus	O	_
+22	de	de	O	_
+23	100	100	O	_
+24	m	m	O	_
+25	et	et	O	_
+26	par	par	O	_
+27	d'	d'	O	_
+28	épaisses	épais	O	_
+29	couches	couche	O	_
+30	d'	de	O	_
+31	argiles	argile	O	_
+32	imperméables	imperméable	O	_
+33	)	)	O	_
+34	.	.	O	_
+
+
+#- En cas de changement d'usage, il appartient au maître d'ouvrage de vérifier que son projet est compatible avec l'état des sols compte tenu des travaux qui ont été réalisés pour un usage donné et de respecter les dispositions de servitudes éventuellement instaurées sur ce site(si servitudes mises en œuvre).
+1	-	-	O	_
+2	En	en	O	_
+3	cas	cas	O	_
+4	de	de	O	_
+5	changement	changement	O	_
+6	d'	de	O	_
+7	usage	usage	O	_
+8	,	,	O	_
+9	il	il	O	_
+10	appartient	appartenir	O	_
+11	au	au	O	_
+12	maître	maître	BO	_
+13	d'	de	EO	_
+14	ouvrage	ouvrage	EO	_
+15	de	de	O	_
+16	vérifier	vérifier	O	_
+17	que	que	O	_
+18	son	son	BO	_
+19	projet	projet	EO	_
+20	est	être	O	_
+21	compatible	compatible	O	_
+22	avec	avec	O	_
+23	l'	le	O	_
+24	état	état	O	_
+25	des	de	O	_
+26	sols	sol	O	_
+27	compte	compte	O	_
+28	tenu	tenir	O	_
+29	des	de	O	_
+30	travaux	travail	O	_
+31	qui	qui	O	_
+32	ont	avoir	BN	_
+33	été	être	IN	_
+34	réalisés	réaliser	EN	_
+35	pour	pour	O	_
+36	un	un	BO	_
+37	usage	usage	EO	_
+38	donné	donner	O	_
+39	et	et	O	_
+40	de	de	O	_
+41	respecter	respecter	O	_
+42	les	le	O	_
+43	dispositions	disposition	O	_
+44	de	de	O	_
+45	servitudes	servitude	O	_
+46	éventuellement	éventuellement	O	_
+47	instaurées	instaurer	O	_
+48	sur	sur	O	_
+49	ce	ce	O	_
+50	site(si	site(si	O	_
+51	servitudes	servitude	O	_
+52	mises	mettre	O	_
+53	en	en	O	_
+54	œuvre	œuvre	O	_
+55	)	)	O	_
+56	.	.	O	_
+
+
+#59.0022
+#- Superficie du site : 6 ha.
+1	-	-	O	_
+2	 	 	O	_
+3	Superficie	superficie	O	_
+4	du	de	O	_
+5	site	site	O	_
+6	:	:	O	_
+7	6	6	O	_
+8	ha	ha	O	_
+9	.	.	O	_
+
+
+#- Dépôt d'hydrocarbures.
+1	-	-	O	_
+2	Dépôt	dépôt	O	_
+3	d'	de	BO	_
+4	hydrocarbures	hydrocarbure	EO	_
+5	.	.	O	_
+
+
+#Sol pollué par des déversements pendant l'exploitation du site par la
+1	Sol	sol	BO	_
+2	pollué	polluer	EO	_
+3	par	par	O	_
+4	des	un	O	_
+5	déversements	déversement	O	_
+6	pendant	pendant	O	_
+7	l'	le	BN	_
+8	exploitation	exploitation	EN	_
+9	du	de	O	_
+10	site	site	O	_
+11	par	par	O	_
+12	la	le	BO	_
+
+
+#société Docks des alcools
+1	société	société	O	_
+2	Docks	Docks	O	_
+3	des	de	O	_
+4	alcools	alcool	IO	_
+
+
+#- Site très vulnérable (existence d'un champ captant).
+1	-	-	O	_
+2	Site	site	O	_
+3	très	très	O	_
+4	vulnérable	vulnérable	O	_
+5	(	(	O	_
+6	existence	existence	O	_
+7	d'	de	O	_
+8	un	un	O	_
+9	champ	champ	O	_
+10	captant	captant	O	_
+11	)	)	O	_
+12	.	.	O	_
+
+
+#- Site situé dans le Port de Santes
+1	-	-	O	_
+2	Site	site	BO	_
+3	situé	situer	BL	_
+4	dans	dans	IL	_
+5	le	le	IL	_
+6	Port	port	IL	_
+7	de	de	IL	_
+8	Santes	Santes	EO	_
+
+
+#- Cessation d'activité en 1997.
+1	-	-	O	_
+2	Cessation	cessation	BN	_
+3	d'	de	IN	_
+4	activité	activité	EN	_
+5	en	en	BT	_
+6	1997	1997	ET	_
+7	.	.	ET	_
+
+
+#Le site est occupée actuellement par la société Quaron (ex-Districhimie), spécialisée dans le stockage et le négoce des produits chimiques
+1	Le	le	BO	_
+2	site	site	EO	_
+3	est	être	BR	_
+4	occupée	occuper	IR	_
+5	actuellement	actuellement	ET	_
+6	par	par	O	_
+7	la	le	BO	_
+8	société	société	IO	_
+9	Quaron	Quaron	EO	_
+10	(	(	O	_
+11	ex-Districhimie	ex-Districhimie	O	_
+12	)	)	O	_
+13	,	,	O	_
+14	spécialisée	spécialiser	O	_
+15	dans	dans	O	_
+16	le	le	BA	_
+17	stockage	stockage	IA	_
+18	et	et	IA	_
+19	le	le	IA	_
+20	négoce	négoce	IA	_
+21	des	de	IA	_
+22	produits	produit	IA	_
+23	chimiques	chimique	EA	_
+
+
+#- Diagnostic - évaluation de l'ampleur de la pollution et de son impact sur l'environnement réalisée.
+1	-	-	O	_
+2	 	 	EN	_
+3	Diagnostic	diagnostic	EN	_
+4	-	-	O	_
+5	évaluation	évaluation	O	_
+6	de	de	BN	_
+7	l'	le	BN	_
+8	ampleur	ampleur	IN	_
+9	de	de	IN	_
+10	la	le	IN	_
+11	pollution	pollution	EN	_
+12	et	et	O	_
+13	de	de	O	_
+14	son	son	O	_
+15	impact	impact	O	_
+16	sur	sur	O	_
+17	l'	le	O	_
+18	environnement	environnement	O	_
+19	réalisée	réaliser	O	_
+20	.	.	O	_
+
+
+#- Pompage des hydrocarbures surnageant sur la nappe fait.
+1	-	-	O	_
+2	Pompage	pompage	BN	_
+3	des	de	O	_
+4	hydrocarbures	hydrocarbure	BO	_
+5	surnageant	surnager	O	_
+6	sur	sur	O	_
+7	la	le	O	_
+8	nappe	nappe	O	_
+9	fait	faire	O	_
+10	.	.	O	_
+
+
+#- remise en état du site avant cession du terrain faite.
+1	-	-	BN	_
+2	remise	remise	IN	_
+3	en	en	IN	_
+4	état	état	IN	_
+5	du	de	IO	_
+6	site	site	EO	_
+7	avant	avant	O	_
+8	cession	cession	BN	_
+9	du	de	IN	_
+10	terrain	terrain	EN	_
+11	faite	faire	EN	_
+12	.	.	O	_
+
+
+#- Site traité : à conserver en mémoire.
+1	-	-	O	_
+2	Site	site	O	_
+3	traité	traiter	O	_
+4	:	:	O	_
+5	à	à	O	_
+6	conserver	conserver	O	_
+7	en	en	O	_
+8	mémoire	mémoire	O	_
+9	.	.	O	_
+
+
+#- Mise en place d'un réseau de surveillance des eaux souterraines dans le cadre de l'article 65 de l'arrêté ministériel du 2 février 1998.
+1	-	-	O	_
+2	Mise	mise	BN	_
+3	en	en	IN	_
+4	place	place	IN	_
+5	d'	de	IN	_
+6	un	un	IN	_
+7	réseau	réseau	IA	_
+8	de	de	IA	_
+9	surveillance	surveillance	IA	_
+10	des	de	IA	_
+11	eaux	eau	IA	_
+12	souterraines	souterrain	EA	_
+13	dans	dans	O	_
+14	le	le	O	_
+15	cadre	cadre	O	_
+16	de	de	O	_
+17	l'	le	O	_
+18	article	article	O	_
+19	65	65	O	_
+20	de	de	O	_
+21	l'	le	O	_
+22	arrêté	arrêté	O	_
+23	ministériel	ministériel	O	_
+24	du	de	O	_
+25	2	2	BT	_
+26	février	février	IT	_
+27	1998	1998	ET	_
+28	.	.	O	_
+
+
+#- Surveillance mise en place depuis décembre 2002.
+1	-	-	O	_
+2	Surveillance	surveillance	O	_
+3	mise	mettre	BN	_
+4	en	en	IN	_
+5	place	place	EN	_
+6	depuis	depuis	BT	_
+7	décembre	décembre	IT	_
+8	2002	2002	ET	_
+9	.	.	O	_
+
+
+#59.0069
+#- Superficie du site : 40 ha.
+1	-	-	O	_
+2	Superficie	superficie	O	_
+3	du	de	O	_
+4	site	site	O	_
+5	:	:	O	_
+6	40	40	O	_
+7	ha	ha	O	_
+8	.	.	O	_
+
+
+#- site de dépôt de laitiers et de poussières de hauts-fourneaux, scories d'aciérie, sulfates de fer et réfractaires usagés (1 300 000 m3 ; 2 millions de tonnes)
+1	-	-	O	_
+2	site	site	O	_
+3	de	de	O	_
+4	dépôt	dépôt	O	_
+5	de	de	O	_
+6	laitiers	laitier	O	_
+7	et	et	O	_
+8	de	de	O	_
+9	poussières	poussière	O	_
+10	de	de	O	_
+11	hauts-fourneaux	haut-fourneau	O	_
+12	,	,	O	_
+13	scories	scorie	O	_
+14	d'	de	O	_
+15	aciérie	aciérie	O	_
+16	,	,	O	_
+17	sulfates	sulfate	O	_
+18	de	de	O	_
+19	fer	fer	O	_
+20	et	et	O	_
+21	réfractaires	réfractaire	O	_
+22	usagés	usager	O	_
+23	(	(	O	_
+24	1	1	O	_
+25	300	300	O	_
+26	000	000	O	_
+27	m3	m3	O	_
+28	;	;	O	_
+29	2	2	O	_
+30	millions	million	O	_
+31	de	de	O	_
+32	tonnes	tonne	O	_
+33	)	)	O	_
+
+
+#- Site exploité de 1920 à 1980 par l'industrie sidérurgique.
+1	-	-	O	_
+2	Site	site	BO	_
+3	exploité	exploiter	BN	_
+4	de	de	BT	_
+5	1920	1920	IT	_
+6	à	à	IT	_
+7	1980	1980	ET	_
+8	par	par	O	_
+9	l'	le	BO	_
+10	industrie	industrie	BO	_
+11	sidérurgique	sidérurgique	EA	_
+12	.	.	O	_
+
+
+#- Etude de l'influence des dépôts sur la qualité des eaux superficielles et souterraines réalisée en 1989.
+1	-	-	O	_
+2	 	 	O	_
+3	Etude	etude	O	_
+4	de	de	O	_
+5	l'	le	O	_
+6	influence	influence	O	_
+7	des	de	O	_
+8	dépôts	dépôt	O	_
+9	sur	sur	O	_
+10	la	le	O	_
+11	qualité	qualité	O	_
+12	des	de	O	_
+13	eaux	eau	O	_
+14	superficielles	superficiel	O	_
+15	et	et	O	_
+16	souterraines	souterrain	BN	_
+17	réalisée	réaliser	BN	_
+18	en	en	BT	_
+19	1989	1989	ET	_
+20	.	.	ET	_
+
+
+#- Etude des sols et évaluation simplifiée des risques réalisées sur le site du crassier : site en classe 2 (à surveiller pour le milieu eaux)
+1	-	-	O	_
+2	Etude	etude	O	_
+3	des	de	O	_
+4	sols	sol	O	_
+5	et	et	O	_
+6	évaluation	évaluation	BO	_
+7	simplifiée	simplifier	IO	_
+8	des	de	IO	_
+9	risques	risque	IO	_
+10	réalisées	réaliser	BN	_
+11	sur	sur	O	_
+12	le	le	O	_
+13	site	site	O	_
+14	du	de	O	_
+15	crassier	crassier	O	_
+16	:	:	O	_
+17	site	site	O	_
+18	en	en	O	_
+19	classe	classe	O	_
+20	2	2	O	_
+21	(	(	O	_
+22	à	à	O	_
+23	surveiller	surveiller	O	_
+24	pour	pour	O	_
+25	le	le	O	_
+26	milieu	milieu	O	_
+27	eaux	eau	O	_
+28	)	)	O	_
+
+
+#- Surveillance de la nappe de la craie et des eaux superficielles définie
+1	-	-	O	_
+2	Surveillance	surveillance	O	_
+3	de	de	O	_
+4	la	le	O	_
+5	nappe	nappe	O	_
+6	de	de	O	_
+7	la	le	O	_
+8	craie	craie	O	_
+9	et	et	O	_
+10	des	de	O	_
+11	eaux	eau	O	_
+12	superficielles	superficiel	O	_
+13	définie	définir	O	_
+
+
+#- Travaux prévus et partagés entre le responsable (Bail Industrie) et le propriétaire et exploitant actuel (RECYDEM) en étroite collaboration : Recydem exploite une partie du crassier qu'il traite dans ses installations et le reste du crassier fera l'objet d'un confinement et d'un verdissement par Bail Industrie.
+1	-	-	O	_
+2	Travaux	travail	O	_
+3	prévus	prévoir	O	_
+4	et	et	O	_
+5	partagés	partager	O	_
+6	entre	entre	O	_
+7	le	le	BO	_
+8	responsable	responsable	EO	_
+9	(	(	O	_
+10	Bail	Bail	BO	_
+11	Industrie	Industrie	EO	_
+12	)	)	O	_
+13	et	et	O	_
+14	le	le	BO	_
+15	propriétaire	propriétaire	BO	_
+16	et	et	O	_
+17	exploitant	exploitant	BO	_
+18	actuel	actuel	EO	_
+19	(	(	O	_
+20	RECYDEM	RECYDEM	EO	_
+21	)	)	O	_
+22	en	en	O	_
+23	étroite	étroit	O	_
+24	collaboration	collaboration	O	_
+25	:	:	O	_
+26	Recydem	Recydem	O	_
+27	exploite	exploite	BN	_
+28	une	un	BO	_
+29	partie	partie	EO	_
+30	du	de	O	_
+31	crassier	crassier	O	_
+32	qu'	qu'	O	_
+33	il	il	O	_
+34	traite	traire	O	_
+35	dans	dans	O	_
+36	ses	son	O	_
+37	installations	installation	O	_
+38	et	et	O	_
+39	le	le	BO	_
+40	reste	reste	IO	_
+41	du	de	IO	_
+42	crassier	crassier	EO	_
+43	fera	faire	BR	_
+44	l'	le	IR	_
+45	objet	objet	IR	_
+46	d'	de	ER	_
+47	un	un	O	_
+48	confinement	confinement	O	_
+49	et	et	O	_
+50	d'	de	O	_
+51	un	un	BN	_
+52	verdissement	verdissement	EN	_
+53	par	par	O	_
+54	Bail	Bail	BO	_
+55	Industrie	Industrie	EO	_
+56	.	.	O	_
+
+
+#- Site mis en sécurité vis à vis des tiers.
+1	-	-	O	_
+2	Site	site	O	_
+3	mis	mettre	O	_
+4	en	en	O	_
+5	sécurité	sécurité	O	_
+6	vis	vis	O	_
+7	à	à	O	_
+8	vis	vis	O	_
+9	des	de	O	_
+10	tiers	tiers	O	_
+11	.	.	O	_
+
+
+#- Action de l'administration toujours en cours.
+1	-	-	O	_
+2	Action	action	O	_
+3	de	de	O	_
+4	l'	le	BO	_
+5	administration	administration	EO	_
+6	toujours	toujours	O	_
+7	en	en	O	_
+8	cours	cours	O	_
+9	.	.	O	_
+
+
+#59.0416
+#site d'une trentaine d'hectares situé de part et d'autre de l'Avenue industrielle à Marquette et longeant la Deûle en partie Est.
+1	site	site	BO	_
+2	d'	de	O	_
+3	une	un	O	_
+4	trentaine	trentaine	O	_
+5	d'	de	IT	_
+6	hectares	hectare	EO	_
+7	situé	situer	BR	_
+8	de	de	O	_
+9	part	part	O	_
+10	et	et	O	_
+11	d'	de	O	_
+12	autre	autre	BL	_
+13	de	de	IL	_
+14	l'	le	IL	_
+15	Avenue	avenue	IL	_
+16	industrielle	industriel	EL	_
+17	à	à	ER	_
+18	Marquette	Marquette	BL	_
+19	et	et	BR	_
+20	longeant	longer	BL	_
+21	la	le	BL	_
+22	Deûle	Deûle	IL	_
+23	en	en	IL	_
+24	partie	partie	IL	_
+25	Est	est	EL	_
+26	.	.	O	_
+
+
+#Actuellement le site a été reconverti en grande partie en zone industrielle.
+1	Actuellement	actuellement	BT	_
+2	le	le	BO	_
+3	site	site	EO	_
+4	a	avoir	BN	_
+5	été	être	IN	_
+6	reconverti	reconvertir	IN	_
+7	en	en	IN	_
+8	grande	grand	IN	_
+9	partie	partie	EN	_
+10	en	en	BR	_
+11	zone	zone	BO	_
+12	industrielle	industriel	EO	_
+13	.	.	O	_
+
+
+#L'usine de Marquette-lez-Lille fut une unité de production de Massey-Ferguson S.
+1	L'	le	BO	_
+2	usine	usine	EO	_
+3	de	de	O	_
+4	Marquette	Marquette	EO	_
+5	-	-	O	_
+6	lez	lez	BL	_
+7	-	-	IL	_
+8	Lille	Lille	EL	_
+9	fut	être	EN	_
+10	une	un	BO	_
+11	unité	unité	IO	_
+12	de	de	IO	_
+13	production	production	EA	_
+14	de	de	O	_
+15	Massey	Massey	BO	_
+16	-	-	EO	_
+17	Ferguson	Ferguson	EO	_
+18	S.	S.	O	_
+
+
+# dont l'implantation remonte à 1926.
+1	 	 	O	_
+2	dont	dont	BO	_
+3	l'	le	BO	_
+4	implantation	implantation	EO	_
+5	remonte	remonte	BT	_
+6	à	à	ET	_
+7	1926	1926	ET	_
+8	.	.	ET	_
+
+
+#Dès le début, les fabrications principales se sont orientées vers le matériel de fenaison et de moisson ainsi que les accessoires de tracteurs.
+1	Dès	dès	IN	_
+2	le	le	IN	_
+3	début	début	EN	_
+4	,	,	O	_
+5	les	le	BO	_
+6	fabrications	fabrication	EO	_
+7	principales	principal	EO	_
+8	se	se	BN	_
+9	sont	être	IN	_
+10	orientées	orienter	EN	_
+11	vers	vers	EN	_
+12	le	le	BO	_
+13	matériel	matériel	EO	_
+14	de	de	IL	_
+15	fenaison	fenaison	IL	_
+16	et	et	IL	_
+17	de	de	IL	_
+18	moisson	moisson	IL	_
+19	ainsi	ainsi	BO	_
+20	que	que	BO	_
+21	les	le	BO	_
+22	accessoires	accessoire	IO	_
+23	de	de	IO	_
+24	tracteurs	tracteur	EO	_
+25	.	.	O	_
+
+
+#De 1950 à 1961, une production de tracteurs agricoles a été développée jusqu'au démarrage de l'usine de Beauvais.
+1	De	de	BT	_
+2	1950	1950	IT	_
+3	à	à	IT	_
+4	1961	1961	ET	_
+5	,	,	O	_
+6	une	un	BO	_
+7	production	production	IO	_
+8	de	de	IO	_
+9	tracteurs	tracteur	IO	_
+10	agricoles	agricole	EO	_
+11	a	avoir	BN	_
+12	été	être	IN	_
+13	développée	développer	EN	_
+14	jusqu'	jusque	BR	_
+15	au	au	IL	_
+16	démarrage	démarrage	IL	_
+17	de	de	IL	_
+18	l'	le	IL	_
+19	usine	usine	IL	_
+20	de	de	IL	_
+21	Beauvais	Beauvais	EL	_
+22	.	.	O	_
+
+
+#De son coté l'usine de Marquette continua à fabriquer une part importante des composants pour tracteurs. l'usine continua d'être exploitée jusqu'en 1984.
+1	De	de	O	_
+2	son	son	O	_
+3	coté	coté	O	_
+4	l'	le	BO	_
+5	usine	usine	EO	_
+6	de	de	O	_
+7	Marquette	Marquette	EO	_
+8	continua	continuer	BT	_
+9	à	à	ER	_
+10	fabriquer	fabriquer	BA	_
+11	une	un	BO	_
+12	part	part	IO	_
+13	importante	important	IO	_
+14	des	de	IO	_
+15	composants	composant	EO	_
+16	pour	pour	O	_
+17	tracteurs	tracteur	BO	_
+18	.	.	O	_
+19	l'	le	BO	_
+20	usine	usine	EO	_
+21	continua	continuer	BT	_
+22	d'	de	BN	_
+23	être	être	IN	_
+24	exploitée	exploiter	EN	_
+25	jusqu'	jusque	BT	_
+26	en	en	IT	_
+27	1984	1984	ET	_
+28	.	.	O	_
+
+
+#A la fin des années 70 l'usine comportait 2835 personnes.
+1	A	à	BT	_
+2	la	le	IT	_
+3	fin	fin	IT	_
+4	des	de	IT	_
+5	années	année	IT	_
+6	70	70	ET	_
+7	l'	le	BO	_
+8	usine	usine	EO	_
+9	comportait	comporter	O	_
+10	2835	2835	BO	_
+11	personnes	personne	EN	_
+12	.	.	O	_
+
+
+#Le site a fermé en 1985.
+1	Le	le	BO	_
+2	site	site	EO	_
+3	a	avoir	BN	_
+4	fermé	fermer	EN	_
+5	en	en	BT	_
+6	1985	1985	ET	_
+7	.	.	ET	_
+
+
+#Concernant le site appelé site de la "Bouverne", il a été utilisé par TOTAL comme dépôt pétrolier puis par Elf Auto comme atelier de démontage et de recyclage de moteurs automobile.
+1	Concernant	concernant	O	_
+2	le	le	BO	_
+3	site	site	EO	_
+4	appelé	appeler	BR	_
+5	site	site	EO	_
+6	de	de	O	_
+7	la	le	O	_
+8	"	"	O	_
+9	Bouverne	bouverne	O	_
+10	"	"	O	_
+11	,	,	O	_
+12	il	il	O	_
+13	a	avoir	BN	_
+14	été	être	IN	_
+15	utilisé	utiliser	EN	_
+16	par	par	BO	_
+17	TOTAL	TOTAL	BO	_
+18	comme	comme	BR	_
+19	dépôt	dépôt	BO	_
+20	pétrolier	pétrolier	EO	_
+21	puis	puis	O	_
+22	par	par	O	_
+23	Elf	Elf	BO	_
+24	Auto	Auto	EO	_
+25	comme	comme	BR	_
+26	atelier	atelier	IA	_
+27	de	de	IA	_
+28	démontage	démontage	IA	_
+29	et	et	IA	_
+30	de	de	IA	_
+31	recyclage	recyclage	IA	_
+32	de	de	IA	_
+33	moteurs	moteur	BO	_
+34	automobile	automobile	EO	_
+35	.	.	O	_
+
+
+#Les deux sites ont reçu des activités susceptibles de générer également des pollutions:
+1	Les	le	BO	_
+2	deux	deux	BO	_
+3	sites	site	EO	_
+4	ont	avoir	BN	_
+5	reçu	recevoir	EN	_
+6	des	un	BO	_
+7	activités	activité	EO	_
+8	susceptibles	susceptible	O	_
+9	de	de	O	_
+10	générer	générer	O	_
+11	également	également	O	_
+12	des	un	BO	_
+13	pollutions	pollution	EO	_
+14	:	:	O	_
+
+
+#- atelier de peintures et les déchets associés,
+1	-	-	O	_
+2	atelier	atelier	O	_
+3	de	de	O	_
+4	peintures	peinture	O	_
+5	et	et	O	_
+6	les	le	O	_
+7	déchets	déchet	O	_
+8	associés	associer	O	_
+9	,	,	O	_
+
+
+#- dépôts de liquides inflammables;
+1	-	-	O	_
+2	dépôts	dépôt	O	_
+3	de	de	O	_
+4	liquides	liquide	O	_
+5	inflammables	inflammable	O	_
+6	;	;	O	_
+
+
+#- ateliers de mécanique générale...
+1	-	-	O	_
+2	ateliers	atelier	O	_
+3	de	de	O	_
+4	mécanique	mécanique	O	_
+5	générale	général	O	_
+6	...	...	O	_
+
+
+#Au 18/10/2011:
+1	Au	au	BT	_
+2	18/10/2011	18/10/2011	IT	_
+3	:	:	ET	_
+
+
+#Sauf élément nouveau, cette fiche ne nécessite plus de mise à jour.
+1	Sauf	sauf	O	_
+2	élément	élément	O	_
+3	nouveau	nouveau	O	_
+4	,	,	O	_
+5	cette	ce	O	_
+6	fiche	fiche	O	_
+7	ne	ne	O	_
+8	nécessite	nécessite	O	_
+9	plus	plus	O	_
+10	de	de	O	_
+11	mise	mise	O	_
+12	à	à	O	_
+13	jour	jour	O	_
+14	.	.	O	_
+
+
+#Pollution présumées : les polluants liés aux activités de Massey-Ferguson sont les suivants hydrocarbures, HAP, COVH, BTEX, PCB, phénols, métaux, cyanures...
+1	Pollution	pollution	O	_
+2	présumées	présumer	O	_
+3	:	:	O	_
+4	les	le	O	_
+5	polluants	polluant	O	_
+6	liés	lier	O	_
+7	aux	à	O	_
+8	activités	activité	BA	_
+9	de	de	IA	_
+10	Massey	Massey	EA	_
+11	-	-	EA	_
+12	Ferguson	Ferguson	EO	_
+13	sont	être	O	_
+14	les	le	O	_
+15	suivants	suivant	O	_
+16	hydrocarbures	hydrocarbure	O	_
+17	,	,	O	_
+18	HAP	hap	O	_
+19	,	,	O	_
+20	COVH	covh	O	_
+21	,	,	O	_
+22	BTEX	BTEX	O	_
+23	,	,	O	_
+24	PCB	pcb	O	_
+25	,	,	O	_
+26	phénols	phénol	O	_
+27	,	,	O	_
+28	métaux	métal	O	_
+29	,	,	O	_
+30	cyanures	cyanure	O	_
+31	...	...	O	_
+
+
+#Des pollutions ont également pu être générées par d'autres activités qui se sont ensuite implantées sur le site (relevant ou non de la législation des installations classées).
+1	Des	un	BO	_
+2	pollutions	pollution	EO	_
+3	ont	avoir	O	_
+4	également	également	O	_
+5	pu	pouvoir	O	_
+6	être	être	O	_
+7	générées	générer	O	_
+8	par	par	O	_
+9	d'	d'	O	_
+10	autres	autre	O	_
+11	activités	activité	O	_
+12	qui	qui	O	_
+13	se	se	BN	_
+14	sont	être	IN	_
+15	ensuite	ensuite	IN	_
+16	implantées	implanter	EN	_
+17	sur	sur	O	_
+18	le	le	O	_
+19	site	site	O	_
+20	(	(	O	_
+21	relevant	relever	O	_
+22	ou	ou	O	_
+23	non	non	O	_
+24	de	de	O	_
+25	la	le	BO	_
+26	législation	législation	IO	_
+27	des	de	IO	_
+28	installations	installation	IO	_
+29	classées	classer	EO	_
+30	)	)	O	_
+31	.	.	O	_
+
+
+#L'APC du 12/01/2004 a imposé à la société AGCO (anciennement Massey Ferguson) la réalisation d'une étude des sols et une évaluation simplifiée des risques (ESR)ainsi qu'une surveillance des eaux souterraines (2 fois par an) sur les hydrocarbures, les phénols, les PCB, les BTEX et les métaux lourds.
+1	L'	le	BO	_
+2	APC	apc	EO	_
+3	du	de	O	_
+4	12/01/2004	12/01/2004	IT	_
+5	a	avoir	BN	_
+6	imposé	imposer	EN	_
+7	à	à	O	_
+8	la	le	BO	_
+9	société	société	IO	_
+10	AGCO	AGCO	EO	_
+11	(	(	O	_
+12	anciennement	anciennement	O	_
+13	Massey	Massey	BO	_
+14	Ferguson	Ferguson	EO	_
+15	)	)	O	_
+16	la	le	BN	_
+17	réalisation	réalisation	IN	_
+18	d'	de	IN	_
+19	une	un	IN	_
+20	étude	étude	IN	_
+21	des	de	IN	_
+22	sols	sol	EN	_
+23	et	et	O	_
+24	une	un	BN	_
+25	évaluation	évaluation	IN	_
+26	simplifiée	simplifier	IN	_
+27	des	de	IN	_
+28	risques	risque	EN	_
+29	(	(	O	_
+30	ESR)ainsi	esr)ainsi	O	_
+31	qu'	que	BA	_
+32	une	un	BA	_
+33	surveillance	surveillance	IA	_
+34	des	de	IA	_
+35	eaux	eau	IA	_
+36	souterraines	souterrain	IA	_
+37	(	(	IA	_
+38	2	2	IA	_
+39	fois	fois	IA	_
+40	par	par	IA	_
+41	an	an	EA	_
+42	)	)	O	_
+43	sur	sur	O	_
+44	les	le	O	_
+45	hydrocarbures	hydrocarbure	O	_
+46	,	,	O	_
+47	les	le	O	_
+48	phénols	phénol	O	_
+49	,	,	O	_
+50	les	le	O	_
+51	PCB	pcb	O	_
+52	,	,	O	_
+53	les	le	O	_
+54	BTEX	bte	O	_
+55	et	et	O	_
+56	les	le	O	_
+57	métaux	métal	O	_
+58	lourds	lourd	O	_
+59	.	.	O	_
+
+
+#A l'issue de l'ESR (Rapport TEREO du 28/06/2004), le site a été retenu en classe 2 (site à surveiller) notamment pour suivre l'évolution des teneurs en mercure et phénols.
+1	A	à	BR	_
+2	l'	le	IR	_
+3	issue	issue	IR	_
+4	de	de	ER	_
+5	l'	le	BN	_
+6	ESR	esr	O	_
+7	(	(	O	_
+8	Rapport	rapport	O	_
+9	TEREO	TEREO	O	_
+10	du	de	O	_
+11	28/06/2004	28/06/2004	IT	_
+12	)	)	O	_
+13	,	,	O	_
+14	le	le	BO	_
+15	site	site	EO	_
+16	a	avoir	BN	_
+17	été	être	IN	_
+18	retenu	retenir	IN	_
+19	en	en	IN	_
+20	classe	classe	BO	_
+21	2	2	EO	_
+22	(	(	O	_
+23	site	site	O	_
+24	à	à	O	_
+25	surveiller	surveiller	O	_
+26	)	)	O	_
+27	notamment	notamment	O	_
+28	pour	pour	O	_
+29	suivre	suivre	O	_
+30	l'	le	O	_
+31	évolution	évolution	O	_
+32	des	de	O	_
+33	teneurs	teneur	O	_
+34	en	en	O	_
+35	mercure	mercure	O	_
+36	et	et	O	_
+37	phénols	phénol	O	_
+38	.	.	O	_
+
+
+#Le bilan quadriennal de la surveillance des eaux souterraines a montré:
+1	Le	le	O	_
+2	bilan	bilan	O	_
+3	quadriennal	quadriennal	O	_
+4	de	de	O	_
+5	la	le	O	_
+6	surveillance	surveillance	BA	_
+7	des	de	IA	_
+8	eaux	eau	IA	_
+9	souterraines	souterrain	EA	_
+10	a	avoir	O	_
+11	montré	montrer	O	_
+12	:	:	O	_
+
+
+#- l'absence de pollution significative des eaux souterraines par les BTEX,
+1	-	-	O	_
+2	l'	le	O	_
+3	absence	absence	O	_
+4	de	de	O	_
+5	pollution	pollution	O	_
+6	significative	significatif	O	_
+7	des	de	O	_
+8	eaux	eau	O	_
+9	souterraines	souterrain	O	_
+10	par	par	O	_
+11	les	le	BO	_
+12	BTEX	bte	EO	_
+13	,	,	O	_
+
+
+#- l'absence de contamination en mercure et en éléments phénolés à l'aplomb des 3 piézomètres depuis octobre 2004;
+1	-	-	O	_
+2	l'	le	O	_
+3	absence	absence	O	_
+4	de	de	O	_
+5	contamination	contamination	O	_
+6	en	en	O	_
+7	mercure	mercure	O	_
+8	et	et	O	_
+9	en	en	O	_
+10	éléments	élément	O	_
+11	phénolés	phénoler	O	_
+12	à	à	O	_
+13	l'	le	O	_
+14	aplomb	aplomb	IL	_
+15	des	de	IL	_
+16	3	3	BO	_
+17	piézomètres	piézomètre	EO	_
+18	depuis	depuis	BT	_
+19	octobre	octobre	IT	_
+20	2004	2004	ET	_
+21	;	;	O	_
+
+
+#- l'absence de pollution significative des eaux souterraines par les composés hydrocarbonés depuis novembre 2007.
+1	-	-	O	_
+2	l'	le	O	_
+3	absence	absence	O	_
+4	de	de	O	_
+5	pollution	pollution	O	_
+6	significative	significatif	O	_
+7	des	de	O	_
+8	eaux	eau	O	_
+9	souterraines	souterrain	O	_
+10	par	par	O	_
+11	les	le	O	_
+12	composés	composé	O	_
+13	hydrocarbonés	hydrocarboné	O	_
+14	depuis	depuis	BT	_
+15	novembre	novembre	IT	_
+16	2007	2007	ET	_
+17	.	.	ET	_
+
+
+#Après examen du bilan quadriennal, et à la demande d'AGCO, il a été décidé de mettre un terme à la surveillance des eaux souterraines par APC du 13/03/2009.
+1	Après	après	BN	_
+2	examen	examen	EN	_
+3	du	de	O	_
+4	bilan	bilan	O	_
+5	quadriennal	quadriennal	O	_
+6	,	,	O	_
+7	et	et	O	_
+8	à	à	O	_
+9	la	le	BN	_
+10	demande	demande	EN	_
+11	d'	de	BO	_
+12	AGCO	AGCO	BO	_
+13	,	,	O	_
+14	il	il	O	_
+15	a	avoir	BN	_
+16	été	être	IN	_
+17	décidé	décider	EN	_
+18	de	de	O	_
+19	mettre	mettre	BN	_
+20	un	un	IN	_
+21	terme	terme	EN	_
+22	à	à	O	_
+23	la	le	BA	_
+24	surveillance	surveillance	IA	_
+25	des	de	IA	_
+26	eaux	eau	IA	_
+27	souterraines	souterrain	EA	_
+28	par	par	O	_
+29	APC	apc	EO	_
+30	du	de	O	_
+31	13/03/2009	13/03/2009	IT	_
+32	.	.	ET	_
+
+
+#Il est rappelé que tout changement de l'usage du site nécessiterait de nouvelles études réalisées conformément à la méthodologie définie par le ministère en charge de l'environnement.
+1	Il	il	O	_
+2	est	être	O	_
+3	rappelé	rappeler	O	_
+4	que	que	O	_
+5	tout	tout	O	_
+6	changement	changement	O	_
+7	de	de	O	_
+8	l'	le	O	_
+9	usage	usage	O	_
+10	du	de	O	_
+11	site	site	O	_
+12	nécessiterait	nécessiter	O	_
+13	de	de	O	_
+14	nouvelles	nouveau	BN	_
+15	études	étude	IN	_
+16	réalisées	réaliser	EN	_
+17	conformément	conformément	BR	_
+18	à	à	ER	_
+19	la	le	BO	_
+20	méthodologie	méthodologie	EO	_
+21	définie	définir	O	_
+22	par	par	O	_
+23	le	le	BO	_
+24	ministère	ministère	BO	_
+25	en	en	IO	_
+26	charge	charge	IO	_
+27	de	de	IO	_
+28	l'	le	BO	_
+29	environnement	environnement	EO	_
+30	.	.	O	_
+
+
+#59.0579
+#La société BRAMPTON RENOLD est une installation classée pour la protection de l’environnement, soumise à autorisation, notamment pour le travail mécanique des métaux.
+1	La	le	BO	_
+2	société	société	IO	_
+3	BRAMPTON	BRAMPTON	BO	_
+4	RENOLD	RENOLD	EO	_
+5	est	être	BN	_
+6	une	un	IN	_
+7	installation	installation	IN	_
+8	classée	classer	IN	_
+9	pour	pour	IN	_
+10	la	le	IN	_
+11	protection	protection	EN	_
+12	de	de	EN	_
+13	l’	l’	BO	_
+14	environnement	environnement	EO	_
+15	,	,	O	_
+16	soumise	soumettre	O	_
+17	à	à	O	_
+18	autorisation	autorisation	O	_
+19	,	,	O	_
+20	notamment	notamment	O	_
+21	pour	pour	O	_
+22	le	le	BA	_
+23	travail	travail	BA	_
+24	mécanique	mécanique	IA	_
+25	des	de	IA	_
+26	métaux	métal	EA	_
+27	.	.	O	_
+
+
+#L’activité principale est la fabrication de chaînes pour la manutention.
+1	L’	l’	O	_
+2	activité	activité	O	_
+3	principale	principal	O	_
+4	est	être	O	_
+5	la	le	BA	_
+6	fabrication	fabrication	IA	_
+7	de	de	IA	_
+8	chaînes	chaîne	IA	_
+9	pour	pour	IA	_
+10	la	le	IA	_
+11	manutention	manutention	EA	_
+12	.	.	O	_
+
+
+#Le site BRAMPTON RENOLD est encadré par un arrêté préfectoral d’autorisation d’exploiter du 04 août 2005.
+1	Le	le	BO	_
+2	site	site	IO	_
+3	BRAMPTON	BRAMPTON	IO	_
+4	RENOLD	RENOLD	EO	_
+5	est	être	O	_
+6	encadré	encadrer	BR	_
+7	par	par	ER	_
+8	un	un	BO	_
+9	arrêté	arrêté	IO	_
+10	préfectoral	préfectoral	IO	_
+11	d’	d’	EO	_
+12	autorisation	autorisation	EO	_
+13	d’	d’	BO	_
+14	exploiter	exploiter	EO	_
+15	du	de	BT	_
+16	04	04	IT	_
+17	août	août	IT	_
+18	2005	2005	ET	_
+19	.	.	ET	_
+
+
+#L'exploitant a précisé, lors de l'inspection du 19 nov 2012, qu'il avait fait réaliser des études de sols et des eaux souterraines, qui auraient mis en évidence une pollution en hydrocarbures.
+1	L'	le	BO	_
+2	exploitant	exploitant	EO	_
+3	a	avoir	BN	_
+4	précisé	préciser	EN	_
+5	,	,	O	_
+6	lors	lors	BT	_
+7	de	de	BN	_
+8	l'	le	BN	_
+9	inspection	inspection	EN	_
+10	du	de	BT	_
+11	19	19	IT	_
+12	nov	nov	IT	_
+13	2012	2012	ET	_
+14	,	,	ET	_
+15	qu'	que	O	_
+16	il	il	BO	_
+17	avait	avoir	BN	_
+18	fait	faire	EN	_
+19	réaliser	réaliser	EN	_
+20	des	un	BN	_
+21	études	étude	IN	_
+22	de	de	IN	_
+23	sols	sol	EN	_
+24	et	et	O	_
+25	des	de	BO	_
+26	eaux	eau	IO	_
+27	souterraines	souterrain	EO	_
+28	,	,	O	_
+29	qui	qui	O	_
+30	auraient	avoir	O	_
+31	mis	mettre	O	_
+32	en	en	O	_
+33	évidence	évidence	O	_
+34	une	un	BN	_
+35	pollution	pollution	EN	_
+36	en	en	O	_
+37	hydrocarbures	hydrocarbure	EO	_
+38	.	.	O	_
+
+
+#L’Inspection des Installations Classées a demandé une copie des études réalisées, qui ont été transmises, par l'exploitant, par mail en date du 28 novembre 2012, 03 et 05 décembre 2012.
+1	L’	l’	BO	_
+2	Inspection	inspection	IO	_
+3	des	de	IO	_
+4	Installations	installation	IO	_
+5	Classées	classer	EO	_
+6	a	avoir	BN	_
+7	demandé	demander	EN	_
+8	une	un	BO	_
+9	copie	copie	EO	_
+10	des	de	BN	_
+11	études	étude	IN	_
+12	réalisées	réaliser	EN	_
+13	,	,	O	_
+14	qui	qui	O	_
+15	ont	avoir	BN	_
+16	été	être	IN	_
+17	transmises	transmettre	EN	_
+18	,	,	O	_
+19	par	par	O	_
+20	l'	le	BO	_
+21	exploitant	exploitant	EO	_
+22	,	,	O	_
+23	par	par	O	_
+24	mail	mail	EO	_
+25	en	en	BT	_
+26	date	date	IT	_
+27	du	de	IT	_
+28	28	28	IT	_
+29	novembre	novembre	IT	_
+30	2012	2012	ET	_
+31	,	,	ET	_
+32	03	03	IT	_
+33	et	et	IT	_
+34	05	05	IT	_
+35	décembre	décembre	IT	_
+36	2012	2012	ET	_
+37	.	.	ET	_
+
+
+#Polution des sols et ds eaux en HCT : courrier du 15 mars 2013 pour demande de compléments relatifs à la caractérisation des pollutions et plan de gestion
+1	Polution	polution	O	_
+2	des	de	O	_
+3	sols	sol	O	_
+4	et	et	O	_
+5	ds	d	O	_
+6	eaux	eau	O	_
+7	en	en	O	_
+8	HCT	hct	EO	_
+9	:	:	BR	_
+10	courrier	courrier	IR	_
+11	du	de	IT	_
+12	15	15	IT	_
+13	mars	mars	IT	_
+14	2013	2013	ET	_
+15	pour	pour	O	_
+16	demande	demande	O	_
+17	de	de	O	_
+18	compléments	complément	O	_
+19	relatifs	relatif	O	_
+20	à	à	O	_
+21	la	le	O	_
+22	caractérisation	caractérisation	O	_
+23	des	de	O	_
+24	pollutions	pollution	O	_
+25	et	et	O	_
+26	plan	plan	O	_
+27	de	de	O	_
+28	gestion	gestion	O	_
+
+
+#59.0535
+#- Activité: enduction sur textile à vocation technique et industrielle, fabrication de marqueurs industriels.
+1	-	-	O	_
+2	Activité	activité	O	_
+3	:	:	O	_
+4	enduction	enduction	BA	_
+5	sur	sur	IA	_
+6	textile	textile	EA	_
+7	à	à	BR	_
+8	vocation	vocation	IR	_
+9	technique	technique	IA	_
+10	et	et	IA	_
+11	industrielle	industriel	EA	_
+12	,	,	O	_
+13	fabrication	fabrication	BA	_
+14	de	de	IA	_
+15	marqueurs	marqueur	EA	_
+16	industriels	industriel	ET	_
+17	.	.	O	_
+
+
+#- Arrêt de l'activité de production en début d'année 2010, arrêt de commercialisation des produits en juin 2010.
+1	-	-	O	_
+2	Arrêt	arrêt	BN	_
+3	de	de	IN	_
+4	l'	le	IA	_
+5	activité	activité	IA	_
+6	de	de	IA	_
+7	production	production	EA	_
+8	en	en	BT	_
+9	début	début	IT	_
+10	d'	de	IT	_
+11	année	année	IT	_
+12	2010	2010	ET	_
+13	,	,	ET	_
+14	arrêt	arrêt	BN	_
+15	de	de	IN	_
+16	commercialisation	commercialisation	IN	_
+17	des	de	IN	_
+18	produits	produit	EN	_
+19	en	en	BT	_
+20	juin	juin	IT	_
+21	2010	2010	ET	_
+22	.	.	ET	_
+
+
+#- Cessation de l'activité de production le 02/04/2010.
+1	-	-	O	_
+2	Cessation	cessation	BN	_
+3	de	de	IN	_
+4	l'	le	BO	_
+5	activité	activité	IO	_
+6	de	de	IO	_
+7	production	production	EO	_
+8	le	le	BT	_
+9	02/04/2010	02/04/2010	IT	_
+10	.	.	ET	_
+
+
+#- Transport des machines de production sur un autre site, démolition de trois bâtiments, élimination des déchets amiantés et radioactifs, élimination des déchets présents sur le site, vidange, dégazage et évacuation des réservoirs présents sur le site.
+1	-	-	O	_
+2	Transport	transport	BN	_
+3	des	de	BO	_
+4	machines	machine	IO	_
+5	de	de	IO	_
+6	production	production	EO	_
+7	sur	sur	BL	_
+8	un	un	IL	_
+9	autre	autre	IL	_
+10	site	site	EL	_
+11	,	,	O	_
+12	démolition	démolition	BN	_
+13	de	de	IN	_
+14	trois	trois	BO	_
+15	bâtiments	bâtiment	EO	_
+16	,	,	O	_
+17	élimination	élimination	BN	_
+18	des	de	IN	_
+19	déchets	déchet	IN	_
+20	amiantés	amianté	EN	_
+21	et	et	O	_
+22	radioactifs	radioactif	O	_
+23	,	,	O	_
+24	élimination	élimination	BN	_
+25	des	de	O	_
+26	déchets	déchet	O	_
+27	présents	présent	O	_
+28	sur	sur	O	_
+29	le	le	O	_
+30	site	site	O	_
+31	,	,	O	_
+32	vidange	vidange	BO	_
+33	,	,	O	_
+34	dégazage	dégazage	BN	_
+35	et	et	O	_
+36	évacuation	évacuation	EN	_
+37	des	de	O	_
+38	réservoirs	réservoir	O	_
+39	présents	présent	O	_
+40	sur	sur	O	_
+41	le	le	O	_
+42	site	site	O	_
+43	.	.	O	_
+
+
+#- Arrêté préfectoral du 10/08/2011 prescrivant la surveillance des eaux souterraines.
+1	-	-	O	_
+2	Arrêté	arrêté	BO	_
+3	préfectoral	préfectoral	EO	_
+4	du	de	O	_
+5	10/08/2011	10/08/2011	IT	_
+6	prescrivant	prescrire	BR	_
+7	la	le	BA	_
+8	surveillance	surveillance	IA	_
+9	des	de	IA	_
+10	eaux	eau	IA	_
+11	souterraines	souterrain	EA	_
+12	.	.	O	_
+
+
+#- Réalisation d'un plan de gestion le 16/01/2012.
+1	-	-	O	_
+2	Réalisation	réalisation	BN	_
+3	d'	de	BN	_
+4	un	un	BO	_
+5	plan	plan	IO	_
+6	de	de	IO	_
+7	gestion	gestion	EO	_
+8	le	le	BT	_
+9	16/01/2012	16/01/2012	IT	_
+10	.	.	ET	_
+
+
+#- Site mis en sécurité vis à vis des tiers.
+1	-	-	O	_
+2	Site	site	O	_
+3	mis	mettre	O	_
+4	en	en	O	_
+5	sécurité	sécurité	O	_
+6	vis	vis	O	_
+7	à	à	O	_
+8	vis	vis	O	_
+9	des	de	O	_
+10	tiers	tiers	O	_
+11	.	.	O	_
+
+
+#-Arrêté préfectoral du 25/07/2012 imposant à l'exploitant de compléter son réseau de surveillance piézo à l'extérieur du site.
+1	-Arrêté	-arrêté	BO	_
+2	préfectoral	préfectoral	EO	_
+3	du	de	O	_
+4	25/07/2012	25/07/2012	IT	_
+5	imposant	imposer	BN	_
+6	à	à	O	_
+7	l'	le	BO	_
+8	exploitant	exploitant	EO	_
+9	de	de	O	_
+10	compléter	compléter	BA	_
+11	son	son	BA	_
+12	réseau	réseau	IA	_
+13	de	de	IA	_
+14	surveillance	surveillance	EA	_
+15	piézo	piézo	EA	_
+16	à	à	BL	_
+17	l'	le	IL	_
+18	extérieur	extérieur	IL	_
+19	du	de	IL	_
+20	site	site	EL	_
+21	.	.	O	_
+
+
+#-Remise d'une interprétation de l'état des milieux le 13 mai 2013.
+1	-Remise	-remise	EN	_
+2	d'	de	O	_
+3	une	un	BO	_
+4	interprétation	interprétation	IO	_
+5	de	de	IO	_
+6	l'	le	IO	_
+7	état	état	IO	_
+8	des	de	IO	_
+9	milieux	milieu	EO	_
+10	le	le	BT	_
+11	13	13	IT	_
+12	mai	mai	IT	_
+13	2013	2013	ET	_
+14	.	.	ET	_
+
+
+#L'étude conclut ainsi :
+1	L'	le	O	_
+2	étude	étude	O	_
+3	conclut	conclure	O	_
+4	ainsi	ainsi	O	_
+5	:	:	O	_
+
+
+#« Les différentes investigations ont permis d'établir les observations suivantes :
+1	«	«	O	_
+2	 	 	O	_
+3	Les	le	O	_
+4	différentes	différent	O	_
+5	investigations	investigation	O	_
+6	ont	avoir	O	_
+7	permis	permettre	O	_
+8	d'	de	O	_
+9	établir	établir	O	_
+10	les	le	O	_
+11	observations	observation	O	_
+12	suivantes	suivant	O	_
+13	:	:	O	_
+
+
+#les prélèvements d'eau souterraine confirment la présence de contaminants à proximité immédiate du site, bien que dans des proportions moindres que celles constatées immédiatement au droit du site.
+1	les	le	O	_
+2	prélèvements	prélèvement	O	_
+3	d'	de	O	_
+4	eau	eau	O	_
+5	souterraine	souterrain	O	_
+6	confirment	confirmer	O	_
+7	la	le	BO	_
+8	présence	présence	IO	_
+9	de	de	IO	_
+10	contaminants	contaminant	EO	_
+11	à	à	BL	_
+12	proximité	proximité	IL	_
+13	immédiate	immédiat	IL	_
+14	du	de	IL	_
+15	site	site	EL	_
+16	,	,	O	_
+17	bien	bien	O	_
+18	que	que	O	_
+19	dans	dans	O	_
+20	des	un	O	_
+21	proportions	proportion	O	_
+22	moindres	moindre	O	_
+23	que	que	O	_
+24	celles	celui	O	_
+25	constatées	constater	O	_
+26	immédiatement	immédiatement	O	_
+27	au	au	BL	_
+28	droit	droit	IL	_
+29	du	de	IL	_
+30	site	site	EL	_
+31	.	.	O	_
+
+
+#En revanche, seule des traces de trichloroéthylène étaient présentes de l'autre côté de la Lys sud mais bien inférieures aux valeurs de références ;
+1	En	en	O	_
+2	revanche	revanche	O	_
+3	,	,	O	_
+4	seule	seul	O	_
+5	des	un	O	_
+6	traces	trace	O	_
+7	de	de	O	_
+8	trichloroéthylène	trichloroéthylène	O	_
+9	étaient	être	O	_
+10	présentes	présent	O	_
+11	de	de	O	_
+12	l'	le	O	_
+13	autre	autre	O	_
+14	côté	côté	O	_
+15	de	de	O	_
+16	la	le	BL	_
+17	Lys	Lys	IL	_
+18	sud	sud	EL	_
+19	mais	mais	O	_
+20	bien	bien	O	_
+21	inférieures	inférieur	O	_
+22	aux	à	O	_
+23	valeurs	valeur	O	_
+24	de	de	O	_
+25	références	référence	O	_
+26	;	;	O	_
+
+
+#le suivi des eaux de surface (Lys Nord et Sud) montre une diminution des quantités de polluants mesurées, plus aucune valeur n'étant supérieure aux valeurs de référence en 2013 ;
+1	le	le	O	_
+2	suivi	suivi	O	_
+3	des	de	O	_
+4	eaux	eau	O	_
+5	de	de	O	_
+6	surface	surface	O	_
+7	(	(	O	_
+8	Lys	Lys	IL	_
+9	Nord	nord	IL	_
+10	et	et	IL	_
+11	Sud	sud	EL	_
+12	)	)	O	_
+13	montre	montre	O	_
+14	une	un	BN	_
+15	diminution	diminution	EN	_
+16	des	de	O	_
+17	quantités	quantité	O	_
+18	de	de	O	_
+19	polluants	polluant	O	_
+20	mesurées	mesurer	O	_
+21	,	,	O	_
+22	plus	plus	O	_
+23	aucune	aucun	O	_
+24	valeur	valeur	O	_
+25	n'	n'	O	_
+26	étant	être	O	_
+27	supérieure	supérieur	O	_
+28	aux	à	O	_
+29	valeurs	valeur	O	_
+30	de	de	O	_
+31	référence	référence	O	_
+32	en	en	BT	_
+33	2013	2013	ET	_
+34	;	;	O	_
+
+
+#les prélèvements d'air dans l'habitation du voisin ont révélé la présence de faibles concentrations en trichloroéthylène et tétrachlorométhane.
+1	les	le	O	_
+2	prélèvements	prélèvement	O	_
+3	d'	de	O	_
+4	air	air	O	_
+5	dans	dans	O	_
+6	l'	le	O	_
+7	habitation	habitation	O	_
+8	du	de	O	_
+9	voisin	voisin	O	_
+10	ont	avoir	O	_
+11	révélé	révéler	O	_
+12	la	le	BO	_
+13	présence	présence	EO	_
+14	de	de	O	_
+15	faibles	faible	O	_
+16	concentrations	concentration	O	_
+17	en	en	O	_
+18	trichloroéthylène	trichloroéthylène	O	_
+19	et	et	O	_
+20	tétrachlorométhane	tétrachlorométhane	O	_
+21	.	.	O	_
+
+
+#En l'absence d'état initial sur la qualité de l'air extérieur du site, GEOSAN a mis en œuvre une grille de calcul spécifique à l'IEM sur le voie d'exposition par inhalation d'air afin de déterminer les valeurs de coefficients de danger et excès de risques individuels associés à ces concentrations dans l'air intérieur.
+1	En	en	O	_
+2	l'	le	O	_
+3	absence	absence	O	_
+4	d'	de	O	_
+5	état	état	O	_
+6	initial	initial	O	_
+7	sur	sur	O	_
+8	la	le	O	_
+9	qualité	qualité	O	_
+10	de	de	O	_
+11	l'	le	O	_
+12	air	air	O	_
+13	extérieur	extérieur	O	_
+14	du	de	O	_
+15	site	site	O	_
+16	,	,	O	_
+17	GEOSAN	GEOSAN	EO	_
+18	a	avoir	BN	_
+19	mis	mettre	IN	_
+20	en	en	IN	_
+21	œuvre	œuvre	EN	_
+22	une	un	O	_
+23	grille	grille	O	_
+24	de	de	O	_
+25	calcul	calcul	O	_
+26	spécifique	spécifique	O	_
+27	à	à	O	_
+28	l'	le	O	_
+29	IEM	iem	O	_
+30	sur	sur	O	_
+31	le	le	O	_
+32	voie	voie	O	_
+33	d'	de	O	_
+34	exposition	exposition	O	_
+35	par	par	O	_
+36	inhalation	inhalation	O	_
+37	d'	de	O	_
+38	air	air	O	_
+39	afin	afin	O	_
+40	de	de	O	_
+41	déterminer	déterminer	O	_
+42	les	le	O	_
+43	valeurs	valeur	O	_
+44	de	de	O	_
+45	coefficients	coefficient	O	_
+46	de	de	O	_
+47	danger	danger	O	_
+48	et	et	O	_
+49	excès	excès	O	_
+50	de	de	O	_
+51	risques	risque	O	_
+52	individuels	individuel	O	_
+53	associés	associer	O	_
+54	à	à	O	_
+55	ces	ce	O	_
+56	concentrations	concentration	O	_
+57	dans	dans	O	_
+58	l'	le	O	_
+59	air	air	O	_
+60	intérieur	intérieur	O	_
+61	.	.	O	_
+
+
+#Ces calculs ont permis de démontrer un risque « acceptable » vis à vis de cette voie d'exposition et donc que l'état des milieux est compatible avec les usages.
+1	Ces	ce	O	_
+2	calculs	calcul	O	_
+3	ont	avoir	O	_
+4	permis	permettre	O	_
+5	de	de	O	_
+6	démontrer	démontrer	O	_
+7	un	un	O	_
+8	risque	risque	O	_
+9	«	«	O	_
+10	 	 	O	_
+11	acceptable	acceptable	O	_
+12	 	 	O	_
+13	»	»	O	_
+14	vis	vis	O	_
+15	à	à	O	_
+16	vis	vis	O	_
+17	de	de	O	_
+18	cette	ce	O	_
+19	voie	voie	O	_
+20	d'	de	O	_
+21	exposition	exposition	O	_
+22	et	et	O	_
+23	donc	donc	O	_
+24	que	que	O	_
+25	l'	le	O	_
+26	état	état	O	_
+27	des	de	O	_
+28	milieux	milieu	O	_
+29	est	être	O	_
+30	compatible	compatible	O	_
+31	avec	avec	O	_
+32	les	le	O	_
+33	usages	usage	O	_
+34	.	.	O	_
+
+
+#Toutefois, comme le précise la méthodologie de l'IEM, il convient de maitriser les sources de pollution.
+1	Toutefois	toutefois	O	_
+2	,	,	O	_
+3	comme	comme	O	_
+4	le	le	O	_
+5	précise	précise	O	_
+6	la	le	O	_
+7	méthodologie	méthodologie	O	_
+8	de	de	O	_
+9	l'	le	O	_
+10	IEM	IEM	O	_
+11	,	,	O	_
+12	il	il	O	_
+13	convient	convier	O	_
+14	de	de	O	_
+15	maitriser	maitriser	BO	_
+16	les	le	IO	_
+17	sources	source	IO	_
+18	de	de	IO	_
+19	pollution	pollution	EO	_
+20	.	.	O	_
+
+
+#En conséquence, GEOSAN conseille de mettre en œuvre rapidement les mesures de dépollution des zones sources des eaux souterraines telles que définies dans le plan de gestion et de poursuivre le suivi piézométrique à l'intérieur comme à l'extérieur du site.
+1	En	en	O	_
+2	conséquence	conséquence	O	_
+3	,	,	O	_
+4	GEOSAN	GEOSAN	EO	_
+5	conseille	conseille	O	_
+6	de	de	O	_
+7	mettre	mettre	BN	_
+8	en	en	BN	_
+9	œuvre	œuvre	IN	_
+10	rapidement	rapidement	IN	_
+11	les	le	IN	_
+12	mesures	mesure	IN	_
+13	de	de	IN	_
+14	dépollution	dépollution	EN	_
+15	des	de	O	_
+16	zones	zone	BO	_
+17	sources	source	IO	_
+18	des	de	IO	_
+19	eaux	eau	IO	_
+20	souterraines	souterrain	EO	_
+21	telles	tel	O	_
+22	que	que	O	_
+23	définies	définir	O	_
+24	dans	dans	O	_
+25	le	le	O	_
+26	plan	plan	IO	_
+27	de	de	IO	_
+28	gestion	gestion	EO	_
+29	et	et	O	_
+30	de	de	O	_
+31	poursuivre	poursuivre	O	_
+32	le	le	BA	_
+33	suivi	suivi	IA	_
+34	piézométrique	piézométrique	EA	_
+35	à	à	O	_
+36	l'	le	O	_
+37	intérieur	intérieur	O	_
+38	comme	comme	O	_
+39	à	à	O	_
+40	l'	le	O	_
+41	extérieur	extérieur	O	_
+42	du	de	O	_
+43	site	site	O	_
+44	.	.	O	_
+
+
+#Enfin, en ce qui concerne le cas particulier de l'habitation située à proximité immédiate de l'ancien site SCOWARTON, actuellement en rénovation, GEOSAN préconise de ne pas utiliser les eaux souterraines à usage d'irrigation de cultures potagères. »
+1	Enfin	enfin	O	_
+2	,	,	O	_
+3	en	en	O	_
+4	ce	ce	O	_
+5	qui	qui	O	_
+6	concerne	concerne	O	_
+7	le	le	O	_
+8	cas	cas	O	_
+9	particulier	particulier	O	_
+10	de	de	O	_
+11	l'	le	BO	_
+12	habitation	habitation	EO	_
+13	située	situer	BL	_
+14	à	à	IL	_
+15	proximité	proximité	IL	_
+16	immédiate	immédiat	IL	_
+17	de	de	IL	_
+18	l'	le	IL	_
+19	ancien	ancien	IL	_
+20	site	site	IL	_
+21	SCOWARTON	SCOWARTON	EL	_
+22	,	,	O	_
+23	actuellement	actuellement	BN	_
+24	en	en	IN	_
+25	rénovation	rénovation	EN	_
+26	,	,	O	_
+27	GEOSAN	GEOSAN	O	_
+28	préconise	préconise	O	_
+29	de	de	O	_
+30	ne	ne	BA	_
+31	pas	pas	IA	_
+32	utiliser	utiliser	IA	_
+33	les	le	IA	_
+34	eaux	eau	IA	_
+35	souterraines	souterrain	IA	_
+36	à	à	IA	_
+37	usage	usage	IA	_
+38	d'	de	IA	_
+39	irrigation	irrigation	IA	_
+40	de	de	IA	_
+41	cultures	culture	IA	_
+42	potagères	potager	EA	_
+43	.	.	O	_
+44	 	 	O	_
+45	»	»	O	_
+
+
+#Comme suite à une visite sur site le 18 Octobre 2013, le rapport de l’inspection des installations classées en date du 18 Décembre 2013 établit les éléments suivants :
+1	Comme	comme	O	_
+2	suite	suite	O	_
+3	à	à	BN	_
+4	une	un	IN	_
+5	visite	visite	EN	_
+6	sur	sur	IN	_
+7	site	site	EN	_
+8	le	le	BT	_
+9	18	18	IT	_
+10	Octobre	octobre	IT	_
+11	2013	2013	ET	_
+12	,	,	ET	_
+13	le	le	O	_
+14	rapport	rapport	O	_
+15	de	de	O	_
+16	l’	l’	BO	_
+17	inspection	inspection	IO	_
+18	des	de	IO	_
+19	installations	installation	IO	_
+20	classées	classer	EO	_
+21	en	en	BT	_
+22	date	date	IT	_
+23	du	de	IT	_
+24	18	18	IT	_
+25	Décembre	décembre	IT	_
+26	2013	2013	ET	_
+27	établit	établir	O	_
+28	les	le	O	_
+29	éléments	élément	O	_
+30	suivants	suivant	O	_
+31	:	:	O	_
+
+
+#-le 18 octobre 2013, visite du site par l'inspection.
+1	-le	-le	BT	_
+2	18	18	IT	_
+3	octobre	octobre	IT	_
+4	2013	2013	ET	_
+5	,	,	ET	_
+6	visite	visite	EN	_
+7	du	de	O	_
+8	site	site	BO	_
+9	par	par	O	_
+10	l'	le	BO	_
+11	inspection	inspection	EO	_
+12	.	.	O	_
+
+
+#Les travaux de dépollution ont démarré depuis 1 semaine : pompage de la nappe et gaz du sol et traitement sur charbon actif avant rejet dans la Lys.
+1	Les	le	BN	_
+2	travaux	travail	IN	_
+3	de	de	IN	_
+4	dépollution	dépollution	EN	_
+5	ont	avoir	EN	_
+6	démarré	démarrer	EN	_
+7	depuis	depuis	BT	_
+8	1	1	IT	_
+9	semaine	semaine	ET	_
+10	:	:	BN	_
+11	pompage	pompage	EN	_
+12	de	de	O	_
+13	la	le	BO	_
+14	nappe	nappe	EO	_
+15	et	et	O	_
+16	gaz	gaz	O	_
+17	du	de	O	_
+18	sol	sol	O	_
+19	et	et	O	_
+20	traitement	traitement	BN	_
+21	sur	sur	IN	_
+22	charbon	charbon	IN	_
+23	actif	actif	EN	_
+24	avant	avant	BT	_
+25	rejet	rejet	BO	_
+26	dans	dans	BL	_
+27	la	le	IL	_
+28	Lys	Lys	EL	_
+29	.	.	O	_
+
+
+#En résulte une proposition d'arrêté préfectoral complémentaire pour imposer :
+1	En	en	O	_
+2	résulte	résulte	O	_
+3	une	un	O	_
+4	proposition	proposition	O	_
+5	d'	de	O	_
+6	arrêté	arrêté	O	_
+7	préfectoral	préfectoral	O	_
+8	complémentaire	complémentaire	O	_
+9	pour	pour	O	_
+10	imposer	imposer	EN	_
+11	:	:	O	_
+
+
+#*la remise d'une étude d’impact sous 1 mois à compter de la notification de l'arrêté préfectoral,
+1	*	*	O	_
+2	la	le	BN	_
+3	remise	remise	EN	_
+4	d'	de	O	_
+5	une	un	BO	_
+6	étude	étude	IO	_
+7	d’	d’	IO	_
+8	impact	impact	EO	_
+9	sous	sous	BT	_
+10	1	1	IT	_
+11	mois	mois	IT	_
+12	à	à	IT	_
+13	compter	compter	BN	_
+14	de	de	BN	_
+15	la	le	BN	_
+16	notification	notification	EN	_
+17	de	de	O	_
+18	l'	le	BO	_
+19	arrêté	arrêté	IO	_
+20	préfectoral	préfectoral	EO	_
+21	,	,	O	_
+
+
+#*la mesure hebdomadaire des concentrations en COHV et en hydrocarbures dans l'attente de l'étude d'impact et en l'absence de justification validée par l'inspection permettant d'alléger la fréquence,
+1	*	*	O	_
+2	la	le	BN	_
+3	mesure	mesure	EN	_
+4	hebdomadaire	hebdomadaire	EA	_
+5	des	de	O	_
+6	concentrations	concentration	O	_
+7	en	en	O	_
+8	COHV	cohv	BO	_
+9	et	et	O	_
+10	en	en	O	_
+11	hydrocarbures	hydrocarbure	O	_
+12	dans	dans	O	_
+13	l'	le	O	_
+14	attente	attente	O	_
+15	de	de	O	_
+16	l'	le	O	_
+17	étude	étude	O	_
+18	d'	de	O	_
+19	impact	impact	O	_
+20	et	et	O	_
+21	en	en	BR	_
+22	l'	le	BO	_
+23	absence	absence	O	_
+24	de	de	O	_
+25	justification	justification	O	_
+26	validée	valider	O	_
+27	par	par	O	_
+28	l'	le	BO	_
+29	inspection	inspection	EO	_
+30	permettant	permettre	O	_
+31	d'	de	O	_
+32	alléger	alléger	O	_
+33	la	le	O	_
+34	fréquence	fréquence	O	_
+35	,	,	O	_
+
+
+#*la transmission d'un bilan trimestriel de suivi des travaux,
+1	*	*	O	_
+2	la	le	BN	_
+3	transmission	transmission	EN	_
+4	d'	de	O	_
+5	un	un	O	_
+6	bilan	bilan	O	_
+7	trimestriel	trimestriel	O	_
+8	de	de	O	_
+9	suivi	suivi	BO	_
+10	des	de	IO	_
+11	travaux	travail	EO	_
+12	,	,	O	_
+
+
+#*la remise d'une analyse des risques résiduels à la fin des travaux,
+1	*	*	O	_
+2	la	le	BN	_
+3	remise	remise	IN	_
+4	d'	de	IN	_
+5	une	un	IN	_
+6	analyse	analyse	EN	_
+7	des	de	O	_
+8	risques	risque	O	_
+9	résiduels	résiduel	O	_
+10	à	à	O	_
+11	la	le	BN	_
+12	fin	fin	IN	_
+13	des	de	IN	_
+14	travaux	travail	EN	_
+15	,	,	O	_
+
+
+#*l'instauration des servitudes de mémoire du site via un dispositif adapté laissé à la convenance de l'exploitant.
+1	*	*	O	_
+2	l'	le	BN	_
+3	instauration	instauration	IN	_
+4	des	de	IN	_
+5	servitudes	servitude	IN	_
+6	de	de	O	_
+7	mémoire	mémoire	O	_
+8	du	de	O	_
+9	site	site	O	_
+10	via	via	O	_
+11	un	un	O	_
+12	dispositif	dispositif	O	_
+13	adapté	adapter	O	_
+14	laissé	laisser	O	_
+15	à	à	O	_
+16	la	le	O	_
+17	convenance	convenance	O	_
+18	de	de	O	_
+19	l'	le	BO	_
+20	exploitant	exploitant	EO	_
+21	.	.	O	_
+
+
+#- Avant que ce projet d'arrêté ne puisse être présenté au CODERST, l'exploitant a informé l'Inspection (pièces justificatives à l'appui) que la société SCOWARTON n'avait plus d'existence légale depuis le 27 décembre 2013.
+1	-	-	O	_
+2	Avant	avant	O	_
+3	que	que	O	_
+4	ce	ce	BO	_
+5	projet	projet	EO	_
+6	d'	de	O	_
+7	arrêté	arrêté	O	_
+8	ne	ne	O	_
+9	puisse	pouvoir	O	_
+10	être	être	O	_
+11	présenté	présenter	O	_
+12	au	au	O	_
+13	CODERST	CODERST	EO	_
+14	,	,	O	_
+15	l'	le	BO	_
+16	exploitant	exploitant	EO	_
+17	a	avoir	BN	_
+18	informé	informer	EN	_
+19	l'	le	BO	_
+20	Inspection	inspection	EO	_
+21	(	(	O	_
+22	pièces	pièce	O	_
+23	justificatives	justificatif	O	_
+24	à	à	O	_
+25	l'	le	O	_
+26	appui	appui	O	_
+27	)	)	O	_
+28	que	que	O	_
+29	la	le	BO	_
+30	société	société	IO	_
+31	SCOWARTON	SCOWARTON	EO	_
+32	n'	n'	BN	_
+33	avait	avoir	IN	_
+34	plus	plus	IN	_
+35	d'	d'	IN	_
+36	existence	existence	IN	_
+37	légale	légal	EN	_
+38	depuis	depuis	BT	_
+39	le	le	IT	_
+40	27	27	IT	_
+41	décembre	décembre	IT	_
+42	2013	2013	ET	_
+43	.	.	ET	_
+
+
+#La fin d'existence légale de la société SCOWARTON rend caduque le projet d'arrêté préfectoral précité, et met fin à la compétence de l'Inspection des Installations Classées sur ce dossier.
+1	La	le	BN	_
+2	fin	fin	IN	_
+3	d'	de	IN	_
+4	existence	existence	IN	_
+5	légale	légal	EN	_
+6	de	de	O	_
+7	la	le	BO	_
+8	société	société	IO	_
+9	SCOWARTON	SCOWARTON	EO	_
+10	rend	rendre	BN	_
+11	caduque	caduc	EN	_
+12	le	le	BO	_
+13	projet	projet	EO	_
+14	d'	de	O	_
+15	arrêté	arrêté	O	_
+16	préfectoral	préfectoral	O	_
+17	précité	préciter	O	_
+18	,	,	O	_
+19	et	et	O	_
+20	met	mettre	BN	_
+21	fin	fin	EN	_
+22	à	à	O	_
+23	la	le	O	_
+24	compétence	compétence	O	_
+25	de	de	O	_
+26	l'	le	BO	_
+27	Inspection	inspection	IO	_
+28	des	de	IO	_
+29	Installations	installation	IO	_
+30	Classées	classer	EO	_
+31	sur	sur	O	_
+32	ce	ce	O	_
+33	dossier	dossier	O	_
+34	.	.	O	_
+
+
+#- En l'absence d'exploitant au titre de la réglementation ICPE, les rejets dans les eaux superficielles (réalisés dans le cadre du traitement des eaux souterraines) apparaissent entrer dans le champ de l'article L214-1 du code de l'environnement qui réglemente "les installations ne figurant pas à la nomenclature des installations classées, les ouvrages, travaux et activités réalisés à des fins non domestiques par toute personne physique ou morale, publique ou privée, et entraînant des prélèvements sur les eaux superficielles ou souterraines, restitués ou non, une modification du niveau ou du mode d'écoulement des eaux, la destruction de frayères, de zones de croissance ou d'alimentation de la faune piscicole ou des déversements, écoulements, rejets ou dépôts directs ou indirects, chroniques ou épisodiques, même non polluants".
+1	-	-	O	_
+2	En	en	O	_
+3	l'	le	O	_
+4	absence	absence	O	_
+5	d'	de	O	_
+6	exploitant	exploitant	O	_
+7	au	au	O	_
+8	titre	titre	O	_
+9	de	de	O	_
+10	la	le	O	_
+11	réglementation	réglementation	O	_
+12	ICPE	ICPE	O	_
+13	,	,	O	_
+14	les	le	O	_
+15	rejets	rejet	O	_
+16	dans	dans	O	_
+17	les	le	BO	_
+18	eaux	eau	IO	_
+19	superficielles	superficiel	IO	_
+20	(	(	O	_
+21	réalisés	réaliser	BA	_
+22	dans	dans	ER	_
+23	le	le	IR	_
+24	cadre	cadre	IR	_
+25	du	de	ER	_
+26	traitement	traitement	IA	_
+27	des	de	IA	_
+28	eaux	eau	IA	_
+29	souterraines	souterrain	EA	_
+30	)	)	O	_
+31	apparaissent	apparaître	O	_
+32	entrer	entrer	BN	_
+33	dans	dans	IN	_
+34	le	le	IN	_
+35	champ	champ	EN	_
+36	de	de	O	_
+37	l'	le	O	_
+38	article	article	O	_
+39	L214	L214	O	_
+40	-	-	O	_
+41	1	1	O	_
+42	du	de	O	_
+43	code	code	O	_
+44	de	de	O	_
+45	l'	le	O	_
+46	environnement	environnement	O	_
+47	qui	qui	O	_
+48	réglemente	réglemente	O	_
+49	"	"	O	_
+50	les	le	O	_
+51	installations	installation	O	_
+52	ne	ne	O	_
+53	figurant	figurer	O	_
+54	pas	pas	O	_
+55	à	à	O	_
+56	la	le	BO	_
+57	nomenclature	nomenclature	IO	_
+58	des	de	IO	_
+59	installations	installation	IO	_
+60	classées	classer	EO	_
+61	,	,	O	_
+62	les	le	O	_
+63	ouvrages	ouvrage	O	_
+64	,	,	O	_
+65	travaux	travail	O	_
+66	et	et	O	_
+67	activités	activité	O	_
+68	réalisés	réaliser	BN	_
+69	à	à	IN	_
+70	des	un	EN	_
+71	fins	fin	EN	_
+72	non	non	O	_
+73	domestiques	domestique	O	_
+74	par	par	O	_
+75	toute	tout	O	_
+76	personne	personne	O	_
+77	physique	physique	O	_
+78	ou	ou	O	_
+79	morale	moral	O	_
+80	,	,	O	_
+81	publique	public	O	_
+82	ou	ou	O	_
+83	privée	priver	O	_
+84	,	,	O	_
+85	et	et	O	_
+86	entraînant	entraîner	O	_
+87	des	un	O	_
+88	prélèvements	prélèvement	O	_
+89	sur	sur	O	_
+90	les	le	O	_
+91	eaux	eau	O	_
+92	superficielles	superficiel	O	_
+93	ou	ou	O	_
+94	souterraines	souterrain	O	_
+95	,	,	O	_
+96	restitués	restituer	O	_
+97	ou	ou	O	_
+98	non	non	O	_
+99	,	,	O	_
+100	une	un	O	_
+101	modification	modification	O	_
+102	du	de	O	_
+103	niveau	niveau	O	_
+104	ou	ou	O	_
+105	du	de	O	_
+106	mode	mode	O	_
+107	d'	de	O	_
+108	écoulement	écoulement	O	_
+109	des	de	O	_
+110	eaux	eau	O	_
+111	,	,	O	_
+112	la	le	BN	_
+113	destruction	destruction	BN	_
+114	de	de	IN	_
+115	frayères	frayère	EN	_
+116	,	,	O	_
+117	de	de	O	_
+118	zones	zone	O	_
+119	de	de	O	_
+120	croissance	croissance	O	_
+121	ou	ou	O	_
+122	d'	de	O	_
+123	alimentation	alimentation	O	_
+124	de	de	O	_
+125	la	le	O	_
+126	faune	faune	O	_
+127	piscicole	piscicole	O	_
+128	ou	ou	O	_
+129	des	de	O	_
+130	déversements	déversement	BN	_
+131	,	,	O	_
+132	écoulements	écoulement	O	_
+133	,	,	O	_
+134	rejets	rejet	O	_
+135	ou	ou	O	_
+136	dépôts	dépôt	O	_
+137	directs	direct	O	_
+138	ou	ou	O	_
+139	indirects	indirect	O	_
+140	,	,	O	_
+141	chroniques	chronique	O	_
+142	ou	ou	O	_
+143	épisodiques	épisodique	O	_
+144	,	,	O	_
+145	même	même	O	_
+146	non	non	O	_
+147	polluants	polluant	O	_
+148	"	"	O	_
+149	.	.	O	_
+
+
+#59.0323
+#Ancienne tannerie occupant 6 900 m² environ situé en zone mixte d'habitat et d'activités.
+1	Ancienne	ancien	O	_
+2	tannerie	tannerie	O	_
+3	occupant	occuper	O	_
+4	6	6	O	_
+5	900	900	O	_
+6	m²	m²	O	_
+7	environ	environ	O	_
+8	situé	situer	BL	_
+9	en	en	IL	_
+10	zone	zone	IL	_
+11	mixte	mixte	IL	_
+12	d'	de	IL	_
+13	habitat	habitat	EL	_
+14	et	et	O	_
+15	d'	de	O	_
+16	activités	activité	BA	_
+17	.	.	O	_
+
+
+#L'activité a cessé en 1991 et le site est tombé depuis à l'abandon.
+1	L'	le	BO	_
+2	activité	activité	EO	_
+3	a	avoir	BN	_
+4	cessé	cesser	EN	_
+5	en	en	BT	_
+6	1991	1991	ET	_
+7	et	et	O	_
+8	le	le	BO	_
+9	site	site	EO	_
+10	est	être	BN	_
+11	tombé	tomber	IN	_
+12	depuis	depuis	IN	_
+13	à	à	IN	_
+14	l'	le	EN	_
+15	abandon	abandon	EN	_
+16	.	.	O	_
+
+
+#L'étude de diagnostic des sols a été menée en 1996.
+1	L'	le	BN	_
+2	étude	étude	IN	_
+3	de	de	IN	_
+4	diagnostic	diagnostic	EN	_
+5	des	de	IN	_
+6	sols	sol	EN	_
+7	a	avoir	BN	_
+8	été	être	IN	_
+9	menée	mener	EN	_
+10	en	en	BT	_
+11	1996	1996	ET	_
+12	.	.	ET	_
+
+
+#Elle conclut à un classement  en classe 2 : site à surveiller.
+1	Elle	lui	O	_
+2	conclut	conclure	O	_
+3	à	à	O	_
+4	un	un	O	_
+5	classement	classement	O	_
+6	 	 	O	_
+7	en	en	O	_
+8	classe	classe	O	_
+9	2	2	O	_
+10	:	:	O	_
+11	site	site	O	_
+12	à	à	O	_
+13	surveiller	surveiller	O	_
+14	.	.	O	_
+
+
+#Des investigations complémentaires étaient toutefois nécessaires, notamment vis-à-vis d'anciennes cuves.
+1	Des	un	O	_
+2	investigations	investigation	O	_
+3	complémentaires	complémentaire	O	_
+4	étaient	être	O	_
+5	toutefois	toutefois	O	_
+6	nécessaires	nécessaire	O	_
+7	,	,	O	_
+8	notamment	notamment	O	_
+9	vis-à-vis	vis-à-vis	O	_
+10	d'	de	O	_
+11	anciennes	ancien	O	_
+12	cuves	cuve	O	_
+13	.	.	O	_
+
+
+#Toutefois, devant l'impécuniosité de la liquidation judiciaire, celles ci n'ont pu être menées à ce jour.
+1	Toutefois	toutefois	O	_
+2	,	,	O	_
+3	devant	devant	O	_
+4	l'	le	O	_
+5	impécuniosité	impécuniosité	O	_
+6	de	de	O	_
+7	la	le	BN	_
+8	liquidation	liquidation	IN	_
+9	judiciaire	judiciaire	EN	_
+10	,	,	O	_
+11	celles	celui	O	_
+12	ci	ci	O	_
+13	n'	n'	O	_
+14	ont	avoir	O	_
+15	pu	pouvoir	O	_
+16	être	être	O	_
+17	menées	mener	O	_
+18	à	à	BT	_
+19	ce	ce	IT	_
+20	jour	jour	ET	_
+21	.	.	O	_
+
+
+#59.0334
+#Site d'une ancienne briqueterie fonctionnant au charbon créée en 1930 et dont l'activité a cessé en avril 1999.
+1	Site	site	BO	_
+2	d'	de	O	_
+3	une	un	BO	_
+4	ancienne	ancien	IO	_
+5	briqueterie	briqueterie	IO	_
+6	fonctionnant	fonctionner	BA	_
+7	au	au	IA	_
+8	charbon	charbon	EA	_
+9	créée	créer	BN	_
+10	en	en	IT	_
+11	1930	1930	ET	_
+12	et	et	BN	_
+13	dont	dont	BN	_
+14	l'	le	IN	_
+15	activité	activité	EN	_
+16	a	avoir	BN	_
+17	cessé	cesser	EN	_
+18	en	en	BT	_
+19	avril	avril	IT	_
+20	1999	1999	ET	_
+21	.	.	ET	_
+
+
+#Les bâtiments et installations ont été entièrement rasés et le terrain a été libéré.
+1	Les	le	BO	_
+2	bâtiments	bâtiment	IO	_
+3	et	et	IO	_
+4	installations	installation	EO	_
+5	ont	avoir	BN	_
+6	été	être	IN	_
+7	entièrement	entièrement	IN	_
+8	rasés	raser	EN	_
+9	et	et	O	_
+10	le	le	BO	_
+11	terrain	terrain	EO	_
+12	a	avoir	BN	_
+13	été	être	IN	_
+14	libéré	libérer	EN	_
+15	.	.	O	_
+
+
+#Le site de la Briqueterie s'étend sur environ 6,5 ha, hors partie carrière d'argile attenante.
+1	Le	le	BO	_
+2	site	site	EO	_
+3	de	de	O	_
+4	la	le	BO	_
+5	Briqueterie	briqueterie	EO	_
+6	s'	se	O	_
+7	étend	étendre	O	_
+8	sur	sur	O	_
+9	environ	environ	O	_
+10	6,5	6,5	O	_
+11	ha	ha	O	_
+12	,	,	O	_
+13	hors	hors	O	_
+14	partie	partie	O	_
+15	carrière	carrière	O	_
+16	d'	de	O	_
+17	argile	argile	O	_
+18	attenante	attenant	O	_
+19	.	.	O	_
+
+
+#Une étude de sols, phase historique a été menée après l'arrêt des activités sur le site.
+1	Une	un	BN	_
+2	étude	étude	IN	_
+3	de	de	IN	_
+4	sols	sol	EN	_
+5	,	,	O	_
+6	phase	phase	O	_
+7	historique	historique	O	_
+8	a	avoir	BN	_
+9	été	être	IN	_
+10	menée	mener	EN	_
+11	après	après	BR	_
+12	l'	le	BN	_
+13	arrêt	arrêt	EN	_
+14	des	de	BA	_
+15	activités	activité	BA	_
+16	sur	sur	IA	_
+17	le	le	IA	_
+18	site	site	EA	_
+19	.	.	O	_
+
+
+#4 zones ont été identifiées comme susceptibles de former des sources de pollution potentielle.
+1	4	4	BO	_
+2	zones	zone	EO	_
+3	ont	avoir	BN	_
+4	été	être	IN	_
+5	identifiées	identifier	EN	_
+6	comme	comme	O	_
+7	susceptibles	susceptible	O	_
+8	de	de	O	_
+9	former	former	BN	_
+10	des	un	IO	_
+11	sources	source	IO	_
+12	de	de	IO	_
+13	pollution	pollution	EO	_
+14	potentielle	potentiel	O	_
+15	.	.	O	_
+
+
+#Aucune investigation ni ESR n'a été menée mais des travaux de dépollution ont eu lieu lors de la remise en état du site, avec, notamment, l'élimination de terres souillées aux hydrocarbures, élimination des déchets du site et dégazage et évacuation des cuves.
+1	Aucune	aucun	O	_
+2	investigation	investigation	EN	_
+3	ni	ni	O	_
+4	ESR	esr	O	_
+5	n'	n'	O	_
+6	a	avoir	O	_
+7	été	être	O	_
+8	menée	mener	O	_
+9	mais	mais	O	_
+10	des	un	BN	_
+11	travaux	travail	IN	_
+12	de	de	IN	_
+13	dépollution	dépollution	EN	_
+14	ont	avoir	BN	_
+15	eu	avoir	IN	_
+16	lieu	lieu	EN	_
+17	lors	lors	BT	_
+18	de	de	ER	_
+19	la	le	BN	_
+20	remise	remise	IN	_
+21	en	en	IN	_
+22	état	état	IN	_
+23	du	de	IN	_
+24	site	site	EN	_
+25	,	,	O	_
+26	avec	avec	O	_
+27	,	,	O	_
+28	notamment	notamment	O	_
+29	,	,	O	_
+30	l'	le	BN	_
+31	élimination	élimination	EN	_
+32	de	de	O	_
+33	terres	terre	BO	_
+34	souillées	souiller	EO	_
+35	aux	à	O	_
+36	hydrocarbures	hydrocarbure	EO	_
+37	,	,	O	_
+38	élimination	élimination	BN	_
+39	des	de	IN	_
+40	déchets	déchet	IN	_
+41	du	de	IN	_
+42	site	site	EN	_
+43	et	et	O	_
+44	dégazage	dégazage	BN	_
+45	et	et	O	_
+46	évacuation	évacuation	EN	_
+47	des	de	O	_
+48	cuves	cuve	BO	_
+49	.	.	O	_
+
+
+#Des piézomètres implantés à proximité n'ont pas révélé d'indice de pollution significatif.
+1	Des	un	BO	_
+2	piézomètres	piézomètre	EO	_
+3	implantés	implanter	BR	_
+4	à	à	BL	_
+5	proximité	proximité	EL	_
+6	n'	n'	O	_
+7	ont	avoir	O	_
+8	pas	pas	O	_
+9	révélé	révéler	O	_
+10	d'	d'	O	_
+11	indice	indice	O	_
+12	de	de	O	_
+13	pollution	pollution	O	_
+14	significatif	significatif	O	_
+15	.	.	O	_
+
+
+#Des entrepôts se sont installés sur ce site.
+1	Des	un	BO	_
+2	entrepôts	entrepôt	EO	_
+3	se	se	BN	_
+4	sont	être	IN	_
+5	installés	installer	EN	_
+6	sur	sur	ER	_
+7	ce	ce	BO	_
+8	site	site	EO	_
+9	.	.	O	_
+
+
+#PV de récolement du 13/08/01 de cessation pour un usage industriel.
+1	PV	pv	BN	_
+2	de	de	IN	_
+3	récolement	récolement	EN	_
+4	du	de	O	_
+5	13/08/01	13/08/01	IT	_
+6	de	de	BN	_
+7	cessation	cessation	EN	_
+8	pour	pour	O	_
+9	un	un	O	_
+10	usage	usage	O	_
+11	industriel	industriel	O	_
+12	.	.	O	_
+
+
+#Site mis en sécurité vis à vis des tiers
+1	Site	site	O	_
+2	mis	mettre	O	_
+3	en	en	O	_
+4	sécurité	sécurité	O	_
+5	vis	vis	O	_
+6	à	à	O	_
+7	vis	vis	O	_
+8	des	de	O	_
+9	tiers	tiers	O	_
+
+
+#Action de l'administration terminée
+1	Action	action	O	_
+2	de	de	O	_
+3	l'	le	O	_
+4	administration	administration	O	_
+5	terminée	terminer	O	_
+
+
+#Cessation définitive de la briqueterie récolé par PV
+1	Cessation	cessation	BN	_
+2	définitive	définitif	EN	_
+3	de	de	O	_
+4	la	le	BO	_
+5	briqueterie	briqueterie	EO	_
+6	récolé	récoler	EN	_
+7	par	par	O	_
+8	PV	PV	O	_
+
+
+#En cas de changement d'usage, il appartient au maître d'ouvrage de vérifier que son projet est compatible avec l'état des sols compte tenu des travaux qui ont été réalisés pour un usage donné et de respecter les dispositions de servitudes éventuellement instaurées sur ce site(si servitudes mises en œuvre).
+1	En	en	O	_
+2	cas	cas	O	_
+3	de	de	O	_
+4	changement	changement	O	_
+5	d'	de	O	_
+6	usage	usage	O	_
+7	,	,	O	_
+8	il	il	O	_
+9	appartient	appartenir	O	_
+10	au	au	O	_
+11	maître	maître	BO	_
+12	d'	de	EO	_
+13	ouvrage	ouvrage	EO	_
+14	de	de	O	_
+15	vérifier	vérifier	BN	_
+16	que	que	O	_
+17	son	son	BO	_
+18	projet	projet	EO	_
+19	est	être	O	_
+20	compatible	compatible	O	_
+21	avec	avec	O	_
+22	l'	le	O	_
+23	état	état	O	_
+24	des	de	O	_
+25	sols	sol	O	_
+26	compte	compte	O	_
+27	tenu	tenir	O	_
+28	des	de	O	_
+29	travaux	travail	O	_
+30	qui	qui	O	_
+31	ont	avoir	BN	_
+32	été	être	IN	_
+33	réalisés	réaliser	EN	_
+34	pour	pour	O	_
+35	un	un	BO	_
+36	usage	usage	EO	_
+37	donné	donner	O	_
+38	et	et	O	_
+39	de	de	O	_
+40	respecter	respecter	O	_
+41	les	le	O	_
+42	dispositions	disposition	O	_
+43	de	de	O	_
+44	servitudes	servitude	O	_
+45	éventuellement	éventuellement	O	_
+46	instaurées	instaurer	O	_
+47	sur	sur	O	_
+48	ce	ce	O	_
+49	site(si	site(si	O	_
+50	servitudes	servitude	O	_
+51	mises	mettre	O	_
+52	en	en	O	_
+53	œuvre	œuvre	O	_
+54	)	)	O	_
+55	.	.	O	_
+
+
+#59.0171
+#- Ancien site de production de cartons et de feutres amiantés.
+1	-	-	O	_
+2	Ancien	ancien	BO	_
+3	site	site	IO	_
+4	de	de	IO	_
+5	production	production	IA	_
+6	de	de	IA	_
+7	cartons	carton	EA	_
+8	et	et	O	_
+9	de	de	O	_
+10	feutres	feutre	BO	_
+11	amiantés	amianté	EO	_
+12	.	.	O	_
+
+
+#Sur ce site se trouve également une zone de dépôt de déchets amiantés à l'époque produits par le site.
+1	Sur	sur	BL	_
+2	ce	ce	BO	_
+3	site	site	EO	_
+4	se	se	O	_
+5	trouve	trouve	O	_
+6	également	également	O	_
+7	une	un	BO	_
+8	zone	zone	EO	_
+9	de	de	O	_
+10	dépôt	dépôt	BO	_
+11	de	de	IO	_
+12	déchets	déchet	IO	_
+13	amiantés	amianté	EO	_
+14	à	à	O	_
+15	l'	le	O	_
+16	époque	époque	O	_
+17	produits	produire	O	_
+18	par	par	O	_
+19	le	le	BO	_
+20	site	site	EO	_
+21	.	.	O	_
+
+
+#- Présence d'amiante sous forme de déchets de fabrication et sous forme fibreuse.
+1	-	-	O	_
+2	Présence	présence	O	_
+3	d'	de	O	_
+4	amiante	amiante	O	_
+5	sous	sous	O	_
+6	forme	forme	O	_
+7	de	de	O	_
+8	déchets	déchet	O	_
+9	de	de	O	_
+10	fabrication	fabrication	O	_
+11	et	et	O	_
+12	sous	sous	O	_
+13	forme	forme	IN	_
+14	fibreuse	fibreux	EN	_
+15	.	.	O	_
+
+
+#- demande de diagnostic initial sur le site de production et sur la décharge aux propriétaires, seuls responsables identifiés : la municipalité (site de production) et un particulier (Mme Dollet, propriétaire d'une parcelle à l'époque de la demande d'études) pour la décharge.
+1	-	-	O	_
+2	demande	demande	BN	_
+3	de	de	IN	_
+4	diagnostic	diagnostic	IN	_
+5	initial	initial	EN	_
+6	sur	sur	O	_
+7	le	le	BO	_
+8	site	site	IO	_
+9	de	de	IO	_
+10	production	production	EO	_
+11	et	et	O	_
+12	sur	sur	O	_
+13	la	le	BO	_
+14	décharge	décharge	BO	_
+15	aux	à	BO	_
+16	propriétaires	propriétaire	EO	_
+17	,	,	O	_
+18	seuls	seul	O	_
+19	responsables	responsable	O	_
+20	identifiés	identifier	O	_
+21	:	:	O	_
+22	la	le	BO	_
+23	municipalité	municipalité	EO	_
+24	(	(	O	_
+25	site	site	BO	_
+26	de	de	IO	_
+27	production	production	EO	_
+28	)	)	O	_
+29	et	et	O	_
+30	un	un	BO	_
+31	particulier	particulier	EO	_
+32	(	(	O	_
+33	Mme	mme	O	_
+34	Dollet	Dollet	O	_
+35	,	,	O	_
+36	propriétaire	propriétaire	O	_
+37	d'	de	O	_
+38	une	un	O	_
+39	parcelle	parcelle	O	_
+40	à	à	O	_
+41	l'	le	BN	_
+42	époque	époque	IN	_
+43	de	de	EN	_
+44	la	le	EN	_
+45	demande	demande	IO	_
+46	d'	de	IO	_
+47	études	étude	EO	_
+48	)	)	O	_
+49	pour	pour	O	_
+50	la	le	BO	_
+51	décharge	décharge	EO	_
+52	.	.	O	_
+
+
+#Phase A étude des sols réalisée par ANTEA : présence d'amiante dans les remblais et sédiments du ruisseau de Bavay mais pas dans l'air ou l'eau.
+1	Phase	phase	O	_
+2	A	a	O	_
+3	étude	étude	O	_
+4	des	de	O	_
+5	sols	sol	O	_
+6	réalisée	réaliser	BN	_
+7	par	par	BN	_
+8	ANTEA	ANTEA	EO	_
+9	:	:	O	_
+10	présence	présence	O	_
+11	d'	de	BO	_
+12	amiante	amiante	EO	_
+13	dans	dans	O	_
+14	les	le	BN	_
+15	remblais	remblai	EN	_
+16	et	et	O	_
+17	sédiments	sédiment	O	_
+18	du	de	O	_
+19	ruisseau	ruisseau	BL	_
+20	de	de	IL	_
+21	Bavay	Bavay	EL	_
+22	mais	mais	O	_
+23	pas	pas	O	_
+24	dans	dans	O	_
+25	l'	le	O	_
+26	air	air	O	_
+27	ou	ou	O	_
+28	l'	le	O	_
+29	eau	eau	O	_
+30	.	.	O	_
+
+
+#Selon les éléments qui ont été adressés à l'inspection des installations classées : des travaux d'enlèvement des déchets amiantés présents dans les bâtiments construits sur les parcelles AK122 et AK 130 ont été réalisés par une société spécialisée.
+1	Selon	selon	O	_
+2	les	le	O	_
+3	éléments	élément	O	_
+4	qui	qui	O	_
+5	ont	avoir	O	_
+6	été	être	O	_
+7	adressés	adresser	O	_
+8	à	à	O	_
+9	l'	le	BO	_
+10	inspection	inspection	IO	_
+11	des	de	IO	_
+12	installations	installation	IO	_
+13	classées	classer	EO	_
+14	:	:	O	_
+15	des	un	BN	_
+16	travaux	travail	IN	_
+17	d'	de	IN	_
+18	enlèvement	enlèvement	EN	_
+19	des	de	O	_
+20	déchets	déchet	BO	_
+21	amiantés	amianté	EO	_
+22	présents	présent	O	_
+23	dans	dans	O	_
+24	les	le	BO	_
+25	bâtiments	bâtiment	EO	_
+26	construits	construire	BN	_
+27	sur	sur	IL	_
+28	les	le	IL	_
+29	parcelles	parcelle	IL	_
+30	AK122	AK122	IL	_
+31	et	et	O	_
+32	AK	ak	O	_
+33	130	130	O	_
+34	ont	avoir	BN	_
+35	été	être	IN	_
+36	réalisés	réaliser	EN	_
+37	par	par	BO	_
+38	une	un	BO	_
+39	société	société	IO	_
+40	spécialisée	spécialiser	EO	_
+41	.	.	O	_
+
+
+#De plus, il ne peut aujourd'hui pas être observé de traces visuelles d'amiante sur ces terrains.
+1	De	de	O	_
+2	plus	plus	O	_
+3	,	,	O	_
+4	il	il	O	_
+5	ne	ne	O	_
+6	peut	pouvoir	O	_
+7	aujourd'hui	aujourd'hui	O	_
+8	pas	pas	O	_
+9	être	être	O	_
+10	observé	observer	O	_
+11	de	de	O	_
+12	traces	trace	O	_
+13	visuelles	visuel	O	_
+14	d'	de	O	_
+15	amiante	amiante	O	_
+16	sur	sur	O	_
+17	ces	ce	BO	_
+18	terrains	terrain	EO	_
+19	.	.	O	_
+
+
+#Des machines auraient été enfouies durant l'exploitation de ce site.
+1	Des	un	BO	_
+2	machines	machine	EO	_
+3	auraient	avoir	BN	_
+4	été	être	IN	_
+5	enfouies	enfouir	EN	_
+6	durant	durant	BR	_
+7	l'	le	ER	_
+8	exploitation	exploitation	BA	_
+9	de	de	ER	_
+10	ce	ce	BO	_
+11	site	site	EO	_
+12	.	.	O	_
+
+
+#Par ailleurs, une zone de dépôt de déchets amiantés existe sur la parcelle AK 139.
+1	Par	par	O	_
+2	ailleurs	ailleurs	O	_
+3	,	,	O	_
+4	une	un	BO	_
+5	zone	zone	IO	_
+6	de	de	IO	_
+7	dépôt	dépôt	IO	_
+8	de	de	IO	_
+9	déchets	déchet	IO	_
+10	amiantés	amianté	EO	_
+11	existe	existe	O	_
+12	sur	sur	O	_
+13	la	le	O	_
+14	parcelle	parcelle	O	_
+15	AK	ak	O	_
+16	139	139	O	_
+17	.	.	O	_
+
+
+#La reconquête de la végétation sur la parcelle AK 139 assure une protection contre les risques de réenvols de fibres d'amiante.
+1	La	le	BN	_
+2	reconquête	reconquête	EN	_
+3	de	de	O	_
+4	la	le	BO	_
+5	végétation	végétation	IO	_
+6	sur	sur	IO	_
+7	la	le	IO	_
+8	parcelle	parcelle	IO	_
+9	AK	ak	EO	_
+10	139	139	O	_
+11	assure	assure	O	_
+12	une	un	O	_
+13	protection	protection	O	_
+14	contre	contre	O	_
+15	les	le	O	_
+16	risques	risque	O	_
+17	de	de	O	_
+18	réenvols	réenvol	EN	_
+19	de	de	O	_
+20	fibres	fibre	O	_
+21	d'	de	O	_
+22	amiante	amiante	O	_
+23	.	.	O	_
+
+
+#En effet, il ne peut aujourd'hui pas être observé de traces visuelles d'amiante sur ces terrains.
+1	En	en	O	_
+2	effet	effet	O	_
+3	,	,	O	_
+4	il	il	O	_
+5	ne	ne	O	_
+6	peut	pouvoir	O	_
+7	aujourd'hui	aujourd'hui	O	_
+8	pas	pas	O	_
+9	être	être	O	_
+10	observé	observer	O	_
+11	de	de	O	_
+12	traces	trace	O	_
+13	visuelles	visuel	O	_
+14	d'	de	O	_
+15	amiante	amiante	O	_
+16	sur	sur	O	_
+17	ces	ce	BO	_
+18	terrains	terrain	EO	_
+19	.	.	O	_
+
+
+#Les traces d'amiante détectées lors des investigations d'ANTEA ne présentes toutefois pas de risque pour la santé des riverains car des analyses n'ont pas permis de détecter la présence de fibres d'amiante dans l'air.
+1	Les	le	O	_
+2	traces	trace	O	_
+3	d'	de	O	_
+4	amiante	amiante	O	_
+5	détectées	détecter	O	_
+6	lors	lors	O	_
+7	des	de	BN	_
+8	investigations	investigation	EN	_
+9	d'	de	BO	_
+10	ANTEA	ANTEA	EO	_
+11	ne	ne	O	_
+12	présentes	présenter	O	_
+13	toutefois	toutefois	O	_
+14	pas	pas	O	_
+15	de	de	O	_
+16	risque	risque	O	_
+17	pour	pour	O	_
+18	la	le	O	_
+19	santé	santé	O	_
+20	des	de	O	_
+21	riverains	riverain	O	_
+22	car	car	O	_
+23	des	un	O	_
+24	analyses	analyse	O	_
+25	n'	n'	O	_
+26	ont	avoir	O	_
+27	pas	pas	O	_
+28	permis	permettre	O	_
+29	de	de	O	_
+30	détecter	détecter	O	_
+31	la	le	O	_
+32	présence	présence	O	_
+33	de	de	O	_
+34	fibres	fibre	O	_
+35	d'	de	O	_
+36	amiante	amiante	O	_
+37	dans	dans	O	_
+38	l'	le	O	_
+39	air	air	O	_
+40	.	.	O	_
+
+
+#Toutefois, il est indispensable de mémoriser la présence d'amiante dans les sols afin :
+1	Toutefois	toutefois	O	_
+2	,	,	O	_
+3	il	il	O	_
+4	est	être	O	_
+5	indispensable	indispensable	O	_
+6	de	de	O	_
+7	mémoriser	mémoriser	O	_
+8	la	le	O	_
+9	présence	présence	O	_
+10	d'	de	O	_
+11	amiante	amiante	O	_
+12	dans	dans	O	_
+13	les	le	O	_
+14	sols	sol	O	_
+15	afin	afin	O	_
+16	:	:	O	_
+
+
+#- de maintenir les modalités de confinement existantes;
+1	-	-	O	_
+2	de	de	BN	_
+3	maintenir	maintenir	BN	_
+4	les	le	BO	_
+5	modalités	modalité	EO	_
+6	de	de	O	_
+7	confinement	confinement	O	_
+8	existantes	existant	O	_
+9	;	;	O	_
+
+
+#- de mettre en oeuvre des précautions adaptées en cas d'intervention sur ces terrains.
+1	-	-	O	_
+2	de	de	BN	_
+3	mettre	mettre	BN	_
+4	en	en	IN	_
+5	oeuvre	oeuvre	O	_
+6	des	un	O	_
+7	précautions	précaution	O	_
+8	adaptées	adapter	O	_
+9	en	en	O	_
+10	cas	cas	EN	_
+11	d'	de	EN	_
+12	intervention	intervention	EN	_
+13	sur	sur	BL	_
+14	ces	ce	BO	_
+15	terrains	terrain	EO	_
+16	.	.	O	_
+
+
+#62.0018
+#- Ancien carreau de fosse avec présence soupçonnée  de goudrons mélangés à des remblais.
+1	-	-	O	_
+2	 	 	O	_
+3	Ancien	ancien	BO	_
+4	carreau	carreau	IO	_
+5	de	de	IO	_
+6	fosse	fosse	EO	_
+7	avec	avec	O	_
+8	présence	présence	O	_
+9	soupçonnée	soupçonner	O	_
+10	 	 	O	_
+11	de	de	BO	_
+12	goudrons	goudron	BO	_
+13	mélangés	mélanger	O	_
+14	à	à	O	_
+15	des	un	BN	_
+16	remblais	remblai	EN	_
+17	.	.	O	_
+
+
+#- Nappe superficielle directement vulnérable, nappe de la craie peu protégée.
+1	-	-	O	_
+2	Nappe	nappe	O	_
+3	superficielle	superficiel	O	_
+4	directement	directement	O	_
+5	vulnérable	vulnérable	O	_
+6	,	,	O	_
+7	nappe	nappe	O	_
+8	de	de	O	_
+9	la	le	O	_
+10	craie	craie	O	_
+11	peu	peu	O	_
+12	protégée	protéger	O	_
+13	.	.	O	_
+
+
+#- Présence d'un dépôt de scories et de schlamms sur une superficie de 4 ha sur lequel ont été déposé des ordures ménagères..
+1	-	-	O	_
+2	Présence	présence	O	_
+3	d'	de	O	_
+4	un	un	O	_
+5	dépôt	dépôt	O	_
+6	de	de	O	_
+7	scories	scorie	EO	_
+8	et	et	O	_
+9	de	de	O	_
+10	schlamms	schlamm	EO	_
+11	sur	sur	O	_
+12	une	un	O	_
+13	superficie	superficie	O	_
+14	de	de	O	_
+15	4	4	O	_
+16	ha	ha	O	_
+17	sur	sur	O	_
+18	lequel	lequel	O	_
+19	ont	avoir	BN	_
+20	été	être	IN	_
+21	déposé	déposer	EN	_
+22	des	un	IO	_
+23	ordures	ordure	IO	_
+24	ménagères	ménager	EO	_
+25	..	..	O	_
+
+
+#- Site classé banalisable par l'ESR pour l'usage actuel (espace vert).
+1	-	-	O	_
+2	Site	site	BO	_
+3	classé	classer	IO	_
+4	banalisable	banalisabl	EO	_
+5	par	par	O	_
+6	l'	le	O	_
+7	ESR	esr	O	_
+8	pour	pour	O	_
+9	l'	le	O	_
+10	usage	usage	O	_
+11	actuel	actuel	O	_
+12	(	(	O	_
+13	espace	espace	O	_
+14	vert	vert	O	_
+15	)	)	O	_
+16	.	.	O	_
+
+
+#62.0089
+#- Site de l'industrie chimique, fabrication de fil synthétique.
+1	-	-	O	_
+2	Site	site	O	_
+3	de	de	O	_
+4	l'	le	O	_
+5	industrie	industrie	O	_
+6	chimique	chimique	O	_
+7	,	,	O	_
+8	fabrication	fabrication	BA	_
+9	de	de	IA	_
+10	fil	fil	EA	_
+11	synthétique	synthétique	EA	_
+12	.	.	O	_
+
+
+#- Création de l'activité sur site par NORSYNTEX en 196 (fabrication de fil textile synthétique)
+1	-	-	O	_
+2	Création	création	BN	_
+3	de	de	IN	_
+4	l'	le	BO	_
+5	activité	activité	IO	_
+6	sur	sur	IO	_
+7	site	site	EO	_
+8	par	par	O	_
+9	NORSYNTEX	NORSYNTEX	EO	_
+10	en	en	BT	_
+11	196	196	IT	_
+12	(	(	O	_
+13	fabrication	fabrication	BA	_
+14	de	de	IA	_
+15	fil	fil	IA	_
+16	textile	textile	IA	_
+17	synthétique	synthétique	EA	_
+18	)	)	O	_
+
+
+#- 1971: reprise de l'activité par Rhone Poulenc.
+1	-	-	BT	_
+2	1971	1971	ET	_
+3	:	:	BN	_
+4	reprise	reprise	EN	_
+5	de	de	EN	_
+6	l'	le	BO	_
+7	activité	activité	EO	_
+8	par	par	O	_
+9	Rhone	Rhone	BO	_
+10	Poulenc	Poulenc	EO	_
+11	.	.	O	_
+
+
+#- 1993: l'activité de production de fil tapis devient NOVALIS FIBRES.
+1	-	-	O	_
+2	1993	1993	ET	_
+3	:	:	BA	_
+4	l'	le	BA	_
+5	activité	activité	IA	_
+6	de	de	IA	_
+7	production	production	IA	_
+8	de	de	IA	_
+9	fil	fil	IA	_
+10	tapis	tapis	IA	_
+11	devient	devenir	BR	_
+12	NOVALIS	NOVALIS	BO	_
+13	FIBRES	FIBRES	EO	_
+14	.	.	O	_
+
+
+#- 1994: l'activité de production de fil textile devient NYLSTAR.
+1	-	-	BT	_
+2	1994	1994	ET	_
+3	:	:	BA	_
+4	l'	le	BA	_
+5	activité	activité	IA	_
+6	de	de	IA	_
+7	production	production	IA	_
+8	de	de	IA	_
+9	fil	fil	IA	_
+10	textile	textile	IA	_
+11	devient	devenir	BR	_
+12	NYLSTAR	NYLSTAR	BO	_
+13	.	.	O	_
+
+
+#- 1998: l'activité de production de fil tapis devient RHODIA PERFORMANCE FIBRES.
+1	-	-	O	_
+2	1998	1998	O	_
+3	:	:	O	_
+4	l'	le	BA	_
+5	activité	activité	IA	_
+6	de	de	IA	_
+7	production	production	IA	_
+8	de	de	IA	_
+9	fil	fil	IA	_
+10	tapis	tapis	IA	_
+11	devient	devenir	IA	_
+12	RHODIA	RHODIA	IA	_
+13	PERFORMANCE	PERFORMANCE	O	_
+14	FIBRES	FIBRES	O	_
+15	.	.	O	_
+
+
+#- 2005: cessation de l'activité de production de fil tapis le 9 mai.
+1	-	-	BT	_
+2	2005	2005	ET	_
+3	:	:	BN	_
+4	cessation	cessation	EN	_
+5	de	de	ER	_
+6	l'	le	BO	_
+7	activité	activité	IA	_
+8	de	de	IA	_
+9	production	production	IA	_
+10	de	de	IA	_
+11	fil	fil	IA	_
+12	tapis	tapis	IA	_
+13	le	le	BT	_
+14	9	9	IT	_
+15	mai	mai	IT	_
+16	.	.	ET	_
+
+
+#Reprise des activités par la société LAMATO le 5 septembre.
+1	Reprise	reprise	BN	_
+2	des	de	IN	_
+3	activités	activité	EN	_
+4	par	par	O	_
+5	la	le	BO	_
+6	société	société	IO	_
+7	LAMATO	LAMATO	EO	_
+8	le	le	BT	_
+9	5	5	IT	_
+10	septembre	septembre	ET	_
+11	.	.	ET	_
+
+
+#- 2007: Mise en redressement judiciaire de NYLSTAR et LAMATO.
+1	-	-	IT	_
+2	2007	2007	ET	_
+3	:	:	BN	_
+4	Mise	mise	IN	_
+5	en	en	IN	_
+6	redressement	redressement	IN	_
+7	judiciaire	judiciaire	EN	_
+8	de	de	O	_
+9	NYLSTAR	NYLSTAR	BO	_
+10	et	et	BO	_
+11	LAMATO	LAMATO	BO	_
+12	.	.	O	_
+
+
+#- 2008: cession de l'entreprise LAMATO (fil tapis) à NYLSTAR (fil textile) qui change de dénomination sociale: MERYL FIBER SAS (récépissé du 10/06/2008).
+1	-	-	BT	_
+2	2008	2008	ET	_
+3	:	:	BN	_
+4	cession	cession	EN	_
+5	de	de	O	_
+6	l'	le	BO	_
+7	entreprise	entreprise	IO	_
+8	LAMATO	LAMATO	EO	_
+9	(	(	O	_
+10	fil	fil	BO	_
+11	tapis	tapis	EO	_
+12	)	)	O	_
+13	à	à	O	_
+14	NYLSTAR	NYLSTAR	BO	_
+15	(	(	O	_
+16	fil	fil	BO	_
+17	textile	textile	EO	_
+18	)	)	O	_
+19	qui	qui	O	_
+20	change	changer	BN	_
+21	de	de	IN	_
+22	dénomination	dénomination	IN	_
+23	sociale	social	EN	_
+24	:	:	BO	_
+25	MERYL	MERYL	BO	_
+26	FIBER	FIBER	EO	_
+27	SAS	SAS	O	_
+28	(	(	O	_
+29	récépissé	récépissé	EO	_
+30	du	de	O	_
+31	10/06/2008	10/06/2008	IT	_
+32	)	)	O	_
+33	.	.	O	_
+
+
+#- Le 30 mai 2012, le tribunal d'Arras a prononcé la liquidation  et la cessation d'activité de la société.
+1	-	-	O	_
+2	Le	le	BT	_
+3	30	30	IT	_
+4	mai	mai	IT	_
+5	2012	2012	ET	_
+6	,	,	ET	_
+7	le	le	BO	_
+8	tribunal	tribunal	IO	_
+9	d'	de	IO	_
+10	Arras	Arras	EO	_
+11	a	avoir	BN	_
+12	prononcé	prononcer	IN	_
+13	la	le	IN	_
+14	liquidation	liquidation	EN	_
+15	 	 	O	_
+16	et	et	BN	_
+17	la	le	BN	_
+18	cessation	cessation	BN	_
+19	d'	de	IN	_
+20	activité	activité	EN	_
+21	de	de	BO	_
+22	la	le	BO	_
+23	société	société	EO	_
+24	.	.	O	_
+
+
+#- Site en activité visé par la circulaire du 3 avril 1996 qui impose une étude des sols sur les sites en activité.
+1	-	-	O	_
+2	Site	site	BO	_
+3	en	en	IO	_
+4	activité	activité	EO	_
+5	visé	viser	BR	_
+6	par	par	ER	_
+7	la	le	BO	_
+8	circulaire	circulaire	EO	_
+9	du	de	O	_
+10	3	3	BT	_
+11	avril	avril	IT	_
+12	1996	1996	ET	_
+13	qui	qui	O	_
+14	impose	impose	BN	_
+15	une	un	BN	_
+16	étude	étude	IN	_
+17	des	de	IN	_
+18	sols	sol	EN	_
+19	sur	sur	O	_
+20	les	le	BO	_
+21	sites	site	IO	_
+22	en	en	IO	_
+23	activité	activité	EO	_
+24	.	.	O	_
+
+
+#- Arrêté préfectoral du 21/08/1998 imposant la réalisation d'une étude des sols - diagnostic initial et évaluation simplifiée des risques.
+1	-	-	O	_
+2	Arrêté	arrêté	BO	_
+3	préfectoral	préfectoral	EO	_
+4	du	de	O	_
+5	21/08/1998	21/08/1998	IT	_
+6	imposant	imposer	BN	_
+7	la	le	BN	_
+8	réalisation	réalisation	IN	_
+9	d'	de	IN	_
+10	une	un	IN	_
+11	étude	étude	IN	_
+12	des	de	IN	_
+13	sols	sol	EN	_
+14	-	-	O	_
+15	diagnostic	diagnostic	IN	_
+16	initial	initial	EN	_
+17	et	et	O	_
+18	évaluation	évaluation	BN	_
+19	simplifiée	simplifier	IN	_
+20	des	de	IN	_
+21	risques	risque	EN	_
+22	.	.	O	_
+
+
+#-Des études de sols ont été effectuées en 2000 (partie textile) et ont aboutis à un classement 3 (site banalisable) du site.
+1	-Des	-des	BN	_
+2	études	étude	IN	_
+3	de	de	IN	_
+4	sols	sol	EN	_
+5	ont	avoir	BN	_
+6	été	être	IN	_
+7	effectuées	effectuer	EN	_
+8	en	en	BT	_
+9	2000	2000	ET	_
+10	(	(	O	_
+11	partie	partie	O	_
+12	textile	textile	O	_
+13	)	)	O	_
+14	et	et	O	_
+15	ont	avoir	O	_
+16	aboutis	aboutir	O	_
+17	à	à	O	_
+18	un	un	BO	_
+19	classement	classement	IO	_
+20	3	3	EO	_
+21	(	(	O	_
+22	site	site	O	_
+23	banalisable	banalisabl	O	_
+24	)	)	O	_
+25	du	de	O	_
+26	site	site	O	_
+27	.	.	O	_
+
+
+#- Un diagnostic de pollution des sols (partie tapis) a été effectué en 2005 par Rhodia lors de la cessation d'activité.
+1	-	-	O	_
+2	Un	un	BN	_
+3	diagnostic	diagnostic	EN	_
+4	de	de	IO	_
+5	pollution	pollution	IO	_
+6	des	de	IO	_
+7	sols	sol	EO	_
+8	(	(	O	_
+9	partie	partie	O	_
+10	tapis	tapis	O	_
+11	)	)	O	_
+12	a	avoir	BN	_
+13	été	être	IN	_
+14	effectué	effectuer	EN	_
+15	en	en	BT	_
+16	2005	2005	ET	_
+17	par	par	O	_
+18	Rhodia	Rhodia	BO	_
+19	lors	lors	BT	_
+20	de	de	BN	_
+21	la	le	BN	_
+22	cessation	cessation	BN	_
+23	d'	de	IN	_
+24	activité	activité	EN	_
+25	.	.	O	_
+
+
+#Il en ressort que le sol ne présente pas de pollution significative, avec comme seules remarques: un dépassement PCB dans le poste de transformation P10 et un dépassement hydrocarbures sur la voie de contournement de l'usine.
+1	Il	il	O	_
+2	en	en	O	_
+3	ressort	ressortir	O	_
+4	que	que	O	_
+5	le	le	O	_
+6	sol	sol	O	_
+7	ne	ne	O	_
+8	présente	présente	O	_
+9	pas	pas	O	_
+10	de	de	O	_
+11	pollution	pollution	O	_
+12	significative	significatif	O	_
+13	,	,	O	_
+14	avec	avec	O	_
+15	comme	comme	O	_
+16	seules	seul	O	_
+17	remarques	remarque	O	_
+18	:	:	O	_
+19	un	un	O	_
+20	dépassement	dépassement	O	_
+21	PCB	pcb	O	_
+22	dans	dans	O	_
+23	le	le	BO	_
+24	poste	poste	IO	_
+25	de	de	IO	_
+26	transformation	transformation	IO	_
+27	P10	p10	EO	_
+28	et	et	O	_
+29	un	un	O	_
+30	dépassement	dépassement	O	_
+31	hydrocarbures	hydrocarbure	BO	_
+32	sur	sur	BL	_
+33	la	le	IL	_
+34	voie	voie	IL	_
+35	de	de	IL	_
+36	contournement	contournement	IL	_
+37	de	de	IL	_
+38	l'	le	IL	_
+39	usine	usine	EL	_
+40	.	.	O	_
+
+
+#- Bilan de fonctionnement: juillet 2007.
+1	-	-	O	_
+2	Bilan	bilan	O	_
+3	de	de	O	_
+4	fonctionnement	fonctionnement	O	_
+5	:	:	O	_
+6	juillet	juillet	BT	_
+7	2007	2007	ET	_
+8	.	.	ET	_
+
+
+#- Évacuation des transfo PCB à partir de début 2013 et toujours en cours actuellement.
+1	-	-	O	_
+2	Évacuation	évacuation	BN	_
+3	des	de	IN	_
+4	transfo	transfo	EN	_
+5	PCB	pcb	EO	_
+6	à	à	BR	_
+7	partir	partir	IR	_
+8	de	de	ER	_
+9	début	début	BT	_
+10	2013	2013	ET	_
+11	et	et	O	_
+12	toujours	toujours	BT	_
+13	en	en	IT	_
+14	cours	cours	IT	_
+15	actuellement	actuellement	ET	_
+16	.	.	O	_
+
+
+#- Les eaux souterraines sont utilisées dans le secteur pour un usage uniquement industriel.
+1	-	-	O	_
+2	Les	le	BO	_
+3	eaux	eau	IO	_
+4	souterraines	souterrain	EO	_
+5	sont	être	BN	_
+6	utilisées	utiliser	IN	_
+7	dans	dans	IA	_
+8	le	le	IA	_
+9	secteur	secteur	EA	_
+10	pour	pour	O	_
+11	un	un	BA	_
+12	usage	usage	IA	_
+13	uniquement	uniquement	IA	_
+14	industriel	industriel	EA	_
+15	.	.	O	_
+
+
+#- Action de l'administration toujours en cours.
+1	-	-	O	_
+2	Action	action	O	_
+3	de	de	O	_
+4	l'	le	BO	_
+5	administration	administration	EO	_
+6	toujours	toujours	O	_
+7	en	en	O	_
+8	cours	cours	O	_
+9	.	.	O	_
+
+
+#59.0326
+#Activités: Brasserie détruite pendant la première guerre mondiale, puis le site a été occupé par les Ponts et Chaussées jusqu'en 1950, puis Worex y a exploité un dépôt de combustibles (charbon, fuel) soumis à simple déclaration ICPE jusqu'en 1997 (cessation d'activité).
+1	Activités	activité	EA	_
+2	:	:	O	_
+3	Brasserie	brasserie	O	_
+4	détruite	détruire	BN	_
+5	pendant	pendant	BT	_
+6	la	le	IT	_
+7	première	premier	IT	_
+8	guerre	guerre	IT	_
+9	mondiale	mondial	ET	_
+10	,	,	O	_
+11	puis	puis	O	_
+12	le	le	BO	_
+13	site	site	EO	_
+14	a	avoir	BN	_
+15	été	être	IN	_
+16	occupé	occuper	EN	_
+17	par	par	O	_
+18	les	le	BO	_
+19	Ponts	pont	IO	_
+20	et	et	IO	_
+21	Chaussées	chaussée	BO	_
+22	jusqu'	jusque	BT	_
+23	en	en	IT	_
+24	1950	1950	ET	_
+25	,	,	O	_
+26	puis	puis	O	_
+27	Worex	Worex	BO	_
+28	y	y	O	_
+29	a	avoir	BN	_
+30	exploité	exploiter	EN	_
+31	un	un	O	_
+32	dépôt	dépôt	BO	_
+33	de	de	IO	_
+34	combustibles	combustible	EO	_
+35	(	(	O	_
+36	charbon	charbon	BO	_
+37	,	,	O	_
+38	fuel	fuel	O	_
+39	)	)	O	_
+40	soumis	soumettre	O	_
+41	à	à	O	_
+42	simple	simple	BN	_
+43	déclaration	déclaration	EN	_
+44	ICPE	ICPE	EN	_
+45	jusqu'	jusque	BT	_
+46	en	en	IT	_
+47	1997	1997	ET	_
+48	(	(	O	_
+49	cessation	cessation	BN	_
+50	d'	de	O	_
+51	activité	activité	O	_
+52	)	)	O	_
+53	.	.	O	_
+
+
+#Vente du site à un particulier aux fins de construction d'une habitation en 1998.
+1	Vente	vente	BN	_
+2	du	de	BO	_
+3	site	site	EO	_
+4	à	à	O	_
+5	un	un	BO	_
+6	particulier	particulier	EO	_
+7	aux	à	BR	_
+8	fins	fin	IR	_
+9	de	de	IL	_
+10	construction	construction	IL	_
+11	d'	de	IL	_
+12	une	un	BO	_
+13	habitation	habitation	EO	_
+14	en	en	BT	_
+15	1998	1998	ET	_
+16	.	.	ET	_
+
+
+#La superficie de la parcelle est de 868 m².
+1	La	le	O	_
+2	superficie	superficie	O	_
+3	de	de	O	_
+4	la	le	O	_
+5	parcelle	parcelle	O	_
+6	est	être	O	_
+7	de	de	O	_
+8	868	868	O	_
+9	m²	m²	O	_
+10	.	.	O	_
+
+
+#Site bordé au Nord,à L'Ouest,et à l'Est par des habitations, et au Sud par la rue Léon Beauchamp.
+1	Site	site	BO	_
+2	bordé	border	BL	_
+3	au	au	IL	_
+4	Nord	nord	IL	_
+5	,	,	IL	_
+6	à	à	IL	_
+7	L'	le	IL	_
+8	Ouest	ouest	EL	_
+9	,	,	O	_
+10	et	et	O	_
+11	à	à	O	_
+12	l'	le	BL	_
+13	Est	est	IL	_
+14	par	par	IL	_
+15	des	un	IL	_
+16	habitations	habitation	EL	_
+17	,	,	O	_
+18	et	et	BR	_
+19	au	au	IL	_
+20	Sud	sud	IL	_
+21	par	par	IL	_
+22	la	le	IL	_
+23	rue	rue	IL	_
+24	Léon	Léon	IL	_
+25	Beauchamp	Beauchamp	EL	_
+26	.	.	O	_
+
+
+#Lors de la cessation d'activité de WOREX, des travaux de dépollution ont été entrepris (cuves dégazées et éliminées, environ 10t de terres extraites et éliminées ).
+1	Lors	lors	BT	_
+2	de	de	BN	_
+3	la	le	BN	_
+4	cessation	cessation	BN	_
+5	d'	de	IN	_
+6	activité	activité	EN	_
+7	de	de	O	_
+8	WOREX	WOREX	EO	_
+9	,	,	O	_
+10	des	un	BN	_
+11	travaux	travail	IN	_
+12	de	de	IN	_
+13	dépollution	dépollution	EN	_
+14	ont	avoir	BN	_
+15	été	être	IN	_
+16	entrepris	entreprendre	EN	_
+17	(	(	O	_
+18	cuves	cuve	O	_
+19	dégazées	dégazer	BN	_
+20	et	et	O	_
+21	éliminées	éliminer	O	_
+22	,	,	O	_
+23	environ	environ	O	_
+24	10	10	O	_
+25	t	t	O	_
+26	de	de	O	_
+27	terres	terre	O	_
+28	extraites	extraire	O	_
+29	et	et	O	_
+30	éliminées	éliminer	BO	_
+31	)	)	O	_
+32	.	.	O	_
+
+
+#Une ESR avait placé le site en classe 3 (banalisable) pour l'usage envisagé.
+1	Une	un	BO	_
+2	ESR	esr	EO	_
+3	avait	avoir	BN	_
+4	placé	placer	EN	_
+5	le	le	BO	_
+6	site	site	EO	_
+7	en	en	O	_
+8	classe	classe	O	_
+9	3	3	O	_
+10	(	(	O	_
+11	banalisable	banalisabl	O	_
+12	)	)	O	_
+13	pour	pour	O	_
+14	l'	le	O	_
+15	usage	usage	O	_
+16	envisagé	envisager	O	_
+17	.	.	O	_
+
+
+#En 1998, le nouveau propriétaire a découvert un ancien forage dans le fond de la parcelle.
+1	En	en	BT	_
+2	1998	1998	ET	_
+3	,	,	ET	_
+4	le	le	BO	_
+5	nouveau	nouveau	IO	_
+6	propriétaire	propriétaire	EO	_
+7	a	avoir	BN	_
+8	découvert	découvrir	EN	_
+9	un	un	BO	_
+10	ancien	ancien	IO	_
+11	forage	forage	EO	_
+12	dans	dans	BL	_
+13	le	le	IL	_
+14	fond	fond	IL	_
+15	de	de	IL	_
+16	la	le	IL	_
+17	parcelle	parcelle	EL	_
+18	.	.	O	_
+
+
+#Les tentatives de prélèvement d'eau à ce niveau ont révélé la présence d'hydrocarbures.
+1	Les	le	O	_
+2	tentatives	tentative	O	_
+3	de	de	O	_
+4	prélèvement	prélèvement	O	_
+5	d'	de	BO	_
+6	eau	eau	EO	_
+7	à	à	O	_
+8	ce	ce	O	_
+9	niveau	niveau	O	_
+10	ont	avoir	O	_
+11	révélé	révéler	O	_
+12	la	le	BO	_
+13	présence	présence	IO	_
+14	d'	de	IO	_
+15	hydrocarbures	hydrocarbure	EO	_
+16	.	.	O	_
+
+
+#De nouvelles investigations ont alors eu lieu et ont montré que le forage semblait obstrué vers -34m /TN et présentait des pollutions significatives en hydrocarbures.
+1	De	de	BN	_
+2	nouvelles	nouveau	IN	_
+3	investigations	investigation	EN	_
+4	ont	avoir	O	_
+5	alors	alors	O	_
+6	eu	avoir	O	_
+7	lieu	lieu	O	_
+8	et	et	O	_
+9	ont	avoir	O	_
+10	montré	montrer	O	_
+11	que	que	O	_
+12	le	le	O	_
+13	forage	forage	O	_
+14	semblait	sembler	O	_
+15	obstrué	obstruer	BO	_
+16	vers	vers	EO	_
+17	-34	-34	IL	_
+18	m	m	IL	_
+19	/TN	/tn	EL	_
+20	et	et	O	_
+21	présentait	présenter	O	_
+22	des	un	O	_
+23	pollutions	pollution	O	_
+24	significatives	significatif	O	_
+25	en	en	O	_
+26	hydrocarbures	hydrocarbure	O	_
+27	.	.	O	_
+
+
+#Des prélèvements dans la nappe superficielle ont par ailleurs montré l'absence d'indice de pollution flagrant, ce qui semble confirmer un impact très relatif des sols.
+1	Des	un	O	_
+2	prélèvements	prélèvement	O	_
+3	dans	dans	O	_
+4	la	le	O	_
+5	nappe	nappe	O	_
+6	superficielle	superficiel	O	_
+7	ont	avoir	O	_
+8	par	par	O	_
+9	ailleurs	ailleurs	O	_
+10	montré	montrer	O	_
+11	l'	le	O	_
+12	absence	absence	O	_
+13	d'	de	O	_
+14	indice	indice	O	_
+15	de	de	O	_
+16	pollution	pollution	O	_
+17	flagrant	flagrant	O	_
+18	,	,	O	_
+19	ce	ce	O	_
+20	qui	qui	O	_
+21	semble	semble	O	_
+22	confirmer	confirmer	O	_
+23	un	un	O	_
+24	impact	impact	O	_
+25	très	très	O	_
+26	relatif	relatif	O	_
+27	des	de	O	_
+28	sols	sol	O	_
+29	.	.	O	_
+
+
+#L'interprétation donnée est la présence d'une source de pollution formée de remblais déversés dans le puits vers -34m et diffusant dans l'eau stagnant de -34 à -10m.
+1	L'	le	O	_
+2	interprétation	interprétation	O	_
+3	donnée	donner	O	_
+4	est	être	O	_
+5	la	le	O	_
+6	présence	présence	O	_
+7	d'	de	O	_
+8	une	un	BO	_
+9	source	source	IO	_
+10	de	de	IO	_
+11	pollution	pollution	EO	_
+12	formée	former	BN	_
+13	de	de	IN	_
+14	remblais	remblai	EN	_
+15	déversés	déverser	BN	_
+16	dans	dans	IL	_
+17	le	le	IL	_
+18	puits	puits	EL	_
+19	vers	vers	EL	_
+20	-34	-34	EL	_
+21	m	m	EL	_
+22	et	et	O	_
+23	diffusant	diffuser	O	_
+24	dans	dans	O	_
+25	l'	le	O	_
+26	eau	eau	O	_
+27	stagnant	stagner	O	_
+28	de	de	O	_
+29	-34	-34	O	_
+30	à	à	O	_
+31	-10	-10	O	_
+32	m.	m.	O	_
+
+
+#La nappe sous-jacente de la craie peut être menacée car aucune information sur la nature du comblement du forage n'existe (probablement accidentel en 14-18).
+1	La	le	O	_
+2	nappe	nappe	O	_
+3	sous-jacente	sous-jacent	O	_
+4	de	de	O	_
+5	la	le	O	_
+6	craie	craie	O	_
+7	peut	pouvoir	O	_
+8	être	être	O	_
+9	menacée	menacer	O	_
+10	car	car	O	_
+11	aucune	aucun	O	_
+12	information	information	O	_
+13	sur	sur	O	_
+14	la	le	O	_
+15	nature	nature	O	_
+16	du	de	O	_
+17	comblement	comblement	BN	_
+18	du	de	O	_
+19	forage	forage	O	_
+20	n'	n'	O	_
+21	existe	existe	O	_
+22	(	(	O	_
+23	probablement	probablement	O	_
+24	accidentel	accidentel	O	_
+25	en	en	BT	_
+26	14	14	IT	_
+27	-	-	ET	_
+28	18	18	ET	_
+29	)	)	O	_
+30	.	.	O	_
+
+
+#L'ESR menée en prenant comme cible la nappe AEP de la craie place le site en classe 1.
+1	L'	le	O	_
+2	ESR	esr	O	_
+3	menée	mener	O	_
+4	en	en	O	_
+5	prenant	prendre	O	_
+6	comme	comme	O	_
+7	cible	cible	O	_
+8	la	le	O	_
+9	nappe	nappe	O	_
+10	AEP	aep	O	_
+11	de	de	O	_
+12	la	le	O	_
+13	craie	craie	O	_
+14	place	placer	BN	_
+15	le	le	BO	_
+16	site	site	EO	_
+17	en	en	O	_
+18	classe	classe	O	_
+19	1	1	O	_
+20	.	.	O	_
+
+
+#Des investigations complémentaires ont été menées, préconisant une excavation de terres et une campagne d'essais de pompage au niveau du forage.
+1	Des	un	BO	_
+2	investigations	investigation	IO	_
+3	complémentaires	complémentaire	EO	_
+4	ont	avoir	BN	_
+5	été	être	IN	_
+6	menées	mener	EN	_
+7	,	,	O	_
+8	préconisant	préconiser	O	_
+9	une	un	BN	_
+10	excavation	excavation	EN	_
+11	de	de	IN	_
+12	terres	terre	EN	_
+13	et	et	O	_
+14	une	un	BN	_
+15	campagne	campagne	IN	_
+16	d'	de	IN	_
+17	essais	essai	IN	_
+18	de	de	IN	_
+19	pompage	pompage	EN	_
+20	au	au	BR	_
+21	niveau	niveau	IR	_
+22	du	de	IL	_
+23	forage	forage	EL	_
+24	.	.	O	_
+
+
+#le 21 novembre 2001, SERPOL réalise des travaux de dépollution: écrémage des hydrocarbures flottants par boudins hydrophobes et injection de solution nutritive (activateur de biodégradation).
+1	le	le	BN	_
+2	21	21	BT	_
+3	novembre	novembre	IT	_
+4	2001	2001	ET	_
+5	,	,	ET	_
+6	SERPOL	SERPOL	EO	_
+7	réalise	réalise	BN	_
+8	des	un	BN	_
+9	travaux	travail	IN	_
+10	de	de	IN	_
+11	dépollution	dépollution	EN	_
+12	:	:	O	_
+13	écrémage	écrémage	BN	_
+14	des	de	O	_
+15	hydrocarbures	hydrocarbure	BO	_
+16	flottants	flottant	EN	_
+17	par	par	O	_
+18	boudins	boudin	O	_
+19	hydrophobes	hydrophobe	O	_
+20	et	et	O	_
+21	injection	injection	BN	_
+22	de	de	O	_
+23	solution	solution	O	_
+24	nutritive	nutritif	O	_
+25	(	(	O	_
+26	activateur	activateur	O	_
+27	de	de	O	_
+28	biodégradation	biodégradation	O	_
+29	)	)	O	_
+30	.	.	O	_
+
+
+#Un bouchon a été rencontré à environ 40m de profondeur.
+1	Un	un	BO	_
+2	bouchon	bouchon	EO	_
+3	a	avoir	BN	_
+4	été	être	IN	_
+5	rencontré	rencontrer	EN	_
+6	à	à	BL	_
+7	environ	environ	IL	_
+8	40	40	IL	_
+9	m	m	IL	_
+10	de	de	IL	_
+11	profondeur	profondeur	EL	_
+12	.	.	O	_
+
+
+#Le bureau d'études estime qu'il ne constitue pas une source de pollution, mais propose un suivi de la qualité des eaux du forage par une surveillance trimestrielle pendant 2 ans.
+1	Le	le	BO	_
+2	bureau	bureau	IO	_
+3	d'	de	IO	_
+4	études	étude	EO	_
+5	estime	estime	O	_
+6	qu'	que	O	_
+7	il	il	O	_
+8	ne	ne	O	_
+9	constitue	constitue	O	_
+10	pas	pas	O	_
+11	une	un	O	_
+12	source	source	O	_
+13	de	de	O	_
+14	pollution	pollution	O	_
+15	,	,	O	_
+16	mais	mais	O	_
+17	propose	propose	O	_
+18	un	un	BA	_
+19	suivi	suivi	IA	_
+20	de	de	IA	_
+21	la	le	BO	_
+22	qualité	qualité	IO	_
+23	des	de	IO	_
+24	eaux	eau	IO	_
+25	du	de	IO	_
+26	forage	forage	EO	_
+27	par	par	O	_
+28	une	un	BA	_
+29	surveillance	surveillance	IA	_
+30	trimestrielle	trimestriel	EA	_
+31	pendant	pendant	BT	_
+32	2	2	IT	_
+33	ans	an	ET	_
+34	.	.	O	_
+
+
+#Les mesures de remise en état et de surveillance ont été imposées à l'ancien exploitant, la Société Worex, par l'arrêté préfectoral du 10 février 2003.
+1	Les	le	BO	_
+2	mesures	mesure	IO	_
+3	de	de	IO	_
+4	remise	remise	IO	_
+5	en	en	IO	_
+6	état	état	IO	_
+7	et	et	IO	_
+8	de	de	IO	_
+9	surveillance	surveillance	EO	_
+10	ont	avoir	BN	_
+11	été	être	IN	_
+12	imposées	imposer	EN	_
+13	à	à	O	_
+14	l'	le	BO	_
+15	ancien	ancien	IO	_
+16	exploitant	exploitant	EO	_
+17	,	,	O	_
+18	la	le	BO	_
+19	Société	société	IO	_
+20	Worex	Worex	EO	_
+21	,	,	O	_
+22	par	par	O	_
+23	l'	le	BO	_
+24	arrêté	arrêté	BO	_
+25	préfectoral	préfectoral	EO	_
+26	du	de	O	_
+27	10	10	BT	_
+28	février	février	IT	_
+29	2003	2003	ET	_
+30	.	.	ET	_
+
+
+#Remise de rapports de suivi de la qualité des eaux du puit en avril et juillet 2003.
+1	Remise	remise	EN	_
+2	de	de	BO	_
+3	rapports	rapport	IO	_
+4	de	de	IO	_
+5	suivi	suivi	IO	_
+6	de	de	IO	_
+7	la	le	IO	_
+8	qualité	qualité	IO	_
+9	des	de	IO	_
+10	eaux	eau	IO	_
+11	du	de	IO	_
+12	puit	puit	EO	_
+13	en	en	BT	_
+14	avril	avril	IT	_
+15	et	et	IT	_
+16	juillet	juillet	IT	_
+17	2003	2003	ET	_
+18	.	.	O	_
+
+
+#Site mis en sécurité vis à vis des tiers.
+1	Site	site	BO	_
+2	mis	mettre	O	_
+3	en	en	O	_
+4	sécurité	sécurité	O	_
+5	vis	vis	O	_
+6	à	à	O	_
+7	vis	vis	O	_
+8	des	de	O	_
+9	tiers	tiers	O	_
+10	.	.	O	_
+
+
+#Action de l'administration toujours en cours.
+1	Action	action	O	_
+2	de	de	O	_
+3	l'	le	BO	_
+4	administration	administration	EO	_
+5	toujours	toujours	O	_
+6	en	en	O	_
+7	cours	cours	O	_
+8	.	.	O	_
+
+
+#62.0122
+#Il s'agit d'un site situé en centre ville d'une superficie de 8600 m² exploité de 1866 à 1997.
+1	Il	il	O	_
+2	s'	se	O	_
+3	agit	agir	O	_
+4	d'	de	O	_
+5	un	un	BO	_
+6	site	site	EO	_
+7	situé	situer	BL	_
+8	en	en	IL	_
+9	centre	centre	IL	_
+10	ville	ville	EL	_
+11	d'	de	O	_
+12	une	un	O	_
+13	superficie	superficie	O	_
+14	de	de	O	_
+15	8600	8600	IO	_
+16	m²	m²	IO	_
+17	exploité	exploiter	BN	_
+18	de	de	BT	_
+19	1866	1866	IT	_
+20	à	à	IT	_
+21	1997	1997	ET	_
+22	.	.	O	_
+
+
+#L'activité était le tissage de dentelles et la teinture de la maille.
+1	L'	le	O	_
+2	activité	activité	O	_
+3	était	être	O	_
+4	le	le	BA	_
+5	tissage	tissage	BA	_
+6	de	de	IA	_
+7	dentelles	dentelle	EA	_
+8	et	et	O	_
+9	la	le	BA	_
+10	teinture	teinture	BA	_
+11	de	de	IA	_
+12	la	le	IA	_
+13	maille	maille	EA	_
+14	.	.	O	_
+
+
+#Une étude des sols a été remise à l'administration en février 2000 et complétée sur demande en septembre 2001.
+1	Une	un	BN	_
+2	étude	étude	IN	_
+3	des	de	IN	_
+4	sols	sol	EN	_
+5	a	avoir	BN	_
+6	été	être	IN	_
+7	remise	remettre	EN	_
+8	à	à	O	_
+9	l'	le	BO	_
+10	administration	administration	EO	_
+11	en	en	BT	_
+12	février	février	IT	_
+13	2000	2000	ET	_
+14	et	et	O	_
+15	complétée	compléter	BN	_
+16	sur	sur	IN	_
+17	demande	demande	EN	_
+18	en	en	BT	_
+19	septembre	septembre	IT	_
+20	2001	2001	ET	_
+21	.	.	O	_
+
+
+#L'évaluation simplifiée des risques a été remise le 07/11/2002.
+1	L'	le	BO	_
+2	évaluation	évaluation	BN	_
+3	simplifiée	simplifier	IN	_
+4	des	de	IN	_
+5	risques	risque	EN	_
+6	a	avoir	BN	_
+7	été	être	IN	_
+8	remise	remettre	EN	_
+9	le	le	BT	_
+10	07/11/2002	07/11/2002	IT	_
+11	.	.	O	_
+
+
+#Cette dernière aboutit à la nécessité d'une surveillance des eaux souterraines imposée par arrêté préfectoral en date du 23/10/2003.
+1	Cette	ce	O	_
+2	dernière	dernier	O	_
+3	aboutit	aboutir	O	_
+4	à	à	O	_
+5	la	le	O	_
+6	nécessité	nécessité	O	_
+7	d'	de	O	_
+8	une	un	BA	_
+9	surveillance	surveillance	BA	_
+10	des	de	IA	_
+11	eaux	eau	IA	_
+12	souterraines	souterrain	EA	_
+13	imposée	imposer	BN	_
+14	par	par	BO	_
+15	arrêté	arrêté	BO	_
+16	préfectoral	préfectoral	EO	_
+17	en	en	BT	_
+18	date	date	IT	_
+19	du	de	IT	_
+20	23/10/2003	23/10/2003	IT	_
+21	.	.	ET	_
+
+
+#-Rapport de diagnostic du site réalisé en février 2011.
+1	-Rapport	-rapport	BN	_
+2	de	de	IN	_
+3	diagnostic	diagnostic	EN	_
+4	du	de	O	_
+5	site	site	BO	_
+6	réalisé	réaliser	BN	_
+7	en	en	BT	_
+8	février	février	IT	_
+9	2011	2011	ET	_
+10	.	.	ET	_
+
+
+#-Mémoire de cessation d'activité: avril 2011.
+1	-Mémoire	-mémoire	O	_
+2	de	de	O	_
+3	cessation	cessation	BN	_
+4	d'	de	IN	_
+5	activité	activité	EN	_
+6	:	:	BT	_
+7	avril	avril	BT	_
+8	2011	2011	ET	_
+9	.	.	ET	_
+
+
+#-Plan de gestion pour une partie du site: avril 2011.
+1	-Plan	-plan	BN	_
+2	de	de	IN	_
+3	gestion	gestion	EN	_
+4	pour	pour	O	_
+5	une	un	BO	_
+6	partie	partie	BO	_
+7	du	de	BO	_
+8	site	site	EO	_
+9	:	:	BT	_
+10	avril	avril	BT	_
+11	2011	2011	ET	_
+12	.	.	ET	_
+
+
+#-Étude écologique, faunistique et floristique (sur une partie du site), le 08/08/2012 qui conclut qu'étant donné le faible intérêt écologique du site et de ses abords, le projet devrait engendrer des impacts négligeables sur le milieu naturel.
+1	-Étude	-étude	BN	_
+2	écologique	écologique	EN	_
+3	,	,	O	_
+4	faunistique	faunistique	O	_
+5	et	et	O	_
+6	floristique	floristique	O	_
+7	(	(	O	_
+8	sur	sur	O	_
+9	une	un	O	_
+10	partie	partie	O	_
+11	du	de	O	_
+12	site	site	O	_
+13	)	)	O	_
+14	,	,	O	_
+15	le	le	BT	_
+16	08/08/2012	08/08/2012	IT	_
+17	qui	qui	O	_
+18	conclut	conclure	O	_
+19	qu'	que	O	_
+20	étant	être	O	_
+21	donné	donner	O	_
+22	le	le	O	_
+23	faible	faible	O	_
+24	intérêt	intérêt	O	_
+25	écologique	écologique	O	_
+26	du	de	O	_
+27	site	site	O	_
+28	et	et	O	_
+29	de	de	O	_
+30	ses	son	O	_
+31	abords	abord	O	_
+32	,	,	O	_
+33	le	le	BO	_
+34	projet	projet	EO	_
+35	devrait	devoir	O	_
+36	engendrer	engendrer	O	_
+37	des	un	O	_
+38	impacts	impact	O	_
+39	négligeables	négligeable	O	_
+40	sur	sur	O	_
+41	le	le	O	_
+42	milieu	milieu	O	_
+43	naturel	naturel	O	_
+44	.	.	O	_
+
+
+#-Projet: création d'une résidence de services seniors (habitations, bureaux et structures de services), parking, espace vert, commerce sur une partie du site.
+1	-Projet	-projet	O	_
+2	:	:	O	_
+3	création	création	BN	_
+4	d'	de	IN	_
+5	une	un	BO	_
+6	résidence	résidence	EO	_
+7	de	de	O	_
+8	services	service	O	_
+9	seniors	senior	O	_
+10	(	(	O	_
+11	habitations	habitation	O	_
+12	,	,	O	_
+13	bureaux	bureau	O	_
+14	et	et	O	_
+15	structures	structure	BO	_
+16	de	de	O	_
+17	services	service	O	_
+18	)	)	O	_
+19	,	,	O	_
+20	parking	parking	O	_
+21	,	,	O	_
+22	espace	espace	O	_
+23	vert	vert	O	_
+24	,	,	O	_
+25	commerce	commerce	BO	_
+26	sur	sur	BL	_
+27	une	un	IL	_
+28	partie	partie	IL	_
+29	du	de	IL	_
+30	site	site	EL	_
+31	.	.	O	_
+
+
+#-Les nappes souterraines sont utilisées pour un usage industriel et d'eau potable.
+1	-Les	-les	BO	_
+2	nappes	nappe	EO	_
+3	souterraines	souterrain	EO	_
+4	sont	être	BN	_
+5	utilisées	utiliser	IN	_
+6	pour	pour	IN	_
+7	un	un	BA	_
+8	usage	usage	IA	_
+9	industriel	industriel	EA	_
+10	et	et	O	_
+11	d'	de	O	_
+12	eau	eau	O	_
+13	potable	potable	O	_
+14	.	.	O	_
+
+
+#Néanmoins, le captage d'adduction d'eau potable le plus proche est situé à 5 km à l'ouest du site et ne risque donc pas d’être impacté par la pollution du site.
+1	Néanmoins	néanmoins	O	_
+2	,	,	O	_
+3	le	le	BO	_
+4	captage	captage	EO	_
+5	d'	de	O	_
+6	adduction	adduction	EO	_
+7	d'	de	O	_
+8	eau	eau	O	_
+9	potable	potable	O	_
+10	le	le	O	_
+11	plus	plus	O	_
+12	proche	proche	EO	_
+13	est	être	BL	_
+14	situé	situer	IL	_
+15	à	à	IL	_
+16	5	5	IL	_
+17	km	kilomètre	IL	_
+18	à	à	IL	_
+19	l'	le	IL	_
+20	ouest	ouest	IL	_
+21	du	de	IL	_
+22	site	site	EL	_
+23	et	et	O	_
+24	ne	ne	O	_
+25	risque	risque	O	_
+26	donc	donc	O	_
+27	pas	pas	O	_
+28	d’	d’	O	_
+29	être	être	O	_
+30	impacté	impacter	IR	_
+31	par	par	ER	_
+32	la	le	BN	_
+33	pollution	pollution	EN	_
+34	du	de	O	_
+35	site	site	O	_
+36	.	.	O	_
+
+
+#-Action de l'administration toujours en cours.
+1	-Action	-action	O	_
+2	de	de	O	_
+3	l'	le	BO	_
+4	administration	administration	EO	_
+5	toujours	toujours	O	_
+6	en	en	O	_
+7	cours	cours	O	_
+8	.	.	O	_
+
+
+#59.0348
+#Ancien fleuron de l'industrie textile de Roubaix / Wattrelos : filature, teinture et activités annexes.
+1	Ancien	ancien	O	_
+2	fleuron	fleuron	O	_
+3	de	de	O	_
+4	l'	le	BO	_
+5	industrie	industrie	IO	_
+6	textile	textile	IO	_
+7	de	de	IO	_
+8	Roubaix	Roubaix	EO	_
+9	/	/	BR	_
+10	Wattrelos	Wattrelos	BL	_
+11	:	:	O	_
+12	filature	filature	BA	_
+13	,	,	O	_
+14	teinture	teinture	BA	_
+15	et	et	O	_
+16	activités	activité	BO	_
+17	annexes	annexe	EO	_
+18	.	.	O	_
+
+
+#Plus de 60 000 m² couverts, sur plusieurs niveaux, en milieu urbanisé, répartis entre les communes de Roubaix et Wattrelos.
+1	Plus	plus	O	_
+2	de	de	O	_
+3	60	60	O	_
+4	000	000	O	_
+5	m²	m²	O	_
+6	couverts	couvert	O	_
+7	,	,	O	_
+8	sur	sur	O	_
+9	plusieurs	plusieurs	O	_
+10	niveaux	niveau	O	_
+11	,	,	O	_
+12	en	en	IL	_
+13	milieu	milieu	IL	_
+14	urbanisé	urbaniser	EL	_
+15	,	,	O	_
+16	répartis	répartir	BL	_
+17	entre	entre	IL	_
+18	les	le	IL	_
+19	communes	commune	IL	_
+20	de	de	IL	_
+21	Roubaix	Roubaix	IL	_
+22	et	et	IL	_
+23	Wattrelos	Wattrelos	EL	_
+24	.	.	O	_
+
+
+#Une partie des activités a cessé lors du dépôt de bilan du groupe Lainière.
+1	Une	un	BO	_
+2	partie	partie	IO	_
+3	des	de	IO	_
+4	activités	activité	EO	_
+5	a	avoir	BN	_
+6	cessé	cesser	EN	_
+7	lors	lors	BT	_
+8	du	de	BN	_
+9	dépôt	dépôt	IN	_
+10	de	de	IN	_
+11	bilan	bilan	EN	_
+12	du	de	O	_
+13	groupe	groupe	BO	_
+14	Lainière	Lainière	EO	_
+15	.	.	O	_
+
+
+#Certaines activités ont été reprise par la société Nouvelles filatures lainières de Roubaix et exploitées par celle-ci jusqu'en 1999.
+1	Certaines	certain	BO	_
+2	activités	activité	EO	_
+3	ont	avoir	BN	_
+4	été	être	IN	_
+5	reprise	reprendre	EN	_
+6	par	par	O	_
+7	la	le	BO	_
+8	société	société	IO	_
+9	Nouvelles	nouveau	IO	_
+10	filatures	filature	BA	_
+11	lainières	lainier	EA	_
+12	de	de	IO	_
+13	Roubaix	Roubaix	EO	_
+14	et	et	O	_
+15	exploitées	exploiter	BN	_
+16	par	par	EN	_
+17	celle-ci	celui-ci	O	_
+18	jusqu'	jusque	BT	_
+19	en	en	IT	_
+20	1999	1999	ET	_
+21	.	.	O	_
+
+
+#Surface: 13.3ha
+1	Surface	surface	O	_
+2	:	:	O	_
+3	13.3	13.3	O	_
+4	ha	ha	O	_
+
+
+#Cessation d'activité notifié par le liquidateur: 04/06/2008.
+1	Cessation	cessation	BN	_
+2	d'	de	IN	_
+3	activité	activité	IN	_
+4	notifié	notifier	EN	_
+5	par	par	O	_
+6	le	le	BO	_
+7	liquidateur	liquidateur	EO	_
+8	:	:	BT	_
+9	04/06/2008	04/06/2008	IT	_
+10	.	.	ET	_
+
+
+#Site en cours de réhabilitation (2012).
+1	Site	site	BN	_
+2	en	en	IN	_
+3	cours	cours	IN	_
+4	de	de	IN	_
+5	réhabilitation	réhabilitation	EN	_
+6	(	(	ET	_
+7	2012	2012	ET	_
+8	)	)	ET	_
+9	.	.	ET	_
+
+
+#- Réalisation d'une étude de sols et Évaluation Simplifiée des Risques en aout 2000: site en classe 2.
+1	-	-	O	_
+2	Réalisation	réalisation	BN	_
+3	d'	de	IN	_
+4	une	un	IN	_
+5	étude	étude	IN	_
+6	de	de	IN	_
+7	sols	sol	EN	_
+8	et	et	O	_
+9	Évaluation	évaluation	IN	_
+10	Simplifiée	simplifier	IN	_
+11	des	de	IN	_
+12	Risques	risque	EN	_
+13	en	en	BT	_
+14	aout	aout	IT	_
+15	2000	2000	ET	_
+16	:	:	O	_
+17	site	site	O	_
+18	en	en	O	_
+19	classe	classe	O	_
+20	2	2	O	_
+21	.	.	O	_
+
+
+#- Évacuation des déchets en décembre 2004, vidange des cuves en juin 2006.
+1	-	-	O	_
+2	Évacuation	évacuation	BN	_
+3	des	de	IN	_
+4	déchets	déchet	IN	_
+5	en	en	BT	_
+6	décembre	décembre	IT	_
+7	2004	2004	ET	_
+8	,	,	ET	_
+9	vidange	vidange	BN	_
+10	des	de	IN	_
+11	cuves	cuve	IN	_
+12	en	en	BT	_
+13	juin	juin	IT	_
+14	2006	2006	ET	_
+15	.	.	ET	_
+
+
+#- Dans le cadre de l'arrêt définitif des activités textiles, une étude des sols a été prescrite au liquidateur de la société NF Lainière de Roubaix.
+1	-	-	O	_
+2	Dans	dans	BR	_
+3	le	le	IR	_
+4	cadre	cadre	IR	_
+5	de	de	ER	_
+6	l'	le	BN	_
+7	arrêt	arrêt	IN	_
+8	définitif	définitif	EN	_
+9	des	de	IA	_
+10	activités	activité	IA	_
+11	textiles	textile	EA	_
+12	,	,	O	_
+13	une	un	BN	_
+14	étude	étude	IN	_
+15	des	de	IN	_
+16	sols	sol	IN	_
+17	a	avoir	EN	_
+18	été	être	EN	_
+19	prescrite	prescrire	EN	_
+20	au	au	O	_
+21	liquidateur	liquidateur	O	_
+22	de	de	O	_
+23	la	le	BO	_
+24	société	société	IO	_
+25	NF	NF	IO	_
+26	Lainière	Lainière	BA	_
+27	de	de	IO	_
+28	Roubaix	Roubaix	EO	_
+29	.	.	O	_
+
+
+#- La remise en état des parties arrêtées avant 1999 relève de la responsabilité du précédent exploitant (LAINIERE DE ROUBAIX, GROUPE LAINIERE).
+1	-	-	O	_
+2	La	le	BN	_
+3	remise	remise	IN	_
+4	en	en	IN	_
+5	état	état	IN	_
+6	des	de	IO	_
+7	parties	party	IO	_
+8	arrêtées	arrêter	IO	_
+9	avant	avant	BT	_
+10	1999	1999	ET	_
+11	relève	relever	BR	_
+12	de	de	ER	_
+13	la	le	BO	_
+14	responsabilité	responsabilité	BO	_
+15	du	de	BO	_
+16	précédent	précédent	IO	_
+17	exploitant	exploitant	EO	_
+18	(	(	O	_
+19	LAINIERE	lainiere	BO	_
+20	DE	de	IO	_
+21	ROUBAIX	ROUBAIX	EO	_
+22	,	,	O	_
+23	GROUPE	groupe	O	_
+24	LAINIERE	lainiere	EO	_
+25	)	)	O	_
+26	.	.	O	_
+
+
+#- Réalisation d'une étude de sol et d'une ESR: site en classe 3 pour un usage non sensible en juin 2006.
+1	-	-	O	_
+2	Réalisation	réalisation	BN	_
+3	d'	de	IN	_
+4	une	un	IN	_
+5	étude	étude	IN	_
+6	de	de	IN	_
+7	sol	sol	EN	_
+8	et	et	O	_
+9	d'	de	O	_
+10	une	un	O	_
+11	ESR	esr	O	_
+12	:	:	O	_
+13	site	site	O	_
+14	en	en	O	_
+15	classe	classe	O	_
+16	3	3	O	_
+17	pour	pour	O	_
+18	un	un	BO	_
+19	usage	usage	IO	_
+20	non	non	IO	_
+21	sensible	sensible	EO	_
+22	en	en	BT	_
+23	juin	juin	IT	_
+24	2006	2006	ET	_
+25	.	.	ET	_
+
+
+#- De nombreux polluants ont été détectés dans les remblais du site.
+1	-	-	O	_
+2	De	de	O	_
+3	nombreux	nombreux	O	_
+4	polluants	polluant	O	_
+5	ont	avoir	BN	_
+6	été	être	IN	_
+7	détectés	détecter	EN	_
+8	dans	dans	O	_
+9	les	le	O	_
+10	remblais	remblai	IL	_
+11	du	de	IL	_
+12	site	site	EL	_
+13	.	.	O	_
+
+
+#- EPF devient propriétaire du site en janvier 2007 et prévoit d'y mettre en place une activité artisanal et/ou économique.
+1	-	-	O	_
+2	EPF	EPF	BO	_
+3	devient	devenir	BN	_
+4	propriétaire	propriétaire	IN	_
+5	du	de	IN	_
+6	site	site	EN	_
+7	en	en	BT	_
+8	janvier	janvier	IT	_
+9	2007	2007	ET	_
+10	et	et	O	_
+11	prévoit	prévoir	BR	_
+12	d'	de	O	_
+13	y	y	O	_
+14	mettre	mettre	O	_
+15	en	en	BN	_
+16	place	place	IN	_
+17	une	un	BA	_
+18	activité	activité	IA	_
+19	artisanal	artisanal	IA	_
+20	et	et	IA	_
+21	/	/	IA	_
+22	ou	ou	IA	_
+23	économique	économique	EA	_
+24	.	.	O	_
+
+
+#- D'après ESR de 2006, l'utilisation de la nappe pour l'AEP ne comporte pas de risque.
+1	-	-	O	_
+2	D'	de	O	_
+3	après	après	O	_
+4	ESR	esr	O	_
+5	de	de	BT	_
+6	2006	2006	ET	_
+7	,	,	ET	_
+8	l'	le	BA	_
+9	utilisation	utilisation	IA	_
+10	de	de	IA	_
+11	la	le	IA	_
+12	nappe	nappe	EA	_
+13	pour	pour	O	_
+14	l'	le	BA	_
+15	AEP	aep	IA	_
+16	ne	ne	IA	_
+17	comporte	comporte	IA	_
+18	pas	pas	IA	_
+19	de	de	IA	_
+20	risque	risque	EA	_
+21	.	.	O	_
+
+
+#- Site mis en sécurité vis à vis des tiers.
+1	-	-	O	_
+2	Site	site	O	_
+3	mis	mettre	O	_
+4	en	en	O	_
+5	sécurité	sécurité	O	_
+6	vis	vis	O	_
+7	à	à	O	_
+8	vis	vis	O	_
+9	des	de	O	_
+10	tiers	tiers	O	_
+11	.	.	O	_
+
+
+#- Action de l'administration toujours en cours sur ce site.
+1	-	-	O	_
+2	Action	action	O	_
+3	de	de	O	_
+4	l'	le	BO	_
+5	administration	administration	EO	_
+6	toujours	toujours	O	_
+7	en	en	O	_
+8	cours	cours	O	_
+9	sur	sur	O	_
+10	ce	ce	O	_
+11	site	site	O	_
+12	.	.	O	_
+
+
+#- En cas de changement d'usage, il appartient au maître d'ouvrage de vérifier que son projet est compatible avec l'état des sols compte tenu des travaux qui ont été réalisés pour un usage donné et de respecter les dispositions de servitudes éventuellement instaurées sur ce site(si servitudes mises en œuvre).
+1	-	-	O	_
+2	En	en	O	_
+3	cas	cas	O	_
+4	de	de	O	_
+5	changement	changement	O	_
+6	d'	de	O	_
+7	usage	usage	O	_
+8	,	,	O	_
+9	il	il	O	_
+10	appartient	appartenir	O	_
+11	au	au	O	_
+12	maître	maître	BO	_
+13	d'	de	EO	_
+14	ouvrage	ouvrage	EO	_
+15	de	de	O	_
+16	vérifier	vérifier	O	_
+17	que	que	O	_
+18	son	son	BO	_
+19	projet	projet	EO	_
+20	est	être	O	_
+21	compatible	compatible	O	_
+22	avec	avec	O	_
+23	l'	le	O	_
+24	état	état	O	_
+25	des	de	O	_
+26	sols	sol	O	_
+27	compte	compte	O	_
+28	tenu	tenir	O	_
+29	des	de	O	_
+30	travaux	travail	O	_
+31	qui	qui	O	_
+32	ont	avoir	BN	_
+33	été	être	IN	_
+34	réalisés	réaliser	EN	_
+35	pour	pour	O	_
+36	un	un	BO	_
+37	usage	usage	EO	_
+38	donné	donner	O	_
+39	et	et	O	_
+40	de	de	O	_
+41	respecter	respecter	O	_
+42	les	le	O	_
+43	dispositions	disposition	O	_
+44	de	de	O	_
+45	servitudes	servitude	O	_
+46	éventuellement	éventuellement	O	_
+47	instaurées	instaurer	O	_
+48	sur	sur	O	_
+49	ce	ce	O	_
+50	site(si	site(si	O	_
+51	servitudes	servitude	O	_
+52	mises	mettre	O	_
+53	en	en	O	_
+54	œuvre	œuvre	O	_
+55	)	)	O	_
+56	.	.	O	_
+
+
+#59.0566
+#- Le site a appartenu à l'usine métallurgique établie en 1851 sur le terrain voisin au Nord: USINOR (voir Usine de l'Esperance fiche BASOL 59.0091).
+1	-	-	O	_
+2	Le	le	BO	_
+3	site	site	EO	_
+4	a	avoir	BR	_
+5	appartenu	appartenir	BR	_
+6	à	à	ER	_
+7	l'	le	BO	_
+8	usine	usine	IO	_
+9	métallurgique	métallurgique	EO	_
+10	établie	établir	BN	_
+11	en	en	BT	_
+12	1851	1851	IT	_
+13	sur	sur	BL	_
+14	le	le	IL	_
+15	terrain	terrain	IO	_
+16	voisin	voisin	IO	_
+17	au	au	IO	_
+18	Nord	nord	EO	_
+19	:	:	BO	_
+20	USINOR	USINOR	EO	_
+21	(	(	O	_
+22	voir	voir	O	_
+23	Usine	usine	O	_
+24	de	de	O	_
+25	l'	le	BL	_
+26	Esperance	esperance	EL	_
+27	fiche	fiche	O	_
+28	BASOL	BASOL	O	_
+29	59.0091	59.0091	O	_
+30	)	)	O	_
+31	.	.	O	_
+
+
+#- Le site a été utilisé comme zone de stockage des produits métallurgiques avant chargement sur les wagons pour expédition par USINOR.
+1	-	-	O	_
+2	Le	le	BO	_
+3	site	site	EO	_
+4	a	avoir	BN	_
+5	été	être	IN	_
+6	utilisé	utiliser	EN	_
+7	comme	comme	BR	_
+8	zone	zone	IA	_
+9	de	de	IA	_
+10	stockage	stockage	IA	_
+11	des	de	IA	_
+12	produits	produit	IA	_
+13	métallurgiques	métallurgique	EA	_
+14	avant	avant	IA	_
+15	chargement	chargement	EA	_
+16	sur	sur	O	_
+17	les	le	O	_
+18	wagons	wagon	O	_
+19	pour	pour	O	_
+20	expédition	expédition	O	_
+21	par	par	O	_
+22	USINOR	USINOR	EO	_
+23	.	.	O	_
+
+
+#- Présence de remblais pollués constitués de matériaux de démolition, briques,scories,mâchefers,sables de fonderies et de schistes sur environ 7 mètres.
+1	-	-	O	_
+2	Présence	présence	O	_
+3	de	de	O	_
+4	remblais	remblai	IO	_
+5	pollués	polluer	EO	_
+6	constitués	constituer	O	_
+7	de	de	O	_
+8	matériaux	matériau	O	_
+9	de	de	O	_
+10	démolition	démolition	O	_
+11	,	,	O	_
+12	briques	brique	O	_
+13	,	,	O	_
+14	scories	scorie	O	_
+15	,	,	O	_
+16	mâchefers	mâchefer	O	_
+17	,	,	O	_
+18	sables	sable	O	_
+19	de	de	O	_
+20	fonderies	fonderie	O	_
+21	et	et	O	_
+22	de	de	O	_
+23	schistes	schiste	O	_
+24	sur	sur	O	_
+25	environ	environ	O	_
+26	7	7	O	_
+27	mètres	mètre	O	_
+28	.	.	O	_
+
+
+#- Le site se trouve au nord ouest du carrefour de la RD121 et de l'avenue du pont du 19 mars 1962.
+1	-	-	O	_
+2	Le	le	BO	_
+3	site	site	EO	_
+4	se	se	BL	_
+5	trouve	trouve	IL	_
+6	au	au	IL	_
+7	nord	nord	IL	_
+8	ouest	ouest	IL	_
+9	du	de	IL	_
+10	carrefour	carrefour	IL	_
+11	de	de	IL	_
+12	la	le	IL	_
+13	RD121	rd121	IL	_
+14	et	et	O	_
+15	de	de	O	_
+16	l'	le	BO	_
+17	avenue	avenue	IL	_
+18	du	de	IL	_
+19	pont	pont	IL	_
+20	du	de	IL	_
+21	19	19	IL	_
+22	mars	mars	IT	_
+23	1962	1962	ET	_
+24	.	.	O	_
+
+
+#- Il est délimité par la Sambre au Nord, l'avenue du pont du 19 mars 1962 à l'Est et la route D121 au Sud.
+1	-	-	O	_
+2	Il	il	O	_
+3	est	être	O	_
+4	délimité	délimiter	O	_
+5	par	par	O	_
+6	la	le	BL	_
+7	Sambre	Sambre	IL	_
+8	au	au	IL	_
+9	Nord	nord	IL	_
+10	,	,	O	_
+11	l'	le	BO	_
+12	avenue	avenue	IL	_
+13	du	de	IL	_
+14	pont	pont	IL	_
+15	du	de	IL	_
+16	19	19	IL	_
+17	mars	mars	IT	_
+18	1962	1962	ET	_
+19	à	à	O	_
+20	l'	le	O	_
+21	Est	est	O	_
+22	et	et	O	_
+23	la	le	O	_
+24	route	route	O	_
+25	D121	D121	O	_
+26	au	au	O	_
+27	Sud	sud	O	_
+28	.	.	O	_
+
+
+#- Projet de construction d'un centre nautique par la CAMVS.
+1	-	-	O	_
+2	Projet	projet	O	_
+3	de	de	O	_
+4	construction	construction	BN	_
+5	d'	de	IN	_
+6	un	un	BO	_
+7	centre	centre	IO	_
+8	nautique	nautique	EO	_
+9	par	par	O	_
+10	la	le	BO	_
+11	CAMVS	CAMVS	EO	_
+12	.	.	O	_
+
+
+#- Réalisation d'un diagnostic environnemental complémentaire, plan de gestion et analyse des risques résiduels, en septembre 2008.
+1	-	-	O	_
+2	Réalisation	réalisation	BN	_
+3	d'	de	BN	_
+4	un	un	BN	_
+5	diagnostic	diagnostic	IN	_
+6	environnemental	environnemental	EN	_
+7	complémentaire	complémentaire	EN	_
+8	,	,	O	_
+9	plan	plan	O	_
+10	de	de	O	_
+11	gestion	gestion	O	_
+12	et	et	O	_
+13	analyse	analyse	BN	_
+14	des	de	IN	_
+15	risques	risque	EN	_
+16	résiduels	résiduel	EN	_
+17	,	,	O	_
+18	en	en	BT	_
+19	septembre	septembre	IT	_
+20	2008	2008	ET	_
+21	.	.	ET	_
+
+
+#Il y est recommandé de traiter les pollutions du site et de mettre en place des restrictions d'usage.
+1	Il	il	O	_
+2	y	y	O	_
+3	est	être	O	_
+4	recommandé	recommander	O	_
+5	de	de	O	_
+6	traiter	traiter	BO	_
+7	les	le	IO	_
+8	pollutions	pollution	EO	_
+9	du	de	O	_
+10	site	site	O	_
+11	et	et	O	_
+12	de	de	O	_
+13	mettre	mettre	BN	_
+14	en	en	IN	_
+15	place	place	IN	_
+16	des	un	IN	_
+17	restrictions	restriction	EN	_
+18	d'	de	EO	_
+19	usage	usage	EO	_
+20	.	.	O	_
+
+
+#Sous réserve de respecter les conclusions du plan de gestion, les risques calculés (ARR) sont systématiquement inférieurs aux valeurs seuils.
+1	Sous	sous	O	_
+2	réserve	réserve	O	_
+3	de	de	O	_
+4	respecter	respecter	O	_
+5	les	le	O	_
+6	conclusions	conclusion	O	_
+7	du	de	O	_
+8	plan	plan	O	_
+9	de	de	O	_
+10	gestion	gestion	O	_
+11	,	,	O	_
+12	les	le	O	_
+13	risques	risque	O	_
+14	calculés	calculer	O	_
+15	(	(	O	_
+16	ARR	arr	O	_
+17	)	)	O	_
+18	sont	être	O	_
+19	systématiquement	systématiquement	O	_
+20	inférieurs	inférieur	O	_
+21	aux	à	O	_
+22	valeurs	valeur	O	_
+23	seuils	seuil	O	_
+24	.	.	O	_
+
+
+#- Les eaux de la nappe souterraine sont utilisées dans le secteur uniquement à des fins industrielles.
+1	-	-	O	_
+2	Les	le	O	_
+3	eaux	eau	O	_
+4	de	de	O	_
+5	la	le	O	_
+6	nappe	nappe	O	_
+7	souterraine	souterrain	O	_
+8	sont	être	BN	_
+9	utilisées	utiliser	EN	_
+10	dans	dans	O	_
+11	le	le	BO	_
+12	secteur	secteur	BO	_
+13	uniquement	uniquement	IR	_
+14	à	à	ER	_
+15	des	un	BN	_
+16	fins	fin	IN	_
+17	industrielles	industriel	EN	_
+18	.	.	O	_
+
+
+#- Action de l'administration toujours en cours.
+1	-	-	O	_
+2	Action	action	O	_
+3	de	de	O	_
+4	l'	le	BO	_
+5	administration	administration	EO	_
+6	toujours	toujours	O	_
+7	en	en	O	_
+8	cours	cours	O	_
+9	.	.	O	_
+
+
+#59.0586
+#Il s’agit de l’ancien dépôt pétrolier dont l’exploitation a été reprise par la société DCA à la société THERMOFINA (récépissé préfectoral de reprise d’exploitation du 20 juin 2000).
+1	Il	il	O	_
+2	s’	s’	O	_
+3	agit	agir	O	_
+4	de	de	O	_
+5	l’	l’	O	_
+6	ancien	ancien	O	_
+7	dépôt	dépôt	BO	_
+8	pétrolier	pétrolier	EO	_
+9	dont	dont	O	_
+10	l’	l’	BO	_
+11	exploitation	exploitation	EO	_
+12	a	avoir	BN	_
+13	été	être	IN	_
+14	reprise	reprendre	EN	_
+15	par	par	EN	_
+16	la	le	BO	_
+17	société	société	IO	_
+18	DCA	DCA	EO	_
+19	à	à	O	_
+20	la	le	BO	_
+21	société	société	IO	_
+22	THERMOFINA	THERMOFINA	EO	_
+23	(	(	O	_
+24	récépissé	récépissé	BO	_
+25	préfectoral	préfectoral	IO	_
+26	de	de	IO	_
+27	reprise	reprise	IO	_
+28	d’	d’	IO	_
+29	exploitation	exploitation	EO	_
+30	du	de	BT	_
+31	20	20	IT	_
+32	juin	juin	IT	_
+33	2000	2000	ET	_
+34	)	)	O	_
+35	.	.	O	_
+
+
+#Ce dépôt était exploité sous le récépissé de déclaration du 27 février 1997.
+1	Ce	ce	BO	_
+2	dépôt	dépôt	EO	_
+3	était	être	BR	_
+4	exploité	exploiter	IR	_
+5	sous	sous	ER	_
+6	le	le	BO	_
+7	récépissé	récépissé	EO	_
+8	de	de	O	_
+9	déclaration	déclaration	EN	_
+10	du	de	O	_
+11	27	27	BT	_
+12	février	février	IT	_
+13	1997	1997	ET	_
+14	.	.	ET	_
+
+
+#Son exploitation a débuté en 1997 et a cessé en 2002.
+1	Son	son	BO	_
+2	exploitation	exploitation	EO	_
+3	a	avoir	BN	_
+4	débuté	débuter	EN	_
+5	en	en	BT	_
+6	1997	1997	ET	_
+7	et	et	O	_
+8	a	avoir	BN	_
+9	cessé	cesser	EN	_
+10	en	en	BT	_
+11	2002	2002	ET	_
+12	.	.	O	_
+
+
+#Le dépôt disposait de :
+1	Le	le	BO	_
+2	dépôt	dépôt	EO	_
+3	disposait	disposer	O	_
+4	de	de	O	_
+5	:	:	O	_
+
+
+#•	Quatre cuves aériennes de 100 m3 de fuel domestique ;
+1	•	•	O	_
+2				_
+3	Quatre	Quatre	O	_
+4	cuves	cuve	O	_
+5	aériennes	aérien	O	_
+6	de	de	O	_
+7	100	100	O	_
+8	m3	m3	O	_
+9	de	de	O	_
+10	fuel	fuel	O	_
+11	domestique	domestique	O	_
+12	;	;	O	_
+
+
+#•	Une cuve aérienne de 100 m3 de gasoil ;
+1	•	•	O	_
+2				_
+3	Une	un	BO	_
+4	cuve	cuve	IO	_
+5	aérienne	aérien	EO	_
+6	de	de	O	_
+7	100	100	O	_
+8	m3	m3	O	_
+9	de	de	O	_
+10	gasoil	gasoil	EA	_
+11	;	;	O	_
+
+
+#•	Une cuve enterrée de 2 000 litres destinée à recevoir les égouttures ;
+1	•	•	O	_
+2				_
+3	Une	un	O	_
+4	cuve	cuve	O	_
+5	enterrée	enterrer	O	_
+6	de	de	O	_
+7	2	2	O	_
+8	000	000	O	_
+9	litres	litre	O	_
+10	destinée	destiner	O	_
+11	à	à	O	_
+12	recevoir	recevoir	BO	_
+13	les	le	BO	_
+14	égouttures	égoutture	EO	_
+15	;	;	O	_
+
+
+#•	Une zone de chargement ;
+1	•	•	O	_
+2				_
+3	Une	un	O	_
+4	zone	zone	O	_
+5	de	de	O	_
+6	chargement	chargement	O	_
+7	;	;	O	_
+
+
+#•	Une aire de dépotage ;
+1	•	•	O	_
+2				_
+3	Une	un	O	_
+4	aire	aire	O	_
+5	de	de	O	_
+6	dépotage	dépotage	O	_
+7	;	;	O	_
+
+
+#•	Un séparateur à hydrocarbures ;
+1	•	•	O	_
+2				_
+3	Un	un	O	_
+4	séparateur	séparateur	O	_
+5	à	à	O	_
+6	hydrocarbures	hydrocarbure	O	_
+7	;	;	O	_
+
+
+#•	Un poste de distribution de gasoil.
+1	•	•	O	_
+2				_
+3	Un	un	O	_
+4	poste	poste	O	_
+5	de	de	O	_
+6	distribution	distribution	IA	_
+7	de	de	IA	_
+8	gasoil	gasoil	EA	_
+9	.	.	O	_
+
+
+#Le site ayant cessé son activité en 2002, il est soumis aux anciennes dispositions de l’article 34.1. du décret n° 77.1133 du 21 septembre 1977, qui prévoit la transmission d’un mémoire sur l’état du site précisant les mesures prises ou prévues pour assurer la protection des intérêts visés à l’article 1er de la loi du 19 juillet 1976.
+1	Le	le	BO	_
+2	site	site	EO	_
+3	ayant	avoir	BN	_
+4	cessé	cesser	IN	_
+5	son	son	IN	_
+6	activité	activité	EN	_
+7	en	en	BT	_
+8	2002	2002	ET	_
+9	,	,	ET	_
+10	il	il	O	_
+11	est	être	O	_
+12	soumis	soumettre	O	_
+13	aux	à	O	_
+14	anciennes	ancien	O	_
+15	dispositions	disposition	O	_
+16	de	de	O	_
+17	l’	l’	O	_
+18	article	article	O	_
+19	34.1	34.1	O	_
+20	.	.	O	_
+21	du	de	O	_
+22	décret	décret	O	_
+23	n°	numéro	O	_
+24	77.1133	77.1133	O	_
+25	du	de	O	_
+26	21	21	BT	_
+27	septembre	septembre	IT	_
+28	1977	1977	ET	_
+29	,	,	O	_
+30	qui	qui	O	_
+31	prévoit	prévoir	O	_
+32	la	le	O	_
+33	transmission	transmission	O	_
+34	d’	d’	O	_
+35	un	un	O	_
+36	mémoire	mémoire	O	_
+37	sur	sur	O	_
+38	l’	l’	O	_
+39	état	état	O	_
+40	du	de	O	_
+41	site	site	O	_
+42	précisant	préciser	O	_
+43	les	le	O	_
+44	mesures	mesure	O	_
+45	prises	prendre	O	_
+46	ou	ou	O	_
+47	prévues	prévoir	O	_
+48	pour	pour	O	_
+49	assurer	assurer	O	_
+50	la	le	O	_
+51	protection	protection	O	_
+52	des	de	O	_
+53	intérêts	intérêt	O	_
+54	visés	viser	O	_
+55	à	à	O	_
+56	l’	l’	O	_
+57	article	article	O	_
+58	1er	premier	O	_
+59	de	de	O	_
+60	la	le	O	_
+61	loi	loi	O	_
+62	du	de	O	_
+63	19	19	BT	_
+64	juillet	juillet	IT	_
+65	1976	1976	ET	_
+66	.	.	O	_
+
+
+#D’après la carté géologique de Lille-Halluin (n°14), le site reposerait successivement sur les formations suivantes :
+1	D’	d’	O	_
+2	après	après	O	_
+3	la	le	O	_
+4	carté	carté	O	_
+5	géologique	géologique	O	_
+6	de	de	O	_
+7	Lille	Lille	O	_
+8	-	-	O	_
+9	Halluin	Halluin	BL	_
+10	(	(	O	_
+11	n°	numéro	O	_
+12	14	14	O	_
+13	)	)	O	_
+14	,	,	O	_
+15	le	le	BO	_
+16	site	site	EO	_
+17	reposerait	reposer	O	_
+18	successivement	successivement	O	_
+19	sur	sur	O	_
+20	les	le	O	_
+21	formations	formation	O	_
+22	suivantes	suivant	O	_
+23	:	:	O	_
+
+
+#-	Les limons des plateaux (limons argileux);
+1	-	-	O	_
+2				_
+3	Les	le	O	_
+4	limons	limon	O	_
+5	des	de	O	_
+6	plateaux	plateau	O	_
+7	(	(	O	_
+8	limons	limon	O	_
+9	argileux	argileux	O	_
+10	)	)	O	_
+11	;	;	O	_
+
+
+#-	Les sables d’Ostricourt ;
+1	-	-	O	_
+2				_
+3	Les	le	O	_
+4	sables	sable	O	_
+5	d’	d’	O	_
+6	Ostricourt	Ostricourt	O	_
+7	;	;	O	_
+
+
+#-	L’argile de Louvil ;
+1	-	-	O	_
+2				_
+3	L’	l’	O	_
+4	argile	argile	O	_
+5	de	de	O	_
+6	Louvil	Louvil	O	_
+7	;	;	O	_
+
+
+#-	Les formations de la craie (Sénonien et turonien).
+1	-	-	O	_
+2				_
+3	Les	le	O	_
+4	formations	formation	O	_
+5	de	de	O	_
+6	la	le	O	_
+7	craie	craie	O	_
+8	(	(	O	_
+9	Sénonien	Sénonien	O	_
+10	et	et	O	_
+11	turonien	turonien	O	_
+12	)	)	O	_
+13	.	.	O	_
+
+
+#Quatre types d’aquifères sont présents au doit du site :
+1	Quatre	Quatre	O	_
+2	types	type	O	_
+3	d’	d’	O	_
+4	aquifères	aquifère	O	_
+5	sont	être	O	_
+6	présents	présent	O	_
+7	au	au	BL	_
+8	doit	doit	IL	_
+9	du	de	IL	_
+10	site	site	EL	_
+11	:	:	O	_
+
+
+#-	L’aquifère superficiel des limons des plateaux,
+1	-	-	O	_
+2				_
+3	L’	l’	O	_
+4	aquifère	aquifère	O	_
+5	superficiel	superficiel	O	_
+6	des	de	O	_
+7	limons	limon	O	_
+8	des	de	O	_
+9	plateaux	plateau	O	_
+10	,	,	O	_
+
+
+#-	L’aquifère des sables landéniens ;
+1	-	-	O	_
+2				_
+3	L’	l’	O	_
+4	aquifère	aquifère	O	_
+5	des	de	O	_
+6	sables	sable	O	_
+7	landéniens	landénien	O	_
+8	;	;	O	_
+
+
+#-	L’aquifère de la craie séno-turonienne ;
+1	-	-	O	_
+2				_
+3	L’	l’	O	_
+4	aquifère	aquifère	O	_
+5	de	de	O	_
+6	la	le	O	_
+7	craie	craie	O	_
+8	séno	séno	O	_
+9	-	-	O	_
+10	turonienne	turonien	O	_
+11	;	;	O	_
+
+
+#-	L’aquifère de la craie cénomanienne.
+1	-	-	O	_
+2				_
+3	L’	l’	O	_
+4	aquifère	aquifère	O	_
+5	de	de	O	_
+6	la	le	O	_
+7	craie	craie	O	_
+8	cénomanienne	cénomanienn	O	_
+9	.	.	O	_
+
+
+#Le mémoire de cessation d’activité a été transmis en Préfecture le 18 août 2006.
+1	Le	le	BO	_
+2	mémoire	mémoire	IO	_
+3	de	de	IO	_
+4	cessation	cessation	BN	_
+5	d’	d’	IN	_
+6	activité	activité	EN	_
+7	a	avoir	BN	_
+8	été	être	IN	_
+9	transmis	transmettre	EN	_
+10	en	en	O	_
+11	Préfecture	préfecture	BO	_
+12	le	le	BT	_
+13	18	18	IT	_
+14	août	août	IT	_
+15	2006	2006	ET	_
+16	.	.	ET	_
+
+
+#Il présente les actions menées dans le cadre de la cessation d’activité du site :
+1	Il	il	O	_
+2	présente	présente	O	_
+3	les	le	BO	_
+4	actions	action	EO	_
+5	menées	mener	EO	_
+6	dans	dans	BR	_
+7	le	le	IR	_
+8	cadre	cadre	IR	_
+9	de	de	ER	_
+10	la	le	BN	_
+11	cessation	cessation	IN	_
+12	d’	d’	IN	_
+13	activité	activité	EN	_
+14	du	de	BO	_
+15	site	site	EO	_
+16	:	:	O	_
+
+
+#-	Transfert des cinq cuves aériennes sur d’autres sites DMS ;
+1	-	-	O	_
+2				_
+3	Transfert	transfert	BN	_
+4	des	de	BO	_
+5	cinq	cinq	BO	_
+6	cuves	cuve	BO	_
+7	aériennes	aérien	EO	_
+8	sur	sur	O	_
+9	d’	d’	O	_
+10	autres	autre	O	_
+11	sites	site	O	_
+12	DMS	dm	EO	_
+13	;	;	O	_
+
+
+#-	 Réalisation d’un diagnostic environnemental par la société LISEC : dix sondages ont été réalisés les 30 et 31 mai 2006, à proximité des installations potentiellement polluantes identifiées sur le site.
+1	-	-	O	_
+2		 	 	_
+3	Réalisation	réalisation	BN	_
+4	d’	d’	IN	_
+5	un	un	BN	_
+6	diagnostic	diagnostic	IN	_
+7	environnemental	environnemental	EN	_
+8	par	par	O	_
+9	la	le	BO	_
+10	société	société	IO	_
+11	LISEC	LISEC	EO	_
+12	:	:	O	_
+13	dix	dix	BO	_
+14	sondages	sondage	EO	_
+15	ont	avoir	BN	_
+16	été	être	IN	_
+17	réalisés	réaliser	EN	_
+18	les	le	BT	_
+19	30	30	IT	_
+20	et	et	IT	_
+21	31	31	IT	_
+22	mai	mai	IT	_
+23	2006	2006	ET	_
+24	,	,	ET	_
+25	à	à	BL	_
+26	proximité	proximité	IL	_
+27	des	de	IL	_
+28	installations	installation	IO	_
+29	potentiellement	potentiellement	IO	_
+30	polluantes	polluant	EO	_
+31	identifiées	identifier	O	_
+32	sur	sur	O	_
+33	le	le	O	_
+34	site	site	O	_
+35	.	.	O	_
+
+
+#Il s’agit :
+1	Il	il	O	_
+2	s’	s’	O	_
+3	agit	agir	O	_
+4	:	:	O	_
+
+
+#•	du local des pompes ;
+1	•	•	O	_
+2				_
+3	du	de	O	_
+4	local	local	O	_
+5	des	de	O	_
+6	pompes	pompe	O	_
+7	;	;	O	_
+
+
+#•	du séparateur à hydrocarbures (2) ;
+1	•	•	O	_
+2				_
+3	du	de	O	_
+4	séparateur	séparateur	O	_
+5	à	à	O	_
+6	hydrocarbures	hydrocarbure	O	_
+7	(	(	O	_
+8	2	2	O	_
+9	)	)	O	_
+10	;	;	O	_
+
+
+#•	des pistes de chargement des camions citernes (2) ;
+1	•	•	O	_
+2				_
+3	des	un	BO	_
+4	pistes	piste	IO	_
+5	de	de	IO	_
+6	chargement	chargement	IO	_
+7	des	de	IO	_
+8	camions	camion	IO	_
+9	citernes	citerne	EO	_
+10	(	(	O	_
+11	2	2	O	_
+12	)	)	O	_
+13	;	;	O	_
+
+
+#•	de la zone de dépotage ;
+1	•	•	O	_
+2				_
+3	de	de	O	_
+4	la	le	O	_
+5	zone	zone	O	_
+6	de	de	O	_
+7	dépotage	dépotage	O	_
+8	;	;	O	_
+
+
+#•	de la cuve enterrée ;
+1	•	•	O	_
+2				_
+3	de	de	O	_
+4	la	le	O	_
+5	cuve	cuve	O	_
+6	enterrée	enterrer	O	_
+7	;	;	O	_
+
+
+#•	des pistes de distribution de carburant pour véhicules ;
+1	•	•	O	_
+2				_
+3	des	un	O	_
+4	pistes	piste	O	_
+5	de	de	O	_
+6	distribution	distribution	IA	_
+7	de	de	IA	_
+8	carburant	carburant	IA	_
+9	pour	pour	O	_
+10	véhicules	véhicule	O	_
+11	;	;	O	_
+
+
+#•	des cuves aériennes de fuel et gasoil (2).
+1	•	•	O	_
+2				_
+3	des	un	O	_
+4	cuves	cuve	O	_
+5	aériennes	aérien	O	_
+6	de	de	O	_
+7	fuel	fuel	O	_
+8	et	et	O	_
+9	gasoil	gasoil	EA	_
+10	(	(	O	_
+11	2	2	O	_
+12	)	)	O	_
+13	.	.	O	_
+
+
+#Compte-tenu de l’activité de distribution de carburant exercée sur le site, les polluants suivants ont été recherchés : hydrocarbures totaux ; BTEX ; HAP ; métaux lourds.
+1	Compte-tenu	compte-tenu	O	_
+2	de	de	O	_
+3	l’	l’	BA	_
+4	activité	activité	IA	_
+5	de	de	IA	_
+6	distribution	distribution	IA	_
+7	de	de	IA	_
+8	carburant	carburant	IA	_
+9	exercée	exercer	IA	_
+10	sur	sur	IA	_
+11	le	le	IA	_
+12	site	site	EA	_
+13	,	,	O	_
+14	les	le	O	_
+15	polluants	polluant	O	_
+16	suivants	suivant	O	_
+17	ont	avoir	BN	_
+18	été	être	IN	_
+19	recherchés	rechercher	EN	_
+20	:	:	O	_
+21	hydrocarbures	hydrocarbure	O	_
+22	totaux	total	O	_
+23	;	;	O	_
+24	BTEX	BTEX	O	_
+25	;	;	O	_
+26	HAP	hap	O	_
+27	;	;	O	_
+28	métaux	métal	O	_
+29	lourds	lourd	O	_
+30	.	.	O	_
+
+
+#Trois prélèvements d’eau souterraine ont également été effectués.
+1	Trois	Trois	O	_
+2	prélèvements	prélèvement	O	_
+3	d’	d’	O	_
+4	eau	eau	O	_
+5	souterraine	souterrain	O	_
+6	ont	avoir	O	_
+7	également	également	O	_
+8	été	être	O	_
+9	effectués	effectuer	O	_
+10	.	.	O	_
+
+
+#Résultats :
+1	Résultats	résultat	O	_
+2	:	:	O	_
+
+
+#•	A proximité du séparateur, des odeurs d’hydrocarbures ont été détectées ; la présence de remblais noirs a été mise en évidence au niveau du local des pompes, du séparateur, et des pistes de chargement.
+1	•	•	O	_
+2				_
+3	A	à	BL	_
+4	proximité	proximité	IL	_
+5	du	de	IL	_
+6	séparateur	séparateur	EO	_
+7	,	,	O	_
+8	des	un	O	_
+9	odeurs	odeur	O	_
+10	d’	d’	O	_
+11	hydrocarbures	hydrocarbure	O	_
+12	ont	avoir	BN	_
+13	été	être	IN	_
+14	détectées	détecter	EN	_
+15	;	;	O	_
+16	la	le	O	_
+17	présence	présence	O	_
+18	de	de	O	_
+19	remblais	remblai	O	_
+20	noirs	noir	O	_
+21	a	avoir	O	_
+22	été	être	O	_
+23	mise	mettre	O	_
+24	en	en	O	_
+25	évidence	évidence	O	_
+26	au	au	O	_
+27	niveau	niveau	O	_
+28	du	de	O	_
+29	local	local	O	_
+30	des	de	O	_
+31	pompes	pompe	O	_
+32	,	,	O	_
+33	du	de	O	_
+34	séparateur	séparateur	O	_
+35	,	,	O	_
+36	et	et	O	_
+37	des	de	O	_
+38	pistes	piste	O	_
+39	de	de	O	_
+40	chargement	chargement	BA	_
+41	.	.	O	_
+
+
+#•	Mais les valeurs mesurées pour chaque paramètre restent bien inférieures à la V.
+1	•	•	O	_
+2				_
+3	Mais	mais	O	_
+4	les	le	O	_
+5	valeurs	valeur	O	_
+6	mesurées	mesurer	O	_
+7	pour	pour	O	_
+8	chaque	chaque	O	_
+9	paramètre	paramètre	O	_
+10	restent	rester	O	_
+11	bien	bien	O	_
+12	inférieures	inférieur	O	_
+13	à	à	O	_
+14	la	le	O	_
+15	V.	v.	O	_
+
+
+#.S.
+1	.S.	.s.	O	_
+
+
+#.
+1	.	.	O	_
+
+
+#•	De faibles teneurs en hydrocarbures totaux ont été détectées dans deux piézomètres, qui restent inférieures à la V.
+1	•	•	O	_
+2				_
+3	De	de	O	_
+4	faibles	faible	O	_
+5	teneurs	teneur	O	_
+6	en	en	O	_
+7	hydrocarbures	hydrocarbure	O	_
+8	totaux	total	O	_
+9	ont	avoir	BN	_
+10	été	être	IN	_
+11	détectées	détecter	EN	_
+12	dans	dans	ER	_
+13	deux	deux	BO	_
+14	piézomètres	piézomètre	EO	_
+15	,	,	O	_
+16	qui	qui	O	_
+17	restent	rester	O	_
+18	inférieures	inférieur	O	_
+19	à	à	O	_
+20	la	le	O	_
+21	V.	v.	O	_
+
+
+#.I. usage non sensible.
+1	.I.	.i.	O	_
+2	usage	usage	O	_
+3	non	non	O	_
+4	sensible	sensible	O	_
+5	.	.	O	_
+
+
+#•	fin décembre 2006 : Évacuation du séparateur à hydrocarbures et de la cuve à égouttures, neutralisation des canalisations restantes.
+1	•	•	O	_
+2				_
+3	fin	fin	BT	_
+4	décembre	décembre	IT	_
+5	2006	2006	ET	_
+6	:	:	BN	_
+7	Évacuation	évacuation	BN	_
+8	du	de	BO	_
+9	séparateur	séparateur	IO	_
+10	à	à	IO	_
+11	hydrocarbures	hydrocarbure	EO	_
+12	et	et	O	_
+13	de	de	O	_
+14	la	le	BO	_
+15	cuve	cuve	BO	_
+16	à	à	IO	_
+17	égouttures	égoutture	EO	_
+18	,	,	O	_
+19	neutralisation	neutralisation	BN	_
+20	des	de	IN	_
+21	canalisations	canalisation	EN	_
+22	restantes	restant	O	_
+23	.	.	O	_
+
+
+#A l’issue de ces travaux, des prélèvements de sol supplémentaires ont été réalisés en fond de fouille et sur les parois des deux zones (cuve et séparateur).
+1	A	à	O	_
+2	l’	l’	O	_
+3	issue	issue	O	_
+4	de	de	O	_
+5	ces	ce	BN	_
+6	travaux	travail	EN	_
+7	,	,	O	_
+8	des	un	BN	_
+9	prélèvements	prélèvement	IN	_
+10	de	de	IN	_
+11	sol	sol	IN	_
+12	supplémentaires	supplémentaire	IN	_
+13	ont	avoir	IN	_
+14	été	être	IN	_
+15	réalisés	réaliser	EN	_
+16	en	en	BL	_
+17	fond	fond	IL	_
+18	de	de	IL	_
+19	fouille	fouille	EL	_
+20	et	et	O	_
+21	sur	sur	O	_
+22	les	le	O	_
+23	parois	paroi	O	_
+24	des	de	O	_
+25	deux	deux	O	_
+26	zones	zone	O	_
+27	(	(	O	_
+28	cuve	cuve	O	_
+29	et	et	O	_
+30	séparateur	séparateur	O	_
+31	)	)	O	_
+32	.	.	O	_
+
+
+#Au niveau du séparateur, des valeurs supérieures à l’objectif de dépollution fixé par DMS en hydrocarbures totaux (1 000 mg/kg) ont été mesurées (de l’ordre de 2 000, 4 000 et 9 500 mg/kg sur deux parois).
+1	Au	au	O	_
+2	niveau	niveau	O	_
+3	du	de	O	_
+4	séparateur	séparateur	O	_
+5	,	,	O	_
+6	des	un	O	_
+7	valeurs	valeur	O	_
+8	supérieures	supérieur	O	_
+9	à	à	O	_
+10	l’	l’	O	_
+11	objectif	objectif	O	_
+12	de	de	O	_
+13	dépollution	dépollution	O	_
+14	fixé	fixer	O	_
+15	par	par	O	_
+16	DMS	DMS	O	_
+17	en	en	O	_
+18	hydrocarbures	hydrocarbure	O	_
+19	totaux	total	O	_
+20	(	(	O	_
+21	1	1	O	_
+22	000	000	O	_
+23	mg	milligramme	O	_
+24	/	sur	O	_
+25	kg	kilogramme	O	_
+26	)	)	O	_
+27	ont	avoir	O	_
+28	été	être	O	_
+29	mesurées	mesurer	O	_
+30	(	(	O	_
+31	de	de	O	_
+32	l’	l’	O	_
+33	ordre	ordre	O	_
+34	de	de	O	_
+35	2	2	O	_
+36	000	000	O	_
+37	,	,	O	_
+38	4	4	O	_
+39	000	000	O	_
+40	et	et	O	_
+41	9	9	O	_
+42	500	500	O	_
+43	mg	milligramme	O	_
+44	/	sur	O	_
+45	kg	kilogramme	O	_
+46	sur	sur	O	_
+47	deux	deux	O	_
+48	parois	paroi	O	_
+49	)	)	O	_
+50	.	.	O	_
+
+
+#Ces terres polluées ont été excavées.
+1	Ces	ce	BO	_
+2	terres	terre	IO	_
+3	polluées	polluer	EO	_
+4	ont	avoir	BN	_
+5	été	être	IN	_
+6	excavées	excaver	EN	_
+7	.	.	O	_
+
+
+#Elles ont été éliminées en filière autorisée (BIONOR à COURRIERES).
+1	Elles	lui	O	_
+2	ont	avoir	BN	_
+3	été	être	IN	_
+4	éliminées	éliminer	IN	_
+5	en	en	IN	_
+6	filière	filière	IN	_
+7	autorisée	autoriser	EN	_
+8	(	(	O	_
+9	BIONOR	BIONOR	O	_
+10	à	à	O	_
+11	COURRIERES	COURRIERES	O	_
+12	)	)	O	_
+13	.	.	O	_
+
+
+#Les terrassements au droit du séparateur ont été poursuivis sur les deux parois, jusqu’à l’obtention d’un niveau de pollution compatible avec l’objectif de dépollution.
+1	Les	le	BN	_
+2	terrassements	terrassement	EN	_
+3	au	au	BL	_
+4	droit	droit	IL	_
+5	du	de	IL	_
+6	séparateur	séparateur	IL	_
+7	ont	avoir	BN	_
+8	été	être	IN	_
+9	poursuivis	poursuivre	EN	_
+10	sur	sur	O	_
+11	les	le	O	_
+12	deux	deux	O	_
+13	parois	paroi	O	_
+14	,	,	O	_
+15	jusqu’	jusqu’	O	_
+16	à	à	O	_
+17	l’	l’	BO	_
+18	obtention	obtention	IO	_
+19	d’	d’	IO	_
+20	un	un	IO	_
+21	niveau	niveau	IO	_
+22	de	de	IO	_
+23	pollution	pollution	EO	_
+24	compatible	compatible	O	_
+25	avec	avec	O	_
+26	l’	l’	O	_
+27	objectif	objectif	O	_
+28	de	de	O	_
+29	dépollution	dépollution	EN	_
+30	.	.	O	_
+
+
+#Au total, 45,82 tonnes de terres polluées ont été éliminées chez BIONOR.
+1	Au	au	O	_
+2	total	total	O	_
+3	,	,	O	_
+4	45,82	45,82	IO	_
+5	tonnes	tonne	IO	_
+6	de	de	IO	_
+7	terres	terre	IO	_
+8	polluées	polluer	EO	_
+9	ont	avoir	BN	_
+10	été	être	IN	_
+11	éliminées	éliminer	EN	_
+12	chez	chez	BO	_
+13	BIONOR	BIONOR	EO	_
+14	.	.	O	_
+
+
+#Cette deuxième phase de travaux a fait l’objet du rapport SOLEO Services transmis en Préfecture le 26 janvier 2007.
+1	Cette	ce	BO	_
+2	deuxième	deuxième	IO	_
+3	phase	phase	IO	_
+4	de	de	IO	_
+5	travaux	travail	EO	_
+6	a	avoir	BR	_
+7	fait	faire	IR	_
+8	l’	l’	IR	_
+9	objet	objet	IR	_
+10	du	de	ER	_
+11	rapport	rapport	BO	_
+12	SOLEO	SOLEO	BO	_
+13	Services	service	EO	_
+14	transmis	transmettre	O	_
+15	en	en	O	_
+16	Préfecture	préfecture	O	_
+17	le	le	BT	_
+18	26	26	IT	_
+19	janvier	janvier	IT	_
+20	2007	2007	ET	_
+21	.	.	ET	_
+
+
+#L’inspection du 30 juillet 2007 a permis de constater la réalisation des travaux de remise en état annoncés par l’exploitant dans son mémoire de cessation d’activité, à savoir :
+1	L’	l’	BN	_
+2	inspection	inspection	BT	_
+3	du	de	IT	_
+4	30	30	IT	_
+5	juillet	juillet	IT	_
+6	2007	2007	ET	_
+7	a	avoir	O	_
+8	permis	permettre	O	_
+9	de	de	O	_
+10	constater	constater	O	_
+11	la	le	BN	_
+12	réalisation	réalisation	EN	_
+13	des	de	BN	_
+14	travaux	travail	IN	_
+15	de	de	IN	_
+16	remise	remise	IN	_
+17	en	en	IN	_
+18	état	état	IN	_
+19	annoncés	annoncer	EN	_
+20	par	par	O	_
+21	l’	l’	BO	_
+22	exploitant	exploitant	EO	_
+23	dans	dans	O	_
+24	son	son	O	_
+25	mémoire	mémoire	O	_
+26	de	de	O	_
+27	cessation	cessation	BN	_
+28	d’	d’	IN	_
+29	activité	activité	EN	_
+30	,	,	O	_
+31	à	à	O	_
+32	savoir	savoir	O	_
+33	:	:	O	_
+
+
+#•	Démantèlement du réparateur d’hydrocarbures (non constaté car enterré, mais certificat de destruction fourni) ;
+1	•	•	O	_
+2				_
+3	Démantèlement	démantèlement	EN	_
+4	du	de	IN	_
+5	réparateur	réparateur	IO	_
+6	d’	d’	IO	_
+7	hydrocarbures	hydrocarbure	EO	_
+8	(	(	O	_
+9	non	non	O	_
+10	constaté	constater	O	_
+11	car	car	O	_
+12	enterré	enterrer	O	_
+13	,	,	O	_
+14	mais	mais	O	_
+15	certificat	certificat	O	_
+16	de	de	O	_
+17	destruction	destruction	O	_
+18	fourni	fournir	O	_
+19	)	)	O	_
+20	;	;	O	_
+
+
+#•	Démantèlement de la cuve enterrée de 2 000 l (non constaté car enterrée, mais certificat de destruction fourni) ;
+1	•	•	O	_
+2				_
+3	Démantèlement	démantèlement	EN	_
+4	de	de	IN	_
+5	la	le	IN	_
+6	cuve	cuve	IN	_
+7	enterrée	enterrer	IN	_
+8	de	de	O	_
+9	2	2	O	_
+10	000	000	O	_
+11	l	l	O	_
+12	(	(	O	_
+13	non	non	O	_
+14	constaté	constater	O	_
+15	car	car	O	_
+16	enterrée	enterrer	O	_
+17	,	,	O	_
+18	mais	mais	O	_
+19	certificat	certificat	O	_
+20	de	de	O	_
+21	destruction	destruction	O	_
+22	fourni	fournir	O	_
+23	)	)	O	_
+24	;	;	O	_
+
+
+#•	Évacuation des 5 cuves aériennes de gasoil et de fuel ;
+1	•	•	O	_
+2				_
+3	Évacuation	évacuation	BN	_
+4	des	de	O	_
+5	5	5	BO	_
+6	cuves	cuve	IN	_
+7	aériennes	aérien	EN	_
+8	de	de	IA	_
+9	gasoil	gasoil	EA	_
+10	et	et	O	_
+11	de	de	O	_
+12	fuel	fuel	O	_
+13	;	;	O	_
+
+
+#Démantèlement de la zone de déchargement, pompes, canalisation, volucompteurs.
+1	Démantèlement	démantèlement	BN	_
+2	de	de	IN	_
+3	la	le	BO	_
+4	zone	zone	IO	_
+5	de	de	IO	_
+6	déchargement	déchargement	EO	_
+7	,	,	O	_
+8	pompes	pompe	O	_
+9	,	,	O	_
+10	canalisation	canalisation	O	_
+11	,	,	O	_
+12	volucompteurs	volucompteur	O	_
+13	.	.	O	_
+
+
+#L’Inspection des Installations Classées considère donc que les mesures prises par DMS pour la remise en état de son site de Lomme sont satisfaisantes :
+1	L’	l’	BO	_
+2	Inspection	inspection	IO	_
+3	des	de	IO	_
+4	Installations	installation	IO	_
+5	Classées	classer	EO	_
+6	considère	considérer	O	_
+7	donc	donc	O	_
+8	que	que	O	_
+9	les	le	BN	_
+10	mesures	mesure	IN	_
+11	prises	prendre	EN	_
+12	par	par	O	_
+13	DMS	DMS	EO	_
+14	pour	pour	O	_
+15	la	le	BN	_
+16	remise	remise	IN	_
+17	en	en	IN	_
+18	état	état	EN	_
+19	de	de	O	_
+20	son	son	BO	_
+21	site	site	EO	_
+22	de	de	O	_
+23	Lomme	Lomme	EL	_
+24	sont	être	O	_
+25	satisfaisantes	satisfaisant	O	_
+26	:	:	O	_
+
+
+#•	Évacuation des déchets ;
+1	•	•	O	_
+2				_
+3	Évacuation	évacuation	BN	_
+4	des	de	O	_
+5	déchets	déchet	O	_
+6	;	;	O	_
+
+
+#•	Évacuation des ouvrages pétroliers ;
+1	•	•	O	_
+2				_
+3	Évacuation	évacuation	BN	_
+4	des	de	BO	_
+5	ouvrages	ouvrage	IO	_
+6	pétroliers	pétrolier	EO	_
+7	;	;	O	_
+
+
+#•	évacuation des terres polluées en hydrocarbures, en filière agréée, jusqu’à obtention de l’objectif de dépollution de 1 000 mg/kg.
+1	•	•	O	_
+2				_
+3	évacuation	évacuation	BO	_
+4	des	de	IO	_
+5	terres	terre	IO	_
+6	polluées	polluer	EO	_
+7	en	en	O	_
+8	hydrocarbures	hydrocarbure	EO	_
+9	,	,	O	_
+10	en	en	O	_
+11	filière	filière	O	_
+12	agréée	agréer	O	_
+13	,	,	O	_
+14	jusqu’	jusqu’	O	_
+15	à	à	O	_
+16	obtention	obtention	O	_
+17	de	de	O	_
+18	l’	l’	O	_
+19	objectif	objectif	O	_
+20	de	de	O	_
+21	dépollution	dépollution	EN	_
+22	de	de	O	_
+23	1	1	O	_
+24	000	000	O	_
+25	mg	milligramme	O	_
+26	/	sur	O	_
+27	kg	kilogramme	O	_
+28	.	.	O	_
+
+
+#Le rapport de visite d’inspection du 31 juillet 2007, constatant la remise en état du site conformément à l’alinéa III de l’article R512-74 du code de l’environnement, vaut procès verbal de récolement.
+1	Le	le	BO	_
+2	rapport	rapport	IO	_
+3	de	de	IO	_
+4	visite	visite	IO	_
+5	d’	d’	IO	_
+6	inspection	inspection	EO	_
+7	du	de	O	_
+8	31	31	BT	_
+9	juillet	juillet	IT	_
+10	2007	2007	ET	_
+11	,	,	ET	_
+12	constatant	constater	O	_
+13	la	le	BN	_
+14	remise	remise	IN	_
+15	en	en	IN	_
+16	état	état	IN	_
+17	du	de	IN	_
+18	site	site	EN	_
+19	conformément	conformément	O	_
+20	à	à	O	_
+21	l’	l’	O	_
+22	alinéa	alinéa	O	_
+23	III	iii	O	_
+24	de	de	O	_
+25	l’	l’	O	_
+26	article	article	O	_
+27	R512	r512	O	_
+28	-	-	O	_
+29	74	74	O	_
+30	du	de	O	_
+31	code	code	O	_
+32	de	de	O	_
+33	l’	l’	O	_
+34	environnement	environnement	O	_
+35	,	,	O	_
+36	vaut	valoir	O	_
+37	procès	procès	O	_
+38	verbal	verbal	O	_
+39	de	de	O	_
+40	récolement	récolement	O	_
+41	.	.	O	_
+
+
+#La déclaration de cessation d’activité de l’établissement est actée par un courrier du préfet en date du 30 octobre 2007.
+1	La	le	BN	_
+2	déclaration	déclaration	EN	_
+3	de	de	O	_
+4	cessation	cessation	BN	_
+5	d’	d’	IN	_
+6	activité	activité	EN	_
+7	de	de	O	_
+8	l’	l’	BO	_
+9	établissement	établissement	EO	_
+10	est	être	BN	_
+11	actée	acter	EN	_
+12	par	par	O	_
+13	un	un	BN	_
+14	courrier	courrier	EN	_
+15	du	de	BO	_
+16	préfet	préfet	EO	_
+17	en	en	BT	_
+18	date	date	IT	_
+19	du	de	IT	_
+20	30	30	IT	_
+21	octobre	octobre	IT	_
+22	2007	2007	ET	_
+23	.	.	ET	_
+
+
+#59.0255
+#- Installation de traitement de surface en activité (en particulier chromage), située en milieu urbain
+1	-	-	O	_
+2	Installation	installation	BO	_
+3	de	de	IO	_
+4	traitement	traitement	IO	_
+5	de	de	IO	_
+6	surface	surface	EO	_
+7	en	en	O	_
+8	activité	activité	O	_
+9	(	(	O	_
+10	en	en	O	_
+11	particulier	particulier	O	_
+12	chromage	chromage	BA	_
+13	)	)	O	_
+14	,	,	O	_
+15	située	situer	BL	_
+16	en	en	IL	_
+17	milieu	milieu	IL	_
+18	urbain	urbain	EL	_
+
+
+#- Site en cessation d'activité
+1	-	-	O	_
+2	Site	site	BO	_
+3	en	en	IN	_
+4	cessation	cessation	IN	_
+5	d'	de	IN	_
+6	activité	activité	EN	_
+
+
+#- APMD pour respect des articles R512-39-1 et suivants
+1	-	-	O	_
+2	APMD	apmd	O	_
+3	pour	pour	O	_
+4	respect	respect	O	_
+5	des	de	O	_
+6	articles	article	O	_
+7	R512	r512	O	_
+8	-	-	O	_
+9	39	39	O	_
+10	-	-	O	_
+11	1	1	O	_
+12	et	et	O	_
+13	suivants	suivant	O	_
+
+
+#- site en activité visé par la circulaire du 3 avril 1996 qui impose une étude des sols sur les sites en activité.
+1	-	-	O	_
+2	site	site	BO	_
+3	en	en	IO	_
+4	activité	activité	EO	_
+5	visé	viser	BR	_
+6	par	par	ER	_
+7	la	le	BO	_
+8	circulaire	circulaire	EO	_
+9	du	de	O	_
+10	3	3	BT	_
+11	avril	avril	IT	_
+12	1996	1996	ET	_
+13	qui	qui	O	_
+14	impose	impose	BN	_
+15	une	un	BN	_
+16	étude	étude	IN	_
+17	des	de	IN	_
+18	sols	sol	EN	_
+19	sur	sur	O	_
+20	les	le	BO	_
+21	sites	site	IO	_
+22	en	en	IO	_
+23	activité	activité	EO	_
+24	.	.	O	_
+
+
+#- Arrêté préfectoraux du 04/09/1998 et du 20/11/2000 imposant la réalisation d'une étude de sols.
+1	-	-	O	_
+2	Arrêté	arrêté	BO	_
+3	préfectoraux	préfectoral	EO	_
+4	du	de	BT	_
+5	04/09/1998	04/09/1998	IT	_
+6	et	et	IT	_
+7	du	de	IT	_
+8	20/11/2000	20/11/2000	IT	_
+9	imposant	imposer	BN	_
+10	la	le	BN	_
+11	réalisation	réalisation	IN	_
+12	d'	de	IN	_
+13	une	un	IN	_
+14	étude	étude	IN	_
+15	de	de	IN	_
+16	sols	sol	EN	_
+17	.	.	O	_
+
+
+#- étude des sols phase A (documentaire) réalisée en janvier 1999.
+1	-	-	O	_
+2	étude	étude	O	_
+3	des	de	O	_
+4	sols	sol	BO	_
+5	phase	phase	EO	_
+6	A	a	EO	_
+7	(	(	O	_
+8	documentaire	documentaire	O	_
+9	)	)	O	_
+10	réalisée	réaliser	BN	_
+11	en	en	BT	_
+12	janvier	janvier	IT	_
+13	1999	1999	ET	_
+14	.	.	ET	_
+
+
+#- La nappe souterraine dans ce secteur n'est utilisée qu'à des fins industrielles.
+1	-	-	O	_
+2	La	le	O	_
+3	nappe	nappe	O	_
+4	souterraine	souterrain	O	_
+5	dans	dans	O	_
+6	ce	ce	O	_
+7	secteur	secteur	O	_
+8	n'	n'	BN	_
+9	est	être	BN	_
+10	utilisée	utiliser	IR	_
+11	qu'	qu'	IR	_
+12	à	à	ER	_
+13	des	un	BN	_
+14	fins	fin	IN	_
+15	industrielles	industriel	EN	_
+16	.	.	O	_
+
+
+#- Le site est en sécurité vis à vis des tiers.
+1	-	-	O	_
+2	Le	le	O	_
+3	site	site	O	_
+4	est	être	O	_
+5	en	en	O	_
+6	sécurité	sécurité	O	_
+7	vis	vis	O	_
+8	à	à	O	_
+9	vis	vis	O	_
+10	des	de	O	_
+11	tiers	tiers	O	_
+12	.	.	O	_
+
+
+#- Action de l'administration toujours en cours sur ce site.
+1	-	-	O	_
+2	Action	action	O	_
+3	de	de	O	_
+4	l'	le	BO	_
+5	administration	administration	EO	_
+6	toujours	toujours	O	_
+7	en	en	O	_
+8	cours	cours	O	_
+9	sur	sur	O	_
+10	ce	ce	O	_
+11	site	site	O	_
+12	.	.	O	_
+
+
+#- APMD pour respect des articles R512-39-1 et suivants
+1	-	-	O	_
+2	APMD	apmd	O	_
+3	pour	pour	O	_
+4	respect	respect	O	_
+5	des	de	O	_
+6	articles	article	O	_
+7	R512	r512	O	_
+8	-	-	O	_
+9	39	39	O	_
+10	-	-	O	_
+11	1	1	O	_
+12	et	et	O	_
+13	suivants	suivant	O	_
+
+
+#59.0479
+#La société Arbrisseau Sader a exploité sur ce site une usine de fabrication de colles, de 1970 à 1976.
+1	La	le	BO	_
+2	société	société	IO	_
+3	Arbrisseau	Arbrisseau	IO	_
+4	Sader	Sader	EO	_
+5	a	avoir	BN	_
+6	exploité	exploiter	EN	_
+7	sur	sur	BL	_
+8	ce	ce	IL	_
+9	site	site	EL	_
+10	une	un	BO	_
+11	usine	usine	IO	_
+12	de	de	IO	_
+13	fabrication	fabrication	BA	_
+14	de	de	IA	_
+15	colles	colle	EA	_
+16	,	,	O	_
+17	de	de	BT	_
+18	1970	1970	IT	_
+19	à	à	IT	_
+20	1976	1976	ET	_
+21	.	.	O	_
+
+
+#L'autorisation d'exploiter date du 6 avril 1965, au nom des "Colles de l'Arbrisseau".
+1	L'	le	BO	_
+2	autorisation	autorisation	EO	_
+3	d'	de	EO	_
+4	exploiter	exploiter	EO	_
+5	date	date	BT	_
+6	du	de	IT	_
+7	6	6	IT	_
+8	avril	avril	IT	_
+9	1965	1965	ET	_
+10	,	,	O	_
+11	au	au	BR	_
+12	nom	nom	IR	_
+13	des	de	O	_
+14	"	"	O	_
+15	Colles	colle	BL	_
+16	de	de	IL	_
+17	l'	le	IL	_
+18	Arbrisseau	arbrisseau	EL	_
+19	"	"	O	_
+20	.	.	O	_
+
+
+#La cessation d'activité de ce site semble remonter à 1976.
+1	La	le	BN	_
+2	cessation	cessation	BN	_
+3	d'	de	IN	_
+4	activité	activité	EN	_
+5	de	de	O	_
+6	ce	ce	BO	_
+7	site	site	EO	_
+8	semble	semble	BT	_
+9	remonter	remonter	IT	_
+10	à	à	IT	_
+11	1976	1976	ET	_
+12	.	.	ET	_
+
+
+#L'Inspection des Installations Classées ne dispose d'aucun décument sur cette cessation d'activité, survenue antérieurement à l'entrée en vigueur de l'obligation de notification au Préfet de toute cessation d'activité d'installations classées.
+1	L'	le	BO	_
+2	Inspection	inspection	IO	_
+3	des	de	IO	_
+4	Installations	installation	IO	_
+5	Classées	classer	EO	_
+6	ne	ne	O	_
+7	dispose	dispose	O	_
+8	d'	de	O	_
+9	aucun	aucun	O	_
+10	décument	décument	O	_
+11	sur	sur	O	_
+12	cette	ce	BN	_
+13	cessation	cessation	EN	_
+14	d'	de	EN	_
+15	activité	activité	EO	_
+16	,	,	O	_
+17	survenue	survenir	O	_
+18	antérieurement	antérieurement	BT	_
+19	à	à	ER	_
+20	l'	le	BN	_
+21	entrée	entrée	IN	_
+22	en	en	IN	_
+23	vigueur	vigueur	EN	_
+24	de	de	O	_
+25	l'	le	BN	_
+26	obligation	obligation	IN	_
+27	de	de	IN	_
+28	notification	notification	EN	_
+29	au	au	O	_
+30	Préfet	préfet	BO	_
+31	de	de	O	_
+32	toute	tout	BN	_
+33	cessation	cessation	IA	_
+34	d'	de	IA	_
+35	activité	activité	IA	_
+36	d'	de	IA	_
+37	installations	installation	IA	_
+38	classées	classer	EA	_
+39	.	.	O	_
+
+
+#Aujourd'hui le site a été entièrement réaménagé, dans le cadre de la réalisation d'un lotissement d'accueil d'activités économiques dans le cadre de la zone franche urbaine.
+1	Aujourd'hui	aujourd'hui	BT	_
+2	le	le	BO	_
+3	site	site	EO	_
+4	a	avoir	BN	_
+5	été	être	IN	_
+6	entièrement	entièrement	IN	_
+7	réaménagé	réaménager	EN	_
+8	,	,	O	_
+9	dans	dans	BR	_
+10	le	le	BR	_
+11	cadre	cadre	IR	_
+12	de	de	ER	_
+13	la	le	BN	_
+14	réalisation	réalisation	IN	_
+15	d'	de	IN	_
+16	un	un	BO	_
+17	lotissement	lotissement	EO	_
+18	d'	de	O	_
+19	accueil	accueil	O	_
+20	d'	de	O	_
+21	activités	activité	BA	_
+22	économiques	économique	EA	_
+23	dans	dans	BR	_
+24	le	le	IR	_
+25	cadre	cadre	IR	_
+26	de	de	ER	_
+27	la	le	BO	_
+28	zone	zone	IO	_
+29	franche	franc	IO	_
+30	urbaine	urbain	EO	_
+31	.	.	O	_
+
+
+#Il n'a pas été détecté d'amiante sous forme de déchets et/ou de remblais sur ce site le jour de la visite.
+1	Il	il	O	_
+2	n'	n'	O	_
+3	a	avoir	O	_
+4	pas	pas	O	_
+5	été	être	O	_
+6	détecté	détecter	O	_
+7	d'	de	O	_
+8	amiante	amiante	O	_
+9	sous	sous	O	_
+10	forme	forme	O	_
+11	de	de	O	_
+12	déchets	déchet	O	_
+13	et	et	O	_
+14	/	/	O	_
+15	ou	ou	O	_
+16	de	de	O	_
+17	remblais	remblai	O	_
+18	sur	sur	O	_
+19	ce	ce	O	_
+20	site	site	O	_
+21	le	le	BT	_
+22	jour	jour	IR	_
+23	de	de	ER	_
+24	la	le	BN	_
+25	visite	visite	EN	_
+26	.	.	O	_
+
+
+#Cette inspection repose sur des constatations purement visuelles.
+1	Cette	ce	O	_
+2	inspection	inspection	O	_
+3	repose	repose	O	_
+4	sur	sur	O	_
+5	des	un	O	_
+6	constatations	constatation	O	_
+7	purement	purement	O	_
+8	visuelles	visuel	O	_
+9	.	.	O	_
+
